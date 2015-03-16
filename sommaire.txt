@@ -672,6 +672,12 @@
                         CONTRAT DE TRAVAIL
                         
                            
+                              LOUAGE DE SERVICES - REGLEMENT INTERIEUR .
+                               (Article L152-1)
+                           
+                        
+                        
+                           
                               TRAVAIL TEMPORAIRE .
                                (Article L152-2)
                            
@@ -1778,7 +1784,7 @@
                   
                      
                         ATTRIBUTIONS ET POUVOIRS .
-                         (Articles L432-2 à L432-5)
+                         (Articles L432-1 à L432-5)
                      
                   
                   
@@ -1902,7 +1908,18 @@
                         
                            
                               SCRUTIN, INSTALLATION DES PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES .
-                               (Articles L513-6 à L513-10)
+                               (Articles L513-6 à L513-9)
+                           
+                        
+                        
+                           
+                              SCRUTIN, INSTALLATION DES PRUDHOMMES
+                              
+                                 
+                                    ELECTIONS COMPLEMENTAIRES.
+                                     (Article L513-10)
+                                 
+                              
                            
                         
                      
@@ -2792,6 +2809,7 @@
       
          
             Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
+             (Article L900-2)
             
                
                   Titre Ier : Des institutions de la formation professionnelle.
@@ -2821,7 +2839,7 @@
       
          
             FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .
-             (Articles L900-1 à L990-7)
+             (Articles L900-1 à L990-8)
             
                
                   CONVENTIONS DE FORMATION PROFESSIONNELLE .
@@ -2830,14 +2848,8 @@
             
             
                
-                  CONGE DE FORMATION .
-                   (Articles L930-1 à L930-2)
-               
-            
-            
-               
-                  AIDE DE L'ETAT .
-                   (Article L940-2)
+                  DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.
+                   (Articles L930-1 à L930-1-2)
                
             
             
@@ -2849,7 +2861,7 @@
             
                
                   AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION  PROFESSIONNELLE .
-                   (Articles L960-1 à L960-16)
+                   (Article L960-1)
                
             
             
@@ -2891,6 +2903,29 @@
                
                   Titre VIII : PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .
                    (Article L980-4)
+               
+            
+         
+      
+      
+         
+            FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION PERMANENTE
+            
+               
+                  DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION.
+                   (Articles L930-1-3 à L930-2)
+               
+            
+            
+               
+                  DE LA PROMOTION INDIVIDUELLE ET DU CENTRE DE FORMATION.
+                   (Article L930-1-11)
+               
+            
+            
+               
+                  DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.
+                   (Article L930-1-12)
                
             
          
@@ -2939,12 +2974,6 @@
                                (Articles R513-8 à R513-15)
                            
                         
-                     
-                  
-                  
-                     
-                        DISCIPLINE DES CONSEILS DE PRUD'HOMMES .
-                         (Article R514-4)
                      
                   
                   
@@ -3036,18 +3065,6 @@
                         EMOLUMENTS, INDEMNITES ET DROITS ALLOUES
                         
                            
-                              SECRETARIAT DES CONSEILS DE PRUDHOMMES .
-                               (Article R519-1)
-                           
-                        
-                        
-                           
-                              SECRETAIRES DES CONSEILS DE PRUD'HOMMES .
-                               (Articles R519-2 à R519-4)
-                           
-                        
-                        
-                           
                               GREFFIERS EN CHEF DES CONSEILS DE PRUD'HOMMES.
                                (Articles R519-5 à R519-8)
                            
@@ -3068,6 +3085,22 @@
                            
                               TEMOINS .
                                (Article R519-11)
+                           
+                        
+                     
+                  
+               
+            
+            
+               
+                  CONFLITS INDIVIDUELS - CONSEIL DE PRUDHOMMES
+                  
+                     
+                        ELECTION DES PRUDHOMMES
+                        
+                           
+                              SCRUTIN, INSTALLATION DES PRUDHOMMES, ELECTIONS COMPLEMENTAIRES.
+                               (Article R513-13)
                            
                         
                      
@@ -3357,6 +3390,12 @@
                                     
                                  
                               
+                              
+                                 
+                                    E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
+                                     (Articles R119-76 à R119-77)
+                                 
+                              
                            
                         
                         
@@ -3412,6 +3451,12 @@
                                            (Articles R119-55 à R119-64)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
+                                     (Article R119-74)
                                  
                               
                            
@@ -3544,6 +3589,12 @@
                                     
                                  
                               
+                              
+                                 
+                                    E - AMENAGEMENTS AU BENEFICE DES PERSONNES HANDICAPEES DES DISPOSITIONS RELATIVES A L'APPRENTISSAGE.
+                                     (Articles R119-72 à R119-75)
+                                 
+                              
                            
                         
                      
@@ -3584,6 +3635,12 @@
                               
                            
                         
+                        
+                           
+                              E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
+                               (Articles R119-78 à R119-79)
+                           
+                        
                      
                   
                
@@ -3609,7 +3666,7 @@
                         
                            
                               Section 3 : Protection de la maternité et éducation des enfants.
-                               (Article R122-9)
+                               (Articles R122-9 à R122-11)
                            
                         
                      
@@ -3734,6 +3791,12 @@
                                (Article R143-1)
                            
                         
+                        
+                           
+                              SECTION 1 : MODE DU PAIEMENT DU SALAIRE .
+                               (Article R143-2)
+                           
+                        
                      
                   
                   
@@ -3774,6 +3837,12 @@
                                  
                                     Paragraphe 2 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national.
                                      (Article R152-2)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Règles particulières à la protection de la maternité et à l'éducation des enfants
+                                     (Article R152-3)
                                  
                               
                            
@@ -4224,6 +4293,12 @@
                               
                               
                                  
+                                    Paragraphe 2 : Heures supplémentaires.
+                                     (Article R261-4)
+                                 
+                              
+                              
+                                 
                                     Paragraphe 3 : Dispositions relatives aux femmes et aux jeunes travailleurs.
                                      (Articles R261-5 à R261-6)
                                  
@@ -4430,12 +4505,6 @@
                         CONTRAT DE TRAVAIL
                         
                            
-                              FEMMES EN COUCHES .
-                               (Articles R122-10 à R122-11)
-                           
-                        
-                        
-                           
                               REGLEMENT INTERIEUR .
                                (Articles R122-13 à R122-16)
                            
@@ -4514,17 +4583,6 @@
                         CONTRAT DE TRAVAIL
                         
                            
-                              LOUAGE DE SERVICES
-                              
-                                 
-                                    REGLES PARTICULIERES AUX FEMMES EN COUCHES .
-                                     (Article R152-3)
-                                 
-                              
-                           
-                        
-                        
-                           
                               TRAVAIL TEMPORAIRE .
                                (Articles R152-5 à R152-6)
                            
@@ -4586,15 +4644,14 @@
                                     
                                        
                                           Paragraphe 1 : Accession aux emplois réservés.
-                                           (Article R323-102)
                                        
                                     
                                  
                               
                               
                                  
-                                    Paragraphe 2 : Accession aux emplois publics par concours.
-                                     (Article R323-110)
+                                    SOUS-SECTION 8 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.
+                                     (Article R323-118)
                                  
                               
                            
@@ -5251,6 +5308,7 @@
                   
                      
                         TRAVAILLEURS HANDICAPES .
+                         (Articles R323-33-12 à R323-33-15)
                         
                            
                               READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET  REENTRAINEMENT AU TRAVAIL .
@@ -5260,7 +5318,7 @@
                         
                            
                               PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES .
-                               (Articles R323-42 à R323-58)
+                               (Articles R323-42 à R323-58-5)
                            
                         
                         
@@ -5276,6 +5334,12 @@
                                  
                                     ETABLISSEMENTS SPECIALISES .
                                      (Articles R323-60 à R323-63)
+                                 
+                              
+                              
+                                 
+                                    ETABLISSEMENTS PROTEGES.
+                                     (Article R323-62)
                                  
                               
                               
@@ -5320,6 +5384,18 @@
                                      (Articles R323-111 à R323-113)
                                  
                               
+                           
+                        
+                        
+                           
+                              APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.
+                               (Article R323-116)
+                           
+                        
+                        
+                           
+                              APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.
+                               (Articles R323-117 à R323-119)
                            
                         
                      
@@ -5467,7 +5543,7 @@
                         
                            
                               Chapitre IV : Statut des conseillers prud'hommes.
-                               (Articles R514-1 à R514-6)
+                               (Articles R514-1 à R514-3)
                            
                         
                         
@@ -6207,7 +6283,7 @@
                         
                            
                               Section 1 : Mines et carrières.
-                               (Articles R791-1 à R791-2)
+                               (Articles R791-1 à R791-2-1)
                            
                         
                         
@@ -6286,6 +6362,43 @@
             
                
                   ENERGIE - INDUSTRIES EXTRACTIVES
+                  
+                     
+                        MINES ET CARRIERES
+                        
+                           
+                              HYGIENE ET SECURITE
+                              
+                                 
+                                    COMITES D'HYGIENE ET DE SECURITE.
+                                     (Articles R711-6 à R711-11)
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+            
+               
+                  ENERGIE - INDUSTRIES EXCTRACTIVES
+                  
+                     
+                        MINES ET CARRIERES
+                        
+                           
+                              HYGIENE ET SECURITE
+                              
+                                 
+                                    COMITES D'HYGIENE ET DE SECURITE.
+                                     (Article R711-7)
+                                 
+                              
+                           
+                        
+                     
+                  
                
             
             
@@ -6294,7 +6407,7 @@
                   
                      
                         INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
-                         (Articles R731-4 à R731-20)
+                         (Article R731-20)
                      
                   
                
@@ -6538,7 +6651,7 @@
                   
                      
                         STAGES OUVRANT DROIT A REMUNERATION .
-                         (Articles R960-2 à R960-5)
+                         (Articles R960-2 à R960-6)
                      
                   
                   
@@ -6956,17 +7069,6 @@
       
       
          
-            REGLEMENTATION DU TRAVAIL
-            
-               
-                  CONGES ANNUELS .
-                   (Article D223-3)
-               
-            
-         
-      
-      
-         
             Livre III : Placement et emploi
             
                
@@ -7015,7 +7117,7 @@
                               
                                  
                                     Sous-section 4 : Travail protégé.
-                                     (Article D323-25)
+                                     (Articles D323-25 à D323-25-2)
                                  
                               
                            
@@ -7114,6 +7216,17 @@
                   
                
             
+            
+               
+                  TRAVAILLEURS PRIVES D'EMPLOI
+                  
+                     
+                        GARANTIES DE RESSOURCES.
+                         (Article D351-8)
+                     
+                  
+               
+            
          
       
       
@@ -7134,6 +7247,12 @@
                         
                            
                               SECTION 2 : TRAVAILLEURS HANDICAPES
+                              
+                                 
+                                    SOUS-SECTION 4 : TRAVAIL PROTEGE.
+                                     (Articles D323-25-3 à D323-25-5)
+                                 
+                              
                            
                         
                      
@@ -7162,7 +7281,7 @@
                   
                      
                         GARANTIES DE RESSOURCES .
-                         (Articles D351-1 à D351-8)
+                         (Articles D351-1 à D351-7)
                      
                   
                
@@ -7412,6 +7531,23 @@
                      
                         Chapitre Ier : Surveillance médicale.
                          (Articles D773-1 à D773-4)
+                     
+                  
+                  
+                     
+                        Chapitre III : Assistantes maternelles
+                        
+                           
+                              Section 1 : Dispositions générales.
+                               (Articles D773-1 à D773-2)
+                           
+                        
+                        
+                           
+                              Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.
+                               (Articles D773-3 à D773-4)
+                           
+                        
                      
                   
                
