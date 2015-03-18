@@ -14,7 +14,8 @@
 19780120 : Loi n°78-49 du 19 janvier 1978 - art. 3 JORF 20 janvier 1978
 19780718 : Loi n°78-753 du 17 juillet 1978 - art. 50, Loi n°78-753 du 17 juillet 1978 - art. 51, Loi n°78-753 du 17 juillet 1978 - art. 52, LOI 78-754 1978-07-17 ART. 1-III JORF 18 juillet 1978, Loi 78-753 1978-07-17 art. 50 JORF 18 juillet 1978
 19790104 : Loi n°79-11 du 3 janvier 1979 - art. 2 JORF 4 janvier 1979, Loi n°79-11 du 3 janvier 1979 - art. 1 JORF 4 janvier 1979, Loi 79-11 1979-01-03 art. 10 JORF 4 janvier 1979
-19790119 : Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
+19790119 : Loi 79-44 1979-01-18 art. 17 JORF 19 janvier 1979, Loi n°79-44 du 18 janvier 1979 - art. 6 (V) JORF 19 janvier
+19790507 : Loi n°82-372 du 6 mai 1982 - art. 35 JORF 7 MAI 1979
 19791004 : Décret 73-1048 1973-11-15 JORF 21 novembre) A(Décret 79-857 1979-10-01 JORF 4 octobre
 19791202 : Décret 73-1048 1973-11-15 JORF 21 novembre) M(Décret 79-1022 1979-11-23 JORF 2 décembre
 19800314 : Décret n°80-196 du 10 mars 1980 - art. 2 JORF 14 MARS
@@ -23,7 +24,7 @@
 19811020 : LOI 81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE 1981, LOI 81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE
 19820201 : Ordonnance 82-41 1982-01-16 art. 13 JORF 17 janvier en vigueur le 1er février 1982, Ordonnance 82-41 1982-01-16 art. 21 JORF 17 janvier en vigueur le 1er février 1982, Ordonnance 82-41 1982-01-16 art. 18 JORF 17 janvier 1982 en vigueur le 1er février 1982
 19820301 : Ordonnance 82-131 1982-02-05 ART. 7 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982
-19820507 : Loi n°82-372 du 6 mai 1982 - art. 36 JORF 7 mai 1982
+19820507 : Loi n°82-372 du 6 mai 1982 - art. 35 JORF 7 MAI 1982, Loi n°82-372 du 6 mai 1982 - art. 31 JORF 7 MAI 1982, Loi n°82-372 du 6 mai 1982 - art. 36 JORF 7 mai 1982
 19820912 : Décret 82-775 1982-09-10 ART. 6 JORF 12 SEPTEMBRE 1982
 19821101 : Loi 82-684 1982-08-04 art. 6 JORF 5 août 1982 en vigueur le 1er octobre 1982 rectificatif JORF 1er novembre 1982, LOI 82-684 1982-08-04 ART. 6 JORF 5 août 1984 en vigueur le 1er OCTOBRE 1982 RECTIFICATIF JORF 1er NOVEMBRE 1982
 19821114 : LOI 82-957 1982-11-13 ART. 18 JORF 14 NOVEMBRE 1982, LOI 82-957 1982-11-13 ART. 21 JORF 14 NOVEMBRE 1982, LOI 82-957 1982-11-13 ART. 31 JORF 14 NOVEMBRE 1982
@@ -34,6 +35,7 @@
 19830611 : Décret 83-470 1983-06-08 ART. 13 JORF 11 JUIN 1983, Décret 83-469 1983-06-08 ART. 4 JORF 11 JUIN 1983
 19830705 : Décret 83-576 1983-07-01 ART. 4 JORF 5 JUILLET 1983
 19830724 : Décret 83-665 1983-07-22 ART. 5 JORF 24 JUILLET 1983, Décret 83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983
+19840225 : Ordonnance 84-106 1984-02-16 art. 12 JORF 17 février 1984 en vigueur 1er avril 1984 rectificatif JORF 25 février 1984
 19840501 : Décret 83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entrée en vigueur 1ER MAI 1984, Décret 83-1145 1983-12-21 ART. 3 JORF 27 DECEMBRE 1983 date d'entré en vigueur 1ER MAI 1984
 19840720 : Décret 84-640 1984-07-17 ART. 5 JORF 20 JUILLET 1984
 19841002 : Décret 84-873 1984-09-28 ART. 2 JORF 2 OCTOBRE 1984
@@ -84,5 +86,4 @@
 20070515 : Décret n°2007-851 du 14 mai 2007 - art. 2 JORF 15 mai 2007
 20071016 : Décret n°2007-1470 du 15 octobre 2007 - art. 38 (V) JORF 16 octobre 2007
 20080301 : Loi 73-1195 1973-12-27 JORF 30 décembre 1973 en vigueur le 29 septembre 1974) A(Ordonnance 2007-329 2007-03-12 art. 12 I JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008, LOI 73-1195 1973-12-27 JORF 30 décembre 1973 en vigueur le 29 septembre 1974) A(Ordonnance 2007-329 2007-03-12 art. 12 I JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008, Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
-20080308 : Décret n°2008-244
- du 7 mars 2008 - art. 9 (V)
+20080308 : Décret n°2008-244 du 7 mars 2008 - art. 9 (V)
