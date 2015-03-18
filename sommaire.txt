@@ -96,7 +96,7 @@
                         
                            
                               Chapitre VIII : Dispositions financières.
-                               (Articles L118-1 à L118-5)
+                               (Articles L118-1 à L118-6)
                            
                         
                         
@@ -207,7 +207,7 @@
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Articles L121-2 à L121-3)
+                         (Articles L121-2 à L121-6)
                      
                   
                   
@@ -258,13 +258,13 @@
                         
                            
                               Section 2 : Règles spéciales en matière de relations de travail.
-                               (Article L124-9)
+                               (Articles L124-8 à L124-9)
                            
                         
                         
                            
                               Section 3 : Règles de contrôle.
-                               (Article L124-13)
+                               (Articles L124-10 à L124-13)
                            
                         
                         
@@ -528,8 +528,8 @@
                         
                         
                            
-                              DISPOSITIONS FINANCIERES .
-                               (Article L118-6)
+                              STATUT DE L'APPRENTI .
+                               (Article L117 BIS-3)
                            
                         
                      
@@ -542,13 +542,14 @@
                    (Articles L120-1 à L121-1)
                   
                      
-                        REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)
-                        
-                           
-                              PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .
-                               (Article L122-25-2)
-                           
-                        
+                        DISPOSITIONS GENERALES.
+                         (Article L121-5)
+                     
+                  
+                  
+                     
+                        PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS.
+                         (Article L122-25-2)
                      
                   
                   
@@ -564,7 +565,7 @@
                         
                            
                               REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL .
-                               (Articles L124-4 à L124-8)
+                               (Articles L124-4 à L124-7)
                            
                         
                         
@@ -734,7 +735,7 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Article L212-3)
+                               (Articles L212-2-1 à L212-3)
                            
                         
                         
@@ -757,7 +758,7 @@
                         
                            
                               SECTION 1 : DISPOSITIONS RELATIVES AUX FEMMES .
-                               (Articles L213-3 à L213-6)
+                               (Articles L213-1 à L213-6)
                            
                         
                         
@@ -1437,7 +1438,7 @@
             
                
                   FONDS NATIONAL DE L'EMPLOI .
-                   (Article L322-1)
+                   (Articles L322-1 à L322-3)
                
             
             
@@ -3139,7 +3140,7 @@
                         
                            
                               COMPOSITION DES COMMISSIONS DE CONCILIATION .
-                               (Articles R523-4 à R523-8)
+                               (Articles R523-5 à R523-8)
                            
                         
                         
@@ -5646,7 +5647,7 @@
                         
                            
                               Section 3 : Composition des commissions de conciliation
-                               (Article R523-9)
+                               (Articles R523-4 à R523-9)
                            
                         
                         
@@ -5658,7 +5659,7 @@
                         
                            
                               Section 5 : Commissions de conciliation dans les professions agricoles.
-                               (Article R523-18)
+                               (Articles R523-18 à R523-20)
                            
                         
                      
@@ -7632,7 +7633,7 @@
                               
                                  
                                     De l'agrément de l'employeur.
-                                     (Articles D811-33 à D811-36)
+                                     (Articles D811-32 à D811-36)
                                  
                               
                               
@@ -7643,8 +7644,19 @@
                               
                               
                                  
+                                    Avis d'orientation
+                                    
+                                       
+                                          Certificat médical.
+                                           (Article D811-40)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
                                     Du contenu des contrats d'apprentissage.
-                                     (Article D811-43)
+                                     (Articles D811-41 à D811-43)
                                  
                               
                               
@@ -7700,7 +7712,7 @@
                                     
                                        
                                           Des accords de transformation.
-                                           (Articles D811-69 à D811-73)
+                                           (Articles D811-68 à D811-73)
                                        
                                     
                                     
@@ -7709,6 +7721,12 @@
                                            (Articles D811-74 à D811-78)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.
+                                     (Article D811-79)
                                  
                               
                               
@@ -7850,54 +7868,8 @@
                         APPRENTISSAGE
                         
                            
-                              CONTRAT D'APPRENTISSAGE
-                              
-                                 
-                                    AGREMENT DE L'EMPLOYEUR .
-                                     (Article D811-32)
-                                 
-                              
-                              
-                                 
-                                    AVIS D'ORIENTATION .
-                                     (Article D811-40)
-                                 
-                              
-                              
-                                 
-                                    CONTENU DES CONTRATS D'APPRENTISSAGE .
-                                     (Articles D811-41 à D811-42)
-                                 
-                              
-                           
-                        
-                        
-                           
                               DISPOSITIONS FINANCIERES .
                                (Articles D811-52 à D811-54)
-                           
-                        
-                        
-                           
-                              DISPOSITIONS PROVISOIRES
-                              
-                                 
-                                    ACCORDS PROVISOIRES .
-                                     (Articles D811-62 à D811-63)
-                                    
-                                       
-                                          ACCORDS DE TRANSFORMATION .
-                                           (Article D811-68)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    DISPOSITIONS TRANSITOIRES RELATIVES A L'AGREMENT DES EMPLOYEURS .
-                                     (Article D811-79)
-                                 
-                              
                            
                         
                      

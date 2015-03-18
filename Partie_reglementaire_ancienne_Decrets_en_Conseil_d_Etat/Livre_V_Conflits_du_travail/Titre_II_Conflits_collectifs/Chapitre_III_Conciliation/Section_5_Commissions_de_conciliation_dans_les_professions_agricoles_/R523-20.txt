@@ -3,6 +3,6 @@
          Le ministre de l'agriculture ou son représentant, président ;
          Le ministre chargé du travail ou son représentant ;
          Un représentant du ministre chargé des affaires économiques ;
-         Trois représentants des employeurs ;
-         Trois représentants des salariés [*nombre*].
+         Cinq représentants des employeurs ;
+         Cinq représentants des salariés [*nombre*].
    
