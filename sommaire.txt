@@ -2983,7 +2983,7 @@
             
                
                   AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION  PROFESSIONNELLE .
-                   (Article L960-1)
+                   (Articles L960-1 à L960-12)
                
             
             
@@ -4153,7 +4153,7 @@
                         
                            
                               Section 1 : Comités d'hygiène et de sécurité.
-                               (Articles R231-2 à R231-11)
+                               (Articles R231-1 à R231-11-1)
                            
                         
                         
@@ -4169,6 +4169,30 @@
                                  
                                     Sous-section 2 : Commission nationale d'hygiène et de sécurité du travail en agriculture.
                                      (Articles R231-25 à R231-31)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 4 : Formation à la sécurité.
+                               (Articles R231-33 à R231-34)
+                              
+                                 
+                                    Sous-section 1 : Dispositions générales.
+                                     (Articles R231-35 à R231-37)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : De la formation à la sécurité de certaines catégories de salariés.
+                                     (Articles R231-38 à R231-39)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : De l'organisation et du contrôle.
+                                     (Article R231-44)
                                  
                               
                            
@@ -4937,12 +4961,6 @@
                   HYGIENE ET SECURITE
                   
                      
-                        COMITES D'HYGIENE ET DE SECURITE .
-                         (Articles R231-1 à R231-9)
-                     
-                  
-                  
-                     
                         ORGANES CONSULTATIFS CENTRAUX
                         
                            
@@ -5071,6 +5089,12 @@
                      
                         Chapitre IV : Fonctionnement.
                          (Article R434-1)
+                     
+                  
+                  
+                     
+                        Chapitre VII : Amélioration des conditions de travail.
+                         (Article R437-1)
                      
                   
                   
@@ -5314,7 +5338,7 @@
                               
                                  
                                     SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.
-                                     (Article R323-4)
+                                     (Articles R323-4 à R323-5)
                                  
                               
                            
@@ -5405,13 +5429,7 @@
                         
                            
                               OBLIGATIONS DES EMPLOYEURS .
-                               (Articles R323-5 à R323-14)
-                           
-                        
-                        
-                           
-                              REGIME DE REDEVANCES .
-                               (Article R323-17)
+                               (Article R323-6)
                            
                         
                      
@@ -6688,20 +6706,38 @@
             
             
                
-                  MESURES D'APPLICATION DE L'ARTICLE L930-1 .
-                   (Articles R930-1 à R930-6)
+                  DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.
+                   (Articles R930-1 à R930-3)
+               
+            
+            
+               
+                  DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.
+                   (Articles R930-4 à R930-6)
+               
+            
+            
+               
+                  MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.
+                   (Articles R930-7 à R930-9)
                
             
             
                
                   MESURES D'APPLICATION DE L'ARTICLE L930-2 .
-                   (Articles R930-7 à R930-13)
+                   (Articles R930-13 à R930-19)
                
             
             
                
-                  MESURES D'APPLICATION DES ARTICLES L930-1 ET L930-2 .
-                   (Articles R930-14 à R930-16)
+                  MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.
+                   (Articles R930-10 à R930-12)
+               
+            
+            
+               
+                  MESURE D'APPLICATION DE L'ARTICLE L. 930-2
+                   (Article R930-14)
                
             
             
@@ -6729,71 +6765,6 @@
                      
                         CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .
                          (Articles R950-19 à R950-21)
-                     
-                  
-               
-            
-            
-               
-                  MODALITES D'APPLICATION DES ARTICLES L960-1 A L960-18
-                   (Articles R960-29 à R960-29-1)
-                  
-                     
-                        STAGES OUVRANT DROIT A REMUNERATION .
-                         (Articles R960-2 à R960-6)
-                     
-                  
-                  
-                     
-                        MODALITES DE CALCUL ET DE VERSEMENT DES REMUNERATIONS
-                        
-                           
-                              REMUNERATIONS VERSEES AUX STAGIAIRES .
-                               (Articles R960-7 à R960-15)
-                           
-                        
-                        
-                           
-                              REMUNERATIONS REMBOURSEES AUX EMPLOYEURS OU AU FONDS D'ASSURANCE  FORMATION DES SALARIES .
-                               (Article R960-16)
-                           
-                        
-                        
-                           
-                              REMUNERATIONS VERSEES AUX STAGIAIRES ET REMUNERATIONS REMBOURSEES  AUX EMPLOYEURS OU AU FONDS D'ASSURANCE FORMATION DES SALARIES .
-                               (Article R960-17)
-                           
-                        
-                     
-                  
-                  
-                     
-                        PROTECTION SOCIALE DES STAGIAIRES .
-                         (Articles R960-18 à R960-23)
-                     
-                  
-                  
-                     
-                        REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES .
-                         (Articles R960-24 à R960-28)
-                     
-                  
-                  
-                     
-                        FONDS D'ASSURANCE FORMATION .
-                         (Article R960-30)
-                        
-                           
-                              DIFFERENTS TYPES DE FONDS D'ASSURANCE FORMATION .
-                               (Articles R960-31 à R960-33)
-                           
-                        
-                        
-                           
-                              GESTION DES FONDS D'ASSURANCE FORMATION .
-                               (Articles R960-34 à R960-43)
-                           
-                        
                      
                   
                
@@ -6828,6 +6799,18 @@
                      
                         APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.
                          (Articles R980-1 à R980-3)
+                     
+                  
+               
+            
+            
+               
+                  MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10
+                   (Articles R980-5 à R980-6)
+                  
+                     
+                        REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.
+                         (Articles R980-4 à R980-8)
                      
                   
                
@@ -7578,6 +7561,12 @@
                          (Articles D743-2 à D743-8)
                      
                   
+                  
+                     
+                        Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.
+                         (Articles D744-1 à D744-3)
+                     
+                  
                
             
             
@@ -7990,17 +7979,6 @@
                
                   Titre IV : De l'aide de l'Etat.
                    (Articles D940-1 à D940-6)
-               
-            
-            
-               
-                  Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18
-                  
-                     
-                        Chapitre Ier : Remboursement des frais de transport exposés par les stagiaires.
-                         (Articles D981-1 à D981-5)
-                     
-                  
                
             
          
