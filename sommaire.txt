@@ -210,7 +210,7 @@
                         
                            
                               Section 5 : Protection de la maternité et éducation des enfants.
-                               (Articles L122-29 à L122-32)
+                               (Articles L122-25-1 à L122-32)
                            
                         
                      
@@ -866,7 +866,7 @@
                   
                      
                         Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
-                         (Articles L234-2 à L234-5)
+                         (Articles L234-1 à L234-5)
                      
                   
                
@@ -1006,12 +1006,6 @@
                      
                         SECURITE .
                          (Articles L233-5 à L233-6)
-                     
-                  
-                  
-                     
-                        DISPOSITIONS PARTICULIERES AUX FEMMES ET AUX JEUNES TRAVAILLEURS  .
-                         (Article L234-1)
                      
                   
                
@@ -1422,7 +1416,7 @@
                   
                      
                         TRAVAILLEURS ETRANGERS .
-                         (Articles L341-4 à L341-7)
+                         (Articles L341-4 à L341-6)
                      
                   
                
@@ -1771,7 +1765,7 @@
                         
                            
                               ELECTORAT .
-                               (Articles L513-1 à L513-3)
+                               (Articles L513-1 à L513-3-1)
                            
                         
                         
@@ -2093,6 +2087,12 @@
                         
                         
                            
+                              Section 2 : Délégués permanents de la surface.
+                               (Article L712-33)
+                           
+                        
+                        
+                           
                               Section 3 : Dispositions communes.
                                (Article L712-34)
                            
@@ -2119,17 +2119,6 @@
                                            (Article L711-12)
                                        
                                     
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Chapitre II : Délégués mineurs
-                              
-                                 
-                                    Section 2 : Délégués permanents de la surface.
-                                     (Article L712-33)
                                  
                               
                            
@@ -2428,12 +2417,6 @@
                                (Article L712-2)
                            
                         
-                        
-                           
-                              ELECTIONS .
-                               (Article L712-10)
-                           
-                        
                      
                   
                
@@ -2572,7 +2555,7 @@
                   
                      
                         Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
-                         (Articles L831-3 à L831-4)
+                         (Article L831-3)
                      
                   
                   
@@ -4994,7 +4977,7 @@
             
                
                   CONTROLE DE L'EMPLOI .
-                   (Articles R321-5 à R321-10)
+                   (Article R321-10)
                
             
             
