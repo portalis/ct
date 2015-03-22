@@ -96,7 +96,7 @@
                         
                            
                               Chapitre IX : Dispositions diverses.
-                               (Articles L119-2 à L119-4)
+                               (Articles L119-2 à L119-5)
                            
                         
                      
@@ -183,7 +183,7 @@
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Article L121-2)
+                         (Articles L121-2 à L121-3)
                      
                   
                   
@@ -311,7 +311,7 @@
                               
                                  
                                     Conversion de certains avantages en nature.
-                                     (Articles L142-4 à L142-5)
+                                     (Articles L142-3 à L142-5)
                                  
                               
                            
@@ -677,7 +677,7 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles L211-1 à L211-4)
+                               (Articles L211-1 à L211-5)
                            
                         
                         
@@ -965,22 +965,6 @@
             
             
                
-                  CONDITIONS
-                  
-                     
-                        DUREE
-                        
-                           
-                              HEURES SUPPLEMENTAIRES.
-                               (Article L212-8)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   REPOS HEBDOMADAIRE .
                    (Articles L221-1 à L221-21)
                
@@ -1098,11 +1082,28 @@
                   Titre II : Emploi
                   
                      
+                        Chapitre Ier : CONTROLE DE L'EMPLOI .
+                         (Articles L321-7 à L321-11)
+                     
+                  
+                  
+                     
                         Chapitre II : Fonds national de l'emploi
                         
                            
                               Section 1 : Fonds national de l'emploi.
                                (Articles L322-2 à L322-6)
+                           
+                        
+                        
+                           
+                              PRIME DE MOBILITE DES JEUNES
+                              
+                                 
+                                    SECTION 3 : CHOMAGE PARTIEL.
+                                     (Article L322-11)
+                                 
+                              
                            
                         
                      
@@ -1116,7 +1117,7 @@
                               
                                  
                                     Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.
-                                     (Articles L323-20 à L323-28)
+                                     (Articles L323-19 à L323-28)
                                  
                               
                            
@@ -1138,7 +1139,7 @@
                               
                                  
                                     Section 2 : Travail clandestin.
-                                     (Articles L324-13 à L324-15)
+                                     (Articles L324-12 à L324-15)
                                  
                               
                            
@@ -1246,7 +1247,7 @@
                   
                      
                         Chapitre Ier : SERVICE PUBLIC DU PLACEMENT.
-                         (Articles L311-1 à L311-2)
+                         (Articles L311-1 à L311-5)
                      
                   
                   
@@ -1266,17 +1267,6 @@
       
       
          
-            PLACEMENT
-            
-               
-                  SERVICE PUBLIC DU PLACEMENT .
-                   (Article L311-5)
-               
-            
-         
-      
-      
-         
             Livre III : EMPLOI
             
                
@@ -1284,7 +1274,7 @@
                   
                      
                         Chapitre Ier : CONTROLE DE L'EMPLOI.
-                         (Article L321-1)
+                         (Articles L321-1 à L321-9)
                      
                   
                   
@@ -1302,7 +1292,7 @@
                               
                                  
                                     SOUS-SECTION 1 : DISPOSITIONS GENERALES.
-                                     (Article L323-13)
+                                     (Articles L323-10 à L323-13)
                                  
                               
                               
@@ -1314,7 +1304,7 @@
                               
                                  
                                     SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
-                                     (Article L323-18)
+                                     (Articles L323-16 à L323-18)
                                  
                               
                               
@@ -1323,6 +1313,24 @@
                                      (Articles L323-29 à L323-33)
                                  
                               
+                              
+                                 
+                                    SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES.
+                                     (Article L323-34)
+                                 
+                              
+                              
+                                 
+                                    SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.
+                                     (Article L323-35)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              SECTION 2 bis : HANDICAPES SOCIAUX.
+                               (Article L323-35 bis)
                            
                         
                         
@@ -1354,7 +1362,7 @@
             
                
                   CONTROLE DE L'EMPLOI .
-                   (Article L321-2)
+                   (Articles L321-2 à L321-12)
                
             
             
@@ -1375,23 +1383,16 @@
                   
                      
                         TRAVAILLEURS HANDICAPES .
-                         (Articles L323-9 à L323-12)
                         
                            
                               READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL .
-                               (Articles L323-16 à L323-17)
+                               (Article L323-17)
                            
                         
                         
                            
                               PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .
                                (Articles L323-21 à L323-26)
-                           
-                        
-                        
-                           
-                              TRAVAIL PROTEGE .
-                               (Articles L323-30 à L323-32)
                            
                         
                      
@@ -1556,7 +1557,7 @@
                   
                      
                         Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.
-                         (Articles L441-3 à L441-10)
+                         (Articles L441-2 à L441-10)
                      
                   
                   
@@ -1699,7 +1700,7 @@
                   
                      
                         ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE .
-                         (Articles L441-1 à L441-2)
+                         (Article L441-1)
                      
                   
                   
@@ -1827,6 +1828,12 @@
                      
                         DEPENSES DES CONSEILS DU PRUD'HOMMES .
                          (Articles L51-10-1 à L51-10-3)
+                     
+                  
+                  
+                     
+                        DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
+                         (Article L51-11-1)
                      
                   
                
@@ -2137,7 +2144,6 @@
                   
                      
                         Chapitre Ier : Travailleurs à domicile
-                         (Article L721-5)
                         
                            
                               Section 1 : Dispositions générales.
@@ -2542,9 +2548,20 @@
                         
                            
                               Section 1 : Salaire minimum de croissance.
-                               (Article L814-2)
+                               (Articles L814-1 à L814-4)
                            
                         
+                     
+                  
+               
+            
+            
+               
+                  Titre II : Réglementation du travail
+                  
+                     
+                        Chapitre II : Services médicaux du travail.
+                         (Article L822-3)
                      
                   
                
@@ -2595,17 +2612,6 @@
             DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
             
                
-                  CONVENTIONS RELATIVES AU TRAVAIL
-                  
-                     
-                        SALAIRE MINIMUM DE CROISSANCE .
-                         (Articles L814-1 à L814-4)
-                     
-                  
-               
-            
-            
-               
                   REGLEMENTATION DU TRAVAIL
                   
                      
@@ -2616,7 +2622,7 @@
                   
                      
                         SERVICES MEDICAUX DU TRAVAIL .
-                         (Articles L822-1 à L822-3)
+                         (Articles L822-1 à L822-2)
                      
                   
                
@@ -2628,6 +2634,17 @@
                      
                         DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
                          (Articles L831-1 à L831-2)
+                     
+                  
+                  
+                     
+                        EMPLOI
+                        
+                           
+                              PROTECTION DE LA MAIN-D'OEUVRE NATIONALE .
+                               (Article L832-1)
+                           
+                        
                      
                   
                   
@@ -2715,6 +2732,12 @@
                    (Article L970-5)
                
             
+            
+               
+                  PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .
+                   (Articles L980-1 à L980-7)
+               
+            
          
       
       
@@ -2724,6 +2747,18 @@
                
                   Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .
                    (Article L950-3)
+               
+            
+            
+               
+                  Titre V :DE LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.
+                   (Article L950-4)
+               
+            
+            
+               
+                  Titre VIII : PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE .
+                   (Article L980-4)
                
             
          
@@ -2777,7 +2812,7 @@
                   
                      
                         DISCIPLINE DES CONSEILS DE PRUD'HOMMES .
-                         (Article R514-3)
+                         (Articles R514-3 à R514-4)
                      
                   
                   
@@ -2801,6 +2836,7 @@
                   
                      
                         PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES
+                         (Articles R516-38 à R516-46)
                         
                            
                               RECEVABILITE DES DEMANDES .
@@ -2810,19 +2846,43 @@
                         
                            
                               ASSISTANCE ET REPRESENTATION DES PARTIES .
-                               (Articles R516-5 à R516-6)
+                               (Articles R516-6 à R516-7)
                            
                         
                         
                            
-                              SAISINE DU CONSEIL DE PRUD'HOMMES .
-                               (Articles R516-8 à R516-12)
+                              SAISINE DU CONSEIL DES PRUD'HOMMES .
+                               (Articles R516-8 à R516-11)
                            
                         
                         
                            
                               LA TENTATIVE DE CONCILIATION .
-                               (Articles R516-13 à R516-16)
+                               (Articles R516-14 à R516-19)
+                           
+                        
+                        
+                           
+                              LE CONSEILLER RAPPORTEUR .
+                               (Article R516-21)
+                           
+                        
+                        
+                           
+                              LE JUGEMENT .
+                               (Articles R516-26 à R516-29)
+                           
+                        
+                        
+                           
+                              LE REFERE PRUD'HOMAL .
+                               (Articles R516-30 à R516-35)
+                           
+                        
+                        
+                           
+                              L'EXECUTION DES JUGEMENTS .
+                               (Article R516-37)
                            
                         
                      
@@ -2830,43 +2890,19 @@
                   
                      
                         COMPETENCE DES CONSEILS DE PRUD'HOMMES .
-                         (Articles R517-1 à R517-2)
+                         (Article R517-2)
                      
                   
                   
                      
                         OUVERTURE DES VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES .
-                         (Articles R517-3 à R517-5)
+                         (Articles R517-3 à R517-4)
                      
                   
                   
                      
                         VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES :     L'OPPOSITION .
                          (Article R517-6)
-                     
-                  
-                  
-                     
-                        VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES :    L'APPEL .
-                         (Articles R517-7 à R517-9)
-                     
-                  
-                  
-                     
-                        VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES :     LE POURVOI EN CASSATION .
-                         (Article R517-10)
-                     
-                  
-                  
-                     
-                        VOIES DE RECOURS CONTRE LES DECISIONS DES CONSEILS DE PRUD'HOMMES .
-                         (Article R517-11)
-                     
-                  
-                  
-                     
-                        COMPETENCE DES CONSEILS DE PRUD'HOMMES ET VOIES DE RECOURS CONTRE LEURS DECISIONS .
-                         (Articles R517-12 à R517-13)
                      
                   
                   
@@ -2906,6 +2942,22 @@
                            
                               TEMOINS .
                                (Article R519-11)
+                           
+                        
+                     
+                  
+               
+            
+            
+               
+                  CONFLITS INDIVIDUELS - CONSEILS DE PRUD OMMES
+                  
+                     
+                        PROCEDURE DEVANT LES CONSEILS DE PRUD OMMES
+                        
+                           
+                              LA TENTATIVE DE CONCILIATION .
+                               (Article R516-20)
                            
                         
                      
@@ -3349,7 +3401,7 @@
                                     
                                        
                                           DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
-                                           (Article R119-65)
+                                           (Articles R119-65 à R119-68)
                                        
                                     
                                  
@@ -3373,6 +3425,12 @@
                                  
                                     Dispositions générales.
                                      (Article R119-60)
+                                 
+                              
+                              
+                                 
+                                    Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+                                     (Articles R119-66 à R119-71)
                                  
                               
                            
@@ -4839,6 +4897,23 @@
                   Titre II : EMPLOI
                   
                      
+                        Chapitre Ier : CONTROLE DE L'EMPLOI
+                        
+                           
+                              SECTION 1 : DISPOSITIONS GENERALES.
+                               (Articles R321-1 à R321-7)
+                           
+                        
+                        
+                           
+                              SECTION 2 : DISPOSITIONS SPECIALES.
+                               (Articles R321-8 à R321-11)
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre II : FONDS NATIONAL DE L'EMPLOI
                         
                            
@@ -4919,7 +4994,7 @@
             
                
                   CONTROLE DE L'EMPLOI .
-                   (Articles R321-1 à R321-11)
+                   (Articles R321-5 à R321-10)
                
             
             
@@ -5182,7 +5257,6 @@
                         
                            
                               Chapitre XI : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
-                               (Article R51-11-2)
                            
                         
                         
@@ -5193,24 +5267,13 @@
                         
                         
                            
-                              Chapitre V : Bureau de conciliation
+                              Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions
                               
                                  
-                                    Bureau de jugement
-                                    
-                                       
-                                          Formation de référé.
-                                           (Article R515-5)
-                                       
-                                    
+                                    Section 6 : Dispositions générales.
+                                     (Article R517-11)
                                  
                               
-                           
-                        
-                        
-                           
-                              Chapitre VIII : Récusations.
-                               (Article R518-3)
                            
                         
                      
@@ -5227,6 +5290,47 @@
                            
                               Section 1 : Recevabilité des demandes.
                                (Article R516-1)
+                           
+                        
+                        
+                           
+                              Section 2 : Assistance et représentation des parties.
+                               (Articles R516-4 à R516-5)
+                           
+                        
+                        
+                           
+                              Section 3 : Saisine du conseil des prud'hommes.
+                               (Article R516-12)
+                           
+                        
+                        
+                           
+                              Section 6 : Le jugement.
+                               (Article R516-28)
+                           
+                        
+                        
+                           
+                              Section 8 : L'exécution des jugements.
+                               (Article R516-36)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre VII : Compétence des conseils de prud'hommes et voies de recours contre leurs décisions
+                        
+                           
+                              Section 2 : Ouverture des voies de recours.
+                               (Article R517-5)
+                           
+                        
+                        
+                           
+                              Section 5 : Le pourvoi en cassation.
+                               (Article R517-10)
                            
                         
                      
@@ -5413,38 +5517,6 @@
                                (Article R443-10)
                            
                         
-                     
-                  
-               
-            
-         
-      
-      
-         
-            CONFLITS DE TRAVAIL
-            
-               
-                  CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-                  
-                     
-                        DISCIPLINE DES CONSEILS DE PRUD'HOMMES .
-                         (Article R514-4)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            CONFLITS DU TRAVAIL : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-            
-               
-                  PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES
-                  
-                     
-                        ASSISTANCE ET REPRESENTATION DES PARTIES .
-                         (Articles R516-4 à R516-7)
                      
                   
                
@@ -6676,6 +6748,12 @@
             
             
                
+                  FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .
+                   (Articles D322-11 à D322-16)
+               
+            
+            
+               
                   DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS
                   
                      
@@ -6791,6 +6869,28 @@
             
                
                   INTERESSEMENT ET PARTICIPATION .
+                  
+                     
+                        PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .
+                         (Articles D442-1 à D442-3)
+                     
+                  
+               
+            
+         
+      
+      
+         
+            Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
+            
+               
+                  Titre III : Les comités d'entreprise
+                  
+                     
+                        Chapitre VII : Amélioration des conditions de travail.
+                         (Articles D437-1 à D437-4)
+                     
+                  
                
             
          
@@ -7364,6 +7464,12 @@
             
             
                
+                  Titre IV : De l'aide de l'Etat.
+                   (Articles D940-1 à D940-6)
+               
+            
+            
+               
                   Titre VIII : Modalités d'application dans les départements d'outre-mer des articles L. 960-16 et L. 960-18
                   
                      
@@ -7399,6 +7505,12 @@
                          (Article D910-22)
                      
                   
+               
+            
+            
+               
+                  AIDE DE L'ETAT .
+                   (Article D940-5)
                
             
          
