@@ -44,7 +44,7 @@
                         
                            
                               Section 2 : Privilèges et garanties de la créance de salaire.
-                               (Article L143-8)
+                               (Articles L143-7 à L143-8)
                            
                         
                      
@@ -88,6 +88,17 @@
                   
                
             
+            
+               
+                  Titre VI : Pénalités.
+                  
+                     
+                        Chapitre IV : Médecine du travail.
+                         (Article L264-1)
+                     
+                  
+               
+            
          
       
       
@@ -105,6 +116,17 @@
                                (Article L212-2)
                            
                         
+                     
+                  
+               
+            
+            
+               
+                  CONGES ANNUELS
+                  
+                     
+                        DUREE DU CONGE .
+                         (Article L223-4)
                      
                   
                
@@ -251,6 +273,12 @@
                               Section 1
                               
                                  
+                                    Paragraphe 3 : Elections
+                                     (Article L712-11)
+                                 
+                              
+                              
+                                 
                                     Paragraphe 4 : Dispositions spéciales.
                                      (Article L712-32)
                                  
@@ -270,12 +298,6 @@
                         
                            
                               Chapitre II : Délégués mineurs
-                              
-                                 
-                                    Section 1 : Elections.
-                                     (Article L712-11)
-                                 
-                              
                               
                                  
                                     Section 2 : Délégués permanents de la surface.
@@ -309,6 +331,23 @@
                         
                      
                   
+               
+            
+            
+               
+                  Titre IV : Transports et télécommunications
+                  
+                     
+                        Chapitre II : Marins.
+                         (Articles L742-6 à L742-7)
+                     
+                  
+               
+            
+            
+               
+                  Titre V : Voyageurs, représentants et placiers.
+                   (Article L751-15)
                
             
             
@@ -349,6 +388,12 @@
                   Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
                   
                      
+                        Chapitre Ier : Catégories particulières de travailleurs.
+                         (Article L781-1)
+                     
+                  
+                  
+                     
                         Chapitre III : Halles centrales de Paris.
                          (Article L783-8)
                      
@@ -381,12 +426,6 @@
             
                
                   DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES
-                  
-                     
-                        CATEGORIES PARTICULIERES DE TRAVAILLEURS .
-                         (Article L781-1)
-                     
-                  
                
             
          
