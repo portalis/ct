@@ -82,7 +82,7 @@
                               
                                  
                                     Section 2 : Conditions du contrat.
-                                     (Articles L117-4 à L117-8)
+                                     (Article L117-4)
                                  
                               
                               
@@ -91,6 +91,12 @@
                                      (Articles L117-12 à L117-18)
                                  
                               
+                           
+                        
+                        
+                           
+                              Chapitre VIII : Dispositions financières.
+                               (Articles L118-2 à L118-3-1)
                            
                         
                         
@@ -141,6 +147,12 @@
                         
                         
                            
+                              CHAPITRE VII bis : DU STATUT DE L'APPRENTI .
+                               (Articles L117 BIS-2 à L117 BIS-5)
+                           
+                        
+                        
+                           
                               Chapitre IX : DISPOSITIONS DIVERSES.
                                (Article L119-1)
                            
@@ -171,6 +183,12 @@
                   
                   
                      
+                        Chapitre VII bis : Du statut de l'apprenti.
+                         (Articles L117 BIS-1 à L117 BIS-7)
+                     
+                  
+                  
+                     
                         Chapitre VIII : Dispositions financières.
                          (Article L118-4)
                      
@@ -195,6 +213,7 @@
                   
                      
                         Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
+                         (Article L122-30)
                         
                            
                               Section 2 : Résiliation du contrat de travail à durée indéterminée
@@ -216,7 +235,7 @@
                         
                            
                               Section 5 : Protection de la maternité et éducation des enfants.
-                               (Articles L122-25-1 à L122-32)
+                               (Articles L122-25 à L122-32)
                            
                         
                      
@@ -477,7 +496,7 @@
                         
                            
                               DISPOSITIONS FINANCIERES .
-                               (Articles L118-1 à L118-2)
+                               (Article L118-1)
                            
                         
                      
@@ -1542,6 +1561,12 @@
                          (Articles L437-1 à L437-4)
                      
                   
+                  
+                     
+                        Chapitre VIII : Bilan social.
+                         (Articles L438-1 à L438-9)
+                     
+                  
                
             
             
@@ -1574,6 +1599,17 @@
                      
                         Chapitre III : Plans d'épargne d'entreprise.
                          (Articles L443-1 à L443-10)
+                     
+                  
+               
+            
+            
+               
+                  Titre VI : PENALITES
+                  
+                     
+                        Chapitre III : COMITE D'ENTREPRISE
+                         (Article L463-2)
                      
                   
                
@@ -1677,6 +1713,12 @@
                      
                         CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL .
                          (Articles L436-1 à L436-2)
+                     
+                  
+                  
+                     
+                        BILAN SOCIAL .
+                         (Article L438-10)
                      
                   
                
