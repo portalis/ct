@@ -330,7 +330,7 @@
                         
                            
                               SECTION 1 : MODE DE PAIEMENT DU SALAIRE .
-                               (Articles L143-1 à L143-2)
+                               (Articles L143-1 à L143-5)
                            
                         
                         
@@ -537,7 +537,7 @@
                   
                      
                         CHAMP D'APPLICATION .
-                         (Articles L131-2 à L131-3)
+                         (Articles L131-1 à L131-3)
                      
                   
                   
@@ -1436,7 +1436,7 @@
                         
                            
                               ALLOCATION D'ASSURANCE .
-                               (Articles L351-11 à L351-17)
+                               (Articles L351-10 à L351-17)
                            
                         
                         
@@ -2300,6 +2300,29 @@
                          (Article L772-1)
                      
                   
+                  
+                     
+                        Chapitre III : Assistantes maternelles
+                        
+                           
+                              Section 1 : Dispositions générales.
+                               (Articles L773-1 à L773-7)
+                           
+                        
+                        
+                           
+                              Section 2 : Dispositions spéciales aux personnes employées par des particuliers.
+                               (Articles L773-8 à L773-9)
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.
+                               (Articles L773-10 à L773-15)
+                           
+                        
+                     
+                  
                
             
             
@@ -2485,6 +2508,23 @@
                
                   EMPLOYES DE MAISON .
                    (Article L772-2)
+               
+            
+            
+               
+                  ASSISTANTES MATERNELLES.
+                   (Articles L773-2 à L773-6)
+               
+            
+            
+               
+                  ASSISTANCES MATERNELLES
+                  
+                     
+                        DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.
+                         (Article L773-11)
+                     
+                  
                
             
             
@@ -3130,7 +3170,7 @@
                               
                                  
                                     Paragraphe 4 : Du contenu des contrats d'apprentissage.
-                                     (Article R117-12)
+                                     (Articles R117-11 à R117-12)
                                  
                               
                               
@@ -3176,6 +3216,12 @@
                                           
                                        
                                     
+                                    
+                                       
+                                          Section 4 : Dispositions transitoires relatives aux examens de fin d'apprentissage.
+                                           (Article R119-30)
+                                       
+                                    
                                  
                               
                               
@@ -3211,12 +3257,6 @@
                                     
                                     
                                        
-                                          Paragraphe 2 : Des accords simples.
-                                           (Articles R119-12 à R119-14)
-                                       
-                                    
-                                    
-                                       
                                           Paragraphe 3 : Des accords de transformation et des avenants d'adaptation.
                                            (Articles R119-15 à R119-21)
                                        
@@ -3229,8 +3269,14 @@
                                     
                                     
                                        
+                                          Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.
+                                           (Article R119-26)
+                                       
+                                    
+                                    
+                                       
                                           Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
-                                           (Articles R119-28 à R119-29)
+                                           (Article R119-28)
                                        
                                     
                                  
@@ -3238,7 +3284,7 @@
                               
                                  
                                     C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.
-                                     (Articles R119-31 à R119-46)
+                                     (Articles R119-31 à R119-47)
                                  
                               
                               
@@ -3326,6 +3372,12 @@
                               
                               
                                  
+                                    PARAGRAPHE 3 : AVIS D'ORIENTATION - CERTIFICAT MEDICAL .
+                                     (Article R117-9)
+                                 
+                              
+                              
+                                 
                                     PARAGRAPHE 6 : CAS DE L'APPRENTI EMPLOYE PAR UN ASCENDANT .
                                      (Article R117-17)
                                  
@@ -3385,6 +3437,17 @@
             
                
                   Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+                  
+                     
+                        Chapitre VII : Du contrat d'apprentissage
+                        
+                           
+                              Paragraphe 4 : Du contenu des contrats d'apprentissage.
+                               (Article R117-10)
+                           
+                        
+                     
+                  
                   
                      
                         Chapitre IX : Dispositions diverses
@@ -4176,20 +4239,14 @@
                               CONTRAT D'APPRENTISSAGE
                               
                                  
+                                    AGREMENT DE L'EMPLOYEUR .
+                                     (Article R117-1)
+                                 
+                              
+                              
+                                 
                                     DUREE DE L'APPRENTISSAGE .
                                      (Article R117-8)
-                                 
-                              
-                              
-                                 
-                                    AVIS D'ORIENTATION .
-                                     (Article R117-9)
-                                 
-                              
-                              
-                                 
-                                    CONTENU DES CONTRATS D'APPRENTISSAGE .
-                                     (Articles R117-10 à R117-11)
                                  
                               
                            
@@ -4205,8 +4262,8 @@
                               MESURES PROVISOIRES D'ADAPTATION EN MATIERE D'APPRENTISSAGE
                               
                                  
-                                    DISPOSITIONS TRANSITOIRES RELATIVES AUX EXAMENS DE FIN  D'APPRENTISSAGE .
-                                     (Article R119-30)
+                                    DISPOSITIONS TRANSITOIRES RELATIVES AUX EXONERATIONS DE LA TAXE  D'APPRENTISSAGE .
+                                     (Article R119-27)
                                  
                               
                            
@@ -4215,22 +4272,6 @@
                            
                               INSPECTION DE L'APPRENTISSAGE .
                                (Article R119-48)
-                           
-                        
-                     
-                  
-                  
-                     
-                        DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972
-                        
-                           
-                              CONTRAT D'APPRENTISSAGE
-                              
-                                 
-                                    AGREMENT DE L'EMPLOYEUR .
-                                     (Article R117-1)
-                                 
-                              
                            
                         
                      
@@ -4499,7 +4540,7 @@
                               
                                  
                                     PARAGRAPHE 5 : DISPOSITIONS FINANCIERES ET COMPTABLES.
-                                     (Articles R341-25 à R341-32)
+                                     (Articles R341-25 à R341-34)
                                  
                               
                            
@@ -4724,6 +4765,17 @@
       
          
             Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
+            
+               
+                  Titre Ier : Les syndicats professionnels
+                  
+                     
+                        Chapitre Ier : Statut juridique des syndicats.
+                         (Article R411-1)
+                     
+                  
+               
+            
             
                
                   Titre III : Les comités d'entreprise
@@ -5188,6 +5240,12 @@
                                (Article R341-11)
                            
                         
+                        
+                           
+                              DISPOSITIONS FINANCIERES ET COMPTABLES .
+                               (Article R341-35)
+                           
+                        
                      
                   
                
@@ -5440,12 +5498,6 @@
             
                
                   LES SYNDICATS PROFESSIONNELS
-                  
-                     
-                        STATUT JURIDIQUE DES SYNDICATS .
-                         (Article R411-1)
-                     
-                  
                   
                      
                         EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .
@@ -6950,12 +7002,6 @@
                         
                            
                               SECTION 2 : TRAVAILLEURS HANDICAPES
-                              
-                                 
-                                    SOUS-SECTION 2 : READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
-                                     (Article D323-6)
-                                 
-                              
                            
                         
                      
@@ -7618,7 +7664,7 @@
                   
                      
                         Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.
-                         (Articles D910-23 à D910-24)
+                         (Articles D910-22 à D910-24)
                      
                   
                
@@ -7652,18 +7698,6 @@
                      
                         ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .
                          (Articles D910-1 à D910-5)
-                     
-                  
-                  
-                     
-                        ATTRIBUTIONS, COMPOSITION, FONCTIONNEMENT DES COMITES  DEPARTEMENTAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .
-                         (Article D910-10)
-                     
-                  
-                  
-                     
-                        COMPOSITION DU COMITE DEPARTEMENTAL DE LA FORMATION  PROFESSIONNELLE, DE LA PROMOTION SOCIALE ET DE L'EMPLOI DE LA VILLE  DE PARIS .
-                         (Article D910-22)
                      
                   
                
