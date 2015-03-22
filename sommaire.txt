@@ -3738,7 +3738,7 @@
                         
                            
                               Section 1 : Comités d'hygiène et de sécurité.
-                               (Article R231-11)
+                               (Articles R231-2 à R231-11)
                            
                         
                      
@@ -4152,7 +4152,7 @@
                         
                            
                               DISPOSITIONS FINANCIERES .
-                               (Articles R119-3 à R119-5)
+                               (Articles R119-3 à R119-4)
                            
                         
                         
@@ -4548,7 +4548,7 @@
                   
                      
                         COMITES D'HYGIENE ET DE SECURITE .
-                         (Articles R231-1 à R231-10)
+                         (Articles R231-1 à R231-9)
                      
                   
                   
@@ -4689,7 +4689,7 @@
                         
                            
                               Section 1 : Contrat d'intéressement ou d'association.
-                               (Articles R441-1 à R441-8)
+                               (Articles R441-1 à R441-9)
                            
                         
                         
@@ -5344,7 +5344,7 @@
                         
                            
                               CONTRAT D'INTERESSEMENT OU D'ASSOCIATION .
-                               (Articles R441-5 à R441-7)
+                               (Articles R441-5 à R441-6)
                            
                         
                      
@@ -5369,18 +5369,6 @@
                               
                            
                         
-                        
-                           
-                              ACCORDS PASSES ENTRE LES ENTREPRISES ET LEUR PERSONNEL .
-                               (Article R442-20)
-                           
-                        
-                        
-                           
-                              INFORMATION DES SALARIES .
-                               (Article R442-24)
-                           
-                        
                      
                   
                   
@@ -5390,22 +5378,6 @@
                            
                               COMPOSITION ET GESTION DU PORTEFEUILLE .
                                (Article R443-10)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  INTERESSEMENT OU PARTICIPATION
-                  
-                     
-                        ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE
-                        
-                           
-                              CONTRAT D'INTERESSEMENT OU D'ASSOCIATION .
-                               (Article R441-9)
                            
                         
                      
@@ -6119,7 +6091,7 @@
             
                
                   Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.
-                   (Articles R910-2 à R910-8)
+                   (Articles R910-2 à R910-12)
                
             
          
@@ -6367,6 +6339,17 @@
                          (Articles D142-1 à D142-2)
                      
                   
+                  
+                     
+                        Chapitre III : PAIEMENT DU SALAIRE
+                        
+                           
+                              SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
+                               (Article D143-1)
+                           
+                        
+                     
+                  
                
             
          
@@ -6400,17 +6383,6 @@
                            
                               DISPOSITIONS SPECIALES AUX SALARIES AGRICOLES .
                                (Article D141-11)
-                           
-                        
-                     
-                  
-                  
-                     
-                        PAIEMENT DU SALAIRE
-                        
-                           
-                              PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
-                               (Article D143-1)
                            
                         
                      
@@ -6770,23 +6742,7 @@
                   
                      
                         GARANTIES DE RESSOURCES .
-                         (Articles D351-1 à D351-7)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            PLACEMENTS ET EMPLOI
-            
-               
-                  TRAVAILLEURS PRIVES D'EMPLOI
-                  
-                     
-                        GARANTIES DE RESSOURCES .
-                         (Article D351-8)
+                         (Articles D351-1 à D351-8)
                      
                   
                
@@ -6821,7 +6777,6 @@
             
                
                   INTERESSEMENT ET PARTICIPATION .
-                   (Articles D440-1 à D440-2)
                
             
          
