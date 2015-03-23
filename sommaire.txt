@@ -840,6 +840,12 @@
                                      (Articles L212-4-2 à L212-4-7)
                                  
                               
+                              
+                                 
+                                    PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
+                                     (Article L212-4-8)
+                                 
+                              
                            
                         
                         
@@ -995,7 +1001,7 @@
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Articles L231-1-2 à L231-5-1)
+                         (Articles L231-1-2 à L231-9)
                      
                   
                   
@@ -1020,6 +1026,12 @@
                      
                         Chapitre V : Dispositions spéciales applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail.
                          (Articles L235-1 à L235-8)
+                     
+                  
+                  
+                     
+                        Chapitre VI : COMITES D'HYGIENE, DE SECURITE ET DES CONDITIONS DE TRAVAIL
+                         (Article L236-11)
                      
                   
                
@@ -1119,7 +1131,7 @@
             
                
                   HYGIENE ET SECURITE .
-                   (Articles L231-1 à L231-9)
+                   (Articles L231-1 à L231-4)
                
             
          
@@ -5678,6 +5690,17 @@
                               
                            
                         
+                        
+                           
+                              Chapitre VI : Procédure devant les conseils de prud'hommes
+                              
+                                 
+                                    Section 6 : Le jugement.
+                                     (Article R516-26)
+                                 
+                              
+                           
+                        
                      
                   
                
@@ -5688,7 +5711,7 @@
                   
                      
                         Chapitre Ier : Attributions et institution des conseils de prud'hommes.
-                         (Articles R511-1 à R511-2)
+                         (Articles R511-1 à R511-3)
                      
                   
                   
@@ -5823,8 +5846,14 @@
                   
                   
                      
+                        Chapitre IV : Statut des conseillers prud'hommes.
+                         (Articles R514-4 à R514-5)
+                     
+                  
+                  
+                     
                         Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
-                         (Articles R515-1 à R515-3)
+                         (Articles R515-1 à R515-4)
                      
                   
                   
@@ -5834,7 +5863,7 @@
                         
                            
                               Section 1 : Recevabilité des demandes.
-                               (Article R516-1)
+                               (Articles R516-1 à R516-3)
                            
                         
                         
@@ -5851,14 +5880,20 @@
                         
                         
                            
+                              Section 4 : Le bureau de conciliation.
+                               (Articles R516-13 à R516-20-1)
+                           
+                        
+                        
+                           
                               Section 5 : Le conseiller rapporteur.
-                               (Articles R516-22 à R516-25)
+                               (Articles R516-21 à R516-25)
                            
                         
                         
                            
                               Section 6 : Le jugement.
-                               (Article R516-28)
+                               (Articles R516-27 à R516-29)
                            
                         
                         
@@ -5870,13 +5905,13 @@
                         
                            
                               Section 8 : L'exécution des jugements.
-                               (Article R516-36)
+                               (Articles R516-36 à R516-37)
                            
                         
                         
                            
                               Section 9 : Dispositions générales et diverses.
-                               (Articles R516-38 à R516-43)
+                               (Articles R516-38 à R516-44)
                            
                         
                      
@@ -5893,7 +5928,7 @@
                         
                            
                               Section 2 : Ouverture des voies de recours.
-                               (Articles R517-4 à R517-5)
+                               (Articles R517-3 à R517-5)
                            
                         
                         
@@ -7534,6 +7569,12 @@
                                (Articles D514-1 à D514-4)
                            
                         
+                        
+                           
+                              Chapitre VII : COMPETENCE DES CONSEILS DE PRUD'HOMMES
+                               (Article D517-1)
+                           
+                        
                      
                   
                
@@ -7545,33 +7586,6 @@
                      
                         Chapitre IV : Médiation.
                          (Articles D524-1 à D524-4)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            CONFLITS DU TRAVAIL
-            
-               
-                  CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-                  
-                     
-                        DEPENSES DES CONSEILS DE PRUD'HOMMES.
-                         (Article D51-10-1)
-                     
-                  
-               
-            
-            
-               
-                  CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES
-                  
-                     
-                        DEPENSES DES CONSEILS DE PRUD'HOMMES .
-                         (Article D51-10-2)
                      
                   
                
