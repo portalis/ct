@@ -6885,6 +6885,109 @@
             Livre VIII : Dispositions spéciales aux départements d'outre-mer
             
                
+                  Titre II : Réglementation du travail
+                  
+                     
+                        Chapitre II : Médecine du travail.
+                         (Article R822-1)
+                        
+                           
+                              Section 1 : Des services médicaux du travail d'entreprise ou d'établissement
+                              
+                                 
+                                    Sous-section 1 : Dispositions générales.
+                                     (Articles R822-2 à R822-3)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Services médicaux du travail interétablissements d'entreprise.
+                                     (Articles R822-4 à R822-5)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Déclarations de création - Agrément des services médicaux - Contrôle.
+                                     (Articles R822-6 à R822-9)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 2 : Des services médicaux du travail interentreprises
+                              
+                                 
+                                    Sous-section 1 : Organisation et fonctionnement.
+                                     (Articles R822-10 à R822-20)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Approbation des décisions fixant la compétence géographique ou professionnelle et agrément des secteurs médicaux - Contrôle.
+                                     (Articles R822-21 à R822-25)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions diverses.
+                               (Articles R822-26 à R822-28)
+                           
+                        
+                        
+                           
+                              Section 4 : Des personnels des services médicaux du travail
+                              
+                                 
+                                    Sous-section 1 : Des médecins du travail
+                                     (Articles R822-29 à R822-34)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Des infirmiers, infirmières et secrétaires médicaux.
+                                     (Articles R822-35 à R822-38)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Des secouristes
+                                     (Articles R822-39 à R822-40)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 5 : Des missions des services médicaux du travail
+                              
+                                 
+                                    Sous-section 1 : Action sur le milieu du travail.
+                                     (Articles R822-41 à R822-47)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Examens médicaux.
+                                     (Articles R822-48 à R822-55)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Documents médicaux.
+                                     (Articles R822-56 à R822-58)
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+            
+               
                   Titre III : Placement et emploi
                   
                      
@@ -8223,76 +8326,6 @@
                            
                               Section 2 : Règles particulières à la répartition des pourboires.
                                (Article D814-4)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  Titre II : Réglementation du travail
-                  
-                     
-                        Chapitre II : Services médicaux du travail
-                        
-                           
-                              Section 1 : Organisation et fonctionnement des services médicaux du travail.
-                               (Articles D822-1 à D822-9)
-                              
-                                 
-                                    Paragraphe a) Les médecins du travail.
-                                     (Articles D822-10 à D822-11)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe b) Visites d'embauchage.
-                                     (Article D822-12)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe c) Examens médicaux périodiques des salariés.
-                                     (Article D822-13)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe d) Visite de reprise.
-                                     (Article D822-14)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe e) Examens complémentaires.
-                                     (Articles D822-15 à D822-16)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe f) Surveillance de l'hygiène des entreprises.
-                                     (Articles D822-17 à D822-21)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Section 3 : Infirmiers et infirmières.
-                               (Articles D822-22 à D822-25)
-                           
-                        
-                        
-                           
-                              Section 4 : Locaux et matériel.
-                               (Article D822-26)
-                           
-                        
-                        
-                           
-                              Section 5 : Dispositions particulières.
-                               (Article D822-27)
                            
                         
                      
