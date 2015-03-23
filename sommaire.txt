@@ -609,6 +609,22 @@
             
             
                
+                  Titre IV : SALAIRES
+                  
+                     
+                        Chapitre III : PAIEMENT DU SALAIRE
+                        
+                           
+                              SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE.
+                               (Article L143-11-1)
+                           
+                        
+                     
+                  
+               
+            
+            
+               
                   Titre V : Pénalités
                   
                      
@@ -1069,7 +1085,7 @@
                   
                      
                         Chapitre VI : COMITES D'HYGIENE, DE SECURITE ET DES CONDITIONS DE TRAVAIL
-                         (Articles L236-1 à L236-12)
+                         (Articles L236-1 à L236-13)
                      
                   
                
@@ -1707,7 +1723,7 @@
                         
                            
                               SECTION 2 : SECTIONS SYNDICALES.
-                               (Articles L412-5 à L412-9)
+                               (Articles L412-5 à L412-10)
                            
                         
                         
@@ -1750,7 +1766,7 @@
                   
                      
                         Chapitre III : Composition et élections.
-                         (Articles L423-2 à L423-18)
+                         (Articles L423-1 à L423-18)
                      
                   
                   
@@ -1791,13 +1807,13 @@
                   
                      
                         Chapitre III : Composition et élections.
-                         (Articles L433-2 à L433-14)
+                         (Articles L433-1 à L433-14)
                      
                   
                   
                      
                         Chapitre IV : Fonctionnement.
-                         (Articles L434-2 à L434-12)
+                         (Articles L434-1 à L434-12)
                      
                   
                   
@@ -1980,28 +1996,6 @@
                                (Article L412-1)
                            
                         
-                     
-                  
-               
-            
-            
-               
-                  INTERESSEMENT ET PARTICIPATION
-                  
-                     
-                        PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES
-                        
-                           
-                              REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .
-                               (Articles L442-5 à L442-7)
-                           
-                        
-                     
-                  
-                  
-                     
-                        PLANS D'EPARGNE D'ENTREPRISE .
-                         (Articles L443-5 à L443-6)
                      
                   
                
@@ -2271,7 +2265,7 @@
                         
                            
                               Section 2 : La Cour supérieure d'arbitrage.
-                               (Articles L525-5 à L525-8)
+                               (Articles L525-5 à L525-9)
                            
                         
                      
@@ -4754,13 +4748,13 @@
                               
                                  
                                     B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
-                                     (Article R322-6)
+                                     (Articles R322-6 à R322-6-1)
                                  
                               
                               
                                  
                                     C : Consultation.
-                                     (Articles R322-9 à R322-10)
+                                     (Article R322-9)
                                  
                               
                            
@@ -5471,7 +5465,7 @@
                               
                                  
                                     C : CONSULTATION.
-                                     (Article R322-8)
+                                     (Articles R322-8 à R322-10)
                                  
                               
                            
@@ -7062,8 +7056,177 @@
             
             
                
+                  Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
+                  
+                     
+                        Chapitre Ier : De la promotion individuelle et du congé de formation
+                        
+                           
+                              Section 1 : Dispositions communes.
+                               (Articles R931-1 à R931-12)
+                           
+                        
+                        
+                           
+                              Section 2 : Dispositions spéciales au congé de l'article L. 931-14.
+                               (Articles R931-13 à R931-19)
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions spéciales aux priorités prévues au troisième alinéa de l'article L. 931-8.
+                               (Articles R931-20 à R931-22)
+                           
+                        
+                     
+                  
+               
+            
+            
+               
                   Titre IV.
                    (Articles R940-1 à R940-3)
+               
+            
+            
+               
+                  Titre VI : Des aides financières accordées aux stagiaires de formation professionnelle et de leur protection sociale
+                  
+                     
+                        Chapitre Ier : Des aides financières accordées aux stagiaires de formation professionnelle
+                        
+                           
+                              Section 1 : Stages ouvrant droit à rémunération.
+                               (Articles R961-1 à R961-4)
+                           
+                        
+                        
+                           
+                              Section 2 : Modalités de calcul et de versement des rémunérations
+                              
+                                 
+                                    Paragraphe 1 : Rémunérations versées aux stagiaires.
+                                     (Articles R961-5 à R961-13)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 2 : Application des dispositions de l'article L. 961-4.
+                                     (Article R961-14)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Dispositions communes.
+                                     (Article R961-15)
+                                 
+                              
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre II : De la protection sociale des stagiaires de la formation professionnelle.
+                         (Article R962-3)
+                     
+                  
+                  
+                     
+                        Chapitre III : Remboursement des frais de transport exposés par les stagiaires et dispositions diverses
+                        
+                           
+                              A - Remboursement des frais de transport.
+                               (Articles R963-1 à R963-4)
+                           
+                        
+                        
+                           
+                              B - Dispositions diverses.
+                               (Article R963-5)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre IV : Fonds d'assurance-formation et organismes paritaires agréés en application de l'article L. 950-2-3
+                        
+                           
+                              Paragraphe 1 : Dispositions communes.
+                               (Articles R964-1 à R964-10)
+                           
+                        
+                        
+                           
+                              Paragraphe 2 : Dispositions propres aux fonds d'assurance-formation de salariés.
+                               (Articles R964-11 à R964-18)
+                           
+                        
+                        
+                           
+                              Paragraphe 3 : Dispositions propres aux fonds d'assurance-formation des non-salariés.
+                               (Articles R964-19 à R964-20)
+                           
+                        
+                        
+                           
+                              Paragraphe 4 : Dispositions relatives à l'agrément prévu à l'article L. 950-2-3.
+                               (Articles R964-21 à R964-23)
+                           
+                        
+                        
+                           
+                              Paragraphe 5 : Règles applicables aux organismes paritaires agréés.
+                               (Articles R964-24 à R964-28)
+                           
+                        
+                     
+                  
+               
+            
+            
+               
+                  Titre VI : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE    FORMATION PROFESSIONNELLE
+                  
+                     
+                        Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE    FORMATION PROFESSIONNELLE
+                        
+                           
+                              SECTION 1 : STAGES OUVRANT DROIT A REMUNERATION
+                               (Article R961-3)
+                           
+                        
+                        
+                           
+                              SECTION 2 : MODALITES DE CALCULS ET DE VERSEMENT DES REMUNERATIONS
+                              
+                                 
+                                    PARAGRAPHE 1 : REMUNERATIONS VERSEES AUX STAGIAIRES.
+                                     (Article R961-6)
+                                 
+                              
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre IV : FONDS D'ASSURANCE FORMATION ET ORGANISMES PARITAIRES    AGREES EN APPLICATION DE L'ARTICLE L. 950-2-3
+                         (Article R964-15)
+                     
+                  
+               
+            
+            
+               
+                  Titre VI : DE LA PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE
+                  
+                     
+                        Chapitre II : DE LA PROTECTION SOCIALE DES STAGIAIRES DE LA    FORMATION PROFESSIONNELLE.
+                         (Article R962-1)
+                     
+                  
                
             
             
@@ -7136,42 +7299,6 @@
       
          
             FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
-            
-               
-                  DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.
-                   (Articles R930-1 à R930-3)
-               
-            
-            
-               
-                  DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-2.
-                   (Articles R930-4 à R930-6)
-               
-            
-            
-               
-                  MESURES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-11.
-                   (Articles R930-7 à R930-9)
-               
-            
-            
-               
-                  MESURES D'APPLICATION DE L'ARTICLE L930-2 .
-                   (Articles R930-13 à R930-19)
-               
-            
-            
-               
-                  MESURES D'APPLICATION DE L'ARTICLE L. 930-1-12.
-                   (Articles R930-10 à R930-12)
-               
-            
-            
-               
-                  MESURE D'APPLICATION DE L'ARTICLE L. 930-2
-                   (Article R930-14)
-               
-            
             
                
                   MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10
@@ -7253,127 +7380,6 @@
                      
                         SECTION 5 : CONTROLE DE LA PARTICIPATION DES EMPLOYEURS
                          (Article R950-21)
-                     
-                  
-               
-            
-            
-               
-                  Titre VI : MODALITES D'APPLICATION DE L'ARTICLE L950-2-3 ET DES ARTICLES L960-1 A L960-11
-                  
-                     
-                        SECTION 1 : STAGES OUVRANT DROIT A REMUNERATION
-                         (Articles R960-1 à R960-4)
-                     
-                  
-                  
-                     
-                        SECTION 2 : MODALITES DE CALCULS ET DE VERSEMENT DES REMUNERATIONS
-                        
-                           
-                              PARAGRAPHE 1 : REMUNERATIONS VERSEES AUX STAGIAIRES.
-                               (Articles R960-6 à R960-12)
-                           
-                        
-                     
-                  
-                  
-                     
-                        SECTION 3 : PROTECTION SOCIALE DES STAGIAIRES
-                         (Articles R960-16 à R960-18)
-                     
-                  
-                  
-                     
-                        SECTION 4 : REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.
-                         (Articles R960-20 à R960-22)
-                     
-                  
-                  
-                     
-                        SECTION 5 : DISPOSITIONS DIVERSES.
-                         (Article R960-23)
-                     
-                  
-                  
-                     
-                        SECTION 6 : FONDS D'ASSURANCE FORMATION ET ORGANISMES PARITAIRES AGREES EN APPLICATION DE L'ARTICLE L950-2-3
-                        
-                           
-                              PARAGRAPHE 1 : DISPOSITIONS COMMUNES AUX FONDS ET ORGANISMES DE SALARIES ET DE NON-SALARIES.
-                               (Articles R960-24 à R960-33)
-                           
-                        
-                        
-                           
-                              PARAGRAPHE 2 : DISPOSITIONS PROPRES AUX FONDS D'ASSURANCE-FORMATION DE SALARIES
-                               (Articles R960-34 à R960-41)
-                           
-                        
-                        
-                           
-                              PARAGRAPHE 3 : DISPOSITIONS PROPRES AUX FONDS D'ASSURANCE FORMATION DE NON-SALARIES
-                               (Articles R960-42 à R960-43)
-                           
-                        
-                        
-                           
-                              PARAGRAPHE 4 : DISPOSITIONS RELATIVES A L'AGREMENT PREVU A L'ARTICLE L950-2-3
-                               (Articles R960-44 à R960-46)
-                           
-                        
-                        
-                           
-                              PARAGRAPHE 5 : REGLES APPLICABLES AUX ORGANISMES PARITAIRES AGREES
-                               (Articles R960-47 à R960-51)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  Titre VI : MODALITES D'APPLICATION DES ARTICLES L950-2-3 ET DES    ARTICLES L960-1 A L960-11
-                  
-                     
-                        SECTION 1 : STAGES OUVRANT DROIT A REMUNERATION
-                         (Articles R960-2 à R960-3)
-                     
-                  
-                  
-                     
-                        SECTION 2 : MODALITES DE CALCUL ET DE VERSEMENT DES REMUNERATIONS
-                        
-                           
-                              PARAGRAPHE 1 : REMUNERATIONS DES STAGIAIRES
-                               (Article R960-5)
-                           
-                        
-                        
-                           
-                              PARAGRAPHE 1 : REMUNERATIONS VERSEES AUX STAGIAIRES.
-                               (Articles R960-7 à R960-13)
-                           
-                        
-                        
-                           
-                              PARAGRAPHE 2 : APPLICATION DES DISPOSITIONS DES ARTICLES L960-3 II ET L960-4.
-                               (Article R960-14)
-                           
-                        
-                        
-                           
-                              PARAGRAPHE 3 : DISPOSITIONS COMMUNES *REMUNERATIONS VERSEES AUX STAGIAIRES ET APPLICATION DES DISPOSITIONS DES ARTICLES L960-3-II ET L960-4*
-                               (Article R960-15)
-                           
-                        
-                     
-                  
-                  
-                     
-                        SECTION 4 : REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES
-                         (Article R960-19)
                      
                   
                
