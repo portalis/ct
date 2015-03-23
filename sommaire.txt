@@ -3067,13 +3067,13 @@
                                     
                                        
                                           Paragraphe 3 : Du fonctionnement pédagogique des centres.
-                                           (Articles R116-13 à R116-14)
+                                           (Articles R116-12 à R116-14)
                                        
                                     
                                     
                                        
                                           Paragraphe 4 : De l'organisation financière des centres.
-                                           (Article R116-15)
+                                           (Articles R116-15 à R116-17)
                                        
                                     
                                  
@@ -3081,13 +3081,13 @@
                               
                                  
                                     Section 2 : De la conclusion et du renouvellement des conventions.
-                                     (Articles R116-21 à R116-23)
+                                     (Articles R116-18 à R116-23)
                                  
                               
                               
                                  
                                     Section 3 : Des conventions-cadre d'apprentissage.
-                                     (Article R116-25)
+                                     (Articles R116-24 à R116-25)
                                  
                               
                               
@@ -3099,7 +3099,24 @@
                               
                                  
                                     Section 5 : Du contrôle des centres de formation d'apprentis.
-                                     (Article R116-34)
+                                     (Articles R116-33 à R116-36)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre VI : CENTRES DE FORMATION D'APPRENTIS
+                              
+                                 
+                                    SECTION 2 : CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS
+                                     (Article R116-20)
+                                 
+                              
+                              
+                                 
+                                    SECTION 4 : PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS
+                                     (Articles R116-27 à R116-29)
                                  
                               
                            
@@ -3145,7 +3162,7 @@
                               
                                  
                                     A - DISPOSITIONS FINANCIERES.
-                                     (Articles R119-1 à R119-5)
+                                     (Articles R119-1 à R119-3)
                                  
                               
                               
@@ -3198,41 +3215,6 @@
                         
                            
                               B - Mesures provisoires d'adaptation en matière d'apprentissage
-                              
-                                 
-                                    Section 1 : Des accords provisoires
-                                    
-                                       
-                                          Paragraphe 1 : Dispositions générales.
-                                           (Articles R119-6 à R119-11)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 3 : Des accords de transformation et des avenants d'adaptation.
-                                           (Articles R119-15 à R119-21)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 4 : Dispositions relatives au personnel.
-                                           (Article R119-25)
-                                       
-                                    
-                                    
-                                       
-                                          Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.
-                                           (Article R119-26)
-                                       
-                                    
-                                    
-                                       
-                                          Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
-                                           (Article R119-27)
-                                       
-                                    
-                                 
-                              
                               
                                  
                                     C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.
@@ -3406,6 +3388,27 @@
                                  
                                     PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.
                                      (Article R117-1)
+                                 
+                              
+                           
+                        
+                     
+                  
+                  
+                     
+                        DISPOSITIONS PARTICULIERES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972
+                        
+                           
+                              Chapitre IX : DISPOSITIONS DIVERSES
+                              
+                                 
+                                    D - INSPECTION DE L'APPRENTISSAGE
+                                    
+                                       
+                                          DISPOSITIONS GENERALES
+                                           (Article R119-48)
+                                       
+                                    
                                  
                               
                            
@@ -3692,6 +3695,12 @@
             
                
                   Titre V : Pénalités
+                  
+                     
+                        Chapitre Ier : Contrat d'apprentissage et statut de l'apprenti.
+                         (Articles R151-1 à R151-5)
+                     
+                  
                   
                      
                         Chapitre II : Contrat de travail
@@ -4488,39 +4497,9 @@
                                     
                                        
                                           FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
-                                           (Articles R116-11 à R116-12)
+                                           (Article R116-11)
                                        
                                     
-                                    
-                                       
-                                          ORGANISATION FINANCIERE DES CENTRES .
-                                           (Articles R116-16 à R116-17)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS .
-                                     (Articles R116-18 à R116-22)
-                                 
-                              
-                              
-                                 
-                                    CONVENTIONS-CADRE D' APPRENTISSAGE .
-                                     (Article R116-24)
-                                 
-                              
-                              
-                                 
-                                    PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .
-                                     (Articles R116-27 à R116-31)
-                                 
-                              
-                              
-                                 
-                                    CONTROLE DES CENTRES DE FORMATION D'APPRENTIS .
-                                     (Articles R116-33 à R116-36)
                                  
                               
                            
@@ -4534,12 +4513,6 @@
                                      (Article R117-8)
                                  
                               
-                           
-                        
-                        
-                           
-                              INSPECTION DE L'APPRENTISSAGE .
-                               (Article R119-48)
                            
                         
                      
@@ -6114,23 +6087,6 @@
                                      (Article R442-2)
                                  
                               
-                              
-                                 
-                                    MODALITES DE GESTION DE LA RESERVE SPECIALE .
-                                     (Article R442-11)
-                                 
-                              
-                           
-                        
-                     
-                  
-                  
-                     
-                        PLAN D'EPARGNE D'ENTREPRISE
-                        
-                           
-                              COMPOSITION ET GESTION DU PORTEFEUILLE .
-                               (Article R443-10)
                            
                         
                      
@@ -6842,7 +6798,7 @@
             
                
                   Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.
-                   (Articles R910-1 à R910-14)
+                   (Articles R910-1 à R910-15)
                
             
             
@@ -6923,12 +6879,6 @@
             FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE
             
                
-                  COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .
-                   (Articles R910-6 à R910-15)
-               
-            
-            
-               
                   DISPOSITIONS COMMUNES D'APPLICATION DES ARTICLES L. 930-1 A L. 930-1-12.
                    (Articles R930-1 à R930-3)
                
@@ -6969,7 +6919,7 @@
                   
                      
                         DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA  FORMATION PROFESSIONNELLE CONTINUE .
-                         (Articles R950-3 à R950-13)
+                         (Articles R950-4 à R950-13)
                      
                   
                   
@@ -6981,13 +6931,13 @@
                   
                      
                         DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .
-                         (Articles R950-15 à R950-18)
+                         (Articles R950-17 à R950-18)
                      
                   
                   
                      
                         CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .
-                         (Articles R950-19 à R950-21)
+                         (Article R950-20)
                      
                   
                
@@ -7006,11 +6956,10 @@
             
                
                   MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10
-                   (Articles R980-5 à R980-6)
                   
                      
                         REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.
-                         (Articles R980-4 à R980-8)
+                         (Article R980-8)
                      
                   
                
@@ -7027,6 +6976,184 @@
                      
                         SECTION 1 : CHAMP D'APPLICATION DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE .
                          (Article R950-1)
+                     
+                  
+                  
+                     
+                        SECTION 2 : DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
+                         (Article R950-9)
+                     
+                  
+                  
+                     
+                        SECTION 4 : DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS    AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
+                         (Article R950-16)
+                     
+                  
+                  
+                     
+                        SECTION 5 : CONTROLE DE LA PARTICIPATION DES EMPLOYEURS
+                         (Article R950-21)
+                     
+                  
+               
+            
+            
+               
+                  Titre VI : MODALITES D'APPLICATION DE L'ARTICLE L950-2-3 ET DES ARTICLES L960-1 A L960-11
+                  
+                     
+                        SECTION 1 : STAGES OUVRANT DROIT A REMUNERATION
+                         (Articles R960-1 à R960-4)
+                     
+                  
+                  
+                     
+                        SECTION 2 : MODALITES DE CALCULS ET DE VERSEMENT DES REMUNERATIONS
+                        
+                           
+                              PARAGRAPHE 1 : REMUNERATIONS VERSEES AUX STAGIAIRES.
+                               (Articles R960-6 à R960-12)
+                           
+                        
+                     
+                  
+                  
+                     
+                        SECTION 3 : PROTECTION SOCIALE DES STAGIAIRES
+                         (Articles R960-16 à R960-18)
+                     
+                  
+                  
+                     
+                        SECTION 4 : REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.
+                         (Articles R960-20 à R960-22)
+                     
+                  
+                  
+                     
+                        SECTION 5 : DISPOSITIONS DIVERSES.
+                         (Article R960-23)
+                     
+                  
+                  
+                     
+                        SECTION 6 : FONDS D'ASSURANCE FORMATION ET ORGANISMES PARITAIRES AGREES EN APPLICATION DE L'ARTICLE L950-2-3
+                        
+                           
+                              PARAGRAPHE 1 : DISPOSITIONS COMMUNES AUX FONDS ET ORGANISMES DE SALARIES ET DE NON-SALARIES.
+                               (Articles R960-24 à R960-33)
+                           
+                        
+                        
+                           
+                              PARAGRAPHE 2 : DISPOSITIONS PROPRES AUX FONDS D'ASSURANCE-FORMATION DE SALARIES
+                               (Articles R960-34 à R960-41)
+                           
+                        
+                        
+                           
+                              PARAGRAPHE 3 : DISPOSITIONS PROPRES AUX FONDS D'ASSURANCE FORMATION DE NON-SALARIES
+                               (Articles R960-42 à R960-43)
+                           
+                        
+                        
+                           
+                              PARAGRAPHE 4 : DISPOSITIONS RELATIVES A L'AGREMENT PREVU A L'ARTICLE L950-2-3
+                               (Articles R960-44 à R960-46)
+                           
+                        
+                        
+                           
+                              PARAGRAPHE 5 : REGLES APPLICABLES AUX ORGANISMES PARITAIRES AGREES
+                               (Articles R960-47 à R960-51)
+                           
+                        
+                     
+                  
+               
+            
+            
+               
+                  Titre VI : MODALITES D'APPLICATION DES ARTICLES L950-2-3 ET DES    ARTICLES L960-1 A L960-11
+                  
+                     
+                        SECTION 1 : STAGES OUVRANT DROIT A REMUNERATION
+                         (Articles R960-2 à R960-3)
+                     
+                  
+                  
+                     
+                        SECTION 2 : MODALITES DE CALCUL ET DE VERSEMENT DES REMUNERATIONS
+                        
+                           
+                              PARAGRAPHE 1 : REMUNERATIONS DES STAGIAIRES
+                               (Article R960-5)
+                           
+                        
+                        
+                           
+                              PARAGRAPHE 1 : REMUNERATIONS VERSEES AUX STAGIAIRES.
+                               (Articles R960-7 à R960-13)
+                           
+                        
+                        
+                           
+                              PARAGRAPHE 2 : APPLICATION DES DISPOSITIONS DES ARTICLES L960-3 II ET L960-4.
+                               (Article R960-14)
+                           
+                        
+                        
+                           
+                              PARAGRAPHE 3 : DISPOSITIONS COMMUNES *REMUNERATIONS VERSEES AUX STAGIAIRES ET APPLICATION DES DISPOSITIONS DES ARTICLES L960-3-II ET L960-4*
+                               (Article R960-15)
+                           
+                        
+                     
+                  
+                  
+                     
+                        SECTION 4 : REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES
+                         (Article R960-19)
+                     
+                  
+               
+            
+            
+               
+                  Titre VIII : DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER     *DOM*
+                  
+                     
+                        SECTION 2 : REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES
+                         (Articles R980-4 à R980-7)
+                     
+                  
+               
+            
+         
+      
+      
+         
+            Livre IX : FORMATION PROFESSIONNELLE DANS LE CADRE DE LA FORMATION PERMANENTE
+            
+               
+                  Titre V : MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10
+                  
+                     
+                        SECTION 2 : DEPENSES CONSACREES PAR LES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
+                         (Article R950-10)
+                     
+                  
+                  
+                     
+                        SECTION 4 : DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
+                         (Article R950-15)
+                     
+                  
+                  
+                     
+                        SECTION 5 : CONTROLE DE LA PARTICIPATION DES EMPLOYEURS
+                         (Articles R950-19 à R950-22)
                      
                   
                
@@ -7066,7 +7193,7 @@
                         
                            
                               Chapitre VII : SALAIRE DE L'APPRENTI .
-                               (Article D117-2)
+                               (Articles D117-1 à D117-3)
                            
                         
                      
@@ -7167,27 +7294,6 @@
                            
                               SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
                                (Articles D143-1 à D143-2)
-                           
-                        
-                     
-                  
-               
-            
-         
-      
-      
-         
-            CONVENTIONS RELATIVES AU TRAVAIL
-            
-               
-                  CONTRAT D'APPRENTISSAGE
-                  
-                     
-                        DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972
-                        
-                           
-                              SALAIRE DE L'APPRENTI .
-                               (Articles D117-1 à D117-3)
                            
                         
                      
@@ -8121,7 +8227,7 @@
                         
                            
                               DISPOSITIONS FINANCIERES .
-                               (Articles D811-52 à D811-54)
+                               (Article D811-52)
                            
                         
                      
