@@ -569,6 +569,12 @@
                         
                         
                            
+                              SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE .
+                               (Article L143-11-7)
+                           
+                        
+                        
+                           
                               Section 3 : Prescription de l'action en paiement du salaire.
                                (Article L143-14)
                            
@@ -802,28 +808,6 @@
                      
                         MARCHANDAGE .
                          (Article L125-3)
-                     
-                  
-               
-            
-            
-               
-                  SALAIRE
-                  
-                     
-                        PAIEMENT DU SALAIRE
-                        
-                           
-                              PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
-                               (Articles L143-9 à L143-11-6)
-                           
-                        
-                        
-                           
-                              PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE .
-                               (Article L143-11-7)
-                           
-                        
                      
                   
                
@@ -1257,12 +1241,6 @@
             
                
                   Titre II : Emploi
-                  
-                     
-                        Chapitre Ier : CONTROLE DE L'EMPLOI .
-                         (Articles L321-7 à L321-11)
-                     
-                  
                   
                      
                         Chapitre II : Fonds national de l'emploi
@@ -1797,13 +1775,7 @@
                   
                      
                         Chapitre VI : Conditions de licenciement des représentants du personnel
-                         (Articles L436-2 à L436-3)
-                     
-                  
-                  
-                     
-                        Chapitre VI : CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL *PROCEDURE*.
-                         (Article L436-1)
+                         (Articles L436-1 à L436-3)
                      
                   
                   
@@ -7003,6 +6975,12 @@
             
             
                
+                  Titre II : Mesures d'application des articles L. 920-4, L. 920-5, L. 920-12.
+                   (Articles R920-1 à R920-8)
+               
+            
+            
+               
                   Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
                   
                      
@@ -7307,12 +7285,6 @@
                          (Articles R950-17 à R950-18)
                      
                   
-                  
-                     
-                        CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .
-                         (Article R950-20)
-                     
-                  
                
             
          
@@ -7343,7 +7315,13 @@
                   
                   
                      
-                        SECTION 5 : CONTROLE DE LA PARTICIPATION DES EMPLOYEURS
+                        SECTION 5 : DU CONTROLE ET DES RECOURS EN MATIERE DE FORMATION    PROFESSIONNELLE
+                         (Article R950-20)
+                     
+                  
+                  
+                     
+                        SECTION 5 : DU CONTROLE ET DU RECOURS EN MATIERE DE FORMATION    PROFESSIONNELLE
                          (Article R950-21)
                      
                   
@@ -7372,7 +7350,13 @@
                   
                      
                         SECTION 5 : CONTROLE DE LA PARTICIPATION DES EMPLOYEURS
-                         (Articles R950-19 à R950-22)
+                         (Article R950-22)
+                     
+                  
+                  
+                     
+                        SECTION 5 : DU CONTROLE ET DES RECOURS EN MATIERE DE FORMATION    PROFESSIONNELLE
+                         (Article R950-19)
                      
                   
                
