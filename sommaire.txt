@@ -145,6 +145,12 @@
                               
                               
                                  
+                                    SECTION 2 : CONDITIONS DU CONTRAT
+                                     (Article L117-10)
+                                 
+                              
+                              
+                                 
                                     SECTION 3 : FORMATION ET RESOLUTION DU CONTRAT D'APPRENTISSAGE .
                                      (Article L117-15)
                                  
@@ -179,6 +185,12 @@
                   
                      
                         Chapitre VII : Du contrat d'apprentissage
+                        
+                           
+                              Section 1 : Définition et régime juridique.
+                               (Article L117-2)
+                           
+                        
                         
                            
                               Section 2 : Conditions du contrat.
@@ -341,7 +353,7 @@
                   
                      
                         Chapitre V : Marchandage.
-                         (Article L125-2)
+                         (Articles L125-1 à L125-2)
                      
                   
                   
@@ -357,19 +369,102 @@
                   Titre III : Conventions et accords collectifs de travail
                   
                      
+                        Chapitre Ier : Champ d'application.
+                         (Articles L131-1 à L131-3)
+                     
+                  
+                  
+                     
+                        Chapitre II : Nature et validité des conventions et accords collectifs de travail
+                         (Article L132-1)
+                        
+                           
+                              Section 1 : Dispositions communes.
+                               (Articles L132-2 à L132-10)
+                           
+                        
+                        
+                           
+                              Section 2 : Conventions collectives de branches et accords professionnels et interprofessionnels.
+                               (Articles L132-11 à L132-17)
+                           
+                        
+                        
+                           
+                              Section 3 : Conventions et accords collectifs d'entreprise.
+                               (Article L132-18)
+                              
+                                 
+                                    Sous-section 1 : Dispositions générales.
+                                     (Articles L132-19 à L132-26)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Négociation annuelle obligatoire.
+                                     (Articles L132-27 à L132-29)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              SECTION 4 : DISPOSITIONS PARTICULIERES AUX ENTREPRISES DE MOINS DE ONZE SALARIES.
+                               (Article L132-30)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre III : Conventions et accords susceptibles d'être étendus et procédures d'extension et d'élargissement
+                        
+                           
+                              Section 1 : Conventions et accords susceptibles d'être étendus.
+                               (Articles L133-1 à L133-6)
+                           
+                        
+                        
+                           
+                              Section 2 : Procédures d'extension et d'élargissement.
+                               (Articles L133-8 à L133-17)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre III : CONVENTIONS ET ACCORDS SUSCEPTIBLES D'ETRE ETENDUS
+                        
+                           
+                              SECTION 1 : CONVENTIONS ET ACCORDS SUSCEPTIBLES D'ETRE ETENDUS.
+                               (Article L133-7)
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre IV : CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL DANS LES ENTREPRISES PUBLIQUES ET ETABLISSEMENTS PUBLICS A CARACTERE INDUSTRIEL ET COMMERCIAL.
                          (Articles L134-1 à L134-2)
                      
                   
-               
-            
-            
-               
-                  Titre III : CONVENTIONS COLLECTIVES DE TRAVAIL
                   
                      
-                        Chapitre III : CONVENTIONS SUSCEPTIBLES D'ETRE ETENDUES ET PROCEDURE D'EXTENSION .
-                         (Articles L133-6 à L133-18)
+                        Chapitre V : Application des conventions et accords collectifs de travail.
+                         (Articles L135-1 à L135-8)
+                     
+                  
+                  
+                     
+                        Chapitre VI : Commission nationale de la négociation collective.
+                         (Articles L136-1 à L136-4)
+                     
+                  
+                  
+                     
+                        Chapitre VII : Dispositions finales.
+                         (Article L137-1)
                      
                   
                
@@ -390,7 +485,7 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles L141-1 à L141-8)
+                               (Articles L141-1 à L141-9)
                            
                         
                         
@@ -442,12 +537,6 @@
                            
                               Section 3 : Prescription de l'action en paiement du salaire.
                                (Article L143-14)
-                           
-                        
-                        
-                           
-                              Section 4 : Dispositions diverses.
-                               (Article L143-15)
                            
                         
                      
@@ -514,6 +603,12 @@
                                (Article L152-4)
                            
                         
+                     
+                  
+                  
+                     
+                        Chapitre III : Conventions et accords collectifs de travail.
+                         (Articles L153-1 à L153-2)
                      
                   
                   
@@ -608,14 +703,8 @@
                         
                         
                            
-                              DEFINITION ET REGIME JURIDIQUE DU CONTRAT D'APPRENTISSAGE .
-                               (Article L117-2)
-                           
-                        
-                        
-                           
                               CONDITIONS DU CONTRAT D'APPRENTISSAGE .
-                               (Articles L117-5 à L117-10)
+                               (Article L117-5)
                            
                         
                      
@@ -652,48 +741,7 @@
                   
                      
                         MARCHANDAGE .
-                         (Articles L125-1 à L125-3)
-                     
-                  
-               
-            
-            
-               
-                  CONVENTIONS COLLECTIVES DE TRAVAIL
-                  
-                     
-                        CHAMP D'APPLICATION .
-                         (Articles L131-1 à L131-3)
-                     
-                  
-                  
-                     
-                        NATURE ET VALIDITE DE LA CONVENTION COLLECTIVE DE TRAVAIL .
-                         (Articles L132-1 à L132-10)
-                     
-                  
-                  
-                     
-                        CONVENTIONS SUSCEPTIBLES D'ETRE ETENDUES ET PROCEDURE D'EXTENSION .
-                         (Articles L133-1 à L133-17)
-                     
-                  
-                  
-                     
-                        CONVENTIONS COLLECTIVES DANS LES ENTREPRISES PUBLIQUES .
-                         (Articles L134-1 à L134-2)
-                     
-                  
-                  
-                     
-                        EXECUTION DE LA CONVENTION COLLECTIVE DE TRAVAIL .
-                         (Articles L135-1 à L135-5)
-                     
-                  
-                  
-                     
-                        COMMISSION SUPERIEURE DES CONVENTIONS COLLECTIVES .
-                         (Articles L136-1 à L136-4)
+                         (Article L125-3)
                      
                   
                
@@ -709,19 +757,7 @@
                   
                   
                      
-                        SALAIRE MINIMUM DE CROISSANCE *SMIC* .
-                         (Articles L141-3 à L141-9)
-                     
-                  
-                  
-                     
                         PAIEMENT DU SALAIRE
-                        
-                           
-                              MODE DE PAIEMENT DU SALAIRE .
-                               (Article L143-4)
-                           
-                        
                         
                            
                               PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
@@ -786,7 +822,7 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles L212-1 à L212-2)
+                               (Articles L212-1 à L212-4)
                            
                         
                         
@@ -955,22 +991,6 @@
             
             
                
-                  Titre II : CONGES
-                  
-                     
-                        Chapitre III : CONGES ANNUELS
-                        
-                           
-                              SECTION 2 : DUREE DU CONGE *PAYE*.
-                               (Article L223-6)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   Titre III : Hygiène, sécurité et conditions de travail
                   
                      
@@ -981,7 +1001,7 @@
                   
                      
                         Chapitre II : Hygiène.
-                         (Articles L232-1 à L232-2)
+                         (Articles L232-1 à L232-3)
                      
                   
                   
@@ -1081,28 +1101,6 @@
             REGLEMENTATION DU TRAVAIL
             
                
-                  CONDITIONS DU TRAVAIL
-                  
-                     
-                        DUREE DU TRAVAIL
-                        
-                           
-                              DISPOSITIONS GENERALES.
-                               (Article L212-4)
-                           
-                        
-                        
-                           
-                              HEURES SUPPLEMENTAIRES .
-                               (Article L212-7)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   REPOS HEBDOMADAIRE .
                    (Article L221-21)
                
@@ -1112,14 +1110,8 @@
                   CONGES ANNUELS
                   
                      
-                        DUREE DU CONGE *PAYE*.
-                         (Article L223-3)
-                     
-                  
-                  
-                     
                         DUREE DU CONGE .
-                         (Articles L223-7 à L223-8)
+                         (Article L223-8)
                      
                   
                
@@ -1128,18 +1120,6 @@
                
                   HYGIENE ET SECURITE .
                    (Articles L231-1 à L231-9)
-                  
-                     
-                        DISPOSITIONS GENERALES.
-                         (Article L231-2-1)
-                     
-                  
-                  
-                     
-                        HYGIENE .
-                         (Article L232-3)
-                     
-                  
                
             
          
@@ -1350,7 +1330,7 @@
                         
                            
                               SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.
-                               (Article L351-17)
+                               (Articles L351-16 à L351-17)
                            
                         
                         
@@ -1481,7 +1461,7 @@
                   
                      
                         Chapitre Ier : CONTROLE DE L'EMPLOI.
-                         (Articles L321-1 à L321-9)
+                         (Articles L321-1 à L321-12)
                      
                   
                   
@@ -1512,6 +1492,12 @@
                                  
                                     SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
                                      (Articles L323-15 à L323-18)
+                                 
+                              
+                              
+                                 
+                                    SOUS-SECTION 3 : PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES.
+                                     (Article L323-21)
                                  
                               
                               
@@ -1568,12 +1554,6 @@
             EMPLOI
             
                
-                  CONTROLE DE L'EMPLOI .
-                   (Article L321-12)
-               
-            
-            
-               
                   FONDS NATIONAL DE L'EMPLOI .
                    (Articles L322-1 à L322-4)
                
@@ -1582,22 +1562,6 @@
                
                   PRIME DE MOBILITE DES JEUNES .
                    (Articles L322-7 à L322-10)
-               
-            
-            
-               
-                  DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
-                  
-                     
-                        TRAVAILLEURS HANDICAPES .
-                        
-                           
-                              PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .
-                               (Articles L323-21 à L323-26)
-                           
-                        
-                     
-                  
                
             
             
@@ -1633,12 +1597,6 @@
                            
                               DISPOSITIONS GENERALES
                                (Articles L351-1 à L351-6-2)
-                           
-                        
-                        
-                           
-                              DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
-                               (Article L351-16)
                            
                         
                         
@@ -1842,7 +1800,7 @@
                   
                      
                         Chapitre VIII : Bilan social.
-                         (Articles L438-1 à L438-9)
+                         (Articles L438-1 à L438-10)
                      
                   
                   
@@ -1859,7 +1817,7 @@
                   
                      
                         Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.
-                         (Articles L441-2 à L441-10)
+                         (Articles L441-1 à L441-10)
                      
                   
                   
@@ -1869,6 +1827,12 @@
                            
                               Section 1 : Régime obligatoire de participation des travailleurs aux fruits de l'expansion dans les entreprises de plus de cent salariés.
                                (Articles L442-1 à L442-14)
+                           
+                        
+                        
+                           
+                              Section 2 : Régime des entreprises qui ne sont pas soumises aux obligations de la section I.
+                               (Article L442-15)
                            
                         
                         
@@ -1883,6 +1847,17 @@
                      
                         Chapitre III : Plans d'épargne d'entreprise.
                          (Articles L443-1 à L443-10)
+                     
+                  
+               
+            
+            
+               
+                  Titre V : EDUCATION OUVRIERE ET FORMATION SYNDICALE
+                  
+                     
+                        Chapitre Ier : CONGE D'EDUCATION OUVRIERE.
+                         (Article L451-4)
                      
                   
                
@@ -1931,17 +1906,6 @@
                   LES SYNDICATS PROFESSIONNELS
                   
                      
-                        STATUT JURIDIQUE DES SYNDICATS
-                        
-                           
-                              CAPACITE CIVILE .
-                               (Article L411-17)
-                           
-                        
-                     
-                  
-                  
-                     
                         EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES
                         
                            
@@ -1955,37 +1919,14 @@
             
             
                
-                  LES COMITES D'ENTREPRISE
-                  
-                     
-                        BILAN SOCIAL .
-                         (Article L438-10)
-                     
-                  
-               
-            
-            
-               
                   INTERESSEMENT ET PARTICIPATION
-                  
-                     
-                        ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE .
-                         (Article L441-1)
-                     
-                  
                   
                      
                         PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES
                         
                            
                               REGIME OBLIGATOIRE DE PARTICIPATION DES TRAVAILLEURS AUX FRUITS  DE L'EXPANSION DANS LES ENTREPRISES DE PLUS DE CENT SALARIES .
-                               (Articles L442-5 à L442-11)
-                           
-                        
-                        
-                           
-                              REGIME DES ENTREPRISES NON SOUMISES AU REGIME DE PARTICIPATION  DES TRAVAILLEURS AUX FRUITS DE L'EXPANSION DES ENTREPRISES DE PLUS  DE CENT SALARIES .
-                               (Article L442-15)
+                               (Articles L442-5 à L442-7)
                            
                         
                      
@@ -2085,64 +2026,6 @@
                                (Article L521-2)
                            
                         
-                     
-                  
-                  
-                     
-                        DISPOSITIONS GENERALES CONCERNANT LES PROCEDURES DE REGLEMENT DES  CONFLITS COLLECTIFS DU TRAVAIL .
-                         (Articles L522-1 à L522-2)
-                     
-                  
-                  
-                     
-                        CONCILIATION .
-                         (Articles L523-1 à L523-8)
-                        
-                           
-                              CONCILIATION DANS CERTAINS ETABLISSEMENTS PUBLICS ET DANS LES  ENTREPRISES PUBLIQUES A STATUT .
-                               (Articles L523-9 à L523-13)
-                           
-                        
-                     
-                  
-                  
-                     
-                        MEDIATION .
-                         (Articles L524-1 à L524-5)
-                     
-                  
-                  
-                     
-                        ARBITRAGE
-                        
-                           
-                              L'ARBITRE .
-                               (Articles L525-1 à L525-4)
-                           
-                        
-                        
-                           
-                              LA COUR SUPERIEURE D'ARBITRAGE .
-                               (Article L525-9)
-                           
-                        
-                     
-                  
-                  
-                     
-                        EXECUTION DES ACCORDS DE CONCILIATION ET DES SENTENCES ARBITRALES .
-                         (Articles L526-1 à L526-3)
-                     
-                  
-               
-            
-            
-               
-                  PENALITES
-                  
-                     
-                        CONFLITS COLLECTIFS .
-                         (Article L532-1)
                      
                   
                
@@ -2288,8 +2171,31 @@
                   
                   
                      
+                        Chapitre II : Dispositions générales concernant les procédures de règlement des conflits collectifs du travail.
+                         (Articles L522-1 à L522-4)
+                     
+                  
+                  
+                     
+                        Chapitre III : Conciliation
+                        
+                           
+                              Section 1 : Dispositions générales.
+                               (Articles L523-1 à L523-6)
+                           
+                        
+                        
+                           
+                              Section 2 : Conciliation dans certains établissements publics et dans les entreprises publiques à statut.
+                               (Articles L523-7 à L523-11)
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre IV : Médiation.
-                         (Articles L524-2 à L524-7)
+                         (Articles L524-1 à L524-5)
                      
                   
                   
@@ -2297,10 +2203,22 @@
                         Chapitre V : Arbitrage
                         
                            
+                              Section 1 : L'arbitre.
+                               (Articles L525-1 à L525-4)
+                           
+                        
+                        
+                           
                               Section 2 : La Cour supérieure d'arbitrage.
                                (Articles L525-5 à L525-8)
                            
                         
+                     
+                  
+                  
+                     
+                        Chapitre VI : Dispositions finales.
+                         (Article L526-1)
                      
                   
                
@@ -2311,7 +2229,6 @@
                   
                      
                         CHAPITRE Ier : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-                         (Article L526-4)
                      
                   
                   
@@ -2323,6 +2240,12 @@
                                (Article L531-1)
                            
                         
+                     
+                  
+                  
+                     
+                        Chapitre II : Conflits collectifs
+                         (Article L532-1)
                      
                   
                
@@ -2338,7 +2261,7 @@
                   
                      
                         INSPECTION DU TRAVAIL .
-                         (Articles L611-1 à L611-15)
+                         (Articles L611-7 à L611-15)
                      
                   
                
@@ -2360,7 +2283,7 @@
                   
                      
                         Chapitre Ier : Inspection du travail.
-                         (Articles L611-2 à L611-13)
+                         (Articles L611-1 à L611-13)
                      
                   
                   
@@ -2790,52 +2713,13 @@
             DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
             
                
-                  ENERGIE - INDUSTRIES EXTRACTIVES
-                  
-                     
-                        DELEGUES MINEURS
-                        
-                           
-                              FONCTIONS DES DELEGUES MINEURS DU FOND .
-                               (Article L712-2)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  INDUSTRIES DE TRANSFORMATION
-                  
-                     
-                        TRAVAILLEURS A DOMICILE .
-                         (Article L721-6)
-                        
-                           
-                              SALAIRES .
-                               (Articles L721-10 à L721-16)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   TRANSPORTS ET TELECOMMUNICATIONS
                   
                      
                         MARINS .
-                         (Articles L742-2 à L742-5)
+                         (Article L742-5)
                      
                   
-               
-            
-            
-               
-                  VOYAGEURS, REPRESENTANTS ET PLACIERS *VRP* .
-                   (Articles L751-5 à L751-9)
                
             
             
@@ -2873,17 +2757,6 @@
                      
                         DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.
                          (Article L773-11)
-                     
-                  
-               
-            
-            
-               
-                  DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES
-                  
-                     
-                        GERANTS NON-SALARIES DES SUCCURSALES DE MAISONS D'ALIMENTATION DE  DETAIL .
-                         (Article L782-3)
                      
                   
                
@@ -6088,6 +5961,12 @@
                         
                         
                            
+                              SECTION 2 : FONCTIONNEMENT DES COMMISSIONS DE CONCILIATION.
+                               (Articles R523-11 à R523-12)
+                           
+                        
+                        
+                           
                               Section 5 : Commissions de conciliation dans les professions agricoles.
                                (Articles R523-18 à R523-20)
                            
@@ -6950,7 +6829,7 @@
             
                
                   Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.
-                   (Articles R910-2 à R910-14)
+                   (Articles R910-1 à R910-14)
                
             
             
@@ -7032,7 +6911,7 @@
             
                
                   COORDINATION DE LA POLITIQUE DE FORMATION PROFESSIONNELLE ET DE  PROMOTION SOCIALE .
-                   (Articles R910-1 à R910-15)
+                   (Articles R910-6 à R910-15)
                
             
             
