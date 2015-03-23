@@ -416,7 +416,7 @@
                               
                                  
                                     Conversion de certains avantages en nature.
-                                     (Articles L142-3 à L142-5)
+                                     (Article L142-5)
                                  
                               
                            
@@ -1007,7 +1007,13 @@
             
                
                   Titre III : HYGIENE ET SECURITE .
-                   (Articles L231-6 à L231-7)
+                   (Article L231-6)
+                  
+                     
+                        Chapitre Ier : DISPOSITIONS GENERALES
+                         (Article L231-7)
+                     
+                  
                
             
             
@@ -1687,7 +1693,7 @@
                         
                            
                               Section 1 : Objet et constitution.
-                               (Articles L411-2 à L411-9)
+                               (Articles L411-1 à L411-9)
                            
                         
                         
@@ -1699,7 +1705,7 @@
                         
                            
                               Section 3 : Unions de syndicats.
-                               (Articles L411-22 à L411-23)
+                               (Articles L411-21 à L411-23)
                            
                         
                      
@@ -1710,7 +1716,19 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles L412-2 à L412-3)
+                               (Articles L412-2 à L412-4)
+                           
+                        
+                        
+                           
+                              SECTION 2 : SECTIONS SYNDICALES.
+                               (Articles L412-5 à L412-9)
+                           
+                        
+                        
+                           
+                              SECTION 3 : DELEGUES SYNDICAUX.
+                               (Articles L412-11 à L412-21)
                            
                         
                      
@@ -1726,7 +1744,42 @@
             
                
                   Titre II : Les délégués du personnel
-                   (Article L420-9)
+                  
+                     
+                        Chapitre Ier : Champ d'application.
+                         (Articles L421-1 à L421-3)
+                     
+                  
+                  
+                     
+                        Chapitre II : ATTRIBUTIONS ET POUVOIRS.
+                         (Articles L422-1 à L422-4)
+                     
+                  
+                  
+                     
+                        Chapitre III : Composition et élections.
+                         (Articles L423-2 à L423-18)
+                     
+                  
+                  
+                     
+                        Chapitre IV : Fonctionnement.
+                         (Articles L424-1 à L424-5)
+                     
+                  
+                  
+                     
+                        Chapitre V : LICENCIEMENT DES DELEGUES DU PERSONNEL.
+                         (Articles L425-1 à L425-3)
+                     
+                  
+                  
+                     
+                        Chapitre VI : Dispositions générales.
+                         (Article L426-1)
+                     
+                  
                
             
             
@@ -1734,14 +1787,50 @@
                   Titre III : Les comités d'entreprise
                   
                      
+                        Chapitre Ier : Champ d'application
+                         (Articles L431-1 à L431-8)
+                     
+                  
+                  
+                     
+                        Chapitre II : Attributions et pouvoirs.
+                         (Articles L432-1 à L432-9)
+                     
+                  
+                  
+                     
                         Chapitre III : Composition et élections.
-                         (Article L433-4)
+                         (Articles L433-2 à L433-14)
                      
                   
                   
                      
                         Chapitre IV : Fonctionnement.
-                         (Article L434-2)
+                         (Articles L434-2 à L434-12)
+                     
+                  
+                  
+                     
+                        Chapitre V : Comités d'établissements et comité central d'entreprise.
+                         (Articles L435-1 à L435-5)
+                     
+                  
+                  
+                     
+                        Chapitre V : COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE.
+                         (Article L435-6)
+                     
+                  
+                  
+                     
+                        Chapitre VI : Conditions de licenciement des représentants du personnel
+                         (Articles L436-2 à L436-3)
+                     
+                  
+                  
+                     
+                        Chapitre VI : CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL *PROCEDURE*.
+                         (Article L436-1)
                      
                   
                   
@@ -1754,6 +1843,12 @@
                      
                         Chapitre VIII : Bilan social.
                          (Articles L438-1 à L438-9)
+                     
+                  
+                  
+                     
+                        Chapitre IX : Comité de groupe.
+                         (Articles L439-1 à L439-5)
                      
                   
                
@@ -1839,20 +1934,8 @@
                         STATUT JURIDIQUE DES SYNDICATS
                         
                            
-                              OBJET ET CONSTITUTION .
-                               (Articles L411-1 à L411-7)
-                           
-                        
-                        
-                           
                               CAPACITE CIVILE .
                                (Article L411-17)
-                           
-                        
-                        
-                           
-                              UNIONS DE SYNDICATS .
-                               (Article L411-21)
                            
                         
                      
@@ -1863,70 +1946,16 @@
                         
                            
                               DISPOSITIONS GENERALES .
-                               (Articles L412-1 à L412-4)
-                           
-                        
-                        
-                           
-                              SECTIONS SYNDICALES .
-                               (Articles L412-5 à L412-9)
-                           
-                        
-                        
-                           
-                              DELEGUES SYNDICAUX .
-                               (Articles L412-10 à L412-17)
+                               (Article L412-1)
                            
                         
                      
                   
-               
-            
-            
-               
-                  LES DELEGUES DU PERSONNEL .
-                   (Articles L420-1 à L420-24)
                
             
             
                
                   LES COMITES D'ENTREPRISE
-                  
-                     
-                        CHAMP D'APPLICATION .
-                         (Articles L431-1 à L431-3)
-                     
-                  
-                  
-                     
-                        ATTRIBUTIONS ET POUVOIRS .
-                         (Articles L432-2 à L432-5)
-                     
-                  
-                  
-                     
-                        COMPOSITION ET ELECTIONS .
-                         (Articles L433-1 à L433-13)
-                     
-                  
-                  
-                     
-                        FONCTIONNEMENT .
-                         (Articles L434-1 à L434-8)
-                     
-                  
-                  
-                     
-                        COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .
-                         (Articles L435-1 à L435-2)
-                     
-                  
-                  
-                     
-                        CONDITIONS DE LICENCIEMENT DES REPRESENTANTS DU PERSONNEL .
-                         (Articles L436-1 à L436-2)
-                     
-                  
                   
                      
                         BILAN SOCIAL .
@@ -2053,7 +2082,7 @@
                         
                            
                               GREVE DANS LES SERVICES PUBLICS .
-                               (Articles L521-2 à L521-6)
+                               (Article L521-2)
                            
                         
                      
@@ -2252,7 +2281,7 @@
                         
                            
                               Section 2 : Grève dans les services publics.
-                               (Articles L521-4 à L521-5)
+                               (Articles L521-3 à L521-6)
                            
                         
                      
@@ -4415,7 +4444,7 @@
             
                
                   Titre V : Service social du travail.
-                   (Articles R250-1 à R250-9)
+                   (Articles R250-1 à R250-10)
                
             
             
@@ -5067,12 +5096,6 @@
                    (Article R241-1)
                
             
-            
-               
-                  SERVICE SOCIAL DU TRAVAIL .
-                   (Article R250-10)
-               
-            
          
       
       
@@ -5119,6 +5142,23 @@
             
                
                   Titre III : Les comités d'entreprise
+                  
+                     
+                        Chapitre II : ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL
+                        
+                           
+                              SECTION 2 : INSTITUTIONS SOCIALES D'ENTREPRISES.
+                               (Article R432-3)
+                           
+                        
+                        
+                           
+                              SECTION 5 : FINANCEMENT DES ACTIVITES SOCIALES ET CULTURELLES.
+                               (Articles R432-13 à R432-17)
+                           
+                        
+                     
+                  
                   
                      
                         Chapitre IV : Fonctionnement.
@@ -6136,26 +6176,8 @@
                         
                         
                            
-                              INSTITUTIONS SOCIALES D'ENTREPRISES .
-                               (Articles R432-2 à R432-3)
-                           
-                        
-                        
-                           
-                              GESTION DES OEUVRES SOCIALES .
-                               (Articles R432-4 à R432-8)
-                           
-                        
-                        
-                           
                               COMITES INTERENTREPRISES .
                                (Articles R432-9 à R432-11)
-                           
-                        
-                        
-                           
-                              FINANCEMENT DES OEUVRES SOCIALES .
-                               (Articles R432-12 à R432-17)
                            
                         
                      
@@ -6217,6 +6239,48 @@
                            
                               COMPOSITION ET GESTION DU PORTEFEUILLE .
                                (Article R443-10)
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+      
+         
+            Livre IV : LES GROUPEMENTS, LA REPRESENTATION, LA PARTICIPATION ET L'INTERESSEMENT DES SALARIES
+            
+               
+                  Titre III : LES COMITES D'ENTREPRISE
+                  
+                     
+                        Chapitre II : ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL
+                        
+                           
+                              SECTION 3 : GESTION DES ACTIVITES SOCIALES ET CULTURELLES.
+                               (Article R432-8)
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+      
+         
+            Livre IV : LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA PARTICIPATION ET L'INTERESSEMENT DES SALAIRES
+            
+               
+                  Titre III : LES COMITES D'ENTREPRISE
+                  
+                     
+                        Chapitre II : ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL
+                        
+                           
+                              SECTION 5 : FINANCEMENT DES ACTIVITES SOCIALES ET CULTURELLES.
+                               (Article R432-12)
                            
                         
                      
