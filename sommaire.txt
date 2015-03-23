@@ -213,13 +213,19 @@
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Articles L121-2 à L121-6)
+                         (Articles L121-1 à L121-5)
                      
                   
                   
                      
                         Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
                          (Article L122-30)
+                        
+                           
+                              SECTION 1 : CONTRAT A DUREE DETERMINEE.
+                               (Articles L122-3 à L122-3-15)
+                           
+                        
                         
                            
                               Section 2 : Résiliation du contrat de travail à durée indéterminée
@@ -270,19 +276,19 @@
                         
                            
                               Section 2 : Règles spéciales en matière de relations de travail.
-                               (Articles L124-8 à L124-9)
+                               (Articles L124-4 à L124-9)
                            
                         
                         
                            
                               Section 3 : Règles de contrôle.
-                               (Articles L124-10 à L124-13)
+                               (Articles L124-10 à L124-13-1)
                            
                         
                         
                            
                               Section 4 : Dispositions diverses.
-                               (Articles L124-14 à L124-19)
+                               (Articles L124-14 à L124-20)
                            
                         
                      
@@ -447,6 +453,12 @@
                         Chapitre II : Contrat de travail
                         
                            
+                              Section 2 : Travail temporaire.
+                               (Articles L152-2-1 à L152-2-2)
+                           
+                        
+                        
+                           
                               Section 4 : Cautionnement.
                                (Article L152-4)
                            
@@ -512,6 +524,12 @@
                         Chapitre 2 : CONTRAT DE TRAVAIL
                         
                            
+                              SECTION 2 : TRAVAIL TEMPORAIRE.
+                               (Article L152-2)
+                           
+                        
+                        
+                           
                               SECTION 3 : MARCHANDAGE
                                (Article L152-3)
                            
@@ -562,13 +580,7 @@
             
                
                   CONTRAT DE TRAVAIL .
-                   (Articles L120-1 à L121-1)
-                  
-                     
-                        DISPOSITIONS GENERALES.
-                         (Article L121-5)
-                     
-                  
+                   (Article L120-1)
                   
                      
                         LOUAGE D'INDUSTRIE OU MARCHE D'OUVRAGE .
@@ -578,17 +590,16 @@
                   
                      
                         TRAVAIL TEMPORAIRE .
-                         (Articles L124-2 à L124-15)
+                        
+                           
+                              REGLES GENERALES.
+                               (Articles L124-2 à L124-3)
+                           
+                        
                         
                            
                               REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL .
-                               (Articles L124-4 à L124-7)
-                           
-                        
-                        
-                           
-                              REGLES DE CONTROLE .
-                               (Articles L124-11 à L124-12)
+                               (Articles L124-4-1 à L124-7)
                            
                         
                      
@@ -692,12 +703,6 @@
                            
                               LOUAGE DE SERVICES - REGLEMENT INTERIEUR .
                                (Article L152-1)
-                           
-                        
-                        
-                           
-                              TRAVAIL TEMPORAIRE .
-                               (Article L152-2)
                            
                         
                      
@@ -1248,7 +1253,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers
-                               (Articles L341-2 à L341-6)
+                               (Articles L341-2 à L341-6-1)
                               
                                  
                                     (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -1270,7 +1275,7 @@
                         
                            
                               SECTION 1 : TRAVAILLEURS ETRANGERS.
-                               (Articles L341-6-1 à L341-8)
+                               (Articles L341-7 à L341-8)
                            
                         
                         
@@ -1670,7 +1675,7 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Article L412-2)
+                               (Articles L412-2 à L412-3)
                            
                         
                      
@@ -6927,6 +6932,12 @@
                         Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
                         
                            
+                              Section 1 : CONTRAT DE TRAVAIL A DUREE DETERMINEE.
+                               (Articles D121-1 à D121-5)
+                           
+                        
+                        
+                           
                               Section 2 : Résiliation du contrat de travail à durée indéterminée.
                                (Articles D122-1 à D122-16)
                            
@@ -6936,7 +6947,7 @@
                   
                      
                         Chapitre IV : Travail temporaire.
-                         (Article D124-2)
+                         (Articles D124-1 à D124-3)
                      
                   
                
@@ -7034,17 +7045,6 @@
                   
                
             
-            
-               
-                  CONTRAT DE TRAVAIL
-                  
-                     
-                        TRAVAIL TEMPORAIRE .
-                         (Article D124-1)
-                     
-                  
-               
-            
          
       
       
@@ -7066,6 +7066,12 @@
                            
                               SECTION 1 : RECUPERATION DES HEURES PERDUES.
                                (Articles D212-1 à D212-4)
+                           
+                        
+                        
+                           
+                              SECTION 2 : TRAVAIL A TEMPS CHOISI.
+                               (Articles D212-4-1 à D212-4-2)
                            
                         
                         
