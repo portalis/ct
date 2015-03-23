@@ -1572,12 +1572,6 @@
             
             
                
-                  PRIME DE MOBILITE DES JEUNES .
-                   (Articles L322-7 à L322-10)
-               
-            
-            
-               
                   TRAVAIL CLANDESTIN .
                    (Article L324-11)
                
@@ -3012,6 +3006,17 @@
                
                   DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.
                    (Article L930-1-12)
+               
+            
+         
+      
+      
+         
+            Livre 9 : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
+            
+               
+                  Titre 5 : DE LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
+                   (Article L950-2-3)
                
             
          
@@ -7549,6 +7554,12 @@
                          (Articles D514-5 à D514-6)
                      
                   
+                  
+                     
+                        Chapitre X : Dépenses des conseils de prud'hommes.
+                         (Articles D51-10-1 à D51-10-9)
+                     
+                  
                
             
             
@@ -7567,6 +7578,12 @@
                            
                               Chapitre VII : COMPETENCE DES CONSEILS DE PRUD'HOMMES
                                (Article D517-1)
+                           
+                        
+                        
+                           
+                              Chapitre X : Dépenses des conseils de prud'hommes.
+                               (Article D51-10-6)
                            
                         
                      
