@@ -4059,6 +4059,12 @@
                                (Articles R221-14 à R221-17)
                            
                         
+                        
+                           
+                              Section 3 : Régime particulier du personnel des entreprises de navigation intérieure.
+                               (Articles R221-18 à R221-22)
+                           
+                        
                      
                   
                   
@@ -5903,7 +5909,7 @@
                   
                      
                         Chapitre Ier : Attributions et institution des conseils de prud'hommes.
-                         (Articles R511-1 à R511-3)
+                         (Articles R511-1 à R511-4-8)
                      
                   
                   
@@ -7630,6 +7636,17 @@
                   
                   
                      
+                        Chapitre II : Fonds national de l'emploi.
+                        
+                           
+                              Section 3 : Chômage partiel.
+                               (Articles D322-11 à D322-16)
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
                         
                            
@@ -7749,12 +7766,6 @@
                    (Articles D322-1 à D322-2)
                
             
-            
-               
-                  FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .
-                   (Articles D322-11 à D322-16)
-               
-            
          
       
       
@@ -7763,6 +7774,17 @@
             
                
                   Titre II : EMPLOI
+                  
+                     
+                        Chapitre II : FONDS NATIONAL DE L'EMPLOI *FNE*
+                        
+                           
+                              SECTION 3 : CHOMAGE PARTIEL.
+                               (Article D322-13)
+                           
+                        
+                     
+                  
                   
                      
                         Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
