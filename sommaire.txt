@@ -268,6 +268,45 @@
                                (Articles L122-32-1 à L122-32-11)
                            
                         
+                        
+                           
+                              Section 6 : Règlement intérieur, protection des salariés et droit disciplinaire
+                              
+                                 
+                                    Sous-section 1 : Règlement intérieur
+                                     (Articles L122-33 à L122-39)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Protection des salariés et droit disciplinaire.
+                                     (Articles L122-40 à L122-44)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              SECTION 6 : REGLEMENT INTERIEUR
+                              
+                                 
+                                    SOUS-SECTION 1 : REGLEMENT INTERIEUR.
+                                     (Article L122-35)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE
+                              
+                                 
+                                    SOUS-SECTION 2 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE.
+                                     (Articles L122-41 à L122-45)
+                                 
+                              
+                           
+                        
                      
                   
                   
@@ -457,6 +496,12 @@
                   
                      
                         Chapitre II : Contrat de travail
+                        
+                           
+                              SECTION 1 : LOUAGE DE SERVICES - REGLEMENT INTERIEUR.
+                               (Article L152-1)
+                           
+                        
                         
                            
                               Section 2 : Travail temporaire.
@@ -687,22 +732,6 @@
                            
                               PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE .
                                (Article L143-11-7)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  PENALITES
-                  
-                     
-                        CONTRAT DE TRAVAIL
-                        
-                           
-                              LOUAGE DE SERVICES - REGLEMENT INTERIEUR .
-                               (Article L152-1)
                            
                         
                      
@@ -1534,7 +1563,7 @@
             
                
                   CONTROLE DE L'EMPLOI .
-                   (Articles L321-2 à L321-12)
+                   (Article L321-12)
                
             
             
@@ -1765,40 +1794,34 @@
             
             
                
-                  Titre VI : PENALITES
+                  Titre VII : PENALITES
                   
                      
                         Chapitre Ier : LES SYNDICATS PROFESSIONNELS
                         
                            
-                              SECTION 1 : STATUT JURIDIQUE DES SYNDICATS
-                               (Article L461-1)
+                              SECTION 1 : STATUT JURIDIQUE DES SYNDICATS.
+                               (Article L471-1)
                            
                         
                         
                            
-                              SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES
-                               (Articles L461-2 à L461-3)
+                              SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES.
+                               (Articles L471-2 à L471-3)
                            
                         
                      
                   
                   
                      
-                        Chapitre II : LES DELEGUES DU PERSONNEL
-                         (Article L462-1)
+                        Chapitre II : LES DELEGUES DU PERSONNEL.
+                         (Article L472-1)
                      
                   
                   
                      
                         Chapitre III : LES COMITES D'ENTREPRISE
-                         (Article L463-1)
-                     
-                  
-                  
-                     
-                        Chapitre III : COMITE D'ENTREPRISE
-                         (Article L463-2)
+                         (Articles L473-1 à L473-2)
                      
                   
                
@@ -1877,7 +1900,7 @@
                   
                      
                         ATTRIBUTIONS ET POUVOIRS .
-                         (Articles L432-1 à L432-5)
+                         (Articles L432-2 à L432-5)
                      
                   
                   
@@ -2653,6 +2676,12 @@
                      
                         Chapitre III : Halles centrales de Paris.
                          (Articles L783-1 à L783-8)
+                     
+                  
+                  
+                     
+                        Chapitre IV : Dispositions relatives au conjoint salarié du chef d'entreprise.
+                         (Article L784-1)
                      
                   
                
@@ -3554,13 +3583,19 @@
                         
                            
                               Section 1 : Déclarations et justifications à fournir à l'autorité administrative.
-                               (Articles R124-1 à R124-3)
+                               (Articles R124-1 à R124-2)
+                           
+                        
+                        
+                           
+                              Section 2 : Informations à fournir en application des articles L. 124-11 et L. 124-12.
+                               (Article R124-4)
                            
                         
                         
                            
                               Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.
-                               (Articles R124-5 à R124-6)
+                               (Article R124-5)
                            
                         
                         
@@ -3757,6 +3792,12 @@
                                      (Article R152-3)
                                  
                               
+                           
+                        
+                        
+                           
+                              Section 2 : Travail temporaire.
+                               (Articles R152-5 à R152-6-1)
                            
                         
                         
@@ -4577,22 +4618,6 @@
             
             
                
-                  CONTRAT DE TRAVAIL
-                  
-                     
-                        TRAVAIL TEMPORAIRE
-                        
-                           
-                              INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .
-                               (Article R124-4)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   (LOUAGE DE SERVICE)
                   
                      
@@ -4663,22 +4688,6 @@
                            
                               PROCEDURE DE CESSION ET DE SAISIE ARRET .
                                (Articles R145-2 à R145-21)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  PENALITES
-                  
-                     
-                        CONTRAT DE TRAVAIL
-                        
-                           
-                              TRAVAIL TEMPORAIRE .
-                               (Articles R152-5 à R152-6)
                            
                         
                      
@@ -5707,6 +5716,61 @@
                               
                            
                         
+                        
+                           
+                              Chapitre III : Election des prud'hommes
+                              
+                                 
+                                    Section 1 : Electorat, éligibilité et établissement des listes électorales
+                                    
+                                       
+                                          Paragraphe 1 : Electorat.
+                                           (Articles R513-9 à R513-10)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Opérations électorales, installation des conseillers prud'hommes, élections complémentaires
+                                    
+                                       
+                                          Sous-section 1 : Scrutin
+                                          
+                                             
+                                                Paragraphe 3 : Propagande.
+                                                 (Article R513-45)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 4 : Vote
+                                          
+                                             
+                                                I - Opérations de vote.
+                                                 (Articles R513-56 à R513-73)
+                                             
+                                          
+                                          
+                                             
+                                                II - Vote par correspondance.
+                                                 (Articles R513-79 à R513-89)
+                                             
+                                          
+                                          
+                                             
+                                                III - Dépouillement des votes.
+                                                 (Article R513-96)
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
                      
                   
                
@@ -5726,13 +5790,126 @@
                         
                            
                               Section 1 : Organisation et fonctionnement de la juridiction.
-                               (Articles R512-1 à R512-14)
+                               (Articles R512-1 à R512-17)
                            
                         
                         
                            
                               Section 2 : Organisation et fonctionnement du secrétariat-greffe.
                                (Articles R512-18 à R512-34)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre III : Election des prud'hommes
+                        
+                           
+                              Section 1 : Electorat, éligibilité et établissement des listes électorales
+                              
+                                 
+                                    Paragraphe 1 : Electorat.
+                                     (Articles R513-1 à R513-8)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Etablissement des listes électorales.
+                                     (Articles R513-21 à R513-28)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              SECTION 1 : ELECTORAT
+                              
+                                 
+                                    PARAGRAPHE 1 : ELECTORAT.
+                                     (Article R513-2)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              SECTION 1 : ETABLISSEMENT DES LISTES ELECTORALES
+                              
+                                 
+                                    PARAGRAPHE 3 : ETABLISSEMENT DES LISTES ELECTORALES.
+                                     (Articles R513-11 à R513-30)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 2 : Opérations électorales, installation des conseillers prud'hommes, élections complémentaires
+                              
+                                 
+                                    Sous-section 1 : Scrutin
+                                    
+                                       
+                                          Paragraphe 1 : Déclarations de candidature.
+                                           (Articles R513-31 à R513-38)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 2 : Opérations préparatoires au scrutin
+                                           (Articles R513-39 à R513-43)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 3 : Propagande.
+                                           (Articles R513-44 à R513-53)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 4 : Vote
+                                          
+                                             
+                                                I - Opérations de vote.
+                                                 (Articles R513-54 à R513-76)
+                                             
+                                          
+                                          
+                                             
+                                                II - Vote par correspondance.
+                                                 (Articles R513-77 à R513-88)
+                                             
+                                          
+                                          
+                                             
+                                                III - Dépouillement des votes.
+                                                 (Articles R513-90 à R513-107)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 5 : Contentieux.
+                                           (Articles R513-108 à R513-115)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Installation des conseillers prud'hommes.
+                                     (Article R513-116)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Elections complémentaires.
+                                     (Articles R513-117 à R513-119)
+                                 
+                              
                            
                         
                      
@@ -5893,6 +6070,23 @@
             
                
                   Titre III : Pénalités
+                  
+                     
+                        Chapitre Ier : Conflits individuels - Conseils de prud'hommes.
+                         (Article R531-2)
+                     
+                  
+                  
+                     
+                        Chapitre Ier : Conflits individuels
+                        
+                           
+                              Conseils de prud'hommes.
+                               (Article R531-1)
+                           
+                        
+                     
+                  
                   
                      
                         Chapitre II : Conflits collectifs
@@ -6286,7 +6480,6 @@
                         
                            
                               SECTION 4 : CONTROLE .
-                               (Article R742-37)
                            
                         
                         
@@ -6947,7 +7140,7 @@
                   
                      
                         Chapitre IV : Travail temporaire.
-                         (Articles D124-1 à D124-3)
+                         (Articles D124-1 à D124-4)
                      
                   
                
@@ -7426,11 +7619,22 @@
             CONFLITS DU TRAVAIL
             
                
+                  CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
+                  
+                     
+                        DEPENSES DES CONSEILS DE PRUD'HOMMES.
+                         (Article D51-10-1)
+                     
+                  
+               
+            
+            
+               
                   CONFLITS INDIVIDUELS - CONSEILS DES PRUD'HOMMES
                   
                      
                         DEPENSES DES CONSEILS DE PRUD'HOMMES .
-                         (Articles D51-10-1 à D51-10-2)
+                         (Article D51-10-2)
                      
                   
                
@@ -8050,6 +8254,58 @@
 
    
       Annexes
+      
+         
+            Livre 5 : Conflits du travail
+            
+               
+                  Titre 1 : Conflits individuels - Conseils de prud'hommes
+                  
+                     
+                        Chapitre 3 : Election des prud'hommes
+                        
+                           
+                              SECTION 1 : ELECTORAT
+                              
+                                 
+                                    PARAGRAPHE 1 : ELECTORAT
+                                     (Article R513-7 annexe 1)
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+            
+               
+                  Titre 1 : Conflits individuels
+                  
+                     
+                        Conseils de prud'hommes
+                        
+                           
+                              Chapitre 3 : Election des prud'hommes
+                              
+                                 
+                                    Section 1 : Electorat, éligibilité et établissement des listes électorales
+                                    
+                                       
+                                          Paragraphe 1 : Electorat.
+                                           (Article R513-7 annexe 2)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
       
          
             Livre 4 : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
