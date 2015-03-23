@@ -25,7 +25,13 @@
 19801108 : Décret 80-876 1980-11-04 ART. 2 JORF 8 NOVEMBRE 1980
 19801230 : Décret n°80-1091 du 24 décembre 1980 - art. 1 JORF 30 décembre
 19810125 : Décret 81-52 1981-01-23 art. 1 JORF 25 janvier
-19811020 : LOI 81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE 1981, LOI 81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE
+19810129 : Loi n°81-64 du 28 janvier 1981 - art. 2 JORF 29 JANVIER 1981
+19810130 : Décret n°81-69 du 28 janvier 1981 - art. 3 (V) JORF 30 janvier 1981, Décret n°81-69 du 28 janvier 1981 - art. 2 JORF 30 janvier, Décret n°81-69 du 28 janvier 1981 - art. 1 JORF 30 janvier, Décret n°81-69 du 28 janvier 1981 - art. 5 JORF 30 janvier
+19810201 : Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 19810, Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 Date d'entrée en vigueur 1ER février 1981, Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 1981
+19810413 : Décret 81-339 1981-04-07 art. 1 JORF 13 avril 1981, Décret 81-339 1981-04-07 art. 3 JORF 13 avril 1981, Décret 81-339 1981-04-07 art. 4 JORF 13 avril 1981
+19810515 : Décret n°81-540 du 12 mai 1981 - art. 2 JORF 15 MAI 1981
+19810521 : Décret 81-623 1981-05-20 ART. 3 JORF 21 MAI 1981
+19811020 : LOI 81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE 1981, LOI 81-941 1981-10-17 ART. 2 JORF 20 OCTOBRE, LOI 81-941 1981-10-17 ART. 1 JORF 20 OCTOBRE 1981
 19820201 : Ordonnance 82-41 1982-01-16 art. 13 JORF 17 janvier en vigueur le 1er février 1982, Ordonnance 82-41 1982-01-16 art. 21 JORF 17 janvier en vigueur le 1er février 1982, Ordonnance 82-41 1982-01-16 art. 18 JORF 17 janvier 1982 en vigueur le 1er février 1982
 19820301 : Ordonnance 82-131 1982-02-05 ART. 7 JORF 6 FEVRIER 1982 en vigueur le 1er mars 1982, Décret 81-131 1981-02-10 ART. 1 JORF 13 février date d'entrée en vigueur 1ER MARS 1982
 19820507 : Loi n°82-372 du 6 mai 1982 - art. 35 JORF 7 MAI 1982, Loi n°82-372 du 6 mai 1982 - art. 31 JORF 7 MAI 1982, Loi n°82-372 du 6 mai 1982 - art. 36 JORF 7 mai 1982
@@ -57,7 +63,7 @@
 19860118 : Loi n°86-76 du 17 janvier 1986 - art. 15 JORF 18 janvier 1986
 19860316 : Décret 86-524 1986-03-13 art. 3 JORF 16 mars 1986
 19861023 : Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
-19861202 : Decret 84-1093 1984-12-07 art. 1 jorf 8 decembre 1984 en vigueur le 1er décembre 1986, Décret 84-1093 1984-12-07 art. 1 jorf 8 décembre 1984 en vigueur le 1er décembre 1986
+19861202 : Décret 84-1093 1984-12-07 art. 1 jorf 8 décembre 1984 en vigueur le 1er décembre 1986, Decret 84-1093 1984-12-07 art. 1 jorf 8 decembre 1984 en vigueur le 1er décembre 1986
 19861221 : Ordonnance 86-1286 1986-12-20 art. 2 III JORF 21 décembre 1986, Ordonnance 86-1286 1986-12-20 art. 8 I JORF 21 décembre 1986
 19870620 : Loi n°87-423 du 19 juin 1987 - art. 12 JORF 20 juin 1987
 19870625 : Décret n°87-442 du 24 juin 1987 - art. 2 JORF 25 juin 1987
@@ -87,8 +93,8 @@
 20040327 : Ordonnance n°2004-279 du 25 mars 2004 - art. 4 JORF 27 mars 2004
 20040626 : Ordonnance n°2004-602 du 24 juin 2004 - art. 8 JORF 26 juin 2004, Ordonnance n°2004-602 du 24 juin 2004 - art. 1 JORF 26 juin 2004
 20040822 : Décret n°2004-836 du 20 août 2004 - art. 39 JORF 22 août 2004
-20050119 : Loi n°2005-32 du 18 janvier 2005 - art. 16 (V) JORF 19 janvier 2005, Loi n°2005-32 du 18 janvier 2005 - art. 4 (V) JORF 19 janvier 2005
-20050318 : Décret n°2005-239 du 14 mars 2005 - art. 4 JORF 18 mars 2005
+20050119 : Loi n°2005-32 du 18 janvier 2005 - art. 4 (V) JORF 19 janvier 2005, Loi n°2005-32 du 18 janvier 2005 - art. 16 (V) JORF 19 janvier 2005
+20050318 : Décret n°2005-239 du 14 mars 2005 - art. 4 JORF 18 mars 2005, Décret n°2005-239 du 14 mars 2005 - art. 3 JORF 18 mars 2005
 20060101 : Décret n°2006-152 du 13 février 2006 - art. 4 JORF 14 février 2006 en vigueur le 1er janvier 2006
 20060118 : Décret n°2006-54 du 16 janvier 2006 - art. 3 (V) JORF 18 janvier 2006
 20060608 : Décret n°2006-665 du 7 juin 2006 - art. 4 JORF 8 juin 2006
