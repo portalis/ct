@@ -323,6 +323,12 @@
                   
                   
                      
+                        Chapitre III : Egalité professionnelle entre les femmes et les hommes.
+                         (Articles L123-1 à L123-7)
+                     
+                  
+                  
+                     
                         Chapitre IV : Travail temporaire
                         
                            
@@ -476,7 +482,7 @@
                   
                      
                         Chapitre préliminaire : Egalité de rémunération entre les hommes et les femmes.
-                         (Articles L140-3 à L140-7)
+                         (Articles L140-2 à L140-9)
                      
                   
                   
@@ -587,8 +593,24 @@
                         Chapitre II : Contrat de travail
                         
                            
-                              SECTION 1 : LOUAGE DE SERVICES - REGLEMENT INTERIEUR.
-                               (Article L152-1)
+                              Section 1 : Contrat de travail
+                              
+                                 
+                                    Règlement intérieur
+                                    
+                                       
+                                          Sous-section 1 : Contrat de travail.
+                                           (Articles L152-1 à L152-1-2)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Règlement intérieur.
+                                           (Article L152-1-3)
+                                       
+                                    
+                                 
+                              
                            
                         
                         
@@ -613,22 +635,23 @@
                   
                   
                      
-                        Chapitre IV : SALAIRES
-                        
-                           
-                              SECTION 1 : RETENUES SUR LE SALAIRE.
-                               (Article L154-1)
-                           
-                        
-                     
-                  
-                  
-                     
                         Chapitre IV : SALAIRE
                         
                            
-                              SECTION 2 : ECONOMAT
+                              Section 1 : Salaire.
+                               (Article L154-1)
+                           
+                        
+                        
+                           
+                              Section 2 : Retenues sur le salaire.
                                (Article L154-2)
+                           
+                        
+                        
+                           
+                              Section 3 : Economat.
+                               (Article L154-3)
                            
                         
                      
@@ -717,12 +740,6 @@
                    (Article L120-1)
                   
                      
-                        LOUAGE D'INDUSTRIE OU MARCHE D'OUVRAGE .
-                         (Article L123-1)
-                     
-                  
-                  
-                     
                         TRAVAIL TEMPORAIRE .
                         
                            
@@ -749,12 +766,6 @@
             
                
                   SALAIRE
-                  
-                     
-                        EGALITE DE REMUNERATION ENTRE LES HOMMES ET LES FEMMES .
-                         (Articles L140-2 à L140-8)
-                     
-                  
                   
                      
                         PAIEMENT DU SALAIRE
@@ -1279,6 +1290,28 @@
             
             
                
+                  Titre III : AGENCE NATIONALE POUR L'EMPLOI
+                  
+                     
+                        Chapitre Ier : AGENCE NATIONALE POUR L'EMPLOI.
+                         (Article L330-1)
+                     
+                  
+               
+            
+            
+               
+                  Titre III : AGENCE NATIONALE POUR L'EMPLOI - CONSEIL SUPERIEUR DE L'EGALITE PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES
+                  
+                     
+                        Chapitre II : CONSEIL SUPERIEUR DE L'EGALITE PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES.
+                         (Article L330-2)
+                     
+                  
+               
+            
+            
+               
                   Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
                   
                      
@@ -1365,7 +1398,7 @@
                         
                            
                               SECTION 1 : DISPOSITIONS GENERALES
-                               (Article L351-7)
+                               (Articles L351-5 à L351-7)
                            
                         
                      
@@ -2866,7 +2899,7 @@
       
          
             Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
-             (Article L900-2)
+             (Articles L900-2 à L900-4)
             
                
                   Titre Ier : Des institutions de la formation professionnelle.
@@ -4609,6 +4642,35 @@
                   Titre II : Emploi
                   
                      
+                        Chapitre II : Fonds national de l'emploi.
+                         (Articles R322-1 à R322-1-1)
+                        
+                           
+                              Section 1 : Conventions de coopération
+                              
+                                 
+                                    B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
+                                     (Articles R322-6 à R322-7)
+                                 
+                              
+                              
+                                 
+                                    C : Consultation.
+                                     (Articles R322-9 à R322-10)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 2 : Dispositions générales.
+                               (Articles R322-11 à R322-14)
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
                         
                            
@@ -5247,7 +5309,13 @@
                               
                                  
                                     A : CONVENTIONS DE FORMATION.
-                                     (Article R322-2)
+                                     (Articles R322-2 à R322-5)
+                                 
+                              
+                              
+                                 
+                                    C : CONSULTATION.
+                                     (Article R322-8)
                                  
                               
                            
@@ -5369,36 +5437,6 @@
                
                   CONTROLE DE L'EMPLOI .
                    (Article R321-10)
-               
-            
-            
-               
-                  FONDS NATIONAL DE L'EMPLOI .
-                   (Articles R322-1 à R322-26)
-                  
-                     
-                        AIDES A LA MOBILITE GEOGRAPHIQUE
-                         (Articles R322-19 à R322-20)
-                        
-                           
-                              PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION .
-                               (Articles R322-11 à R322-14-1)
-                           
-                        
-                        
-                           
-                              AUTRES AIDES A LA MOBILITE .
-                               (Articles R322-15 à R322-18)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  PRIME DE MOBILITE DES JEUNES .
-                   (Articles R322-27 à R322-32)
                
             
             
@@ -5529,12 +5567,6 @@
       
          
             PLACEMENT ET EMPLOI
-            
-               
-                  AGENCE NATIONALE POUR L'EMPLOI.
-                   (Articles R330-1 à R330-14)
-               
-            
             
                
                   MAIN-DOEUVRE ETRANGERES
