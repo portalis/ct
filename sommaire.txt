@@ -3902,12 +3902,6 @@
                         
                         
                            
-                              Section 2 : Prime de transport.
-                               (Article R154-2)
-                           
-                        
-                        
-                           
                               Section 3 : Paiement du salaire
                                (Article R154-3)
                            
@@ -4328,6 +4322,12 @@
                            
                               Section 1 : Composition et fonctionnement.
                                (Articles R236-1 à R236-14)
+                           
+                        
+                        
+                           
+                              Section 2 : Formation des représentants du personnel aux comités d'hygiène, de sécurité et des conditions de travail.
+                               (Articles R236-15 à R236-22)
                            
                         
                      
@@ -6243,17 +6243,6 @@
             
                
                   INTERESSEMENT ET PARTICIPATION
-                  
-                     
-                        ASSOCIATION OU INTERESSEMENT DES TRAVAILLEURS A L'ENTREPRISE
-                        
-                           
-                              CONTRAT D'INTERESSEMENT OU D'ASSOCIATION .
-                               (Articles R441-5 à R441-6)
-                           
-                        
-                     
-                  
                   
                      
                         PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES
