@@ -1055,7 +1055,7 @@
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Articles L231-1-1 à L231-9)
+                         (Articles L231-1 à L231-9)
                      
                   
                   
@@ -1097,7 +1097,7 @@
                   
                      
                         Chapitre Ier : DISPOSITIONS GENERALES
-                         (Articles L231-1 à L231-7)
+                         (Article L231-7)
                      
                   
                
@@ -1165,12 +1165,6 @@
       
          
             REGLEMENTATION DU TRAVAIL
-            
-               
-                  REPOS HEBDOMADAIRE .
-                   (Article L221-21)
-               
-            
             
                
                   CONGES ANNUELS
@@ -1618,7 +1612,7 @@
                         
                            
                               SECTION 2 : TRAVAIL CLANDESTIN.
-                               (Articles L324-9 à L324-10)
+                               (Articles L324-9 à L324-11)
                            
                         
                      
@@ -1634,12 +1628,6 @@
                
                   FONDS NATIONAL DE L'EMPLOI .
                    (Article L322-1)
-               
-            
-            
-               
-                  TRAVAIL CLANDESTIN .
-                   (Article L324-11)
                
             
          
@@ -1803,13 +1791,7 @@
                   
                      
                         Chapitre V : Comités d'établissements et comité central d'entreprise.
-                         (Articles L435-1 à L435-5)
-                     
-                  
-                  
-                     
-                        Chapitre V : COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE.
-                         (Article L435-6)
+                         (Articles L435-1 à L435-6)
                      
                   
                   
@@ -2650,12 +2632,6 @@
             
             
                
-                  TITRE VII : ASSISTANTES MATERNELLES.
-                   (Article L773-2)
-               
-            
-            
-               
                   Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
                   
                      
@@ -2776,23 +2752,6 @@
                
                   CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .
                    (Article L771-4)
-               
-            
-            
-               
-                  ASSISTANTES MATERNELLES.
-                   (Article L773-6)
-               
-            
-            
-               
-                  ASSISTANCES MATERNELLES
-                  
-                     
-                        DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.
-                         (Article L773-11)
-                     
-                  
                
             
          
@@ -2990,7 +2949,7 @@
             
                
                   Titre VIII : Des formations professionnelles en alternance.
-                   (Articles L980-1 à L980-12)
+                   (Articles L980-1 à L980-13)
                
             
             
@@ -3066,7 +3025,7 @@
                   
                      
                         Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE.
-                         (Articles L961-2 à L961-3)
+                         (Article L961-2)
                      
                   
                
@@ -4871,7 +4830,7 @@
                         
                            
                               SECTION 1 : TRAVAILLEURS ETRANGERS.
-                               (Article R341-7)
+                               (Articles R341-1 à R341-3)
                            
                         
                         
@@ -4881,6 +4840,12 @@
                                  
                                     PARAGRAPHE 1 : DISPOSITIONS GENERALES.
                                      (Article R341-10)
+                                 
+                              
+                              
+                                 
+                                    PARAGRAPHE 2 : ADMINISTRATION ET DIRECTION.
+                                     (Article R341-11)
                                  
                               
                            
@@ -4928,12 +4893,6 @@
                         
                      
                   
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE SECTION 1 : TRAVAILLEURS ETRANGERS
-                         (Article R341-5)
-                     
-                  
                
             
             
@@ -4945,7 +4904,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers.
-                               (Articles R341-6 à R341-7-2)
+                               (Articles R341-2 à R341-8)
                            
                         
                      
@@ -5427,6 +5386,12 @@
                   
                
             
+            
+               
+                  Titre VII : Fonds salariaux.
+                   (Articles R471-1 à R471-3)
+               
+            
          
       
       
@@ -5730,39 +5695,6 @@
       
          
             PLACEMENT ET EMPLOI
-            
-               
-                  MAIN-DOEUVRE ETRANGERES
-                  
-                     
-                        TRAVAILLEURS ETRANGERS .
-                         (Article R341-1)
-                     
-                  
-               
-            
-            
-               
-                  MAIN-DOEUVRE ETRANGERE
-                  
-                     
-                        TRAVAILLEURS ETRANGERS .
-                         (Articles R341-2 à R341-8)
-                     
-                  
-                  
-                     
-                        OFFICE NATIONAL D'IMMIGRATION *ONI* .
-                        
-                           
-                              ADMINISTRATION ET DIRECTION .
-                               (Article R341-11)
-                           
-                        
-                     
-                  
-               
-            
             
                
                   TRAVAILLEURS PRIVES D'EMPLOI
@@ -6156,6 +6088,18 @@
                         Chapitre III : Conciliation
                         
                            
+                              Section 1 : Dispositions générales.
+                               (Article R523-1)
+                           
+                        
+                        
+                           
+                              Section 2 : Compétence et siège des commissions de conciliation.
+                               (Articles R523-2 à R523-3)
+                           
+                        
+                        
+                           
                               Section 3 : Composition des commissions de conciliation
                                (Articles R523-4 à R523-9)
                            
@@ -6163,19 +6107,13 @@
                         
                            
                               Section 4 : Fonctionnement des commissions de conciliation.
-                               (Articles R523-15 à R523-16)
-                           
-                        
-                        
-                           
-                              SECTION 2 : FONCTIONNEMENT DES COMMISSIONS DE CONCILIATION.
-                               (Articles R523-11 à R523-12)
+                               (Articles R523-10 à R523-16)
                            
                         
                         
                            
                               Section 5 : Commissions de conciliation dans les professions agricoles.
-                               (Articles R523-18 à R523-20)
+                               (Articles R523-17 à R523-25)
                            
                         
                      
@@ -6186,7 +6124,47 @@
                         
                            
                               Section 1 : Procédure de médiation.
-                               (Article R524-3)
+                               (Articles R524-1 à R524-10)
+                           
+                        
+                        
+                           
+                              Section 2 : Etablissement des listes de médiateurs.
+                               (Articles R524-11 à R524-13)
+                           
+                        
+                        
+                           
+                              Section 3 : Procédure de médiation dans les professions agricoles.
+                               (Article R524-14)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre V : Arbitrage
+                        
+                           
+                              Section 1 : L'arbitre.
+                               (Article R525-1)
+                           
+                        
+                        
+                           
+                              Section 2 : La Cour supérieure d'arbitrage
+                              
+                                 
+                                    Sous-section 1 : Organisation de la Cour supérieure d'arbitrage.
+                                     (Articles R525-2 à R525-9)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Introduction, instruction et jugement des recours.
+                                     (Articles R525-10 à R525-18)
+                                 
+                              
                            
                         
                      
@@ -6216,6 +6194,12 @@
                   
                      
                         Chapitre II : Conflits collectifs
+                        
+                           
+                              Section 1 : Conciliation
+                               (Article R532-1)
+                           
+                        
                         
                            
                               Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation.
@@ -7274,6 +7258,29 @@
                   
                
             
+            
+               
+                  Titre VIII : Modalités d'application des articles L. 980-1 à L. 980-5.
+                   (Articles R980-1 à R980-4)
+               
+            
+            
+               
+                  Titre IX : Dispositions particulières aux départements d'outre-mer
+                  
+                     
+                        Section 1 : Application des dispositions des articles L. 930-1 à L. 930-2 et L. 950-1 à L. 950-10.
+                         (Articles R990-1 à R990-3)
+                     
+                  
+                  
+                     
+                        Section 2 : Remboursement des frais de transport exposés par les stagiaires.
+                         (Articles R990-4 à R990-8)
+                     
+                  
+               
+            
          
       
       
@@ -7308,28 +7315,6 @@
                   
                
             
-            
-               
-                  DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER
-                  
-                     
-                        APPLICATION DES DISPOSITIONS DES ARTICLES L. 930-1 A L. 930-2 ET L. 950-1 A L. 950-10.
-                         (Articles R980-1 à R980-3)
-                     
-                  
-               
-            
-            
-               
-                  MODALITES D'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER *DOM* DES DISPOSITIONS DES ARTICLES L. 930-1, L. 950-1 A L. 950-10
-                  
-                     
-                        REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES.
-                         (Article R980-8)
-                     
-                  
-               
-            
          
       
       
@@ -7360,17 +7345,6 @@
                      
                         SECTION 5 : CONTROLE DE LA PARTICIPATION DES EMPLOYEURS
                          (Article R950-21)
-                     
-                  
-               
-            
-            
-               
-                  Titre VIII : DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER     *DOM*
-                  
-                     
-                        SECTION 2 : REMBOURSEMENT DES FRAIS DE TRANSPORT EXPOSES PAR LES STAGIAIRES
-                         (Articles R980-4 à R980-7)
                      
                   
                
