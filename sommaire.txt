@@ -95,6 +95,12 @@
                         
                         
                            
+                              Chapitre VII bis : Du statut de l'apprenti.
+                               (Article L117 BIS-3)
+                           
+                        
+                        
+                           
                               Chapitre VIII : Dispositions financières.
                                (Articles L118-1 à L118-6)
                            
@@ -291,6 +297,17 @@
                      
                         Chapitre VI : Cautionnements.
                          (Articles L126-1 à L126-4)
+                     
+                  
+               
+            
+            
+               
+                  Titre III : Conventions et accords collectifs de travail
+                  
+                     
+                        Chapitre IV : CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL DANS LES ENTREPRISES PUBLIQUES ET ETABLISSEMENTS PUBLICS A CARACTERE INDUSTRIEL ET COMMERCIAL.
+                         (Articles L134-1 à L134-2)
                      
                   
                
@@ -538,12 +555,6 @@
                                (Articles L117-16 à L117-17)
                            
                         
-                        
-                           
-                              STATUT DE L'APPRENTI .
-                               (Article L117 BIS-3)
-                           
-                        
                      
                   
                
@@ -741,7 +752,13 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles L212-2-1 à L212-3)
+                               (Articles L212-1 à L212-2)
+                           
+                        
+                        
+                           
+                              SECTION 3 : HEURES SUPPLEMENTAIRES.
+                               (Articles L212-5 à L212-8)
                            
                         
                         
@@ -753,7 +770,7 @@
                         
                            
                               SECTION 5 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
-                               (Article L212-14)
+                               (Articles L212-13 à L212-14)
                            
                         
                      
@@ -789,7 +806,7 @@
                   
                      
                         Chapitre Ier : Repos hebdomadaire.
-                         (Articles L221-2 à L221-27)
+                         (Articles L221-1 à L221-27)
                      
                   
                   
@@ -821,13 +838,13 @@
                         
                            
                               Section 2 : Durée du congé.
-                               (Articles L223-4 à L223-10)
+                               (Articles L223-2 à L223-7-1)
                            
                         
                         
                            
                               Section 3 : Indemnités de congé.
-                               (Articles L223-12 à L223-14)
+                               (Articles L223-11 à L223-15)
                            
                         
                         
@@ -869,7 +886,7 @@
                   
                      
                         Chapitre Ier : REPOS HEBDOMADAIRE.
-                         (Article L221-10)
+                         (Articles L221-5-1 à L221-10)
                      
                   
                   
@@ -894,7 +911,7 @@
                         
                            
                               SECTION 2 : DUREE DU CONGE *PAYE*.
-                               (Articles L223-2 à L223-6)
+                               (Article L223-6)
                            
                         
                      
@@ -1014,7 +1031,7 @@
                         
                            
                               DISPOSITIONS GENERALES.
-                               (Articles L212-1 à L212-4)
+                               (Article L212-4)
                            
                         
                         
@@ -1031,24 +1048,7 @@
                         
                            
                               HEURES SUPPLEMENTAIRES .
-                               (Articles L212-5 à L212-7)
-                           
-                        
-                        
-                           
-                              DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
-                               (Article L212-13)
-                           
-                        
-                     
-                  
-                  
-                     
-                        DUREE
-                        
-                           
-                              HEURES SUPPLEMENTAIRES .
-                               (Article L212-5-1)
+                               (Article L212-7)
                            
                         
                      
@@ -1058,7 +1058,7 @@
             
                
                   REPOS HEBDOMADAIRE .
-                   (Articles L221-1 à L221-21)
+                   (Article L221-21)
                
             
             
@@ -1067,18 +1067,13 @@
                   
                      
                         DUREE DU CONGE *PAYE*.
+                         (Article L223-3)
                      
                   
                   
                      
                         DUREE DU CONGE .
-                         (Articles L223-3 à L223-8)
-                     
-                  
-                  
-                     
-                        INDEMNITES DE CONGE.
-                         (Articles L223-11 à L223-15)
+                         (Articles L223-7 à L223-8)
                      
                   
                
@@ -1253,7 +1248,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers
-                               (Articles L341-2 à L341-5)
+                               (Articles L341-2 à L341-6)
                               
                                  
                                     (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -1576,7 +1571,7 @@
                   
                      
                         TRAVAILLEURS ETRANGERS .
-                         (Articles L341-4 à L341-6)
+                         (Article L341-4)
                      
                   
                
@@ -2753,17 +2748,6 @@
                                (Articles L721-10 à L721-16)
                            
                         
-                     
-                  
-               
-            
-            
-               
-                  BATIMENTS ET TRAVAUX PUBLICS
-                  
-                     
-                        INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
-                         (Article L731-7)
                      
                   
                
@@ -5182,7 +5166,7 @@
                               
                                  
                                     Paragraphe 4 : Modalités de gestion de la réserve spéciale.
-                                     (Articles R442-7 à R442-14)
+                                     (Articles R442-7 à R442-15)
                                  
                               
                            
@@ -5429,17 +5413,6 @@
                
                   FONDS NATIONAL DE L'EMPLOI .
                    (Articles R322-1 à R322-26)
-                  
-                     
-                        CONVENTIONS DE COOPERATION
-                        
-                           
-                              CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS  D'ALLOCATIONS SPECIALES .
-                               (Article R322-7)
-                           
-                        
-                     
-                  
                   
                      
                         AIDES A LA MOBILITE GEOGRAPHIQUE
@@ -6025,7 +5998,7 @@
                               
                                  
                                     MODALITES DE GESTION DE LA RESERVE SPECIALE .
-                                     (Articles R442-11 à R442-15)
+                                     (Article R442-11)
                                  
                               
                            
@@ -6951,6 +6924,17 @@
                   Titre II : CONTRAT DE TRAVAIL
                   
                      
+                        Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
+                        
+                           
+                              Section 2 : Résiliation du contrat de travail à durée indéterminée.
+                               (Articles D122-1 à D122-16)
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre IV : Travail temporaire.
                          (Article D124-2)
                      
@@ -7391,6 +7375,33 @@
       
          
             Livre V : Conflits du travail
+            
+               
+                  Titre Ier : Conflits individuels - Conseils de prud'hommes
+                  
+                     
+                        Chapitre IV : Statut des conseillers prud'hommes.
+                         (Articles D514-5 à D514-6)
+                     
+                  
+               
+            
+            
+               
+                  Titre Ier : Conflits individuels
+                  
+                     
+                        Conseils de prud'hommes
+                        
+                           
+                              Chapitre IV : Statut des conseillers prud'hommes.
+                               (Articles D514-1 à D514-4)
+                           
+                        
+                     
+                  
+               
+            
             
                
                   Titre II : Conflits collectifs
