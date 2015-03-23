@@ -1001,7 +1001,7 @@
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Articles L231-1-2 à L231-9)
+                         (Articles L231-1-1 à L231-9)
                      
                   
                   
@@ -1031,7 +1031,7 @@
                   
                      
                         Chapitre VI : COMITES D'HYGIENE, DE SECURITE ET DES CONDITIONS DE TRAVAIL
-                         (Article L236-11)
+                         (Articles L236-1 à L236-12)
                      
                   
                
@@ -1043,7 +1043,7 @@
                   
                      
                         Chapitre Ier : DISPOSITIONS GENERALES
-                         (Article L231-7)
+                         (Articles L231-1 à L231-7)
                      
                   
                
@@ -1131,7 +1131,7 @@
             
                
                   HYGIENE ET SECURITE .
-                   (Articles L231-1 à L231-4)
+                   (Article L231-4)
                
             
          
@@ -2713,17 +2713,6 @@
             DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
             
                
-                  TRANSPORTS ET TELECOMMUNICATIONS
-                  
-                     
-                        MARINS .
-                         (Article L742-5)
-                     
-                  
-               
-            
-            
-               
                   ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES
                   
                      
@@ -3581,8 +3570,20 @@
                   Titre III : Conventions collectives de travail
                   
                      
+                        Chapitre II : Nature et validité de la convention.
+                         (Articles R132-1 à R132-2)
+                     
+                  
+                  
+                     
+                        Chapitre III : Extension des conventions collectives
+                         (Articles R133-1 à R133-2)
+                     
+                  
+                  
+                     
                         Chapitre V : Exécution de la convention.
-                         (Article R135-2)
+                         (Article R135-1)
                      
                   
                   
@@ -3882,6 +3883,18 @@
                               
                            
                         
+                        
+                           
+                              Section 3 : Travail par équipes successives selon un cycle continu.
+                               (Article R212-13)
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions relatives aux femmes.
+                               (Article R212-14)
+                           
+                        
                      
                   
                   
@@ -3902,6 +3915,12 @@
                            
                               Section 1 : Dispositions générales.
                                (Articles R221-1 à R221-13)
+                           
+                        
+                        
+                           
+                              Section 2 : Equipes de suppléance.
+                               (Articles R221-14 à R221-17)
                            
                         
                      
@@ -4541,20 +4560,8 @@
                   CONVENTIONS COLLECTIVES DE TRAVAIL
                   
                      
-                        NATURE ET VALIDITE DE LA CONVENTION COLLECTIVE .
-                         (Articles R132-1 à R132-2)
-                     
-                  
-                  
-                     
                         EXTENSION DES CONVENTIONS COLLECTIVES .
-                         (Articles R133-1 à R133-3)
-                     
-                  
-                  
-                     
-                        EXECUTION DE LA CONVENTION COLLECTIVE .
-                         (Article R135-1)
+                         (Article R133-3)
                      
                   
                
@@ -4566,12 +4573,6 @@
                      
                         SAISIE-ARRET ET CESSION DES REMUNERATIONS DUES PAR UN EMPLOYEUR .
                          (Article R145-1)
-                        
-                           
-                              PROCEDURE DE CESSION ET DE SAISIE ARRET .
-                               (Article R145-2)
-                           
-                        
                      
                   
                
@@ -4871,22 +4872,6 @@
                
                   AGENCE NATIONALE POUR L'AMELIORATION DES CONDITIONS DE TRAVAIL .
                    (Articles R200-6 à R200-23)
-               
-            
-            
-               
-                  CONDITIONS DU TRAVAIL
-                  
-                     
-                        DUREE DU TRAVAIL
-                        
-                           
-                              DISPOSITIONS RELATIVES AUX FEMMES .
-                               (Article R212-13)
-                           
-                        
-                     
-                  
                
             
             
@@ -7313,6 +7298,12 @@
                                (Articles D212-5 à D212-12)
                            
                         
+                        
+                           
+                              Section 4 : Durée quotidienne du travail.
+                               (Articles D212-13 à D212-17)
+                           
+                        
                      
                   
                
@@ -7566,7 +7557,7 @@
                   
                      
                         PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .
-                         (Articles D442-1 à D442-3)
+                         (Articles D442-2 à D442-3)
                      
                   
                
@@ -7606,6 +7597,17 @@
                      
                         Chapitre IX : Comité de groupe.
                          (Article D439-1)
+                     
+                  
+               
+            
+            
+               
+                  Titre IV : Intéressement et participation
+                  
+                     
+                        Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises.
+                         (Article D442-1)
                      
                   
                
