@@ -1387,65 +1387,55 @@
                   
                      
                         Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+                         (Articles L351-1 à L351-2)
                         
                            
-                              SECTION 1 : DISPOSITIONS GENERALES.
-                               (Article L351-2)
+                              Section 1 : Régime d'assurance
+                               (Articles L351-3 à L351-8)
                            
                         
                         
                            
-                              SECTION 2 : DISPOSITIONS FINANCIERES.
+                              Section 2 : Régime de solidarité.
+                               (Articles L351-9 à L351-11)
+                           
+                        
+                        
+                           
+                              Section 3 : Régimes particuliers.
                                (Articles L351-12 à L351-15)
                            
                         
                         
                            
-                              SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.
-                               (Articles L351-16 à L351-17)
+                              Section 4 : Maintien des droits au revenu de remplacement
+                               (Articles L351-16 à L351-20)
                            
                         
                         
                            
-                              SECTION 4 : DISPOSITIONS DIVERSES.
-                               (Articles L351-18 à L351-21)
+                              Section 5 : Institutions gestionnaires.
+                               (Articles L351-21 à L351-22)
                            
                         
-                     
-                  
-                  
-                     
-                        SECTION 1 : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI.
-                         (Article L351-3)
-                     
-                  
-                  
-                     
-                        Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
                         
                            
-                              SECTION 1 : DISPOSITIONS GENERALES
-                               (Articles L351-5 à L351-7)
+                              Section 6 : Dispositions diverses.
+                               (Articles L351-23 à L351-25)
                            
                         
                      
                   
                   
                      
-                        Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES
-                         (Articles L351-9 à L351-8)
+                        Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 2 : REGIME DE SOLIDARITE *BENEFICIAIRES*.
+                         (Article L351-10)
                      
                   
                   
                      
                         Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance des travailleurs privés d'emploi.
                          (Articles L352-1 à L352-5)
-                     
-                  
-                  
-                     
-                        Chapitre II : REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES D'EMPLOI.
-                         (Article L352-4)
                      
                   
                
@@ -1627,7 +1617,7 @@
             
                
                   FONDS NATIONAL DE L'EMPLOI .
-                   (Articles L322-1 à L322-4)
+                   (Article L322-1)
                
             
             
@@ -1648,35 +1638,6 @@
                      
                         TRAVAILLEURS ETRANGERS .
                          (Article L341-4)
-                     
-                  
-               
-            
-            
-               
-                  TRAVAILLEURS PRIVES D'EMPLOI
-                  
-                     
-                        GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
-                         (Articles L351-19 à L351-20)
-                        
-                           
-                              DISPOSITIONS GENERALES
-                               (Articles L351-1 à L351-6-2)
-                           
-                        
-                        
-                           
-                              CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.
-                               (Article L351-22)
-                           
-                        
-                     
-                  
-                  
-                     
-                        REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .
-                         (Article L352-3)
                      
                   
                
@@ -1783,7 +1744,7 @@
                   
                      
                         Chapitre II : ATTRIBUTIONS ET POUVOIRS.
-                         (Articles L422-1 à L422-4)
+                         (Articles L422-1 à L422-5)
                      
                   
                   
@@ -1824,7 +1785,7 @@
                   
                      
                         Chapitre II : Attributions et pouvoirs.
-                         (Articles L432-1 à L432-9)
+                         (Articles L432-1 à L432-10)
                      
                   
                   
@@ -3746,7 +3707,7 @@
                   
                      
                         Chapitre III : Extension des conventions collectives
-                         (Articles R133-1 à R133-2)
+                         (Articles R133-1 à R133-4)
                      
                   
                   
@@ -4741,17 +4702,6 @@
                   
                
             
-            
-               
-                  CONVENTIONS COLLECTIVES DE TRAVAIL
-                  
-                     
-                        EXTENSION DES CONVENTIONS COLLECTIVES .
-                         (Article R133-3)
-                     
-                  
-               
-            
          
       
       
@@ -4792,7 +4742,7 @@
                               
                                  
                                     B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
-                                     (Articles R322-6 à R322-7)
+                                     (Article R322-6)
                                  
                               
                               
@@ -4880,10 +4830,44 @@
             
             
                
+                  Titre III : AGENCE NATIONALE POUR L'EMPLOI
+                  
+                     
+                        Chapitre Ier : AGENCE NATIONALE POUR L'EMPLOI.
+                         (Articles R330-1 à R330-20)
+                     
+                  
+                  
+                     
+                        Chapitre Ier : AGENCE NATIONALE POUR L'EMPLOI *ANPE*.
+                         (Articles R330-2 à R330-21)
+                     
+                  
+               
+            
+            
+               
+                  Titre III : AGENCE NATIONALE POUR L'EMPLOI - CONSEIL SUPERIEUR DE L'EGALITE PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES
+                  
+                     
+                        Chapitre II : CONSEIL SUPERIEUR DE L'EGALITE PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES.
+                         (Articles R331-1 à R331-7)
+                     
+                  
+               
+            
+            
+               
                   Titre IV : MAIN-D'OEUVRE ETRANGERE
                   
                      
                         Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
+                        
+                           
+                              SECTION 1 : TRAVAILLEURS ETRANGERS.
+                               (Article R341-7)
+                           
+                        
                         
                            
                               SECTION 2 : OFFICE NATIONAL D'IMMIGRATION
@@ -4931,11 +4915,17 @@
                               
                                  
                                     PARAGRAPHE 5 : DISPOSITIONS FINANCIERES ET COMPTABLES.
-                                     (Articles R341-25 à R341-34)
+                                     (Articles R341-25 à R341-35)
                                  
                               
                            
                         
+                     
+                  
+                  
+                     
+                        Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE SECTION 1 : TRAVAILLEURS ETRANGERS
+                         (Article R341-5)
                      
                   
                
@@ -4949,7 +4939,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers.
-                               (Article R341-7-1)
+                               (Articles R341-6 à R341-7-2)
                            
                         
                      
@@ -5013,7 +5003,7 @@
                               
                                  
                                     SOUS-SECTION 4 : DISPOSITIONS DIVERSES.
-                                     (Articles R351-15 à R351-17)
+                                     (Article R351-15)
                                  
                               
                            
@@ -5242,7 +5232,7 @@
                         
                            
                               Section 5 : Financement des activités sociales et culturelles.
-                               (Articles R432-13 à R432-16)
+                               (Articles R432-11 à R432-16)
                            
                         
                      
@@ -5458,6 +5448,12 @@
                                  
                                     A : CONVENTIONS DE FORMATION.
                                      (Articles R322-2 à R322-5)
+                                 
+                              
+                              
+                                 
+                                    B : CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS D'ALLOCATION SPECIALE.
+                                     (Article R322-7)
                                  
                               
                               
@@ -5747,12 +5743,6 @@
                            
                               ADMINISTRATION ET DIRECTION .
                                (Article R341-11)
-                           
-                        
-                        
-                           
-                              DISPOSITIONS FINANCIERES ET COMPTABLES .
-                               (Article R341-35)
                            
                         
                      
@@ -7660,22 +7650,6 @@
                
                   FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .
                    (Articles D322-11 à D322-16)
-               
-            
-            
-               
-                  DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE  TRAVAILLEURS
-                  
-                     
-                        TRAVAILLEURS HANDICAPES
-                        
-                           
-                              TRAVAIL PROTEGE .
-                               (Articles D323-18 à D323-20)
-                           
-                        
-                     
-                  
                
             
          
