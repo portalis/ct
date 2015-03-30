@@ -824,7 +824,7 @@
                         
                            
                               SECTION 3 : HEURES SUPPLEMENTAIRES.
-                               (Articles L212-5 à L212-8)
+                               (Articles L212-5-1 à L212-8-5)
                            
                         
                         
@@ -1069,6 +1069,33 @@
                      
                         Chapitre V : Service social du travail.
                          (Article L265-1)
+                     
+                  
+               
+            
+         
+      
+      
+         
+            LIVRE 2 : REGLEMENTATION DU TRAVAIL
+            
+               
+                  TITRE 1 : CONDITIONS DU TRAVAIL
+                  
+                     
+                        CHAPITRE 2 : DUREE DU TRAVAIL
+                        
+                           
+                              SECTION 1 : DISPOSITIONS GENERALES.
+                               (Article L212-2)
+                           
+                        
+                        
+                           
+                              SECTION 3 : HEURES SUPPLEMENTAIRES.
+                               (Articles L212-5 à L212-8)
+                           
+                        
                      
                   
                
@@ -3430,6 +3457,12 @@
                          (Articles R126-1 à R126-5)
                      
                   
+                  
+                     
+                        Chapitre VII : Groupements d'employeurs.
+                         (Articles R127-1 à R127-7)
+                     
+                  
                
             
             
@@ -3642,6 +3675,12 @@
                                (Article R152-8)
                            
                         
+                        
+                           
+                              Section 5 : Groupements d'employeurs
+                               (Articles R152-9 à R152-10)
+                           
+                        
                      
                   
                   
@@ -3833,15 +3872,21 @@
                         
                      
                   
-               
-            
-            
-               
-                  Titre II : CONGES
                   
                      
-                        Chapitre V : CONGES NON REMUNERES.
-                         (Articles R225-1 à R225-10)
+                        Chapitre V : Congés non rémunérés
+                        
+                           
+                              Section 1 : Congé de formation de cadres et d'animateurs pour la jeunesse.
+                               (Articles R225-1 à R225-10)
+                           
+                        
+                        
+                           
+                              Section 3 : Congé mutualiste.
+                               (Articles R225-11 à R225-13)
+                           
+                        
                      
                   
                
@@ -4946,7 +4991,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers.
-                               (Articles R341-2 à R341-8)
+                               (Articles R341-2 à R341-7-2)
                            
                         
                      
@@ -5083,18 +5128,13 @@
                   
                   
                      
-                        Chapitre IV : MAIN D'OEUVRE ETRANGERE
+                        Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
                         
                            
-                              PARAGRAPHE 1 : DISPOSITIONS SPECIALES A LA MAIN D'OEUVRE ETRANGERE
+                              Paragraphe 1 : Dispositions spéciales à la main-d'oeuvre étrangère
                                (Article R364-1)
                            
                         
-                     
-                  
-                  
-                     
-                        Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
                         
                            
                               Paragraphe 2 : Protection de la main-d'oeuvre nationale
@@ -5171,7 +5211,7 @@
                   
                      
                         Chapitre II : Attributions et pouvoirs.
-                         (Articles R422-1 à R422-2)
+                         (Articles R422-1 à R422-3)
                      
                   
                   
@@ -7208,7 +7248,7 @@
                   
                      
                         Chapitre IV : Travail temporaire.
-                         (Articles D124-1 à D124-4)
+                         (Articles D124-1 à D124-5)
                      
                   
                
@@ -7267,7 +7307,7 @@
                         
                            
                               SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
-                               (Articles D143-1 à D143-2)
+                               (Articles D143-1 à D143-4)
                            
                         
                      
@@ -7404,7 +7444,7 @@
                               
                                  
                                     Sous-section 4 : Travail protégé.
-                                     (Articles D323-17 à D323-25-2)
+                                     (Articles D323-17 à D323-25-5)
                                  
                               
                            
@@ -7529,17 +7569,6 @@
                            
                               SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.
                                (Articles D323-1 à D323-3)
-                           
-                        
-                        
-                           
-                              SECTION 2 : TRAVAILLEURS HANDICAPES
-                              
-                                 
-                                    SOUS-SECTION 4 : TRAVAIL PROTEGE.
-                                     (Articles D323-25-3 à D323-25-5)
-                                 
-                              
                            
                         
                      
@@ -7677,6 +7706,12 @@
                          (Article D612-1)
                      
                   
+               
+            
+            
+               
+                  Titre II : Obligations des employeurs.
+                   (Articles D620-1 à D620-3)
                
             
          
