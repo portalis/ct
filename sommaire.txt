@@ -2528,14 +2528,20 @@
                                     Section 1 : Des conventions portant création de centres de formation d'apprentis
                                     
                                        
+                                          Paragraphe 1 : Dispositions générales.
+                                           (Articles R116-1 à R116-2)
+                                       
+                                    
+                                    
+                                       
                                           Paragraphe 2 : De l'organisation des centres.
-                                           (Articles R116-3 à R116-5)
+                                           (Articles R116-3 à R116-8)
                                        
                                     
                                     
                                        
                                           Paragraphe 3 : Du fonctionnement pédagogique des centres.
-                                           (Articles R116-12 à R116-14)
+                                           (Articles R116-9 à R116-14-1)
                                        
                                     
                                     
@@ -2574,34 +2580,28 @@
                         
                         
                            
-                              Chapitre VI : CENTRES DE FORMATION D'APPRENTIS
-                              
-                                 
-                                    SECTION 2 : CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS
-                                     (Article R116-20)
-                                 
-                              
-                              
-                                 
-                                    SECTION 4 : PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS
-                                     (Articles R116-27 à R116-29)
-                                 
-                              
-                           
-                        
-                        
-                           
                               Chapitre VII : Du contrat d'apprentissage
                               
                                  
                                     Paragraphe 1 : De l'agrément de l'employeur.
-                                     (Articles R117-4 à R117-5)
+                                     (Articles R117-1 à R117-5-1)
                                  
                               
                               
                                  
                                     Paragraphe 2 : De la durée de l'apprentissage.
-                                     (Article R117-8)
+                                     (Articles R117-6 à R117-8)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Avis d'orientation
+                                    
+                                       
+                                          Certificat médical.
+                                           (Article R117-9)
+                                       
+                                    
                                  
                               
                               
@@ -2628,6 +2628,12 @@
                                      (Articles R117-19 à R117-20)
                                  
                               
+                           
+                        
+                        
+                           
+                              Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.
+                               (Article R118-1)
                            
                         
                         
@@ -2673,7 +2679,7 @@
                                     
                                        
                                           Dispositions générales.
-                                           (Articles R119-50 à R119-51)
+                                           (Articles R119-48 à R119-61)
                                        
                                     
                                  
@@ -2681,7 +2687,7 @@
                               
                                  
                                     E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
-                                     (Articles R119-76 à R119-77)
+                                     (Articles R119-75 à R119-77)
                                  
                               
                            
@@ -2695,23 +2701,6 @@
                                      (Articles R119-31 à R119-47)
                                  
                               
-                              
-                                 
-                                    D - Inspection de l'apprentissage
-                                    
-                                       
-                                          Dispositions générales.
-                                           (Articles R119-55 à R119-64)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
-                                     (Article R119-74)
-                                 
-                              
                            
                         
                      
@@ -2719,97 +2708,6 @@
                   
                      
                         DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*
-                        
-                           
-                              Chapitre VI : DES FORMATION D'APPRENTIS
-                              
-                                 
-                                    SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS
-                                    
-                                       
-                                          PARAGRAPHE 1 : DISPOSITIONS GENERALES.
-                                           (Article R116-1)
-                                       
-                                    
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Chapitre VI : DES CENTRES DE FORMATION D' APPRENTIS
-                              
-                                 
-                                    SECTION 1 : DES CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS
-                                    
-                                       
-                                          PARAGRAPHE 1 : DISPOSITIONS GENERALES.
-                                           (Article R116-2)
-                                       
-                                    
-                                    
-                                       
-                                          PARAGRAPHE 2 : DE L'ORGANISATION DES CENTRES .
-                                           (Articles R116-4 à R116-8)
-                                       
-                                    
-                                    
-                                       
-                                          PARAGRAPHE 3 : FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
-                                           (Articles R116-9 à R116-10)
-                                       
-                                    
-                                    
-                                       
-                                          PARAGRAPHE 3 : DU FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
-                                           (Article R116-11)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    SECTION 4 : DU PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .
-                                     (Article R116-28)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Chapitre VII : DU CONTRAT D'APPRENTISSAGE
-                              
-                                 
-                                    PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR .
-                                     (Articles R117-2 à R117-3)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 2 : DE LA DUREE DE L'APPRENTISSAGE .
-                                     (Articles R117-6 à R117-7-1)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 3 : AVIS D'ORIENTATION - CERTIFICAT MEDICAL .
-                                     (Article R117-9)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 6 : CAS DE L'APPRENTI EMPLOYE PAR UN ASCENDANT .
-                                     (Article R117-17)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Chapitre VIII : DES ATTRIBUTIONS DES CHAMBRES DE COMMERCE ET D'INDUSTRIE DES CHAMBRES DE METIERS ET DES CHAMBRES D'AGRICULTURE EN MATIERE D'APPRENTISSAGE .
-                               (Article R118-1)
-                           
-                        
                         
                            
                               Chapitre IX : DISPOSITIONS DIVERSES
@@ -2836,57 +2734,8 @@
                                     D - INSPECTION DE L'APPRENTISSAGE
                                     
                                        
-                                          DISPOSITIONS GENERALES.
-                                           (Articles R119-49 à R119-61)
-                                       
-                                    
-                                    
-                                       
                                           DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
                                            (Articles R119-65 à R119-68)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    E - AMENAGEMENTS AU BENEFICE DES PERSONNES HANDICAPEES DES DISPOSITIONS RELATIVES A L'APPRENTISSAGE.
-                                     (Articles R119-72 à R119-75)
-                                 
-                              
-                           
-                        
-                     
-                  
-                  
-                     
-                        DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972
-                        
-                           
-                              Chapitre VII : DU CONTRAT D'APPRENTISSAGE
-                              
-                                 
-                                    PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.
-                                     (Article R117-1)
-                                 
-                              
-                           
-                        
-                     
-                  
-                  
-                     
-                        DISPOSITIONS PARTICULIERES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972
-                        
-                           
-                              Chapitre IX : DISPOSITIONS DIVERSES
-                              
-                                 
-                                    D - INSPECTION DE L'APPRENTISSAGE
-                                    
-                                       
-                                          DISPOSITIONS GENERALES
-                                           (Article R119-48)
                                        
                                     
                                  
@@ -2905,8 +2754,20 @@
                         Chapitre VII : Du contrat d'apprentissage
                         
                            
+                              Paragraphe 2 : De la durée de l'apprentissage.
+                               (Articles R117-7 à R117-8-1)
+                           
+                        
+                        
+                           
                               Paragraphe 4 : Du contenu des contrats d'apprentissage.
                                (Article R117-10)
+                           
+                        
+                        
+                           
+                              Paragraphe 6 : Cas de l'apprenti employé par un ascendant.
+                               (Article R117-17)
                            
                         
                      
@@ -2920,7 +2781,7 @@
                               
                                  
                                     Dispositions générales.
-                                     (Article R119-60)
+                                     (Articles R119-57 à R119-60)
                                  
                               
                               
@@ -2934,7 +2795,7 @@
                         
                            
                               E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
-                               (Articles R119-78 à R119-79)
+                               (Articles R119-72 à R119-79)
                            
                         
                      
