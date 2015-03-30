@@ -559,7 +559,7 @@
                         
                            
                               Section 2 : Privilèges et garanties de la créance de salaire.
-                               (Articles L143-6 à L143-13)
+                               (Articles L143-6 à L143-13-1)
                            
                         
                         
@@ -1746,11 +1746,17 @@
             
             
                
-                  Titre V : EDUCATION OUVRIERE ET FORMATION SYNDICALE
+                  Titre V : Formation économique, sociale et syndicale
                   
                      
-                        Chapitre Ier : CONGE D'EDUCATION OUVRIERE.
-                         (Articles L451-4 à L451-5)
+                        Chapitre Ier : Congé de formation économique, sociale et syndicale.
+                         (Articles L451-1 à L451-5)
+                     
+                  
+                  
+                     
+                        Chapitre II : Modalités de la formation économique, sociale et syndicale des salariés appelés à exercer des fonctions syndicales.
+                         (Articles L452-1 à L452-4)
                      
                   
                
@@ -1819,28 +1825,6 @@
                      
                         Chapitre III : Les comités d'entreprise.
                          (Articles L483-1 à L483-2)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
-            
-               
-                  EDUCATION OUVRIERE ET FORMATION SYNDICALE
-                  
-                     
-                        CONGE D'EDUCATION OUVRIERE .
-                         (Articles L451-1 à L451-3)
-                     
-                  
-                  
-                     
-                        FORMATION ECONOMIQUE ET SOCIALE DES TRAVAILLEURS APPELES A  EXERCER DES FONCTIONS SYNDICALES .
-                         (Articles L452-1 à L452-4)
                      
                   
                
@@ -2844,17 +2828,6 @@
       
          
             Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
-            
-               
-                  Titre III : DES DROITS INDIVIDUELS ET DES DROITS COLLECTIFS DES    SALARIES EN MATIERE DE FORMATION
-                  
-                     
-                        Chapitre Ier : DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.
-                         (Article L931-13)
-                     
-                  
-               
-            
             
                
                   Titre V : DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.
@@ -5620,17 +5593,6 @@
       
       
          
-            EMPLOI
-            
-               
-                  CONTROLE DE L'EMPLOI .
-                   (Article R321-10)
-               
-            
-         
-      
-      
-         
             Livre V : Conflits du travail
             
                
@@ -7044,12 +7006,6 @@
                   
                      
                         Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE    FORMATION PROFESSIONNELLE
-                        
-                           
-                              SECTION 1 : STAGES OUVRANT DROIT A REMUNERATION
-                               (Article R961-3)
-                           
-                        
                         
                            
                               SECTION 2 : MODALITES DE CALCULS ET DE VERSEMENT DES REMUNERATIONS
