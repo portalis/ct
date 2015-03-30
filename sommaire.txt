@@ -140,7 +140,7 @@
                               
                                  
                                     SECTION 2 : CONDITIONS DU CONTRAT D'APPRENTISSAGE .
-                                     (Articles L117-3 à L117-9)
+                                     (Articles L117-7 à L117-9)
                                  
                               
                               
@@ -246,7 +246,7 @@
                         
                            
                               SECTION 1 : CONTRAT A DUREE DETERMINEE.
-                               (Articles L122-1 à L122-3-16)
+                               (Articles L122-1 à L122-3-15)
                            
                         
                         
@@ -650,7 +650,7 @@
                         
                            
                               Section 2 : Travail temporaire.
-                               (Articles L152-2-1 à L152-2-2)
+                               (Articles L152-2 à L152-2-2)
                            
                         
                         
@@ -727,20 +727,15 @@
                                (Articles L116-2 à L116-3)
                            
                         
-                     
-                  
-               
-            
-            
-               
-                  Titre 5 : PENALITES
-                  
-                     
-                        Chapitre 2 : CONTRAT DE TRAVAIL
                         
                            
-                              SECTION 2 : TRAVAIL TEMPORAIRE.
-                               (Article L152-2)
+                              CHAPITRE 7 : DU CONTRAT D'APPRENTISSAGE
+                              
+                                 
+                                    SECTION 2 : CONDITIONS DU CONTRAT D'APPRENTISSAGE .
+                                     (Article L117-3)
+                                 
+                              
                            
                         
                      
@@ -816,7 +811,18 @@
                               
                                  
                                     PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
-                                     (Article L212-4-8)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Travail intermittent.
+                                     (Articles L212-4-9 à L212-4-11)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 4 : Encouragement à la pratique du sport.
+                                     (Article L212-4-12)
                                  
                               
                            
@@ -1088,6 +1094,17 @@
                            
                               SECTION 1 : DISPOSITIONS GENERALES.
                                (Article L212-2)
+                           
+                        
+                        
+                           
+                              SECTION 2 : TRAVAIL A TEMPS CHOISI
+                              
+                                 
+                                    PARAGRAPHE 3 : TRAVAIL INTERMITTENT.
+                                     (Article L212-4-8)
+                                 
+                              
                            
                         
                         
@@ -1444,17 +1461,6 @@
                   
                   
                      
-                        Chapitre II : FONDS NATIONAL DE L'EMPLOI
-                        
-                           
-                              SECTION 1 : FONDS NATIONAL DE L'EMPLOI
-                               (Article L322-4)
-                           
-                        
-                     
-                  
-                  
-                     
                         Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
                         
                            
@@ -1595,13 +1601,13 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles L412-1 à L412-4)
+                               (Articles L412-1 à L412-5)
                            
                         
                         
                            
                               SECTION 2 : SECTIONS SYNDICALES.
-                               (Articles L412-5 à L412-10)
+                               (Articles L412-6 à L412-10)
                            
                         
                         
@@ -1725,37 +1731,7 @@
                   Titre IV : Intéressement et participation
                   
                      
-                        Chapitre Ier : Association ou intéressement des travailleurs à l'entreprise.
-                         (Articles L441-1 à L441-10)
-                     
-                  
-                  
-                     
-                        Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises
-                        
-                           
-                              Section 1 : Régime obligatoire de participation des travailleurs aux fruits de l'expansion dans les entreprises de plus de cent salariés.
-                               (Articles L442-1 à L442-14)
-                           
-                        
-                        
-                           
-                              Section 2 : Régime des entreprises qui ne sont pas soumises aux obligations de la section I.
-                               (Article L442-15)
-                           
-                        
-                        
-                           
-                              Section 3 : Dispositions diverses.
-                               (Articles L442-16 à L442-17)
-                           
-                        
-                     
-                  
-                  
-                     
                         Chapitre III : Plans d'épargne d'entreprise.
-                         (Articles L443-1 à L443-10)
                      
                   
                
@@ -3973,17 +3949,6 @@
                               
                            
                         
-                        
-                           
-                              SECTION 5 : SUBSTANCES ET PREPARATIONS DANGEREUSES POUR LES LES TRAVAILLEURS
-                              
-                                 
-                                    SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.
-                                     (Article R231-53)
-                                 
-                              
-                           
-                        
                      
                   
                   
@@ -4917,7 +4882,7 @@
                         
                            
                               SECTION 1 : TRAVAILLEURS ETRANGERS.
-                               (Articles R341-1 à R341-3)
+                               (Article R341-3)
                            
                         
                         
@@ -4991,7 +4956,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers.
-                               (Articles R341-2 à R341-7-2)
+                               (Articles R341-1 à R341-7-2)
                            
                         
                      
@@ -6784,12 +6749,6 @@
                   Titre III : Placement et emploi
                   
                      
-                        Chapitre Ier : Dispositions particulières à la main-d'oeuvre étrangère.
-                         (Articles R831-1 à R831-2)
-                     
-                  
-                  
-                     
                         Chapitre III : Garantie de ressources des travailleurs sans emploi.
                          (Articles R833-1 à R833-7)
                      
@@ -7480,7 +7439,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers.
-                               (Article D341-2)
+                               (Articles D341-1 à D341-2)
                            
                         
                      
@@ -7502,7 +7461,7 @@
                         
                            
                               SECTION 1 : TRAVAILLEURS ETRANGERS.
-                               (Articles D341-1 à D341-3)
+                               (Article D341-3)
                            
                         
                      
