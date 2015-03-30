@@ -4487,17 +4487,52 @@
                   Titre Ier : Placement
                   
                      
+                        Chapitre Ier : Service public du placement
+                        
+                           
+                              Section 1 : Organismes qui concourent au service public du placement.
+                               (Articles R311-1-1 à R311-1-5)
+                           
+                        
+                        
+                           
+                              Section 2 : Notification par les employeurs des places vacantes.
+                               (Article R311-2-1)
+                           
+                        
+                        
+                           
+                              Section 3 : Inscription et radiation de la liste des demandeurs d'emploi.
+                               (Articles R311-3-1 à R311-3-7)
+                           
+                        
+                        
+                           
+                              Section 4 : Agence nationale pour l'emploi.
+                               (Articles R311-4-1 à R311-4-22)
+                           
+                        
+                        
+                           
+                              Section 5 : Collectivités territoriales.
+                               (Articles R311-5-1 à R311-5-6)
+                           
+                        
+                        
+                           
+                              Section 6 : Dispositions diverses.
+                               (Articles R311-6-1 à R311-6-4)
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre II : Placement privé
                         
                            
-                              Section 1 : Placement gratuit.
-                               (Articles R312-1 à R312-11)
-                           
-                        
-                        
-                           
                               Section 2 : Placement payant.
-                               (Article R312-12)
+                               (Articles R312-12 à R312-13)
                            
                         
                      
@@ -4695,27 +4730,10 @@
             
             
                
-                  Titre III : AGENCE NATIONALE POUR L'EMPLOI
+                  Titre III : Conseil supérieur de l'égalité professionnelle entre les femmes et les hommes
                   
                      
-                        Chapitre Ier : AGENCE NATIONALE POUR L'EMPLOI.
-                         (Articles R330-1 à R330-20)
-                     
-                  
-                  
-                     
-                        Chapitre Ier : AGENCE NATIONALE POUR L'EMPLOI *ANPE*.
-                         (Articles R330-2 à R330-21)
-                     
-                  
-               
-            
-            
-               
-                  Titre III : AGENCE NATIONALE POUR L'EMPLOI - CONSEIL SUPERIEUR DE L'EGALITE PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES
-                  
-                     
-                        Chapitre II : CONSEIL SUPERIEUR DE L'EGALITE PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES.
+                        Chapitre II : Conseil supérieur de l'égalité professionnelle entre les femmes et les hommes.
                          (Articles R331-1 à R331-7)
                      
                   
@@ -4960,33 +4978,6 @@
                      
                         Chapitre V : Travailleurs privés d'emploi.
                          (Article R365-1)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            Livre III : PLACEMENT
-            
-               
-                  Titre Ier : PLACEMENT
-                  
-                     
-                        Chapitre Ier : SERVICE PUBLIC DE L'EMPLOI.
-                         (Articles R311-1 à R311-3)
-                     
-                  
-                  
-                     
-                        Chapitre II : PLACEMENT PRIVE
-                        
-                           
-                              SECTION 3 : DISPOSITIONS COMMUNES.
-                               (Article R312-13)
-                           
-                        
                      
                   
                
