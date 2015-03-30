@@ -325,17 +325,6 @@
                               
                            
                         
-                        
-                           
-                              SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE
-                              
-                                 
-                                    SOUS-SECTION 2 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE.
-                                     (Article L122-41)
-                                 
-                              
-                           
-                        
                      
                   
                   
@@ -956,6 +945,12 @@
                         
                      
                   
+                  
+                     
+                        Chapitre VI : Congés pour événements familiaux.
+                         (Article L226-1)
+                     
+                  
                
             
             
@@ -1121,22 +1116,6 @@
       
       
          
-            Livre II : REGLEMENT DU TRAVAIL
-            
-               
-                  Titre II : CONGES
-                  
-                     
-                        Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.
-                         (Article L226-1)
-                     
-                  
-               
-            
-         
-      
-      
-         
             Livre III : Placement et emploi
             
                
@@ -1216,6 +1195,18 @@
             
                
                   Titre II : Emploi
+                  
+                     
+                        Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
+                         (Article L320-1)
+                     
+                  
+                  
+                     
+                        Chapitre Ier : Licenciement pour motif économique.
+                         (Articles L321-1 à L321-12)
+                     
+                  
                   
                      
                         Chapitre II : Fonds national de l'emploi
@@ -1390,6 +1381,12 @@
                          (Articles L352-1 à L352-5)
                      
                   
+                  
+                     
+                        Chapitre III : Dispositions particulières.
+                         (Article L353-1)
+                     
+                  
                
             
             
@@ -1466,12 +1463,6 @@
             
                
                   Titre II : EMPLOI
-                  
-                     
-                        Chapitre Ier : CONTROLE DE L'EMPLOI.
-                         (Articles L321-1 à L321-12)
-                     
-                  
                   
                      
                         Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
@@ -1836,52 +1827,6 @@
             CONFLITS DU TRAVAIL
             
                
-                  CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-                  
-                     
-                        ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES
-                         (Article L511-1)
-                     
-                  
-                  
-                     
-                        ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.
-                         (Articles L512-2 à L512-11)
-                     
-                  
-                  
-                     
-                        ELECTION DES CONSEILLERS PRUD'HOMMES
-                        
-                           
-                              ELIGIBILITE.
-                               (Article L513-2)
-                           
-                        
-                     
-                  
-                  
-                     
-                        STATUT DES CONSEILLERS PRUD'HOMMES
-                         (Article L514-3)
-                     
-                  
-                  
-                     
-                        BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE
-                         (Articles L515-1 à L515-3)
-                     
-                  
-                  
-                     
-                        DEPENSES DES CONSEILS DE PRUD'HOMMES
-                         (Article L51-10-2)
-                     
-                  
-               
-            
-            
-               
                   CONFLITS COLLECTIFS
                   
                      
@@ -1936,13 +1881,13 @@
                   
                      
                         Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
-                         (Articles L515-2 à L515-4)
+                         (Articles L515-1 à L515-4)
                      
                   
                   
                      
                         Chapitre VI : Procédure devant les conseils de prud'hommes.
-                         (Articles L516-1 à L516-4)
+                         (Articles L516-1 à L516-5)
                      
                   
                   
@@ -1954,7 +1899,7 @@
                   
                      
                         Chapitre X : Dépenses des conseils de prud'hommes.
-                         (Article L51-10-1)
+                         (Articles L51-10-1 à L51-10-2)
                      
                   
                
@@ -1968,13 +1913,13 @@
                         
                            
                               Chapitre Ier : Attributions et institution des conseils de prud'hommes.
-                               (Article L511-4)
+                               (Articles L511-1 à L511-4)
                            
                         
                         
                            
                               Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
-                               (Article L512-13)
+                               (Articles L512-2 à L512-13)
                            
                         
                         
@@ -1987,6 +1932,18 @@
                                        
                                           Paragraphe 1 : Electorat.
                                            (Article L513-1)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 2 : Eligibilité.
+                                           (Article L513-2)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 3 : Etablissement des listes électorales.
+                                           (Article L513-3)
                                        
                                     
                                  
@@ -2112,32 +2069,6 @@
                      
                         Chapitre II : Conflits collectifs
                          (Article L532-1)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            LIVRE 5 : CONFLITS DU TRAVAIL
-            
-               
-                  TITRE 1 : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-                  
-                     
-                        CHAPITRE 3 : ELECTION DES CONSEILLERS PRUD'HOMMES
-                        
-                           
-                              SECTION 1
-                              
-                                 
-                                    PARAGRAPHE 3 : ETABLISSEMENT DES LISTES ELECTORALES.
-                                     (Article L513-3)
-                                 
-                              
-                           
-                        
                      
                   
                
@@ -4348,13 +4279,8 @@
                               
                               
                                  
-                                    SOUS-SECTION 3 : DECLARATION DE CREATION
-                                    
-                                       
-                                          AGREMENT DES SERVICES MEDICAUX - CONTROLE.
-                                           (Articles R241-6 à R241-8)
-                                       
-                                    
+                                    SOUS-SECTION 3 : AGREMENT ET CONTROLE DES SERVICES MEDICAUX.
+                                     (Articles R241-7 à R241-8)
                                  
                               
                            
@@ -4364,13 +4290,8 @@
                               SECTION 1 : LES SERVICES MEDICAUX DU TRAVAIL D'ENTREPRISE OU D'ETABLISSEMENT
                               
                                  
-                                    SOUS-SECTION 3 : DECLARATION DE CREATION
-                                    
-                                       
-                                          AGREMENT DES SERVICES MEDICAUX - CONTROLE.
-                                           (Article R241-9)
-                                       
-                                    
+                                    SOUS-SECTION 3 :AGREMENT ET CONTROLE DES SERVICES MEDICAUX
+                                     (Article R241-9)
                                  
                               
                            
@@ -4428,7 +4349,7 @@
                               
                                  
                                     Sous-section 1 : Action sur le milieu du travail.
-                                     (Articles R241-42 à R241-47)
+                                     (Articles R241-41-1 à R241-47)
                                  
                               
                               
@@ -4440,7 +4361,13 @@
                               
                                  
                                     Sous-section 3 : Documents médicaux.     
-                                     (Articles R241-56 à R241-58)
+                                     (Articles R241-56 à R241-57)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Recherches, études, enquêtes.
+                                     (Article R241-58)
                                  
                               
                            
