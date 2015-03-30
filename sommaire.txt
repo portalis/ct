@@ -146,7 +146,7 @@
                               
                                  
                                     SECTION 2 : CONDITIONS DU CONTRAT
-                                     (Article L117-10)
+                                     (Articles L117-5 à L117-10)
                                  
                               
                               
@@ -194,7 +194,7 @@
                         
                            
                               Section 2 : Conditions du contrat.
-                               (Articles L117-6 à L117-11)
+                               (Articles L117-6 à L117-11-1)
                            
                         
                         
@@ -246,7 +246,7 @@
                         
                            
                               SECTION 1 : CONTRAT A DUREE DETERMINEE.
-                               (Articles L122-3 à L122-3-15)
+                               (Articles L122-1 à L122-3-16)
                            
                         
                         
@@ -320,7 +320,7 @@
                               
                                  
                                     Sous-section 2 : Protection des salariés et droit disciplinaire.
-                                     (Articles L122-40 à L122-44)
+                                     (Articles L122-40 à L122-45)
                                  
                               
                            
@@ -342,7 +342,7 @@
                               
                                  
                                     SOUS-SECTION 2 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE.
-                                     (Articles L122-41 à L122-45)
+                                     (Article L122-41)
                                  
                               
                            
@@ -361,7 +361,7 @@
                         
                            
                               Section 1 : Règles générales.
-                               (Article L124-1)
+                               (Articles L124-1 à L124-3)
                            
                         
                         
@@ -387,13 +387,19 @@
                   
                      
                         Chapitre V : Marchandage.
-                         (Articles L125-1 à L125-2)
+                         (Articles L125-1 à L125-3)
                      
                   
                   
                      
                         Chapitre VI : Cautionnements.
                          (Articles L126-1 à L126-4)
+                     
+                  
+                  
+                     
+                        Chapitre VII : GROUPEMENTS D'EMPLOYEURS.
+                         (Articles L127-1 à L127-7)
                      
                   
                
@@ -455,24 +461,13 @@
                         
                            
                               Section 1 : Conventions et accords susceptibles d'être étendus.
-                               (Articles L133-1 à L133-6)
+                               (Articles L133-1 à L133-7)
                            
                         
                         
                            
                               Section 2 : Procédures d'extension et d'élargissement.
                                (Articles L133-8 à L133-17)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre III : CONVENTIONS ET ACCORDS SUSCEPTIBLES D'ETRE ETENDUS
-                        
-                           
-                              SECTION 1 : CONVENTIONS ET ACCORDS SUSCEPTIBLES D'ETRE ETENDUS.
-                               (Article L133-7)
                            
                         
                      
@@ -671,8 +666,20 @@
                         
                         
                            
+                              Section 3 : Marchandage
+                               (Article L152-3)
+                           
+                        
+                        
+                           
                               Section 4 : Cautionnement.
                                (Article L152-4)
+                           
+                        
+                        
+                           
+                              Section 5 : Groupements d'employeurs.
+                               (Article L152-5)
                            
                         
                      
@@ -728,7 +735,7 @@
                         
                            
                               CHAPITRE 6 : DES CENTRES DE FORMATION D'APPRENTIS.
-                               (Article L116-2)
+                               (Articles L116-2 à L116-3)
                            
                         
                      
@@ -747,67 +754,6 @@
                                (Article L152-2)
                            
                         
-                        
-                           
-                              SECTION 3 : MARCHANDAGE
-                               (Article L152-3)
-                           
-                        
-                     
-                  
-               
-            
-         
-      
-      
-         
-            CONVENTIONS RELATIVES AU TRAVAIL
-            
-               
-                  CONTRAT D'APPRENTISSAGE
-                  
-                     
-                        DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972 *DATE*
-                        
-                           
-                              CENTRES DE FORMATION D'APPRENTIS .
-                               (Article L116-3)
-                           
-                        
-                        
-                           
-                              CONDITIONS DU CONTRAT D'APPRENTISSAGE .
-                               (Article L117-5)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  CONTRAT DE TRAVAIL .
-                  
-                     
-                        TRAVAIL TEMPORAIRE .
-                        
-                           
-                              REGLES GENERALES.
-                               (Articles L124-2 à L124-3)
-                           
-                        
-                        
-                           
-                              REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL .
-                               (Articles L124-4-1 à L124-7)
-                           
-                        
-                     
-                  
-                  
-                     
-                        MARCHANDAGE .
-                         (Article L125-3)
                      
                   
                
@@ -969,7 +915,7 @@
                         
                            
                               Section 2 : Durée du congé.
-                               (Articles L223-2 à L223-7-1)
+                               (Articles L223-2 à L223-8)
                            
                         
                         
@@ -1005,6 +951,12 @@
                            
                               Section 2 : Congés d'éducation ouvrière.
                                (Article L225-6)
+                           
+                        
+                        
+                           
+                              Section 3 : Congé mutualiste.
+                               (Article L225-7)
                            
                         
                      
@@ -1076,18 +1028,6 @@
             
             
                
-                  Titre III : HYGIENE ET SECURITE .
-                   (Article L231-6)
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS GENERALES
-                         (Article L231-7)
-                     
-                  
-               
-            
-            
-               
                   Titre III : SECURITE
                   
                      
@@ -1148,28 +1088,6 @@
       
       
          
-            REGLEMENTATION DU TRAVAIL
-            
-               
-                  CONGES ANNUELS
-                  
-                     
-                        DUREE DU CONGE .
-                         (Article L223-8)
-                     
-                  
-               
-            
-            
-               
-                  HYGIENE ET SECURITE .
-                   (Article L231-4)
-               
-            
-         
-      
-      
-         
             Livre II : REGLEMENT DU TRAVAIL
             
                
@@ -1182,12 +1100,6 @@
                   
                
             
-         
-      
-      
-         
-            REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .
-             (Article L231-3-1)
          
       
       
@@ -1667,7 +1579,7 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles L412-2 à L412-4)
+                               (Articles L412-1 à L412-4)
                            
                         
                         
@@ -1918,22 +1830,6 @@
             LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
             
                
-                  LES SYNDICATS PROFESSIONNELS
-                  
-                     
-                        EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES
-                        
-                           
-                              DISPOSITIONS GENERALES .
-                               (Article L412-1)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   EDUCATION OUVRIERE ET FORMATION SYNDICALE
                   
                      
@@ -1978,18 +1874,12 @@
                                (Article L513-2)
                            
                         
-                        
-                           
-                              ETABLISSEMENT DES LISTES ELECTORALES.
-                               (Article L513-3)
-                           
-                        
                      
                   
                   
                      
                         STATUT DES CONSEILLERS PRUD'HOMMES
-                         (Articles L514-2 à L514-3)
+                         (Article L514-3)
                      
                   
                   
@@ -2012,7 +1902,6 @@
                   
                      
                         LA GREVE .
-                         (Article L521-1)
                         
                            
                               GREVE DANS LES SERVICES PUBLICS .
@@ -2129,7 +2018,7 @@
                         
                            
                               Chapitre IV : Statut des conseillers prud'hommes.
-                               (Articles L514-5 à L514-14)
+                               (Articles L514-2 à L514-14)
                            
                         
                         
@@ -2148,6 +2037,12 @@
                   
                      
                         Chapitre Ier : La grève
+                        
+                           
+                              Section 1 : Dispositions générales.
+                               (Article L521-1)
+                           
+                        
                         
                            
                               Section 2 : Grève dans les services publics.
@@ -2241,22 +2136,26 @@
       
       
          
-            CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL
+            LIVRE 5 : CONFLITS DU TRAVAIL
             
                
-                  SERVICES DE CONTROLE
+                  TITRE 1 : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
                   
                      
-                        INSPECTION DU TRAVAIL .
-                         (Articles L611-7 à L611-15)
+                        CHAPITRE 3 : ELECTION DES CONSEILLERS PRUD'HOMMES
+                        
+                           
+                              SECTION 1
+                              
+                                 
+                                    PARAGRAPHE 3 : ETABLISSEMENT DES LISTES ELECTORALES.
+                                     (Article L513-3)
+                                 
+                              
+                           
+                        
                      
                   
-               
-            
-            
-               
-                  OBLIGATIONS DES EMPLOYEURS .
-                   (Articles L620-2 à L620-7)
                
             
          
@@ -2270,7 +2169,7 @@
                   
                      
                         Chapitre Ier : Inspection du travail.
-                         (Articles L611-1 à L611-13)
+                         (Articles L611-1 à L611-15)
                      
                   
                   
@@ -2284,7 +2183,7 @@
             
                
                   Titre II : Obligations des employeurs.
-                   (Articles L620-1 à L620-11)
+                   (Articles L620-1 à L620-7)
                
             
             
@@ -2714,12 +2613,6 @@
                   
                
             
-            
-               
-                  CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .
-                   (Article L771-4)
-               
-            
          
       
       
@@ -2924,7 +2817,7 @@
                   
                      
                         Chapitre Ier : Dispositions diverses.
-                         (Articles L991-2 à L991-8)
+                         (Articles L991-1 à L991-8)
                      
                   
                   
@@ -2954,12 +2847,6 @@
             
                
                   Titre III : DES DROITS INDIVIDUELS ET DES DROITS COLLECTIFS DES    SALARIES EN MATIERE DE FORMATION
-                  
-                     
-                        Chapitre Ier : DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION
-                         (Article L931-2)
-                     
-                  
                   
                      
                         Chapitre Ier : DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.
@@ -2996,17 +2883,6 @@
                   
                
             
-            
-               
-                  Titre IX : DISPOSITIONS DIVERSES
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS DIVERSES
-                         (Article L991-1)
-                     
-                  
-               
-            
          
       
       
@@ -3018,7 +2894,7 @@
                   
                      
                         Chapitre Ier : DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION
-                         (Articles L931-4 à L931-8)
+                         (Articles L931-5 à L931-8)
                      
                   
                
