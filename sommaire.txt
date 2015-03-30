@@ -72,8 +72,14 @@
                         Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
                         
                            
+                              Chapitre V : Généralités.
+                               (Articles L115-1 à L115-2)
+                           
+                        
+                        
+                           
                               Chapitre VI : Des centres de formation d'apprentis.
-                               (Article L116-5)
+                               (Articles L116-1-1 à L116-5)
                            
                         
                         
@@ -82,7 +88,7 @@
                               
                                  
                                     Section 2 : Conditions du contrat.
-                                     (Article L117-4)
+                                     (Articles L117-3 à L117-10)
                                  
                               
                               
@@ -96,7 +102,7 @@
                         
                            
                               Chapitre VII bis : Du statut de l'apprenti.
-                               (Article L117 BIS-3)
+                               (Articles L117 BIS-2 à L117 BIS-3)
                            
                         
                         
@@ -118,53 +124,6 @@
                         DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*
                         
                            
-                              CHAPITRE V : GENERALITES.
-                               (Article L115-2)
-                           
-                        
-                        
-                           
-                              CHAPITRE VI : DES CENTRES DE FORMATION D'APPRENTIS .
-                               (Articles L116-1 à L116-4)
-                           
-                        
-                        
-                           
-                              CHAPITRE VII : DU CONTRAT D'APPRENTISSAGE
-                              
-                                 
-                                    SECTION 1 : DEFINITION ET REGIME JURIDIQUE *DU CONTRAT D'APPRENTISSAGE*.
-                                     (Article L117-1)
-                                 
-                              
-                              
-                                 
-                                    SECTION 2 : CONDITIONS DU CONTRAT D'APPRENTISSAGE .
-                                     (Articles L117-7 à L117-9)
-                                 
-                              
-                              
-                                 
-                                    SECTION 2 : CONDITIONS DU CONTRAT
-                                     (Articles L117-5 à L117-10)
-                                 
-                              
-                              
-                                 
-                                    SECTION 3 : FORMATION ET RESOLUTION DU CONTRAT D'APPRENTISSAGE .
-                                     (Article L117-15)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              CHAPITRE VII bis : DU STATUT DE L'APPRENTI .
-                               (Articles L117 BIS-2 à L117 BIS-5)
-                           
-                        
-                        
-                           
                               Chapitre IX : DISPOSITIONS DIVERSES.
                                (Article L119-1)
                            
@@ -179,7 +138,7 @@
                   
                      
                         Chapitre VI : Des centres de formation d'apprentis
-                         (Articles L116-6 à L116-8)
+                         (Articles L116-1 à L116-8)
                      
                   
                   
@@ -188,7 +147,7 @@
                         
                            
                               Section 1 : Définition et régime juridique.
-                               (Article L117-2)
+                               (Articles L117-1 à L117-2)
                            
                         
                         
@@ -200,7 +159,7 @@
                         
                            
                               Section 3 : Formation et résolution du contrat
-                               (Articles L117-16 à L117-17)
+                               (Articles L117-15 à L117-17)
                            
                         
                      
@@ -252,7 +211,7 @@
                         
                            
                               Section 2 : Résiliation du contrat de travail à durée indéterminée
-                               (Articles L122-4 à L122-14-11)
+                               (Articles L122-4 à L122-14-13)
                            
                         
                         
@@ -697,44 +656,6 @@
       
       
          
-            LIVRE 1 : CONVENTIONS RELATIVES AU TRAVAIL
-            
-               
-                  TITRE 1 : CONTRAT D'APPRENTISSAGE
-                  
-                     
-                        DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*
-                        
-                           
-                              CHAPITRE 5 : GENERALITES.
-                               (Article L115-1)
-                           
-                        
-                        
-                           
-                              CHAPITRE 6 : DES CENTRES DE FORMATION D'APPRENTIS.
-                               (Articles L116-2 à L116-3)
-                           
-                        
-                        
-                           
-                              CHAPITRE 7 : DU CONTRAT D'APPRENTISSAGE
-                              
-                                 
-                                    SECTION 2 : CONDITIONS DU CONTRAT D'APPRENTISSAGE .
-                                     (Article L117-3)
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-         
-      
-      
-         
             Livre II : Réglementation du travail
             
                
@@ -990,17 +911,6 @@
             
             
                
-                  Titre III : SECURITE
-                  
-                     
-                        Chapitre III : SECURITE.
-                         (Article L233-5)
-                     
-                  
-               
-            
-            
-               
                   Titre IV : Médecine du travail.
                    (Articles L241-1 à L241-11)
                
@@ -1078,7 +988,7 @@
                         
                            
                               Section 3 : Inscription sur la liste des demandeurs d'emploi
-                               (Article L311-6)
+                               (Articles L311-5 à L311-6)
                            
                         
                         
@@ -1353,27 +1263,6 @@
                      
                         Chapitre V : Travailleurs privés d'emploi.
                          (Articles L365-1 à L365-2)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            Livre III : PLACEMENT
-            
-               
-                  Titre Ier : PLACEMENT
-                  
-                     
-                        Chapitre Ier : SERVICE PUBLIC DU PLACEMENT.
-                        
-                           
-                              SECTION 3 : INSCRIPTION SUR LA LISTE DES DEMANDEURS D'EMPLOI.
-                               (Article L311-5)
-                           
-                        
                      
                   
                
@@ -2637,12 +2526,6 @@
             Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
             
                
-                  Titre V : DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.
-                   (Article L950-2)
-               
-            
-            
-               
                   Titre VI : AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION    PROFESSIONNELLE
                   
                      
@@ -3778,6 +3661,96 @@
                   
                   
                      
+                        Chapitre II : Hygiène
+                        
+                           
+                              Section 1 : Hygiène des locaux affectés au travail et de leurs annexes
+                              
+                                 
+                                    Sous-section 2 : Installations sanitaires
+                                     (Articles R232-2 à R232-2-7)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Postes de distribution de boissons
+                                     (Article R232-3)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Confort du poste de travail
+                                     (Article R232-4)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 2 : Ambiances des lieux de travail
+                              
+                                 
+                                    Sous-section 1 : Aération, assainissement
+                                     (Articles R232-5-1 à R232-5-14)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Ambiance thermique.
+                                     (Article R232-6)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Eclairage.
+                                     (Articles R232-7 à R232-7-10)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 3 : Restauration
+                              
+                                 
+                                    Hébergement
+                                    
+                                       
+                                          Sous-section 1 : Repas.
+                                           (Articles R232-10 à R232-10-1)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Hébergement.
+                                           (Articles R232-11-3 à R232-11-5)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 4 : Mesures d'application
+                              
+                                 
+                                    Sous-section 1 : Dispositions particulières aux établissements agricoles.
+                                     (Articles R232-12 à R232-12-9)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Dispositions générales.
+                                     (Article R232-13)
+                                 
+                              
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre III : Sécurité
                         
                            
@@ -3850,7 +3823,7 @@
                               
                                  
                                     Sous-section 5 : Dispositions communes.
-                                     (Articles R233-78 à R233-80)
+                                     (Articles R233-78 à R233-81-1)
                                  
                               
                            
@@ -3958,25 +3931,7 @@
                               
                                  
                                     SOUS-SECTION 1 : AERATION, ASSAINISSEMENT.
-                                     (Articles R232-1 à R232-4)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 2 : CHAUFFAGE.
-                                     (Article R232-5)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 3 : ECLAIRAGE.
-                                     (Articles R232-6 à R232-6-10)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 4 : PROTECTION CONTRE LES INTEMPERIES.
-                                     (Articles R232-7 à R232-8)
+                                     (Article R232-1)
                                  
                               
                               
@@ -3985,62 +3940,8 @@
                                      (Article R232-9)
                                  
                               
-                              
-                                 
-                                    SOUS-SECTION 6 : NETTOYAGE.
-                                     (Articles R232-10 à R232-11)
-                                 
-                              
                            
                         
-                        
-                           
-                              SECTION 2 : REPAS, BOISSONS.
-                               (Articles R232-16 à R232-21)
-                           
-                        
-                        
-                           
-                              SECTION 3 : INSTALLATIONS SANITAIRES.
-                               (Articles R232-22 à R232-28)
-                           
-                        
-                        
-                           
-                              SECTION 4 : SIEGES.
-                               (Article R232-29)
-                           
-                        
-                        
-                           
-                              SECTION 5 : COUCHAGE .
-                               (Articles R232-31 à R232-41)
-                           
-                        
-                        
-                           
-                              SECTION 6 : MESURES D'APPLICATION
-                               (Articles R232-42 à R232-45)
-                           
-                        
-                        
-                           
-                              SECTION 7 : DISPOSITIONS PARTICULIERES AUX ETABLISSEMENTS AGRICOLES.
-                               (Articles R232-46 à R232-51)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre II : HYGIENE SECTION 4 : SIEGES.
-                         (Article R232-30)
-                     
-                  
-                  
-                     
-                        Chapitre II : HYGIENE SECTION 5 : COUCHAGE.
-                         (Articles R232-34 à R232-37)
                      
                   
                
@@ -4099,12 +4000,6 @@
                                  
                                     SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES.
                                      (Articles R233-75 à R233-77)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 5 : DISPOSITIONS COMMUNES *PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE ET PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES*.
-                                     (Article R233-81)
                                  
                               
                               
@@ -4857,12 +4752,6 @@
                         
                            
                               SECTION 1 : PRIVATION TOTALE D'EMPLOI
-                              
-                                 
-                                    SOUS-SECTION 2 : REGIME DE SOLIDARITE.
-                                     (Article R351-13)
-                                 
-                              
                               
                                  
                                     SOUS-SECTION 3 : REGIMES PARTICULIERS.
