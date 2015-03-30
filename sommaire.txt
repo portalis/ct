@@ -1073,13 +1073,61 @@
                         Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
                         
                            
+                              Section 1 : Obligation d'emploi des travailleurs handicapés, des mutilés de guerre et assimilés.
+                               (Articles L323-1 à L323-8-8)
+                           
+                        
+                        
+                           
                               Section 2 : Dispositions propres aux travailleurs handicapés
                               
                                  
-                                    Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.
-                                     (Articles L323-19 à L323-28)
+                                    Sous-section 1 : Dispositions générales
+                                     (Articles L323-9 à L323-14)
                                  
                               
+                              
+                                 
+                                    Sous-section 2 : Réadaptation - Rééducation - Formation professionnelle et réentraînement au travail.
+                                     (Articles L323-15 à L323-18)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.
+                                     (Article L323-21)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Travail protégé
+                                     (Articles L323-29 à L323-33)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 5 : Dispositions d'exécution.
+                                     (Article L323-34)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 3 : Commission départementale des travailleurs handicapés, des mutilés de guerre et assimilés.
+                               (Article L323-35)
+                           
+                        
+                        
+                           
+                              Section 4 : Handicapés sociaux.
+                               (Article L323-35 bis)
+                           
+                        
+                        
+                           
+                              Section 5 : Emploi obligatoire des pères de famille.
+                               (Articles L323-36 à L323-39)
                            
                         
                      
@@ -1128,7 +1176,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers
-                               (Articles L341-2 à L341-6-1)
+                               (Articles L341-2 à L341-8)
                               
                                  
                                     (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -1137,25 +1185,9 @@
                               
                            
                         
-                     
-                  
-               
-            
-            
-               
-                  Titre IV : MAIN-D'OEUVRE ETRANGERE
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
                         
                            
-                              SECTION 1 : TRAVAILLEURS ETRANGERS.
-                               (Articles L341-7 à L341-8)
-                           
-                        
-                        
-                           
-                              SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*.
+                              Section 2 : Office des migrations internationales.
                                (Articles L341-9 à L341-10)
                            
                         
@@ -1277,76 +1309,6 @@
                   Titre II : EMPLOI
                   
                      
-                        Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
-                        
-                           
-                              SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE ET ASSIMILES.
-                               (Articles L323-1 à L323-8)
-                           
-                        
-                        
-                           
-                              SECTION 2 : TRAVAILLEURS HANDICAPES
-                              
-                                 
-                                    SOUS-SECTION 1 : DISPOSITIONS GENERALES.
-                                     (Articles L323-9 à L323-13)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 2 : DISPOSITIONS GENERALES.
-                                     (Article L323-14)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
-                                     (Articles L323-15 à L323-18)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 3 : PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES.
-                                     (Article L323-21)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 4 : TRAVAIL PROTEGE.
-                                     (Articles L323-29 à L323-33)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES.
-                                     (Article L323-34)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.
-                                     (Article L323-35)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              SECTION 2 bis : HANDICAPES SOCIAUX.
-                               (Article L323-35 bis)
-                           
-                        
-                        
-                           
-                              SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.
-                               (Articles L323-36 à L323-39)
-                           
-                        
-                     
-                  
-                  
-                     
                         Chapitre IV : TRAVAIL CLANDESTIN
                         
                            
@@ -1354,22 +1316,6 @@
                                (Article L324-10)
                            
                         
-                     
-                  
-               
-            
-         
-      
-      
-         
-            Livre 3 : PLACEMENT ET EMPLOI
-            
-               
-                  Titre 6 : PENALITES
-                  
-                     
-                        Chapitre 4 : MAIN-D'OEUVRE ETRANGERE ET PROTECTION DE LA MAIN-D'OEUVRE NATIONALE
-                         (Article L364-3)
                      
                   
                
@@ -2512,17 +2458,6 @@
       
       
          
-            FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .
-            
-               
-                  CONVENTIONS DE FORMATION PROFESSIONNELLE .
-                   (Article L920-3)
-               
-            
-         
-      
-      
-         
             Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
             
                
@@ -2542,22 +2477,6 @@
                      
                         Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE.
                          (Article L961-2)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            Livre IX : FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION    PERMANENTE
-            
-               
-                  Titre III : DES DROITS INDIVIDUELS ET DES DROITS COLLECTIFS DES    SALARIES EN MATIERE DE FORMATION
-                  
-                     
-                        Chapitre Ier : DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION
-                         (Articles L931-5 à L931-8)
                      
                   
                
@@ -4419,10 +4338,16 @@
                   
                      
                         Chapitre II : Fonds national de l'emploi.
-                         (Article R322-1-1)
+                         (Articles R322-1 à R322-1-1)
                         
                            
                               Section 1 : Conventions de coopération
+                              
+                                 
+                                    A - Conventions de formation et conventions d'aide à la mobilité.
+                                     (Articles R322-2 à R322-5-1)
+                                 
+                              
                               
                                  
                                     B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
@@ -4450,10 +4375,40 @@
                         Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
                         
                            
+                              Section 1 : Obligation d'emploi des travailleurs handicapés, des mutilés de guerre et assimilés
+                              
+                                 
+                                    Sous-section 1 : Exonération partielle de l'obligation d'emploi.
+                                     (Articles R323-1 à R323-3)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Procédure d'agrément des accords de branche, d'entreprise ou d'établissement.
+                                     (Articles R323-4 à R323-7)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Modalités du contrôle de la répartition et de l'utilisation des contributions versées au fonds de développement pour l'insertion professionnelle des travailleurs handicapés.
+                                     (Article R323-8)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Déclaration annuelle.
+                                     (Articles R323-9 à R323-11)
+                                 
+                              
+                           
+                        
+                        
+                           
                               Section 2 : Travailleurs handicapés
                               
                                  
                                     Sous-section 1 : Dispositions générales.
+                                     (Article R323-32)
                                  
                               
                               
@@ -4482,34 +4437,28 @@
                               
                               
                                  
-                                    SOUS-SECTION 6 : PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES .
-                                     (Articles R323-42 à R323-58-5)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 7 : TRAVAIL PROTEGE
+                                    Sous-section 6 : Travail protégé
                                     
                                        
-                                          PARAGRAPHE 1 : EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS .
+                                          Paragraphe 1 : Emplois à mi-temps et emplois légers.
                                            (Articles R323-59 à R323-59-3)
                                        
                                     
                                     
                                        
-                                          PARAGRAPHE 2 : ETABLISSEMENTS SPECIALISES.
+                                          Paragraphe 2 : Etablissements spécialisés.
                                            (Articles R323-60 à R323-63)
                                        
                                     
                                     
                                        
-                                          PARAGRAPHE 3 : LABELS .
+                                          Paragraphe 3 : Labels.
                                            (Articles R323-64 à R323-72)
                                        
                                     
                                     
                                        
-                                          PARAGRAPHE 4 : SUBVENTION D'INSTALLATION.
+                                          Paragraphe 4 : Subvention d'installation.
                                            (Article R323-73)
                                        
                                     
@@ -4517,45 +4466,35 @@
                               
                               
                                  
-                                    SOUS-SECTION 8 : COMMISSION DEPARTEMENTALE DES HANDICAPES .
-                                     (Articles R323-74 à R323-79)
+                                    Sous-section 7 : Commission départementale des travailleurs handicapés, des mutilés de guerre et assimilés.
+                                     (Articles R323-74 à R323-78)
                                  
                               
                               
                                  
-                                    SOUS-SECTION 9 : DISPOSITIONS D'EXECUTION .
+                                    Sous-section 8 : Dispositions d'exécution.
                                      (Articles R323-80 à R323-92)
                                  
                               
                               
                                  
                                     Sous-section 9 : Dispositions applicables aux administrations et entreprises prévues à l'article L. 323-12 (4°)
-                                    
-                                       
-                                          Paragraphe 1 : Accession aux emplois réservés.
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 10 : DISPOSITIONS APPLICABLES AUX ADMINISTRATIONS ET ENTREPRISES PREVUES A L'ARTICLE L. 323-12 PARAGRAPHE 4 .
                                      (Articles R323-93 à R323-97)
                                     
                                        
-                                          PARAGRAPHE 1 : ACCESSION AUX EMPLOIS RESERVES .
+                                          Paragraphe 1 : Accession aux emplois réservés.
                                            (Articles R323-98 à R323-109)
                                        
                                     
                                     
                                        
-                                          PARAGRAPHE 2 : ACCESSION AUX EMPLOIS PUBLICS PAR CONCOURS .
+                                          Paragraphe 2 : Accession aux emplois publics par concours.
                                            (Articles R323-111 à R323-113)
                                        
                                     
                                     
                                        
-                                          PARAGRAPHE 3 : DISPOSITIONS DIVERSES
+                                          Paragraphe 3 : Dispositions diverses.
                                            (Articles R323-114 à R323-115)
                                        
                                     
@@ -4563,14 +4502,8 @@
                               
                               
                                  
-                                    SOUS-SECTION 11 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 ET DE L'ARTICLE 29 DE LA LOI N° 75-534 DU 30 JUIN 1975.
-                                     (Article R323-116)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 11 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N° 75-534 DU 30 JUIN 1975.
-                                     (Articles R323-117 à R323-119)
+                                    Sous-section 10 : Application des dispositions du dernier alinéa de l'article L. 323-9 et de l'article 29 de la loi n° 75-534 du 30 juin 1975.
+                                     (Articles R323-116 à R323-119)
                                  
                               
                            
@@ -4603,80 +4536,6 @@
             
             
                
-                  Titre IV : MAIN-D'OEUVRE ETRANGERE
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
-                        
-                           
-                              SECTION 1 : TRAVAILLEURS ETRANGERS.
-                               (Article R341-3)
-                           
-                        
-                        
-                           
-                              SECTION 2 : OFFICE NATIONAL D'IMMIGRATION
-                              
-                                 
-                                    PARAGRAPHE 1 : DISPOSITIONS GENERALES.
-                                     (Article R341-10)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 2 : ADMINISTRATION ET DIRECTION.
-                                     (Article R341-11)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*
-                              
-                                 
-                                    PARAGRAPHE 2 : ADMINISTRATION ET DIRECTION.
-                                     (Articles R341-11-1 à R341-15)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 3 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.
-                                     (Articles R341-16 à R341-20)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 2 : ATTRIBUTIONS DU CONSEIL D'ADMINISTRATION ET DU DIRECTEUR.
-                                     (Article R341-17)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 4 : SERVICES ADMINISTRATIFS.
-                                     (Articles R341-21 à R341-23)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 5 : SERVICES ADMINISTRATIFS.
-                                     (Article R341-24)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 5 : DISPOSITIONS FINANCIERES ET COMPTABLES.
-                                     (Articles R341-25 à R341-35)
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale
                   
                      
@@ -4685,6 +4544,41 @@
                            
                               Section 1 : Travailleurs étrangers.
                                (Articles R341-1 à R341-7-2)
+                           
+                        
+                        
+                           
+                              Section 2 : Office des migrations internationales
+                              
+                                 
+                                    Paragraphe 1 : Dispositions générales.
+                                     (Articles R341-9 à R341-10)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 2 : Administration et direction.
+                                     (Articles R341-11 à R341-15)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Attributions du conseil d'administration et du directeur.
+                                     (Articles R341-16 à R341-20)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 4 : Services administratifs.
+                                     (Articles R341-21 à R341-24)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 5 : Dispositions financières et comptables.
+                                     (Articles R341-25 à R341-35)
+                                 
+                              
                            
                         
                      
@@ -4742,28 +4636,6 @@
                            
                               Section 2 : Privation partielle d'emploi.
                                (Articles R351-50 à R351-53)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
-                        
-                           
-                              SECTION 1 : PRIVATION TOTALE D'EMPLOI
-                              
-                                 
-                                    SOUS-SECTION 3 : REGIMES PARTICULIERS.
-                                     (Article R351-22)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 4 : CONDITIONS D'OUVERTURE, DE RENOUVELLEMENT ET DE MAINTIEN DES DROITS AU REVENU DE REMPLACEMENT.
-                                     (Articles R351-35 à R351-36)
-                                 
-                              
                            
                         
                      
@@ -5007,121 +4879,6 @@
                
                   Titre VII : Fonds salariaux.
                    (Articles R471-1 à R471-3)
-               
-            
-         
-      
-      
-         
-            Livre III : EMPLOI
-            
-               
-                  Titre II : EMPLOI
-                  
-                     
-                        Chapitre II : FONDS NATIONAL DE L'EMPLOI
-                         (Article R322-1)
-                        
-                           
-                              SECTION 1 : CONVENTIONS DE COOPERATION
-                              
-                                 
-                                    A : CONVENTIONS DE FORMATION.
-                                     (Articles R322-2 à R322-5)
-                                 
-                              
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
-                        
-                           
-                              SECTION 1 : MUTILES DE GUERRE
-                              
-                                 
-                                    SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.
-                                     (Articles R323-1 à R323-12)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 1 : OBLIGATIONS DE EMPLOYEURS.
-                                     (Article R323-13)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 2 : REGIME DE REDEVANCES.
-                                     (Articles R323-15 à R323-21)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 3 : MUTILES DE GUERRE.
-                                     (Article R323-22)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 4 : MUTILES DE GUERRE.
-                                     (Article R323-23)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              SECTION 2 : TRAVAILLEURS HANDICAPES
-                              
-                                 
-                                    SOUS-SECTION 1 : DISPOSITIONS GENERALES.
-                                     (Article R323-32)
-                                 
-                              
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
-                        
-                           
-                              SECTION 1 : MUTILES DE GUERRE
-                              
-                                 
-                                    SOUS-SECTION 1 : OBLIGATIONS DES EMPLOYEURS.
-                                     (Articles R323-4 à R323-5)
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  Titre IV : MAIN-D'OEUVRE ETRANGERE
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
-                        
-                           
-                              SECTION 2 : OFFICE NATIONAL D'IMMIGRATION
-                              
-                                 
-                                    PARAGRAPHE 1 : DISPOSITIONS GENERALES.
-                                     (Article R341-9)
-                                 
-                              
-                           
-                        
-                     
-                  
                
             
          
@@ -6823,7 +6580,7 @@
                   
                      
                         Chapitre Ier : Service public du placement.
-                         (Articles D311-1 à D311-4)
+                         (Articles D311-1 à D311-5)
                      
                   
                
@@ -6858,6 +6615,29 @@
                   
                      
                         Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
+                        
+                           
+                              Section 1 : Obligation d'emploi des travailleurs handicapés, des mutilés de guerre et assimilés
+                              
+                                 
+                                    Sous-section 1 : Entreprises qui se créent ou qui franchissent le seuil d'assujettissement à l'obligation d'emploi.
+                                     (Article D323-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Modalités de décompte des catégories de bénéficiaires.
+                                     (Article D323-2)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Salariés occupant des emplois qui relèvent des catégories d'emplois exigeant des conditions d'aptitude particulières, non décomptés dans l'effectif des salariés visé au premier alinéa de l'article L. 323-1.
+                                     (Article D323-3)
+                                 
+                              
+                           
+                        
                         
                            
                               Section 2 : Travailleurs handicapés
@@ -6918,7 +6698,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers.
-                               (Articles D341-1 à D341-2)
+                               (Articles D341-1 à D341-3)
                            
                         
                      
@@ -6927,22 +6707,6 @@
                      
                         Chapitre II : Protection de la main-d'oeuvre nationale.
                          (Articles D342-1 à D342-13)
-                     
-                  
-               
-            
-            
-               
-                  Titre IV : MAIN-D'OEUVRE ETRANGERE
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
-                        
-                           
-                              SECTION 1 : TRAVAILLEURS ETRANGERS.
-                               (Article D341-3)
-                           
-                        
                      
                   
                
@@ -6977,27 +6741,6 @@
                      
                         Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.
                          (Articles D352-1 à D352-10)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            Livre III : EMPLOI
-            
-               
-                  Titre II : EMPLOI
-                  
-                     
-                        Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
-                        
-                           
-                              SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.
-                               (Articles D323-1 à D323-3)
-                           
-                        
                      
                   
                
