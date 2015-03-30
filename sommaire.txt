@@ -327,17 +327,6 @@
                         
                         
                            
-                              SECTION 6 : REGLEMENT INTERIEUR
-                              
-                                 
-                                    SOUS-SECTION 1 : REGLEMENT INTERIEUR.
-                                     (Article L122-35)
-                                 
-                              
-                           
-                        
-                        
-                           
                               SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE
                               
                                  
@@ -1767,24 +1756,13 @@
                   
                      
                         Chapitre Ier : Dispositions communes relatives au droit d'expression des salariés.
-                         (Articles L461-1 à L461-2)
+                         (Articles L461-1 à L461-5)
                      
                   
                   
                      
                         Chapitre II : Dispositions complémentaires relatives au droit d'expression des salariés dans les entreprises et établissements du secteur public.
                          (Articles L462-1 à L462-4)
-                     
-                  
-               
-            
-            
-               
-                  Titre VI : DISPOSITIONS COMMUNES RELATIVES AU DROIT D'EXPRESSION DES SALARIES
-                  
-                     
-                        Chapitre Ier : DISPOSITIONS COMMUNES RELATIVES AU DROIT D'EXPRESSION DES SALARIES.
-                         (Article L461-3)
                      
                   
                
@@ -1825,6 +1803,12 @@
                      
                         Chapitre III : Les comités d'entreprise.
                          (Articles L483-1 à L483-2)
+                     
+                  
+                  
+                     
+                        Chapitre VI : Droit d'expression des salariés.
+                         (Article L486-1)
                      
                   
                
@@ -2653,7 +2637,7 @@
                   
                      
                         Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
-                         (Article L831-3)
+                         (Article L831-2)
                      
                   
                   
@@ -2696,16 +2680,11 @@
       
       
          
-            DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
+            LIVRE VIII : DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM TITRE III : PLACEMENT ET EMPLOI
             
                
-                  PLACEMENT ET EMPLOI
-                  
-                     
-                        DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
-                         (Articles L831-1 à L831-2)
-                     
-                  
+                  CHAPITRE Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
+                   (Article L831-1)
                
             
          
