@@ -28,7 +28,7 @@
 19810125 : Décret 81-52 1981-01-23 art. 1 JORF 25 janvier
 19810129 : Loi n°81-64 du 28 janvier 1981 - art. 2 JORF 29 JANVIER 1981
 19810130 : Décret n°81-69 du 28 janvier 1981 - art. 3 (V) JORF 30 janvier 1981, Décret n°81-69 du 28 janvier 1981 - art. 2 JORF 30 janvier, Décret n°81-69 du 28 janvier 1981 - art. 1 JORF 30 janvier, Décret n°81-69 du 28 janvier 1981 - art. 5 JORF 30 janvier
-19810201 : Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 19810, Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 Date d'entrée en vigueur 1ER février 1981, Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 1981
+19810201 : Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 19810, Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1 NOVEMBRE 1980 date d'entrée en vigueur 1ER FEVRIER 1981, Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 Date d'entrée en vigueur 1ER février 1981, Décret n°80-857 du 30 octobre 1980 - art. 2 JORF 1ER novembre 1980 date d'entrée en vigueur 1ER février 1981
 19810413 : Décret 81-339 1981-04-07 art. 1 JORF 13 avril 1981, Décret 81-339 1981-04-07 art. 3 JORF 13 avril 1981, Décret 81-339 1981-04-07 art. 4 JORF 13 avril 1981
 19810515 : Décret n°81-540 du 12 mai 1981 - art. 2 JORF 15 MAI 1981
 19810521 : Décret 81-623 1981-05-20 ART. 3 JORF 21 MAI 1981
@@ -128,7 +128,11 @@
 19850706 : Décret n°85-106 du 23 janvier 1985 - art. 1 JORF 26 janvier 1985 rectificatif JORF 6 juillet 1985
 19850726 : Loi n°85-772 du 25 juillet 1985 - art. 109, Loi n°85-772 du 25 juillet 1985 - art. 91, Loi n°85-772 du 25 juillet 1985 - art. 56 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 90 JORF 26 JUILLET 1985, Loi n°85-772 du 25 juillet 1985 - art. 104 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 58 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 65, Loi n°85-772 du 25 juillet 1985 - art. 53 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 69, Loi n°85-772 du 25 juillet 1985 - art. 96 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 121, Loi n°85-772 du 25 juillet 1985 - art. 120, Loi n°85-772 du 25 juillet 1985 - art. 49 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 116, Loi n°85-772 du 25 juillet 1985 - art. 117, Loi n°85-772 du 25 juillet 1985 - art. 114, Loi n°85-772 du 25 juillet 1985 - art. 115, Loi n°85-772 du 25 juillet 1985 - art. 118, Loi n°85-772 du 25 juillet 1985 - art. 119, Loi n°85-772 du 25 juillet 1985 - art. 81 JORF 26 juillet 1985, LOI 85-773 1985-07-25 ART. 4 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 82, Loi n°85-772 du 25 juillet 1985 - art. 89, Loi n°85-772 du 25 juillet 1985 - art. 52 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 46 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 69 JORF 26 juillet 1985, Loi n°85-772 du 25 juillet 1985 - art. 57 JORF 26 JUILLET 1985, Loi n°85-772 du 25 juillet 1985 - art. 67 JORF 26 juillet 1985
 19850727 : Loi 85-773 1985-07-25 art. 5 jorf 26 juillet 1985, LOI 85-773 1985-07-25 art. 6 jorf 26 juillet 1985
-19851130 : Décret 85-1256 1985-11-04 art. 15 JORF 30 novembre 1985, Décret 85-1255 1985-11-04 art. 1 JORF 30 novembre 1985
+19850801 : Décret 83-721 1983-08-02 ART. 3 JORF 5 AOUT 1983 date d'entrée en vigueur 1 AOUT 1985, Décret 83-721 1983-08-02 ART. 1 JORF 5 AOUT 1983 date d'entrée en vigueur 1 AOUT 1985
+19850824 : Décret 85-897 1985-08-22 ART. 1 ART. 2 JORF 24 AOUT 1985
+19850908 : Décret n°85-946 du 16 août 1985 - art. 1 JORF 8 septembre 1985, Décret 85-947 1985-08-16 art. 3 JORF 8 septembre 1985, Décret 85-947 1985-08-16 art. 1 JORF 8 septembre 1985
+19850914 : Décret 85-968 1985-08-27 art. 1 JORF 14 septembre 1985
+19851130 : Décret 85-1256 1985-11-04 art. 1 art. 7 JORF 30 novembre 1985, Décret 85-1256 1985-11-04 art. 15 JORF 30 novembre 1985, Décret 85-1255 1985-11-04 art. 1 JORF 30 novembre 1985, Décret 85-1256 1985-11-04 art. 11 JORF 30 novembre 1985, Décret 85-1256 1985-11-04 art. 1 art. 8 JORF 30 novembre 1985
 19851219 : Décret 85-1341 1985-12-18 art. 7 JORF 19 décembre 1985, Décret 85-1341 1985-12-18 art. 4 JORF 19 décembre 1985
 19860101 : Loi n°85-98 du 25 janvier 1985 - art. 133 JORF 26 janvier 1985 en vigueur le 1er janvier 1986
 19860118 : Loi n°86-76 du 17 janvier 1986 - art. 15 JORF 18 janvier 1986
@@ -136,6 +140,7 @@
 19861023 : Ordonnance n°86-1134 du 21 octobre 1986 - art. 33 (V) JORF 23 octobre 1986
 19861202 : Décret 84-1093 1984-12-07 art. 1 jorf 8 décembre 1984 en vigueur le 1er décembre 1986, Decret 84-1093 1984-12-07 art. 1 jorf 8 decembre 1984 en vigueur le 1er décembre 1986
 19861221 : Ordonnance 86-1286 1986-12-20 art. 8 I JORF 21 décembre 1986, Ordonnance 86-1286 1986-12-20 art. 2 III JORF 21 décembre 1986, Ordonnance 86-1286 1986-12-20 art. 8 III JORF 21 décembre 1986
+19870101 : Décret 86-569 1986-03-14 art. 29 art. 30 JORF 18 mars 1986 en vigueur le 1er janvier 1987, Décret 86-569 1986-03-14 art. 29 JORF 18 mars 1986 en vigueur le 1er janvier 1987
 19870620 : Loi n°87-423 du 19 juin 1987 - art. 12 JORF 20 juin 1987
 19870625 : Décret n°87-442 du 24 juin 1987 - art. 2 JORF 25 juin 1987, Décret n°87-442 du 24 juin 1987 - art. 1 (V) JORF 25 juin 1987
 19870718 : Décret n°87-544 du 17 juillet 1987 - art. 47 (P) JORF 18 juillet 1987
