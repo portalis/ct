@@ -114,18 +114,7 @@
                         
                            
                               Chapitre IX : Dispositions diverses.
-                               (Articles L119-2 à L119-5)
-                           
-                        
-                     
-                  
-                  
-                     
-                        DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*
-                        
-                           
-                              Chapitre IX : DISPOSITIONS DIVERSES.
-                               (Article L119-1)
+                               (Articles L119-1 à L119-5)
                            
                         
                      
@@ -324,7 +313,7 @@
                   
                      
                         Chapitre V : Marchandage.
-                         (Articles L125-1 à L125-3)
+                         (Articles L125-1 à L125-4)
                      
                   
                   
@@ -502,7 +491,7 @@
                         
                            
                               Section 2 : Privilèges et garanties de la créance de salaire.
-                               (Articles L143-6 à L143-13-1)
+                               (Articles L143-6 à L143-13-2)
                            
                         
                         
@@ -541,22 +530,6 @@
                      
                         Chapitre VIII : Economats.
                          (Articles L148-1 à L148-3)
-                     
-                  
-               
-            
-            
-               
-                  Titre IV : SALAIRES
-                  
-                     
-                        Chapitre III : PAIEMENT DU SALAIRE
-                        
-                           
-                              SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE.
-                               (Article L143-11-1)
-                           
-                        
                      
                   
                
@@ -834,7 +807,7 @@
                   
                      
                         Chapitre IV : Repos des femmes en couches et des femmes allaitant leurs enfants.
-                         (Articles L224-1 à L224-5)
+                         (Articles L224-1 à L224-6)
                      
                   
                   
@@ -1048,7 +1021,7 @@
                   
                      
                         Chapitre Ier : Licenciement pour motif économique.
-                         (Articles L321-1 à L321-13)
+                         (Articles L321-1 à L321-15)
                      
                   
                   
@@ -1058,6 +1031,12 @@
                            
                               Section 1 : Fonds national de l'emploi.
                                (Articles L322-1 à L322-6)
+                           
+                        
+                        
+                           
+                              Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dans le cadre des accords sur l'emploi.
+                               (Article L322-7)
                            
                         
                         
@@ -1180,7 +1159,7 @@
                               
                                  
                                     (en vigueur jusqu'au 1er janvier 2007 au plus tard)
-                                     (Articles L341-1 à L341-6-3)
+                                     (Articles L341-1 à L341-7-2)
                                  
                               
                            
@@ -1288,34 +1267,13 @@
                   
                      
                         Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.
-                         (Articles L364-1 à L364-4)
+                         (Articles L364-1 à L364-5)
                      
                   
                   
                      
                         Chapitre V : Travailleurs privés d'emploi.
                          (Articles L365-1 à L365-2)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            Livre III : EMPLOI
-            
-               
-                  Titre II : EMPLOI
-                  
-                     
-                        Chapitre IV : TRAVAIL CLANDESTIN
-                        
-                           
-                              SECTION 2 : TRAVAIL CLANDESTIN.
-                               (Article L324-10)
-                           
-                        
                      
                   
                
@@ -2300,7 +2258,7 @@
                   
                      
                         Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
-                         (Article L831-2)
+                         (Articles L831-1 à L831-2)
                      
                   
                   
@@ -2343,17 +2301,6 @@
       
       
          
-            LIVRE VIII : DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM TITRE III : PLACEMENT ET EMPLOI
-            
-               
-                  CHAPITRE Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
-                   (Article L831-1)
-               
-            
-         
-      
-      
-         
             Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
              (Articles L900-1 à L900-4)
             
@@ -2380,18 +2327,7 @@
                   
                      
                         Chapitre II : Des droits collectifs des salariés.
-                         (Articles L932-1 à L932-5)
-                     
-                  
-               
-            
-            
-               
-                  Titre III : DES DROITS COLLECTIFS DES SALARIES EN MATIERE DE FORMATION
-                  
-                     
-                        Chapitre II : DES DROITS COLLECTIFS DES SALARIES.
-                         (Article L932-6)
+                         (Articles L932-1 à L932-7)
                      
                   
                
@@ -2985,13 +2921,7 @@
                         
                            
                               Section 1 : Mode de paiement du salaire.
-                               (Article R143-1)
-                           
-                        
-                        
-                           
-                              SECTION 1 : MODE DU PAIEMENT DU SALAIRE .
-                               (Article R143-2)
+                               (Articles R143-1 à R143-2)
                            
                         
                      
@@ -3435,6 +3365,12 @@
                               
                               
                                  
+                                    Sous-section 4 : Prévention des risques dus au bruit.
+                                     (Articles R232-8 à R232-8-7)
+                                 
+                              
+                              
+                                 
                                     Sous-section 5 : Ambiances particulières.
                                      (Article R232-9)
                                  
@@ -3544,19 +3480,66 @@
                               
                                  
                                     Sous-section 1 : Dispositions générales.
-                                     (Articles R233-49 à R233-51)
+                                     (Articles R233-49 à R233-51-3)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Procédures applicables aux matériels et produits neufs soumis à l'homologation et à l'examen de type
+                                     (Articles R233-52 à R233-52-1)
+                                    
+                                       
+                                          Homologation par le ministre chargé du travail.
+                                           (Articles R233-53 à R233-55)
+                                       
+                                    
+                                    
+                                       
+                                          Examen de type.
+                                           (Articles R233-56 à R233-58)
+                                       
+                                    
+                                    
+                                       
+                                          Dispositions communes aux deux procédures susvisées.
+                                           (Articles R233-59 à R233-67)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Procédure relative aux matériels neufs et produits soumis uniquement à autocertification.
+                                     (Articles R233-68 à R233-69-2)
                                  
                               
                               
                                  
                                     Sous-section 4 : Prescriptions applicables aux matériels en service ou usagés.
-                                     (Articles R233-70 à R233-76)
+                                     (Articles R233-70 à R233-77)
                                  
                               
                               
                                  
                                     Sous-section 5 : Dispositions communes.
-                                     (Articles R233-78 à R233-81-1)
+                                     (Articles R233-78 à R233-81-2)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 6 : Dispositions diverses.
+                                     (Article R233-82)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 7 : Matériels auxquels s'appliquent les dispositions du premier alinéa de l'article L. 233-5
+                              
+                                 
+                                    Sous-section 1 : Machines et appareils.
+                                     (Article R233-83)
                                  
                               
                            
@@ -3574,6 +3557,12 @@
                                  
                                     Sous-section 1 : Machines mobiles agricoles ou forestières.
                                      (Articles R233-108 à R233-123)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Chariots de manutention automoteurs.
+                                     (Articles R233-124 à R233-138)
                                  
                               
                            
@@ -3634,6 +3623,17 @@
                                      (Articles R235-6 à R235-10)
                                  
                               
+                              
+                                 
+                                    Sous-section 4 : Installations sanitaires
+                                    
+                                       
+                                          Restauration.
+                                           (Articles R235-12 à R235-13)
+                                       
+                                    
+                                 
+                              
                            
                         
                      
@@ -3665,133 +3665,6 @@
             
             
                
-                  Titre III : HYGIENE
-                  
-                     
-                        Chapitre II : HYGIENE
-                        
-                           
-                              SECTION 2 : AMBIANCES DES LIEUX DE TRAVAIL
-                              
-                                 
-                                    SOUS-SECTION 4 : PREVENTION DES RISQUES DUS AU BRUIT.
-                                     (Article R232-8)
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  Titre III : SECURITE
-                  
-                     
-                        Chapitre III : SECURITE
-                        
-                           
-                              SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION
-                              
-                                 
-                                    SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE.
-                                     (Article R233-52)
-                                    
-                                       
-                                          HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL.
-                                           (Articles R233-53 à R233-55)
-                                       
-                                    
-                                    
-                                       
-                                          VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE.
-                                           (Articles R233-56 à R233-58)
-                                       
-                                    
-                                    
-                                       
-                                          DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.
-                                           (Articles R233-59 à R233-66)
-                                       
-                                    
-                                    
-                                       
-                                          DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL
-                                          
-                                             
-                                                VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.
-                                                 (Article R233-62)
-                                             
-                                          
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 3 : PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE.
-                                     (Articles R233-68 à R233-69)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES.
-                                     (Articles R233-75 à R233-77)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 6 : DISPOSITIONS DIVERSES.
-                                     (Article R233-82)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              SECTION 6 :PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENT DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION
-                              
-                                 
-                                    SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE
-                                    
-                                       
-                                          DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.
-                                           (Article R233-67)
-                                       
-                                    
-                                 
-                              
-                           
-                        
-                        
-                           
-                              SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION
-                              
-                                 
-                                    SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES
-                                     (Article R233-72)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              SECTION 8 : MATERIELS AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PREMIER ALINEA DE L'ARTICLE L. 233-5
-                              
-                                 
-                                    SOUS-SECTION 1 : MACHINES ET APPAREILS.
-                                     (Article R233-83)
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   Titre IV : Médecine du travail
                   
                      
@@ -3799,34 +3672,29 @@
                          (Article R241-1)
                         
                            
-                              SECTION 1 : DES SERVICES MEDICAUX DU TRAVAIL D'ENTREPRISE OU D'ETABLISSEMENT
+                              Section 1 : Des services médicaux d'entreprise ou d'établissement et des services médicaux communs aux entreprises constituant une unité économique et sociale
                               
                                  
-                                    SOUS-SECTION 1 : DISPOSITIONS GENERALES.
+                                    Sous-section 1 : Dispositions générales.
                                      (Articles R241-2 à R241-3)
                                  
                               
                               
                                  
-                                    SOUS-SECTION 2 : SERVICES MEDICAUX DU TRAVAIL INTERETABLISSEMENTS D'ENTREPRISE.
+                                    Sous-section 2 : Services médicaux du travail interétablissements d'entreprise.
                                      (Articles R241-4 à R241-5)
                                  
                               
                               
                                  
-                                    SOUS-SECTION 3 : AGREMENT ET CONTROLE DES SERVICES MEDICAUX.
-                                     (Articles R241-7 à R241-8)
+                                    Sous-section 3 : Services médicaux du travail communs aux entreprises constituant une unité économique et sociale.
+                                     (Article R241-6)
                                  
                               
-                           
-                        
-                        
-                           
-                              SECTION 1 : LES SERVICES MEDICAUX DU TRAVAIL D'ENTREPRISE OU D'ETABLISSEMENT
                               
                                  
-                                    SOUS-SECTION 3 :AGREMENT ET CONTROLE DES SERVICES MEDICAUX
-                                     (Article R241-9)
+                                    Sous-section 4 : Agrément et contrôle des services médicaux.
+                                     (Articles R241-7 à R241-9)
                                  
                               
                            
@@ -4170,13 +4038,7 @@
                               
                                  
                                     B - Conventions d'allocation temporaire dégressive, conventions d'allocations spéciales et conventions d'aide au passage à mi-temps.
-                                     (Article R322-7)
-                                 
-                              
-                              
-                                 
-                                    B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
-                                     (Articles R322-6 à R322-7)
+                                     (Articles R322-6 à R322-7-1)
                                  
                               
                               
@@ -5557,7 +5419,7 @@
                               
                                  
                                     Paragraphe 1 : Carte d'identité de journaliste professionnel.
-                                     (Articles R761-3 à R761-17)
+                                     (Articles R761-3 à R761-18)
                                  
                               
                               
@@ -5706,27 +5568,6 @@
       
       
          
-            DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
-            
-               
-                  JOURNALISTES PROFESSIONNELS
-                  
-                     
-                        CARTE D'IDENTITE PROFESSIONNELLE
-                        
-                           
-                              CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL .
-                               (Article R761-18)
-                           
-                        
-                     
-                  
-               
-            
-         
-      
-      
-         
             Livre VIII : Dispositions spéciales aux départements d'outre-mer
             
                
@@ -5838,6 +5679,12 @@
                      
                         Chapitre III : Garantie de ressources des travailleurs sans emploi.
                          (Articles R833-1 à R833-7)
+                     
+                  
+                  
+                     
+                        Chapitre IV : Agence nationale pour l'emploi.
+                         (Articles R834-1 à R834-2)
                      
                   
                
@@ -6242,7 +6089,7 @@
                               
                                  
                                     Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.
-                                     (Articles D141-7 à D141-9)
+                                     (Article D141-9)
                                  
                               
                            
@@ -6566,7 +6413,7 @@
                   
                      
                         Chapitre IV : Statut des conseillers prud'hommes.
-                         (Articles D514-5 à D514-6)
+                         (Articles D514-4 à D514-7)
                      
                   
                   
@@ -6586,7 +6433,7 @@
                         
                            
                               Chapitre IV : Statut des conseillers prud'hommes.
-                               (Articles D514-1 à D514-4)
+                               (Articles D514-1 à D514-3)
                            
                         
                         
