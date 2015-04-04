@@ -2456,33 +2456,6 @@
             
          
       
-      
-         
-            Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
-            
-               
-                  Titre VI : AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION    PROFESSIONNELLE
-                  
-                     
-                        Chapitre Ier : AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION     PROFESSIONNELLE.
-                         (Article L961-5)
-                     
-                  
-               
-            
-            
-               
-                  Titre VI : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE
-                  
-                     
-                        Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE.
-                         (Article L961-2)
-                     
-                  
-               
-            
-         
-      
    
 
 
@@ -2632,6 +2605,12 @@
                         
                         
                            
+                              Chapitre VII bis : Du statut de l'apprenti.
+                               (Article R117 bis 3)
+                           
+                        
+                        
+                           
                               Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.
                                (Article R118-1)
                            
@@ -2670,7 +2649,7 @@
                               
                                  
                                     C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
-                                     (Article R119-32)
+                                     (Articles R119-32 à R119-44)
                                  
                               
                               
@@ -2688,56 +2667,6 @@
                                  
                                     E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
                                      (Articles R119-75 à R119-77)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              B - Mesures provisoires d'adaptation en matière d'apprentissage
-                              
-                                 
-                                    C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.
-                                     (Articles R119-31 à R119-47)
-                                 
-                              
-                           
-                        
-                     
-                  
-                  
-                     
-                        DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*
-                        
-                           
-                              Chapitre IX : DISPOSITIONS DIVERSES
-                              
-                                 
-                                    C - MESURES PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN, ET DE LA MOSELLE .
-                                     (Article R119-33)
-                                    
-                                       
-                                          PARAGRAPHE 1 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS D'APPLICATION PERMANENTE DE LA LOI SUR L'APPRENTISSAGE .
-                                           (Articles R119-34 à R119-42)
-                                       
-                                    
-                                    
-                                       
-                                          PARAGRAPHE 2 : MESURES D'ADAPTATION CONCERNANT LES DISPOSITIONS TRANSITOIRES .
-                                           (Articles R119-43 à R119-45)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    D - INSPECTION DE L'APPRENTISSAGE
-                                    
-                                       
-                                          DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
-                                           (Articles R119-65 à R119-68)
-                                       
-                                    
                                  
                               
                            
@@ -2774,7 +2703,19 @@
                   
                   
                      
+                        Chapitre VII bis : Du statut de l'apprenti.
+                         (Articles R117 bis 1 à R117 bis 2)
+                     
+                  
+                  
+                     
                         Chapitre IX : Dispositions diverses
+                        
+                           
+                              C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+                               (Articles R119-33 à R119-45)
+                           
+                        
                         
                            
                               D - Inspection de l'apprentissage
@@ -2787,7 +2728,7 @@
                               
                                  
                                     Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
-                                     (Articles R119-66 à R119-71)
+                                     (Articles R119-65 à R119-71)
                                  
                               
                            
@@ -3447,6 +3388,12 @@
                               Section 1 : Hygiène des locaux affectés au travail et de leurs annexes
                               
                                  
+                                    Sous-section 1 : Nettoyage.
+                                     (Article R232-1)
+                                 
+                              
+                              
+                                 
                                     Sous-section 2 : Installations sanitaires
                                      (Articles R232-2 à R232-2-7)
                                  
@@ -3454,7 +3401,7 @@
                               
                                  
                                     Sous-section 3 : Postes de distribution de boissons
-                                     (Article R232-3)
+                                     (Articles R232-3 à R232-3-1)
                                  
                               
                               
@@ -3471,7 +3418,7 @@
                               
                                  
                                     Sous-section 1 : Aération, assainissement
-                                     (Articles R232-5-1 à R232-5-14)
+                                     (Articles R232-5 à R232-5-14)
                                  
                               
                               
@@ -3484,6 +3431,12 @@
                                  
                                     Sous-section 3 : Eclairage.
                                      (Articles R232-7 à R232-7-10)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 5 : Ambiances particulières.
+                                     (Article R232-9)
                                  
                               
                            
@@ -3503,7 +3456,7 @@
                                     
                                        
                                           Sous-section 2 : Hébergement.
-                                           (Articles R232-11-3 à R232-11-5)
+                                           (Articles R232-11 à R232-11-5)
                                        
                                     
                                  
@@ -3614,6 +3567,17 @@
                                (Articles R233-84 à R233-107)
                            
                         
+                        
+                           
+                              Section 9 : Règles particulières d'hygiène et de sécurité applicables à certains types ou catégories de matériels
+                              
+                                 
+                                    Sous-section 1 : Machines mobiles agricoles ou forestières.
+                                     (Articles R233-108 à R233-123)
+                                 
+                              
+                           
+                        
                      
                   
                   
@@ -3707,17 +3671,11 @@
                         Chapitre II : HYGIENE
                         
                            
-                              SECTION 1 : LOCAUX AFFECTES AU TRAVAIL
+                              SECTION 2 : AMBIANCES DES LIEUX DE TRAVAIL
                               
                                  
-                                    SOUS-SECTION 1 : AERATION, ASSAINISSEMENT.
-                                     (Article R232-1)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 5 : INSONORISATION.
-                                     (Article R232-9)
+                                    SOUS-SECTION 4 : PREVENTION DES RISQUES DUS AU BRUIT.
+                                     (Article R232-8)
                                  
                               
                            
@@ -4207,6 +4165,12 @@
                                  
                                     A - Conventions de formation et conventions d'aide à la mobilité.
                                      (Articles R322-2 à R322-5-1)
+                                 
+                              
+                              
+                                 
+                                    B - Conventions d'allocation temporaire dégressive, conventions d'allocations spéciales et conventions d'aide au passage à mi-temps.
+                                     (Article R322-7)
                                  
                               
                               
@@ -5745,17 +5709,6 @@
             DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
             
                
-                  BATIMENT ET TRAVAUX PUBLICS
-                  
-                     
-                        INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
-                         (Article R731-20)
-                     
-                  
-               
-            
-            
-               
                   JOURNALISTES PROFESSIONNELS
                   
                      
@@ -6055,7 +6008,7 @@
                   
                      
                         Chapitre II : De la protection sociale des stagiaires de la formation professionnelle.
-                         (Articles R962-2 à R962-3)
+                         (Articles R962-1 à R962-3)
                      
                   
                   
@@ -6108,38 +6061,6 @@
                                (Articles R964-24 à R964-28)
                            
                         
-                     
-                  
-               
-            
-            
-               
-                  Titre VI : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE    FORMATION PROFESSIONNELLE
-                  
-                     
-                        Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE    FORMATION PROFESSIONNELLE
-                        
-                           
-                              SECTION 2 : MODALITES DE CALCULS ET DE VERSEMENT DES REMUNERATIONS
-                              
-                                 
-                                    PARAGRAPHE 1 : REMUNERATIONS VERSEES AUX STAGIAIRES.
-                                     (Article R961-6)
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  Titre VI : DE LA PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE
-                  
-                     
-                        Chapitre II : DE LA PROTECTION SOCIALE DES STAGIAIRES DE LA    FORMATION PROFESSIONNELLE.
-                         (Article R962-1)
                      
                   
                
@@ -6251,23 +6172,7 @@
                         
                            
                               Chapitre VII : Salaire de l'apprenti.
-                               (Article D117-4)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  Titre Ier : CONTRAT D'APPRENTISSAGE
-                  
-                     
-                        DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972
-                        
-                           
-                              Chapitre VII : SALAIRE DE L'APPRENTI .
-                               (Articles D117-1 à D117-3)
+                               (Articles D117-1 à D117-4)
                            
                         
                      
@@ -6465,12 +6370,6 @@
                                (Articles D322-11 à D322-16)
                            
                         
-                     
-                  
-                  
-                     
-                        Chapitre II : Fonds national de l'emploi *FNE*.
-                         (Articles D322-2 à D322-4)
                      
                   
                   
