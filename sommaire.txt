@@ -892,7 +892,7 @@
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Articles L231-1 à L231-9)
+                         (Articles L231-1 à L231-12)
                      
                   
                   
@@ -4061,6 +4061,36 @@
                         
                      
                   
+                  
+                     
+                        Chapitre III: Dispositions particulières à la médecine du travail des salariés liés par un contrat de travail temporaire
+                         (Article R243-1)
+                        
+                           
+                              Section 1 : Agrément et fonctionnement des services médicaux du travail
+                               (Articles R243-2 à R243-5)
+                           
+                        
+                        
+                           
+                              Section 2 : Des personnels des services médicaux du travail chargés des salariés liés par un contrat de travail temporaire
+                               (Articles R243-6 à R243-8)
+                           
+                        
+                        
+                           
+                              Section 3 : Action sur le milieu de travail et examens médicaux
+                               (Articles R243-9 à R243-12)
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions diverses
+                               (Articles R243-13 à R243-15)
+                           
+                        
+                     
+                  
                
             
             
@@ -4215,7 +4245,7 @@
                         
                            
                               Section 3 : Inscription et radiation de la liste des demandeurs d'emploi.
-                               (Articles R311-3-1 à R311-3-7)
+                               (Articles R311-3-1 à R311-3-10)
                            
                         
                         
@@ -6067,7 +6097,18 @@
             
                
                   Titre IV.
-                   (Articles R940-1 à R940-3)
+                  
+                     
+                        Chapitre Ier : Dispositions relatives aux titulaires d'un livret d'épargne institué par l'article 80 de la loi n° 76-1232 du 29 décembre 1976
+                         (Articles R941-1 à R941-3)
+                     
+                  
+                  
+                     
+                        Chapitre II : Aide de l'Etat au remplacement de certains salariés en formation
+                         (Articles R942-1 à R942-8)
+                     
+                  
                
             
             
@@ -6494,7 +6535,7 @@
                   
                      
                         Chapitre Ier : Service public du placement.
-                         (Articles D311-1 à D311-5)
+                         (Articles D311-1 à D311-6)
                      
                   
                
