@@ -194,13 +194,24 @@
                         
                            
                               SECTION 1 : CONTRAT A DUREE DETERMINEE.
-                               (Articles L122-1 à L122-3-15)
+                               (Articles L122-1 à L122-3-16)
                            
                         
                         
                            
                               Section 2 : Résiliation du contrat de travail à durée indéterminée
-                               (Articles L122-4 à L122-14-13)
+                              
+                                 
+                                    Sous-section 1 : Résiliation du contrat
+                                     (Articles L122-4 à L122-14-13)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Conseiller du salarié
+                                     (Articles L122-14-14 à L122-14-18)
+                                 
+                              
                            
                         
                         
@@ -332,6 +343,12 @@
                      
                         Chapitre VIII : Associations intermédiaires.
                          (Article L128)
+                     
+                  
+                  
+                     
+                        Chapitre IX : Services aux personnes
+                         (Article L129-1)
                      
                   
                
@@ -555,15 +572,26 @@
                                     
                                        
                                           Sous-section 1 : Contrat de travail.
-                                           (Articles L152-1 à L152-1-2)
+                                           (Articles L152-1 à L152-1-4)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Règlement intérieur.
-                                           (Article L152-1-3)
+                                           (Article L152-1-5)
                                        
                                     
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 1 : Contrat de travail - Règlement intérieur
+                              
+                                 
+                                    Sous-section 1 : Contrat de travail.
+                                     (Article L152-1-3)
                                  
                               
                            
@@ -661,8 +689,19 @@
                         
                         
                            
+                              Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes - Emploi des enfants comme mannequins dans la publicité et la mode.
+                               (Articles L211-7 à L211-14)
+                           
+                        
+                        
+                           
                               Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes.
-                               (Articles L211-6 à L211-14)
+                              
+                                 
+                                    Emploi des enfants comme mannequins dans la publicité et la mode.
+                                     (Article L211-6)
+                                 
+                              
                            
                         
                      
@@ -829,6 +868,12 @@
                            
                               Section 3 : Congé mutualiste.
                                (Article L225-7)
+                           
+                        
+                        
+                           
+                              Section 4 : Congé de représentation
+                               (Article L225-8)
                            
                         
                      
@@ -1015,7 +1060,7 @@
                   
                      
                         Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
-                         (Article L320-1)
+                         (Articles L320 à L320-1)
                      
                   
                   
@@ -1152,6 +1197,7 @@
                   
                      
                         Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
+                         (Article L341-9-1)
                         
                            
                               Section 1 : Travailleurs étrangers
@@ -1239,7 +1285,7 @@
                   
                      
                         Chapitre Ier : PLACEMENT
-                         (Article L361-1)
+                         (Articles L361-1 à L361-2)
                      
                   
                   
@@ -1259,7 +1305,7 @@
                         
                            
                               SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN
-                               (Article L362-3)
+                               (Articles L362-3 à L362-6)
                            
                         
                      
@@ -2060,7 +2106,7 @@
                   
                      
                         Chapitre III : Mannequins.
-                         (Articles L763-1 à L763-2)
+                         (Articles L763-1 à L763-12)
                      
                   
                
@@ -2198,6 +2244,12 @@
                                (Article L796-2)
                            
                         
+                        
+                           
+                              Section 3 : Mannequins.
+                               (Article L796-3)
+                           
+                        
                      
                   
                
@@ -2311,6 +2363,22 @@
             
             
                
+                  (en vigueur jusqu'à la date de publication du décret d'application prévu au 4e alinéa de l'art. L910-1)
+                  
+                     
+                        Titre V : De la participation des employeurs au développement de la formation professionnelle continue
+                        
+                           
+                              Chapitre III : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non-salariées
+                               (Article L953-2)
+                           
+                        
+                     
+                  
+               
+            
+            
+               
                   Titre II : Des conventions et des contrats de formation professionnelle
                   
                      
@@ -2332,13 +2400,47 @@
                   
                      
                         Chapitre Ier : De la promotion individuelle et du congé de formation.
-                         (Articles L931-1 à L931-14)
+                        
+                           
+                              Section 1 : Congé de formation : dispositions communes
+                               (Articles L931-1 à L931-12)
+                           
+                        
+                        
+                           
+                              Section 2 : Congé de formation : dispositions particulières aux personnes qui ont été titulaires de contrats à durée déterminée.
+                               (Articles L931-13 à L931-20-1)
+                           
+                        
+                        
+                           
+                              Section 3 : Congé de bilan de compétences
+                               (Articles L931-21 à L931-27)
+                           
+                        
+                        
+                           
+                              Section 4 : Autres congés
+                               (Articles L931-28 à L931-29)
+                           
+                        
                      
                   
                   
                      
                         Chapitre II : Des droits collectifs des salariés.
-                         (Articles L932-1 à L932-7)
+                     
+                  
+                  
+                     
+                        Chapitre II : Du plan de formation de l'entreprise
+                         (Article L932-1)
+                     
+                  
+                  
+                     
+                        Chapitre III : Des droits collectifs des salariés.
+                         (Articles L933-1 à L933-6)
                      
                   
                
@@ -2346,13 +2448,42 @@
             
                
                   Titre IV : De l'aide de l'Etat.
-                   (Articles L940-1 à L940-5)
+                  
+                     
+                        Chapitre Ier : De l'aide de l'Etat aux actions de formation professionnelle.
+                         (Articles L941-1 à L941-5)
+                     
+                  
+                  
+                     
+                        Chapitre II : De l'aide de l'Etat au remplacement de certains salariés en formation.
+                         (Article L942-1)
+                     
+                  
                
             
             
                
                   Titre V : De la participation des employeurs au développement de la formation professionnelle continue.
-                   (Articles L950-1 à L950-8)
+                   (Article L950-1)
+                  
+                     
+                        Chapitre Ier : De la participation des employeurs occupant au minimum dix salariés
+                         (Articles L951-1 à L951-13)
+                     
+                  
+                  
+                     
+                        Chapitre II : De la participation des employeurs occupant moins de dix salariés
+                         (Articles L952-1 à L952-5)
+                     
+                  
+                  
+                     
+                        Chapitre III : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non-salariées
+                         (Articles L953-1 à L953-3)
+                     
+                  
                
             
             
@@ -2381,7 +2512,19 @@
             
                
                   Titre VIII : Des formations professionnelles en alternance.
-                   (Articles L980-1 à L980-17)
+                   (Articles L980-1 à L980-2)
+                  
+                     
+                        Chapitre Ier : Contrats d'insertion en alternance
+                         (Articles L981-1 à L981-12)
+                     
+                  
+                  
+                     
+                        Chapitre II : Stages de formation professionnelle organisés avec le concours de l'Etat
+                         (Articles L982-1 à L982-5)
+                     
+                  
                
             
             
@@ -2747,25 +2890,31 @@
                         Chapitre II : Contrat de travail
                         
                            
-                              Section 1 : Règles générales.
-                               (Articles R122-1 à R122-6)
+                              Section 1 : Contrat à durée déterminée
+                               (Article R122-1)
                            
                         
                         
                            
-                              Section 2 : Service national.
+                              Section 2 : Résiliation du contrat de travail à durée indéterminée
+                               (Articles R122-2 à R122-6)
+                           
+                        
+                        
+                           
+                              Section 3 : Service national.
                                (Articles R122-7 à R122-8)
                            
                         
                         
                            
-                              Section 3 : Protection de la maternité et éducation des enfants.
+                              Section 4 : Protection de la maternité et éducation des enfants.
                                (Articles R122-9 à R122-11)
                            
                         
                         
                            
-                              Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire
+                              Section 5 : Règlement intérieur, protection des salariés et droit disciplinaire
                               
                                  
                                     Sous-section 1 : Règlement intérieur.
@@ -2844,12 +2993,18 @@
                               
                            
                         
+                        
+                           
+                              Section 5 : Dispositions diverses
+                               (Article R124-28)
+                           
+                        
                      
                   
                   
                      
                         Chapitre V : Marchandage.
-                         (Article R125-1)
+                         (Articles R125-1 à R125-2)
                      
                   
                   
@@ -3452,7 +3607,7 @@
                                     
                                        
                                           Sous-section 2 : Hébergement.
-                                           (Articles R232-11 à R232-11-5)
+                                           (Articles R232-11 à R232-11-6)
                                        
                                     
                                  
@@ -3602,6 +3757,12 @@
                                      (Article R233-83)
                                  
                               
+                              
+                                 
+                                    Sous-section 2 : Protecteurs de machine, dispositifs, équipements et produits de protection.
+                                     (Article R233-83-1)
+                                 
+                              
                            
                         
                         
@@ -3623,6 +3784,12 @@
                                  
                                     Sous-section 2 : Chariots de manutention automoteurs.
                                      (Articles R233-124 à R233-139)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Appareils et machines d'extraction, de terrassement, d'excavation ou de forage du sol.
+                                     (Articles R233-151 à R233-152)
                                  
                               
                            
@@ -3733,7 +3900,7 @@
                         
                            
                               Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
-                               (Articles R236-23 à R236-31)
+                               (Articles R236-23 à R236-39)
                            
                         
                      
@@ -5819,8 +5986,48 @@
             
             
                
-                  Titre II : Mesures d'application des articles L. 920-4, L. 920-5, L. 920-12.
-                   (Articles R920-1 à R920-8)
+                  Titre II : Des conventions et des contrats de formation professionnelle
+                  
+                     
+                        Chapitre Ier : Déclaration préalable et bilan pédagogique et financier.
+                         (Articles R921-1 à R921-7)
+                     
+                  
+                  
+                     
+                        Chapitre II : Règlement intérieur des organismes de formation applicable aux stagiaires
+                        
+                           
+                              Section 1 : Elaboration du règlement intérieur
+                               (Articles R922-1 à R922-2)
+                           
+                        
+                        
+                           
+                              Section 2 : Règlement intérieur et droit disciplinaire
+                               (Articles R922-3 à R922-7)
+                           
+                        
+                        
+                           
+                              Section 3 : Règlement intérieur et représentation des stagiaires
+                               (Articles R922-8 à R922-12)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre III : Obligations comptables des dispensateurs de formation de droit privé
+                         (Articles R923-1 à R923-3)
+                     
+                  
+                  
+                     
+                        Chapitre IV : Injonction, mise en demeure et sanctions
+                         (Articles R924-1 à R924-2)
+                     
+                  
                
             
             
@@ -5845,6 +6052,12 @@
                            
                               Section 3 : Dispositions spéciales aux priorités prévues au troisième alinéa de l'article L. 931-8.
                                (Articles R931-20 à R931-22)
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions spéciales aux priorités prévues au 3e alinéa de l'article L. 931-17
+                               (Articles R931-23 à R931-26)
                            
                         
                      
@@ -5886,14 +6099,8 @@
                   
                   
                      
-                        SECTION 6 : DES ENGAGEMENTS DE DEVELOPPEMENT DE LA FORMATION.
-                         (Articles R950-26 à R950-33)
-                     
-                  
-                  
-                     
-                        Section 5 : Du contrôle et des recours en matière de formation professionnelle.
-                         (Articles R950-23 à R950-25)
+                        Section 5 : Des engagements de développement de la formation.
+                         (Articles R950-23 à R950-30)
                      
                   
                
@@ -6068,17 +6275,28 @@
             
             
                
-                  Titre IX : Dispositions particulières aux départements d'outre-mer
+                  Titre IX : Dispositions relatives au contrôle de la formation professionnelle continue et dispositions particulières aux départements d'outre-mer
                   
                      
-                        Section 1 : Application des dispositions des articles L. 930-1 à L. 930-2 et L. 950-1 à L. 950-10.
-                         (Articles R990-1 à R990-3)
+                        Chapitre Ier : Du contrôle de la formation professionnelle continue
+                         (Articles R991-1 à R991-8)
                      
                   
                   
                      
-                        Section 2 : Remboursement des frais de transport exposés par les stagiaires.
-                         (Articles R990-4 à R990-8)
+                        Chapitre II : Dispositions particulières aux départements d'outre-mer
+                        
+                           
+                              Section 1 : Application des dispositions des articles L. 930-1 à L. 930-2 et L. 950-1 à L. 950-10.
+                               (Articles R992-1 à R992-3)
+                           
+                        
+                        
+                           
+                              Section 2 : Remboursement des frais de transport exposés par les stagiaires.
+                               (Articles R992-4 à R992-8)
+                           
+                        
                      
                   
                
@@ -6118,13 +6336,13 @@
                         
                            
                               Section 1 : CONTRAT DE TRAVAIL A DUREE DETERMINEE.
-                               (Articles D121-1 à D121-4)
+                               (Articles D121-1 à D121-3)
                            
                         
                         
                            
                               Section 2 : Résiliation du contrat de travail à durée indéterminée.
-                               (Articles D122-1 à D122-21)
+                               (Articles D122-1 à D122-24)
                            
                         
                      
