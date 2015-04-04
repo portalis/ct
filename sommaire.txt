@@ -491,7 +491,7 @@
                         
                            
                               Section 2 : Privilèges et garanties de la créance de salaire.
-                               (Articles L143-6 à L143-13-2)
+                               (Articles L143-6 à L143-13-1)
                            
                         
                         
@@ -764,7 +764,7 @@
                         
                            
                               SECTION 1 : DISPOSITIONS GENERALES.
-                               (Articles L222-1 à L222-4)
+                               (Articles L222-1 à L222-4-1)
                            
                         
                         
@@ -2370,7 +2370,7 @@
             
                
                   Titre VIII : Des formations professionnelles en alternance.
-                   (Articles L980-1 à L980-16)
+                   (Articles L980-1 à L980-13)
                
             
             
@@ -3562,7 +3562,18 @@
                               
                                  
                                     Sous-section 2 : Chariots de manutention automoteurs.
-                                     (Articles R233-124 à R233-138)
+                                     (Articles R233-124 à R233-139)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 9 : Règles techniques applicables à certains types ou catégories de matériels
+                              
+                                 
+                                    Sous-section 1 : Cabines de projection par pulvérisation, cabines et enceintes de séchage de peintures liquides, de vernis, de poudres ou de fibres sèches et cabines mixtes
+                                     (Articles R233-140 à R233-150)
                                  
                               
                            
@@ -3621,6 +3632,12 @@
                                  
                                     Sous-section 2 : Aération, assainissement.
                                      (Articles R235-6 à R235-10)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Insonorisation.
+                                     (Article R235-11)
                                  
                               
                               
@@ -4019,7 +4036,7 @@
                   
                      
                         Chapitre Ier : Licenciement pour motif économique.
-                         (Articles R321-1 à R321-8)
+                         (Articles R321-1 à R321-9)
                      
                   
                   
@@ -4051,7 +4068,13 @@
                         
                         
                            
-                              Section 2 : Dispositions générales.
+                              Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dans le cadre des accords sur l'emploi
+                               (Articles R322-10-1 à R322-10-4)
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions générales.
                                (Articles R322-11 à R322-14)
                            
                         
@@ -6041,7 +6064,7 @@
                         
                            
                               Section 2 : Résiliation du contrat de travail à durée indéterminée.
-                               (Articles D122-1 à D122-16)
+                               (Articles D122-1 à D122-21)
                            
                         
                      
@@ -6210,7 +6233,7 @@
                   
                      
                         Chapitre II : Fonds national de l'emploi.
-                         (Articles D322-1 à D322-6)
+                         (Articles D322-1 à D322-7)
                         
                            
                               Section 3 : Chômage partiel.
@@ -6704,168 +6727,7 @@
                   
                      
                         Chapitre Ier : Apprentissage
-                        
-                           
-                              Section 1 : Des centres de formation d'apprentis
-                              
-                                 
-                                    Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis
-                                    
-                                       
-                                          Dispositions générales.
-                                           (Articles D811-1 à D811-3)
-                                       
-                                    
-                                    
-                                       
-                                          De l'organisation des centres.
-                                           (Articles D811-4 à D811-8)
-                                       
-                                    
-                                    
-                                       
-                                          Du fonctionnement pédagogique des centres.
-                                           (Articles D811-9 à D811-13)
-                                       
-                                    
-                                    
-                                       
-                                          De l'organisation financière des centres.
-                                           (Articles D811-14 à D811-16)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Paragraphe 2 : De la conclusion et du renouvellement des conventions.
-                                     (Articles D811-17 à D811-22)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe 3 : Du personnel des centres de formation d'apprentis.
-                                     (Articles D811-23 à D811-27)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe 4 : Du contrôle des centres de formation d'apprentis.
-                                     (Articles D811-28 à D811-31)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Section 2 : Du contrat d'apprentissage
-                              
-                                 
-                                    De l'agrément de l'employeur.
-                                     (Articles D811-32 à D811-36)
-                                 
-                              
-                              
-                                 
-                                    De la durée de l'apprentissage.
-                                     (Articles D811-37 à D811-39)
-                                 
-                              
-                              
-                                 
-                                    Avis d'orientation
-                                    
-                                       
-                                          Certificat médical.
-                                           (Article D811-40)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Du contenu des contrats d'apprentissage.
-                                     (Articles D811-41 à D811-43)
-                                 
-                              
-                              
-                                 
-                                    De l'enregistrement du contrat d'apprentissage.
-                                     (Articles D811-44 à D811-46)
-                                 
-                              
-                              
-                                 
-                                    Cas de l'apprenti employé par un ascendant.
-                                     (Articles D811-47 à D811-48)
-                                 
-                              
-                              
-                                 
-                                    Constatation de l'aptitude de l'apprenti.
-                                     (Articles D811-49 à D811-50)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.
-                               (Article D811-51)
-                           
-                        
-                        
-                           
-                              Section 4 : Dispositions financières.
-                               (Articles D811-52 à D811-60)
-                           
-                        
-                        
-                           
-                              Section 5 : Dispositions provisoires
-                              
-                                 
-                                    Paragraphe 1 : Des accords provisoires
-                                    
-                                       
-                                          Dispositions générales.
-                                           (Articles D811-61 à D811-64)
-                                       
-                                    
-                                    
-                                       
-                                          Des accords simples.
-                                           (Articles D811-65 à D811-67)
-                                       
-                                    
-                                    
-                                       
-                                          Des accords de transformation.
-                                           (Articles D811-68 à D811-73)
-                                       
-                                    
-                                    
-                                       
-                                          Dispositions relatives au personnel.
-                                           (Articles D811-74 à D811-78)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.
-                                     (Article D811-79)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
-                                     (Article D811-80)
-                                 
-                              
-                           
-                        
+                         (Article D811)
                      
                   
                   
@@ -6944,6 +6806,17 @@
                      
                         Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.
                          (Articles D910-22 à D910-24)
+                     
+                  
+               
+            
+            
+               
+                  Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
+                  
+                     
+                        Chapitre II : Des droits collectifs des salariés
+                         (Articles D932-1 à D932-2)
                      
                   
                
