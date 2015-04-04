@@ -3903,6 +3903,12 @@
                               
                            
                         
+                        
+                           
+                              Section 3 : Règles de sécurité
+                               (Article R235-3-5)
+                           
+                        
                      
                   
                   
@@ -4506,7 +4512,7 @@
                         
                            
                               Section 2 : Travail clandestin.
-                               (Article R324-1)
+                               (Articles R324-1 à R324-7)
                            
                         
                      
@@ -4670,7 +4676,7 @@
                         
                            
                               Section 3 : Cumuls d'emploi et travail clandestin.
-                               (Articles R362-3 à R362-5)
+                               (Articles R362-4 à R362-5)
                            
                         
                      
@@ -6334,7 +6340,7 @@
             
                
                   Titre VIII : Modalités d'application des articles L. 980-1 à L. 980-5.
-                   (Articles R980-1 à R980-8)
+                   (Articles R980-1-1 à R980-8)
                
             
             
@@ -6409,6 +6415,12 @@
                                (Articles D122-1 à D122-24)
                            
                         
+                     
+                  
+                  
+                     
+                        Chapitre III : Egalité professionnelle entre les femmes et les hommes
+                         (Articles D123-1 à D123-5)
                      
                   
                   
@@ -7173,6 +7185,12 @@
                
                   Titre V : De la participation des employeurs au financement de la formation professionnelle continue.
                    (Articles D950-1 à D950-6)
+               
+            
+            
+               
+                  Titre VIII : Des formations professionnelles en alternance.
+                   (Articles D980-1 à D980-11)
                
             
          
