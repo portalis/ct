@@ -206,6 +206,12 @@
                         
                         
                            
+                              Section 4-7 : Règles particulières applicables aux salariés membres de la réserve sanitaire.
+                               (Article L122-24-13)
+                           
+                        
+                        
+                           
                               Section 5 : Protection de la maternité et éducation des enfants.
                                (Articles L122-25 à L122-32)
                            
@@ -3069,6 +3075,12 @@
                                (Articles R127-10 à R127-11)
                            
                         
+                        
+                           
+                              Section 4 : Dispositions particulières aux groupements d'employeurs constitués au sein d'une coopérative existante.
+                               (Articles R127-12 à R127-15)
+                           
+                        
                      
                   
                   
@@ -3273,7 +3285,7 @@
                   
                      
                         Chapitre Ier : Contrat d'apprentissage et statut de l'apprenti.
-                         (Articles R151-1 à R151-6)
+                         (Articles R151-2 à R151-6)
                      
                   
                   
@@ -3623,7 +3635,13 @@
                               
                               
                                  
-                                    Sous-section 2 : Mises en demeure.
+                                    Sous-section 2 : Arrêt temporaire d'activité destiné à mettre fin à la persistance d'une situation dangereuse résultant d'une exposition à une substance chimique cancérogène, mutagène ou toxique pour la reproduction.
+                                     (Articles R231-12-5 à R231-12-12)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Mises en demeure.
                                      (Articles R231-13 à R231-13-1)
                                  
                               
@@ -5499,12 +5517,6 @@
                                (Article R364-1)
                            
                         
-                        
-                           
-                              Paragraphe 2 : Protection de la main-d'oeuvre nationale
-                               (Article R364-2)
-                           
-                        
                      
                   
                   
@@ -6658,6 +6670,12 @@
                                (Articles R763-23 à R763-29)
                            
                         
+                        
+                           
+                              Section 4 : Examens médicaux et suivi médical des mannequins en milieu de travail.
+                               (Articles R763-30 à R763-31)
+                           
+                        
                      
                   
                
@@ -7364,36 +7382,6 @@
             
                
                   Titre VII : Modalités d'application des articles L. 970-1, L. 970-2, L. 970-3
-                  
-                     
-                        Section 1 : Modalités d'application des dispositions de l'article L. 970-1.
-                         (Articles R970-1 à R970-9)
-                     
-                  
-                  
-                     
-                        Section 2 : Modalités d'application des dispositions de l'article L. 970-2.
-                         (Article R970-10)
-                        
-                           
-                              Sous-section 1 : Actions de formation organisées à l'initiative de l'administration en vue de la formation professionnelle continue des fonctionnaires.
-                               (Articles R970-11 à R970-13)
-                           
-                        
-                        
-                           
-                              Sous-section 2 : Cycles de formation, stages ou autres actions offerts ou agréés par l'administration en vue de la préparation aux concours administratifs.
-                               (Articles R970-14 à R970-17)
-                           
-                        
-                        
-                           
-                              Sous-section 3 : Actions de formation choisies par les fonctionnaires en vue de leur formation personnelle.
-                               (Articles R970-18 à R970-21)
-                           
-                        
-                     
-                  
                   
                      
                         Section 3 : Modalités d'application de l'article L. 970-3.
