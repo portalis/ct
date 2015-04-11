@@ -179,7 +179,7 @@
                   
                      
                         Chapitre préliminaire.
-                         (Articles L120-1 à L120-2)
+                         (Articles L120-1 à L120-3)
                      
                   
                   
@@ -611,7 +611,7 @@
                         
                            
                               Section 3 : Marchandage
-                               (Article L152-3)
+                               (Articles L152-3 à L152-3-1)
                            
                         
                         
@@ -624,6 +624,12 @@
                            
                               Section 5 : Groupements d'employeurs.
                                (Article L152-5)
+                           
+                        
+                        
+                           
+                              Section 6 : Corruption
+                               (Article L152-6)
                            
                         
                      
@@ -980,15 +986,9 @@
                               
                                  
                                     Emploi des enfants comme mannequins dans la publicité et la mode
-                                     (Article L261-3)
+                                     (Articles L261-1 à L261-6)
                                  
                               
-                           
-                        
-                        
-                           
-                              Emploi des enfants dans les spectacles et professions ambulantes; emploi des enfants comme mannequins dans la publicité et la mode.
-                               (Articles L261-1 à L261-6)
                            
                         
                      
@@ -1003,12 +1003,6 @@
                      
                         Chapitre IV : Médecine du travail.
                          (Article L264-1)
-                     
-                  
-                  
-                     
-                        Chapitre V : Service social du travail.
-                         (Article L265-1)
                      
                   
                
@@ -1341,14 +1335,20 @@
                               
                                  
                                     Travailleurs handicapés.
-                                     (Articles L362-1 à L362-2)
+                                     (Article L362-2)
                                  
                               
                            
                         
                         
                            
-                              SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN
+                              Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs - Travailleurs handicapés.
+                               (Article L362-1)
+                           
+                        
+                        
+                           
+                              Section 2 : Travail clandestin
                                (Articles L362-3 à L362-6)
                            
                         
@@ -1356,8 +1356,14 @@
                   
                   
                      
-                        Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.
-                         (Articles L364-1 à L364-5)
+                        Chapitre IV : Main-d'oeuvre étrangère
+                         (Articles L364-1 à L364-10)
+                        
+                           
+                              (en vigueur jusqu'au 1er janvier 2007 au plus tard)
+                               (Article L364-7)
+                           
+                        
                      
                   
                   
@@ -2246,23 +2252,6 @@
                   
                   
                      
-                        Chapitre II : Industries de transformation
-                        
-                           
-                              Section 1 : Travailleurs à domicile.
-                               (Article L792-1)
-                           
-                        
-                        
-                           
-                              Section 2 : Moyens de constater les conventions relatives au salaire en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes.
-                               (Article L792-2)
-                           
-                        
-                     
-                  
-                  
-                     
                         Chapitre III : Bâtiment et travaux publics.
                          (Article L793-1)
                      
@@ -2270,6 +2259,7 @@
                   
                      
                         Chapitre V : Voyageurs, représentants et placiers.
+                         (Article L795-1)
                      
                   
                   
@@ -3295,7 +3285,7 @@
                         
                            
                               Section 2 : Travail temporaire.
-                               (Articles R152-5 à R152-6-1)
+                               (Article R152-5)
                            
                         
                         
@@ -5045,7 +5035,7 @@
                         
                         
                            
-                              Section 2 : Dispositions régissant l'emploi de certaines catégories de travailleurs : les travailleurs handicapés
+                              Section 2 : Dispositions régissant l'emploi de certaines catégories de travailleurs : travailleurs handicapés
                                (Article R362-2)
                            
                         
@@ -7650,7 +7640,7 @@
             
                
                   Titre VIII : Des formations professionnelles en alternance.
-                   (Articles D980-1 à D980-11)
+                   (Articles D980-1 à D981-14)
                
             
          
