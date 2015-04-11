@@ -1141,7 +1141,7 @@
                               
                                  
                                     Sous-section 4 : Travail protégé
-                                     (Articles L323-29 à L323-32)
+                                     (Articles L323-30 à L323-33)
                                  
                               
                               
@@ -1199,7 +1199,6 @@
                         
                            
                               Section 1 : Travailleurs étrangers
-                               (Article L341-2)
                               
                                  
                                     (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -2270,6 +2269,12 @@
                          (Articles L785-1 à L785-3)
                      
                   
+                  
+                     
+                        Chapitre VI : Travail à façon
+                         (Article L786-1)
+                     
+                  
                
             
             
@@ -2479,27 +2484,6 @@
                      
                         Chapitre III : Dispositions spéciales à la main-d'oeuvre étrangère
                          (Article L883-1)
-                     
-                  
-               
-            
-         
-      
-      
-         
-            Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
-            
-               
-                  (en vigueur jusqu'à la date de publication du décret d'application prévu au 4e alinéa de l'art. L910-1)
-                  
-                     
-                        Titre V : De la participation des employeurs au développement de la formation professionnelle continue
-                        
-                           
-                              Chapitre III : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non-salariées
-                               (Article L953-2)
-                           
-                        
                      
                   
                
@@ -3210,6 +3194,12 @@
                            
                               Section 1 : Mode de paiement du salaire.
                                (Articles R143-1 à R143-3)
+                           
+                        
+                        
+                           
+                              Section 2 : Privilèges et garanties de la créance salariale.
+                               (Article R143-4)
                            
                         
                      
@@ -4647,7 +4637,7 @@
                               
                                  
                                     Sous-section 1 : Organisation et fonctionnement.
-                                     (Article R241-15-1)
+                                     (Articles R241-12-1 à R241-15-1)
                                  
                               
                            
@@ -5130,7 +5120,7 @@
                               
                               
                                  
-                                    Sous-section 2 : Procédure d'agrément des accords de branche, d'entreprise ou d'établissement.
+                                    Sous-section 2 : Procédure d'agrément des accords de branche, de groupe, d'entreprise ou d'établissement.
                                      (Articles R323-4 à R323-7)
                                  
                               
@@ -5177,31 +5167,14 @@
                               
                               
                                  
-                                    Sous-section 6 : Travail protégé
-                                    
-                                       
-                                          Paragraphe 1 : Emplois à mi-temps et emplois légers.
-                                           (Articles R323-59 à R323-59-3)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 2 : Etablissements spécialisés.
-                                           (Articles R323-60 à R323-63)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 4 : Subvention d'installation.
-                                           (Article R323-73)
-                                       
-                                    
+                                    Sous-section 6 : Entreprises adaptées et centres de distribution de travail à domicile.
+                                     (Articles R323-60 à R323-65)
                                  
                               
                               
                                  
-                                    Sous-section 7 : Commission départementale des travailleurs handicapés, des mutilés de guerre et assimilés.
-                                     (Articles R323-74 à R323-78)
+                                    Sous-section 7 : Subvention à l'installation.
+                                     (Article R323-73)
                                  
                               
                               
@@ -5212,32 +5185,14 @@
                               
                               
                                  
-                                    Sous-section 9 : Dispositions applicables aux administrations et entreprises prévues à l'article L. 323-12 (4°)
-                                     (Articles R323-93 à R323-97)
-                                    
-                                       
-                                          Paragraphe 1 : Accession aux emplois réservés.
-                                           (Articles R323-98 à R323-109)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 2 : Accession aux emplois publics par concours.
-                                           (Articles R323-111 à R323-113)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 3 : Dispositions diverses.
-                                           (Articles R323-114 à R323-115)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
                                     Sous-section 10 : Application des dispositions du dernier alinéa de l'article L. 323-9 et de l'article 29 de la loi n° 75-534 du 30 juin 1975.
                                      (Articles R323-116 à R323-119)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 11 : Reconnaissance de la lourdeur du handicap.
+                                     (Articles R323-120 à R323-126)
                                  
                               
                            
@@ -7439,6 +7394,12 @@
                                (Articles D129-30 à D129-34)
                            
                         
+                        
+                           
+                              Section 5 : Agréments des associations et entreprises de services à la personne.
+                               (Articles D129-35 à D129-37)
+                           
+                        
                      
                   
                
@@ -7582,6 +7543,12 @@
                          (Articles D225-1 à D225-2)
                      
                   
+                  
+                     
+                        Chapitre VII : Compte épargne-temps.
+                         (Articles D227-1 à D227-2)
+                     
+                  
                
             
             
@@ -7606,7 +7573,7 @@
                   
                      
                         Chapitre Ier : Service public du placement.
-                         (Articles D311-1 à D311-6)
+                         (Articles D311-1 à D311-12)
                      
                   
                
@@ -7669,14 +7636,8 @@
                               
                               
                                  
-                                    Sous-section 2 : Modalités de décompte des catégories de bénéficiaires.
-                                     (Article D323-2)
-                                 
-                              
-                              
-                                 
-                                    Sous-section 3 : Salariés occupant des emplois qui relèvent des catégories d'emplois exigeant des conditions d'aptitude particulières, non décomptés dans l'effectif des salariés visé au premier alinéa de l'article L. 323-1.
-                                     (Article D323-3)
+                                    Sous-section 2 : Modalités de calcul de la contribution annuelle au fonds de développement pour l'insertion professionnelle des handicapés.
+                                     (Articles D323-2 à D323-2-6)
                                  
                               
                            
@@ -7698,22 +7659,10 @@
                               
                               
                                  
-                                    Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.
-                                     (Articles D323-11 à D323-16)
-                                 
-                              
-                              
-                                 
                                     Sous-section 4 : Travail protégé.
-                                     (Articles D323-17 à D323-25-5)
+                                     (Articles D323-17 à D323-28)
                                  
                               
-                           
-                        
-                        
-                           
-                              Section 3 : Emploi obligatoire des pères de famille.
-                               (Articles D323-26 à D323-34)
                            
                         
                      
