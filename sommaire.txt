@@ -194,7 +194,7 @@
                         
                            
                               SECTION 1 : CONTRAT A DUREE DETERMINEE.
-                               (Articles L122-1 à L122-3-16)
+                               (Articles L122-1 à L122-3-17)
                            
                         
                         
@@ -334,7 +334,7 @@
                         
                            
                               Section 4 : Dispositions diverses.
-                               (Articles L124-14 à L124-21)
+                               (Articles L124-14 à L124-22)
                            
                         
                      
@@ -781,8 +781,8 @@
                         Chapitre III : TRAVAIL DE NUIT
                         
                            
-                              SECTION 1 : DISPOSITIONS RELATIVES AUX FEMMES .
-                               (Articles L213-1 à L213-6)
+                              Section 1 : Dispositions générales.
+                               (Articles L213-1 à L213-5)
                            
                         
                         
@@ -6725,6 +6725,12 @@
                   
                   
                      
+                        Chapitre Ier bis : Dispositions relatives à l'aide à un projet initiative-jeune dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon
+                         (Articles R831-10 à R831-19)
+                     
+                  
+                  
+                     
                         Chapitre II : Travail clandestin.
                          (Article R832-1)
                      
@@ -8012,6 +8018,12 @@
                      
                         Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
                          (Article D831-1)
+                     
+                  
+                  
+                     
+                        Chapitre Ier bis : Dispositions relatives à l'aide à un projet initiative-jeune dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon
+                         (Articles D831-2 à D831-4)
                      
                   
                
