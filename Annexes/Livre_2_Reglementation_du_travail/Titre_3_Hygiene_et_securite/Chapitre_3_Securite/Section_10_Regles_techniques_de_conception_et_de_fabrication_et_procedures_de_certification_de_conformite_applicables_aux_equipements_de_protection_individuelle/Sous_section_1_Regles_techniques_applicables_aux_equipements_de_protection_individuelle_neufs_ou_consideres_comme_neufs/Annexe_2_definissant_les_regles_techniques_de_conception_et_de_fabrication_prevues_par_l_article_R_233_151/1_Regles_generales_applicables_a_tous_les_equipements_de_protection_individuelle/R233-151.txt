@@ -28,7 +28,7 @@
  1.3.3. Compatibilité des équipements de protection individuelle destinés à être portés simultanément par l'utilisateur.
                Lorsque, selon les conditions d'emploi définies par la notice d'instructions, plusieurs modèles d'équipements de protection individuelle de genres ou types différents sont destinés à assurer simultanément la protection de parties voisines du corps, ils doivent être compatibles entre eux.
 1.4. Notice d'instructions.
-               I. - Chaque équipement de protection individuelle doit être accompagné d'une notice d'instructions contenant, outre le nom et l'adresse du fabricant ou de l'importateur, les données suivantes :
+               I. - Chaque équipement de protection individuelle doit être accompagné d'une notice d'instructions contenant, outre le nom et l'adresse du fabricant ou de l'importateur ainsi que le nom, l'adresse et le numéro d'identification de l'organisme qui a procédé à l'examen CE de type, les données suivantes :
                a) Les instructions de stockage, d'emploi, de nettoyage, d'entretien, de révision et de désinfection. Les produits de nettoyage, d'entretien ou de désinfection préconisés ne doivent avoir, dans le cadre de leur mode d'emploi, aucun effet nocif sur les équipements de protection individuelle ni sur l'utilisateur ;
                b) Les performances obtenues lors d'examens techniques visant à s'assurer des niveaux ou classes de protection des équipements de protection individuelle ;
                c) Les accessoires utilisables avec les équipements de protection individuelle, ainsi que les caractéristiques des pièces de rechange appropriées ;

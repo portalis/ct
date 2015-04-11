@@ -108,13 +108,13 @@
                         
                            
                               Chapitre VIII : Dispositions financières.
-                               (Articles L118-1 à L118-6)
+                               (Articles L118-1-1 à L118-7)
                            
                         
                         
                            
                               Chapitre IX : Dispositions diverses.
-                               (Articles L119-4 à L119-5)
+                               (Articles L119-1-1 à L119-5)
                            
                         
                      
@@ -162,7 +162,7 @@
                   
                      
                         Chapitre VIII : Dispositions financières.
-                         (Article L118-4)
+                         (Articles L118-4 à L118-5)
                      
                   
                   
@@ -354,7 +354,7 @@
                   
                      
                         Chapitre IX : Services aux personnes
-                         (Article L129-1)
+                         (Articles L129-1 à L129-3)
                      
                   
                
@@ -562,7 +562,7 @@
                   Titre V : Pénalités
                   
                      
-                        Chapitre Ier : Contrat d'apprentissage.
+                        Chapitre Ier : Apprentissage.
                          (Article L151-1)
                      
                   
@@ -1145,6 +1145,12 @@
                   
                   
                      
+                        Chapitre II ter : Dispositions relatives aux embauches dans les zones de redynamisation urbaine et dans les zones de revitalisation rurale
+                         (Article L322-13)
+                     
+                  
+                  
+                     
                         Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
                         
                            
@@ -1209,20 +1215,31 @@
                   
                   
                      
+                        Chapitre IV : Cumuls d'emplois - Travail dissimulé
+                        
+                           
+                              Section 1 : Cumuls d'emplois.
+                               (Articles L324-1 à L324-6)
+                           
+                        
+                        
+                           
+                              Section 2 : Travail dissimulé.
+                               (Articles L324-9 à L324-15)
+                           
+                        
+                     
+                  
+                  
+                     
                         Chapitre IV : Cumuls d'emplois
                         
                            
-                              Travail clandestin
+                              Travail dissimulé
                               
                                  
-                                    Section 1 : Cumuls d'emplois.
-                                     (Articles L324-1 à L324-6)
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Travail clandestin.
-                                     (Articles L324-9 à L324-15)
+                                    Section 2 : Travail dissimulé.
+                                     (Articles L324-11-2 à L324-14)
                                  
                               
                            
@@ -1360,7 +1377,7 @@
                         
                         
                            
-                              Section 2 : Travail clandestin
+                              Section 2 : Travail dissimulé
                                (Articles L362-3 à L362-6)
                            
                         
@@ -1552,6 +1569,41 @@
                          (Articles L439-1 à L439-5)
                      
                   
+                  
+                     
+                        Chapitre X : Comité d'entreprise européen ou procédure d'information et de consultation dans les entreprises de dimension communautaire
+                        
+                           
+                              Section 1 : Champ d'application.
+                               (Article L439-6)
+                           
+                        
+                        
+                           
+                              Section 2 : Groupe spécial de négociation.
+                               (Articles L439-7 à L439-11)
+                           
+                        
+                        
+                           
+                              Section 3 : Comité d'entreprise européen mis en place en l'absence d'accord.
+                               (Articles L439-12 à L439-17)
+                           
+                        
+                        
+                           
+                              Section 4 : Répartition des sièges au groupe spécial de négociation et au comité d'entreprise européen mis en place en l'absence d'accord.
+                               (Article L439-18)
+                           
+                        
+                        
+                           
+                              Section 5 : Dispositions communes
+                               (Articles L439-19 à L439-24)
+                           
+                        
+                     
+                  
                
             
             
@@ -1580,13 +1632,7 @@
                         
                            
                               Section 1 : Régime obligatoire dans les entreprises de cinquante salariés et plus
-                               (Articles L442-3 à L442-14)
-                           
-                        
-                        
-                           
-                              Section 1 : Régime obligatoire dans les entreprises de plus de cent salariés
-                               (Article L442-2)
+                               (Articles L442-2 à L442-14)
                            
                         
                         
@@ -1822,12 +1868,6 @@
                            
                               Chapitre IV : Statut des conseillers prud'hommes.
                                (Articles L514-2 à L514-14)
-                           
-                        
-                        
-                           
-                              Chapitre VI : Procédure devant les conseils de prud'hommes.
-                               (Article L516-2)
                            
                         
                      
@@ -2414,7 +2454,7 @@
                         
                         
                            
-                              Section 3 : Cumuls d'emplois et travail clandestin.
+                              Section 3 : Travail dissimulé.
                                (Article L832-3)
                            
                         
@@ -2536,14 +2576,8 @@
                   
                   
                      
-                        Chapitre II : Des droits collectifs des salariés.
-                         (Article L932-2)
-                     
-                  
-                  
-                     
                         Chapitre II : Du plan de formation de l'entreprise
-                         (Article L932-1)
+                         (Articles L932-1 à L932-2)
                      
                   
                   
@@ -2584,7 +2618,7 @@
                   
                      
                         Chapitre II : De la participation des employeurs occupant moins de dix salariés
-                         (Articles L952-1 à L952-5)
+                         (Articles L952-1 à L952-6)
                      
                   
                   
@@ -2607,7 +2641,7 @@
                   
                      
                         Chapitre Ier : Des aides financières accordées aux stagiaires de formation professionnelle.
-                         (Articles L961-1 à L961-12)
+                         (Articles L961-1 à L961-13)
                      
                   
                   
@@ -2654,7 +2688,7 @@
                               
                                  
                                     Chapitre Ier : Du contrôle de la formation professionnelle continue
-                                     (Articles L991-2 à L991-9)
+                                     (Articles L991-1 à L991-9)
                                  
                               
                               
@@ -2667,27 +2701,6 @@
                                  
                                     Chapitre III : Dispositions pénales.
                                      (Articles L993-1 à L993-5)
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  Titre IX : Contr&lt;CB&gt;le de la formation professionnelle continue
-                  
-                     
-                        Dispositions diverses
-                        
-                           
-                              Dispositions pénales
-                              
-                                 
-                                    Chapitre Ier : Du contr&lt;CB&gt;le de la formation professionnelle continue.
-                                     (Article L991-1)
                                  
                               
                            
@@ -2737,10 +2750,10 @@
                         Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
                         
                            
-                              Chapitre VI : Des centres de formation d'apprentis
+                              Chapitre VI : Des centres de formation d'apprentis et des sections d'apprentissage
                               
                                  
-                                    Section 1 : Des conventions portant création de centres de formation d'apprentis
+                                    Section 1 : Des conventions portant création de centres de formation d'apprentis et des sections d'apprentissage
                                     
                                        
                                           Paragraphe 1 : Dispositions générales.
@@ -2749,19 +2762,19 @@
                                     
                                     
                                        
-                                          Paragraphe 2 : De l'organisation des centres.
-                                           (Articles R116-3 à R116-8)
+                                          Paragraphe 2 : De l'organisation des centres et des sections d'apprentissage.
+                                           (Articles R116-6 à R116-7)
                                        
                                     
                                     
                                        
-                                          Paragraphe 3 : Du fonctionnement pédagogique des centres.
-                                           (Articles R116-9 à R116-14-1)
+                                          Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'apprentissage.
+                                           (Articles R116-11 à R116-12)
                                        
                                     
                                     
                                        
-                                          Paragraphe 4 : De l'organisation financière des centres.
+                                          Paragraphe 4 : De l'organisation financière des centres et des sections d'apprentissage.
                                            (Articles R116-15 à R116-17)
                                        
                                     
@@ -2770,7 +2783,7 @@
                               
                                  
                                     Section 2 : De la conclusion et du renouvellement des conventions.
-                                     (Articles R116-18 à R116-23)
+                                     (Articles R116-18 à R116-20)
                                  
                               
                               
@@ -2781,14 +2794,8 @@
                               
                               
                                  
-                                    Section 4 : Du personnel des centres de formation d'apprentis.
-                                     (Articles R116-26 à R116-32)
-                                 
-                              
-                              
-                                 
-                                    Section 5 : Du contrôle des centres de formation d'apprentis.
-                                     (Articles R116-33 à R116-36)
+                                    Section 4 : Du personnel des centres de formation d'apprentis
+                                     (Article R116-30)
                                  
                               
                            
@@ -2799,48 +2806,25 @@
                               
                                  
                                     Paragraphe 1 : De la déclaration de l'employeur relative à l'organisation de l'apprentissage
-                                     (Articles R117-2 à R117-5-3)
+                                     (Articles R117-5 à R117-5-3)
                                  
                               
                               
                                  
                                     Paragraphe 2 : De la durée de l'apprentissage.
-                                     (Articles R117-6 à R117-8)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe 3 : Avis d'orientation
-                                    
-                                       
-                                          Certificat médical.
-                                           (Article R117-9)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Paragraphe 4 : Du contenu des contrats d'apprentissage.
-                                     (Article R117-11)
+                                     (Articles R117-6 à R117-7-3)
                                  
                               
                               
                                  
                                     Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.
-                                     (Articles R117-13 à R117-16)
+                                     (Article R117-16)
                                  
                               
                               
                                  
-                                    Paragraphe 6 : Cas de l'apprenti employé par un ascendant.
-                                     (Article R117-18)
-                                 
-                              
-                              
-                                 
-                                    Paragraphe 7 : Constatation de l'aptitude de l'apprenti.
-                                     (Articles R117-19 à R117-20)
+                                    Paragraphe 8 : Du titre de maître d'apprentissage confirmé
+                                     (Article R117-24)
                                  
                               
                            
@@ -2863,7 +2847,7 @@
                               
                                  
                                     A - DISPOSITIONS FINANCIERES.
-                                     (Articles R119-1 à R119-3)
+                                     (Articles R119-1 à R119-5)
                                  
                               
                               
@@ -2891,7 +2875,7 @@
                               
                                  
                                     C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
-                                     (Articles R119-32 à R119-44)
+                                     (Articles R119-32 à R119-41)
                                  
                               
                               
@@ -2905,12 +2889,6 @@
                                     
                                  
                               
-                              
-                                 
-                                    E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
-                                     (Articles R119-75 à R119-77)
-                                 
-                              
                            
                         
                      
@@ -2920,6 +2898,58 @@
             
                
                   Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+                  
+                     
+                        Chapitre V : Généralités
+                         (Article R115-1)
+                     
+                  
+                  
+                     
+                        Chapitre VI : Des centres de formation d'apprentis et des sections d'apprentissage
+                        
+                           
+                              Section 1 : Des conventions portant création de centres de formation d'apprentis et des sections d'apprentissage
+                              
+                                 
+                                    Paragraphe 2 : De l'organisation des centres et des sections d'apprentissage.
+                                     (Articles R116-3 à R116-8)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'apprentissage.
+                                     (Articles R116-9 à R116-14-1)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 2 : De la conclusion et du renouvellement des conventions.
+                               (Articles R116-19 à R116-23)
+                           
+                        
+                        
+                           
+                              Section 4 : Du personnel des centres de formation d'apprentis
+                               (Articles R116-26 à R116-32)
+                           
+                        
+                        
+                           
+                              Section 4 bis : Du personnel des sections d'apprentissage
+                               (Article R116-32-1)
+                           
+                        
+                        
+                           
+                              Section 5 : Du contrôle des centres de formation d'apprentis et des sections d'apprentissage.
+                               (Articles R116-33 à R116-36)
+                           
+                        
+                     
+                  
                   
                      
                         Chapitre VII : Du contrat d'apprentissage
@@ -2937,14 +2967,38 @@
                         
                         
                            
+                              Paragraphe 3 : Avis d'orientation - Certificat médical.
+                               (Article R117-9)
+                           
+                        
+                        
+                           
                               Paragraphe 4 : Du contenu des contrats d'apprentissage.
                                (Articles R117-10 à R117-12)
                            
                         
                         
                            
+                              Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.
+                               (Articles R117-13 à R117-15)
+                           
+                        
+                        
+                           
                               Paragraphe 6 : Cas de l'apprenti employé par un ascendant.
-                               (Article R117-17)
+                               (Articles R117-17 à R117-18)
+                           
+                        
+                        
+                           
+                              Paragraphe 7 : Constatation de l'aptitude de l'apprenti.
+                               (Articles R117-19 à R117-20)
+                           
+                        
+                        
+                           
+                              Paragraphe 8 : Du titre de maître d'apprentissage confirmé
+                               (Articles R117-21 à R117-26)
                            
                         
                      
@@ -2970,7 +3024,7 @@
                               
                                  
                                     Dispositions générales.
-                                     (Articles R119-53 à R119-60)
+                                     (Articles R119-49 à R119-60)
                                  
                               
                               
@@ -3018,7 +3072,7 @@
                         
                            
                               Section 4 : Protection de la maternité et éducation des enfants.
-                               (Articles R122-9 à R122-11)
+                               (Articles R122-9 à R122-11-1)
                            
                         
                         
@@ -3125,7 +3179,24 @@
                   
                      
                         Chapitre VII : Groupements d'employeurs.
-                         (Articles R127-1 à R127-8)
+                        
+                           
+                              Section 1 : Dispositions générales.
+                               (Articles R127-1 à R127-8)
+                           
+                        
+                        
+                           
+                              Section 2 : Dispositions particulières aux groupements d'employeurs ayant pour objet principal de mettre des remplaçants à la disposition des exploitants agricoles
+                               (Articles R127-9-1 à R127-9-8)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre IX : Services aux personnes
+                         (Articles R129-1 à R129-5)
                      
                   
                
@@ -3301,7 +3372,7 @@
                   
                      
                         Chapitre Ier : Contrat d'apprentissage et statut de l'apprenti.
-                         (Articles R151-1 à R151-5)
+                         (Articles R151-1 à R151-6)
                      
                   
                   
@@ -3745,22 +3816,6 @@
                   
                   
                      
-                        Chapitre II : Hygiène
-                        
-                           
-                              Section 2 : Ambiances des lieux de travail
-                              
-                                 
-                                    Sous-section 3 : Eclairage.
-                                     (Article R232-7-1)
-                                 
-                              
-                           
-                        
-                     
-                  
-                  
-                     
                         Chapitre II : Hygiène - aménagement des lieux de travail - prévention des incendies
                         
                            
@@ -3768,7 +3823,7 @@
                               
                                  
                                     Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail
-                                     (Articles R232-1-11 à R232-1-14)
+                                     (Articles R232-1 à R232-1-14)
                                  
                               
                               
@@ -3803,7 +3858,7 @@
                               
                                  
                                     Sous-section 2 : Ambiance thermique
-                                     (Article R232-6)
+                                     (Articles R232-6 à R232-6-1)
                                  
                               
                               
@@ -3832,7 +3887,7 @@
                               
                                  
                                     Sous-section 1 : Repas
-                                     (Articles R232-10 à R232-10-1)
+                                     (Articles R232-10 à R232-10-3)
                                  
                               
                               
@@ -3938,7 +3993,7 @@
                         
                            
                               Section 5 : Dispositions diverses et mesures d'application
-                               (Articles R233-45 à R233-47)
+                               (Articles R233-45 à R233-48)
                            
                         
                         
@@ -3975,7 +4030,7 @@
                               
                               
                                  
-                                    Sous-section 4 : Procédure simplifiée de certification applicable aux machines neuves ou considérées comme neuves visées à l'article R. 233-57
+                                    Sous-section 4 : Procédure simplifiée de certification applicable aux machines et aux composants de sécurité neufs ou considérés comme neufs visés à l'article R. 233-57
                                      (Articles R233-64 à R233-65)
                                  
                               
@@ -4040,7 +4095,7 @@
                               
                               
                                  
-                                    Sous-section 2 : Moyens de protection
+                                    Sous-section 2 : Composants de sécurité
                                      (Articles R233-83-2 à R233-83-4)
                                  
                               
@@ -4048,10 +4103,10 @@
                         
                         
                            
-                              Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
+                              Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux composants de sécurité visés à l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
                               
                                  
-                                    Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2, neufs ou considérés comme neufs
+                                    Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux composants de sécurité visés à l'article R. 233-83-2, neufs ou considérés comme neufs
                                      (Article R233-84)
                                  
                               
@@ -4069,13 +4124,13 @@
                               
                               
                                  
-                                    Sous-section 4 : Procédure de certification de conformité applicable aux structures de protection neuves ou considérées comme neuves
-                                     (Article R233-88)
+                                    Sous-section 4 : Procédure de certification de conformité applicable aux composants de sécurité neufs ou considérés comme neufs
+                                     (Articles R233-88 à R233-88-1)
                                  
                               
                               
                                  
-                                    Sous-section 5 : Procédure de certification applicable et règles techniques de conception et de construction applicables aux équipements de travail d'occasion visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection d'occasion visés aux 1° et 2° de l'article R. 233-83-2
+                                    Sous-section 5 : Procédure de certification applicable et règles techniques de conception et de construction applicables aux équipements de travail d'occasion visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux composants de sécurité d'occasion visés à l'article R. 233-83-2
                                      (Articles R233-89 à R233-89-4)
                                  
                               
@@ -4441,6 +4496,12 @@
                                (Articles R238-40 à R238-45)
                            
                         
+                        
+                           
+                              Section 8 : Collège interentreprises de sécurité, de santé et des conditions de travail
+                               (Articles R238-46 à R238-56)
+                           
+                        
                      
                   
                
@@ -4510,7 +4571,7 @@
                               
                                  
                                     Sous-section 1 : Des médecins du travail.
-                                     (Articles R241-30 à R241-34)
+                                     (Articles R241-29 à R241-34)
                                  
                               
                               
@@ -4752,7 +4813,7 @@
                   
                      
                         Chapitre III : Hygiène et sécurité
-                         (Articles R263-1 à R263-2)
+                         (Articles R263-1 à R263-3)
                      
                   
                   
@@ -5040,11 +5101,11 @@
                   
                   
                      
-                        Chapitre IV : Cumuls d'emploi et travail clandestin
+                        Chapitre IV : Cumuls d'emploi et travail dissimulé
                         
                            
-                              Section 2 : Travail clandestin.
-                               (Articles R324-1 à R324-7)
+                              Section 2 : Travail dissimulé.
+                               (Articles R324-1 à R324-9)
                            
                         
                      
@@ -5104,7 +5165,7 @@
                               
                                  
                                     Paragraphe 5 : Dispositions financières et comptables.
-                                     (Articles R341-25 à R341-35)
+                                     (Articles R341-25 à R341-41)
                                  
                               
                            
@@ -5155,7 +5216,7 @@
                               
                                  
                                     Sous-section 5 : Aide à la création d'entreprise
-                                     (Articles R351-41 à R351-47)
+                                     (Articles R351-41 à R351-49)
                                  
                               
                            
@@ -5379,6 +5440,87 @@
             
                
                   Titre IV : Intéressement et participation
+                  
+                     
+                        Chapitre Ier : Intéressement des salariés à l'entreprise
+                         (Articles R441-1 à R441-4)
+                     
+                  
+                  
+                     
+                        Chapitre II : Participation des salariés aux résultats de l'entreprise
+                        
+                           
+                              Section 1 : Régime obligatoire dans les entreprises de cinquante salariés et plus
+                              
+                                 
+                                    Paragraphe 1 : Entreprises tenues de constituer une réserve spéciale de participation
+                                     (Article R442-1)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 2 : Calcul de la réserve spéciale
+                                     (Articles R442-2 à R442-5)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Répartition de la réserve spéciale
+                                     (Article R442-6)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 4 : Gestion de la réserve spéciale de participation
+                                     (Articles R442-7 à R442-17)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 2 : Information des salariés
+                               (Articles R442-18 à R442-20)
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions diverses
+                               (Articles R442-21 à R442-26)
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions particulières aux sociétés coopératives ouvrières de production
+                               (Articles R442-27 à R442-30)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre III : Plans d'épargne d'entreprise
+                         (Articles R443-1 à R443-11)
+                     
+                  
+                  
+                     
+                        Chapitre IV : Dispositions communes
+                        
+                           
+                              Section 1 : Dispositions générales
+                               (Articles R444-1-1 à R444-1-2)
+                           
+                        
+                        
+                           
+                              Section 2 : Conseil supérieur de la participation
+                               (Articles R444-2-1 à R444-2-6)
+                           
+                        
+                     
+                  
                
             
             
@@ -5422,88 +5564,6 @@
             Livre V : Conflits du travail
             
                
-                  Titre Ier : Conflits individuels
-                  
-                     
-                        Conseils de prud'hommes
-                        
-                           
-                              Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
-                              
-                                 
-                                    Section 1 : Organisation et fonctionnement de la juridiction.
-                                     (Article R512-1-1)
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Organisation et fonctionnement du secrétariat-greffe.
-                                     (Article R512-35)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Chapitre III : Election des prud'hommes
-                              
-                                 
-                                    Section 1 : Electorat, éligibilité et établissement des listes électorales
-                                    
-                                       
-                                          Paragraphe 1 : Electorat.
-                                           (Articles R513-9 à R513-10)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 3 : Etablissement des listes électorales.
-                                           (Articles R513-11 à R513-17)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Opérations électorales, installation des conseillers prud'hommes, élections complémentaires
-                                    
-                                       
-                                          Sous-section 1 : Scrutin
-                                          
-                                             
-                                                Paragraphe 3 : Propagande.
-                                                 (Article R513-45)
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 4 : Vote
-                                          
-                                             
-                                                I - Opérations de vote.
-                                                 (Articles R513-56 à R513-73)
-                                             
-                                          
-                                          
-                                             
-                                                III - Dépouillement des votes.
-                                                 (Article R513-96)
-                                             
-                                          
-                                       
-                                    
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   Titre Ier : Conflits individuels - Conseils de prud'hommes
                   
                      
@@ -5523,7 +5583,7 @@
                         
                            
                               Section 2 : Organisation et fonctionnement du secrétariat-greffe.
-                               (Articles R512-18 à R512-34)
+                               (Articles R512-18 à R512-35)
                            
                         
                      
@@ -5537,13 +5597,13 @@
                               
                                  
                                     Paragraphe 1 : Electorat.
-                                     (Articles R513-1 à R513-8)
+                                     (Articles R513-1 à R513-10)
                                  
                               
                               
                                  
                                     Paragraphe 3 : Etablissement des listes électorales.
-                                     (Articles R513-12 à R513-30)
+                                     (Articles R513-11 à R513-30)
                                  
                               
                            
@@ -6302,7 +6362,7 @@
                         
                            
                               Section 3 : Règles applicables à la licence d'agence de mannequins
-                               (Articles R763-23 à R763-32)
+                               (Articles R763-23 à R763-29)
                            
                         
                      
@@ -6430,6 +6490,44 @@
             Livre VIII : Dispositions spéciales aux départements d'outre-mer
             
                
+                  Titre Ier : Conventions relatives au travail
+                  
+                     
+                        Chapitre IV : Salaires
+                        
+                           
+                              Section 2 : Rémunération mensuelle minimale
+                              
+                                 
+                                    Sous-section 1 : Dispositions générales
+                                    
+                                       
+                                          Paragraphe 1 : Allocation complémentaire versée au salarié
+                                           (Articles R814-1 à R814-6)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 2 : Remboursement par l'Etat
+                                           (Articles R814-7 à R814-9)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Dispositions particulières à certaines catégories de travailleurs
+                                     (Articles R814-10 à R814-12)
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+            
+               
                   Titre II : Réglementation du travail
                   
                      
@@ -6536,6 +6634,12 @@
                   Titre III : Placement et emploi
                   
                      
+                        Chapitre Ier : Dispositions relatives aux contrats d'accès à l'emploi
+                         (Articles R831-1 à R831-9)
+                     
+                  
+                  
+                     
                         Chapitre II : Travail clandestin.
                          (Article R832-1)
                      
@@ -6550,6 +6654,35 @@
                      
                         Chapitre IV : Agence nationale pour l'emploi.
                          (Articles R834-1 à R834-2)
+                     
+                  
+                  
+                     
+                        Chapitre V : Fonds pour l'emploi dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon
+                        
+                           
+                              Section 1 : Ressources et dépenses
+                               (Articles R835-1 à R835-2)
+                           
+                        
+                        
+                           
+                              Section 2 : Composition du comité directeur
+                               (Article R835-3)
+                           
+                        
+                        
+                           
+                              Section 3 : Attributions du comité directeur
+                               (Articles R835-4 à R835-7)
+                           
+                        
+                        
+                           
+                              Section 4 : Organisation et fonctionnement du comité directeur
+                               (Articles R835-8 à R835-10)
+                           
+                        
                      
                   
                
@@ -6851,13 +6984,25 @@
                         
                            
                               Paragraphe 2 : Dispositions communes aux organismes collecteurs paritaires agréés
-                               (Articles R964-1-7 à R964-1-13)
+                               (Articles R964-1-7 à R964-1-16)
                            
                         
                         
                            
                               Paragraphe 3 : Dispositions relatives aux fonds d'assurance formation
-                               (Articles R964-2 à R964-15)
+                               (Articles R964-2 à R964-15-3)
+                           
+                        
+                        
+                           
+                              Paragraphe 4 : Dispositions relatives aux organismes de mutualisation agréés
+                               (Articles R964-16-1 à R964-16-6)
+                           
+                        
+                        
+                           
+                              Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation
+                               (Articles R964-17-1 à R964-17-11)
                            
                         
                      
@@ -6985,6 +7130,12 @@
                                (Articles D117-1 à D117-5)
                            
                         
+                        
+                           
+                              Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
+                               (Articles D118-1 à D118-4)
+                           
+                        
                      
                   
                
@@ -7019,6 +7170,23 @@
                      
                         Chapitre IV : Travail temporaire.
                          (Articles D124-1 à D124-2)
+                     
+                  
+                  
+                     
+                        Chapitre IX : Services aux personnes
+                        
+                           
+                              Section 1 : Chèque-service
+                               (Articles D129-1 à D129-6)
+                           
+                        
+                        
+                           
+                              Section 2 : Conditions d'agrément des associations et des entreprises de services aux personnes
+                               (Articles D129-7 à D129-12)
+                           
+                        
                      
                   
                
@@ -7667,6 +7835,12 @@
                   
                   
                      
+                        Chapitre III : Conventions collectives
+                         (Articles D813-1 à D813-2)
+                     
+                  
+                  
+                     
                         Chapitre IV : Salaire
                         
                            
@@ -7753,6 +7927,12 @@
                         
                      
                   
+                  
+                     
+                        Chapitre III : Composition et modalités de fonctionnement de la Commission nationale des comptes de la formation professionnelle
+                         (Articles D910-22 à D910-30)
+                     
+                  
                
             
             
@@ -7808,37 +7988,27 @@
                         Chapitre 3 : Election des prud'hommes
                         
                            
+                              Section 1 : Electorat, éligibilité et établissement des listes électorales
+                              
+                                 
+                                    Paragraphe 1 : Electorat
+                                    
+                                       
+                                          ANNEXE II TABLEAU DES ACTIVITES RELEVANT DE LA SECTION DU COMMERCE ET DES SERVICES COMMERCIAUX (NAF)
+                                           (Article Annexe 2 à l'article R513-7)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
                               SECTION 1 : ELECTORAT
                               
                                  
-                                    PARAGRAPHE 1 : ELECTORAT
-                                     (Article R513-7 annexe 1)
-                                 
-                              
-                           
-                        
-                     
-                  
-               
-            
-            
-               
-                  Titre 1 : Conflits individuels
-                  
-                     
-                        Conseils de prud'hommes
-                        
-                           
-                              Chapitre 3 : Election des prud'hommes
-                              
-                                 
-                                    Section 1 : Electorat, éligibilité et établissement des listes électorales
-                                    
-                                       
-                                          Paragraphe 1 : Electorat.
-                                           (Article R513-7 annexe 2)
-                                       
-                                    
+                                    PARAGRAPHE 1 : ELECTORAT ANNEXE I TABLEAU DES ACTIVITES RELEVANT DE LA SECTION DE L'INDUSTRIE (NAF)
+                                     (Article Annexe 1 à l'article R513-7)
                                  
                               
                            
@@ -7860,65 +8030,75 @@
                         Chapitre 3 : Sécurité
                         
                            
-                              Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
+                              Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux composants de sécurité visés à l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
                               
                                  
-                                    Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2, neufs ou considérés comme neufs
+                                    Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux composants de sécurité visés à l'article R. 233-83-2, neufs ou considérés comme neufs
                                     
                                        
                                           Annexe 1 définissant les règles techniques de conception et de construction prévues par l'article R. 233-84
                                           
                                              
                                                 1. Règles générales applicables aux machines neuves ou considérées comme neuves visées au 1 de l'article R. 233-83
-                                                 (Article R233-84 annexe)
+                                                 (Article Annexe à l'article R233-84)
                                              
                                           
                                           
                                              
                                                 2. Règles techniques supplémentaires applicables à certaines catégories de machines neuves ou considérées comme neuves visées au 1° de l'article R. 233-83
-                                                 (Article R233-84 annexe)
+                                                 (Article Annexe à l'article R233-84)
                                              
                                           
                                           
                                              
                                                 3. Règles techniques de prévention des risques liés à la mobilité des machines
-                                                 (Article R233-84 annexe)
+                                                 (Article Annexe à l'article R233-84)
                                              
                                           
                                           
                                              
                                                 4. Règles techniques de prévention des risques liés au levage de charges par les machines, quelle que soit leur énergie motrice
-                                                 (Article R233-84 annexe)
+                                                 (Article Annexe à l'article R233-84)
                                              
                                           
                                           
                                              
-                                                5. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées exclusivement dans des travaux souterrains
-                                                 (Article R233-84 annexe)
-                                             
-                                          
-                                          
-                                             
-                                                6. Règles techniques applicables aux chariots automoteurs de manutention à poste de conduite élevable neufs ou considérés comme neufs
-                                                 (Article R233-84 annexe)
+                                                6. Règles techniques de prévention des risques liés au levage ou au déplacement de personnes par les machines, quelle que soit leur énergie motrice
+                                                 (Article Annexe à l'article R233-84)
                                              
                                           
                                           
                                              
                                                 7. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées en atmosphère explosible
-                                                 (Article R233-84 annexe)
+                                                 (Article Annexe à l'article R233-84)
                                              
                                           
                                           
                                              
                                                 8. Règles techniques applicables aux accessoires de levage, composants d'accessoires de levage, chaînes, câbles et sangles de levage à la longueur, neufs ou considérés comme neufs, respectivement visés aux 3°, 4° et 5° de l'article R. 233-83
-                                                 (Article R233-84 annexe)
+                                                 (Article Annexe à l'article R233-84)
                                              
                                           
                                           
                                              
-                                                9. Règles techniques applicables aux structures de protection neuves ou considérées comme neuves visées aux 1° et 2° de l'article R. 233-83-2
-                                                 (Article R233-84 annexe)
+                                                9. Autres règles techniques applicables aux composants de sécurité neufs ou considérés comme neufs visés à l'article R. 233-83-2
+                                                 (Article Annexe à l'article R233-84)
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux composants de sécurité visés l'article R. 233-83-2, neufs ou considérés comme neufs
+                                    
+                                       
+                                          Annexe 1 définissant les règles techniques de conception et de construction prévues par l'article R. 233-84
+                                          
+                                             
+                                                5. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées dans des travaux souterrains
+                                                 (Article Annexe à l'article R233-84)
                                              
                                           
                                        
@@ -7940,7 +8120,7 @@
                                           
                                              
                                                 1. Règles générales applicables à tous les équipements de protection individuelle
-                                                 (Article R233-151 annexe)
+                                                 (Article Annexe à l'article R233-151)
                                              
                                           
                                           
