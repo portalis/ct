@@ -1421,7 +1421,7 @@
       
       
          
-            Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
+            Livre IV : Les groupements professionnels, la représentation des salariés, l'intéressement, la participation et les plans d'épargne salariale
             
                
                   Titre Ier : Les syndicats professionnels
@@ -1465,13 +1465,13 @@
                         
                         
                            
-                              SECTION 2 : SECTIONS SYNDICALES.
+                              Section 2 : Sections syndicales.
                                (Articles L412-6 à L412-10)
                            
                         
                         
                            
-                              SECTION 3 : DELEGUES SYNDICAUX.
+                              Section 3 : Délégués syndicaux
                                (Articles L412-11 à L412-21)
                            
                         
@@ -1502,7 +1502,7 @@
                   
                   
                      
-                        Chapitre II : ATTRIBUTIONS ET POUVOIRS.
+                        Chapitre II : Attributions et pouvoirs.
                          (Articles L422-1 à L422-5)
                      
                   
@@ -1520,7 +1520,7 @@
                   
                   
                      
-                        Chapitre V : LICENCIEMENT DES DELEGUES DU PERSONNEL.
+                        Chapitre V : Licenciement des délégués du personnel.
                          (Articles L425-1 à L425-3)
                      
                   
@@ -1537,13 +1537,13 @@
                   Titre III : Les comités d'entreprise
                   
                      
-                        Chapitre Ier : Champ d'application
+                        Chapitre Ier : Champ d'application.
                          (Articles L431-1 à L431-8)
                      
                   
                   
                      
-                        Chapitre II : Attributions et pouvoirs.
+                        Chapitre II : Attributions et pouvoirs
                          (Articles L432-1 à L432-10)
                      
                   
@@ -1622,22 +1622,11 @@
             
             
                
-                  Titre IV : Intéressement et participation
+                  Titre IV : Intéressement, participation et plans d'épargne salariale
                   
                      
                         Chapitre Ier : Intéressement des salariés à l'entreprise.
-                         (Articles L441-1 à L441-8)
-                     
-                  
-                  
-                     
-                        Chapitre 2 : Participation des salariés aux résultats de l'entreprise
-                        
-                           
-                              Section 1 : Régime obligatoire dans les entreprises de cinquante salariés et plus
-                               (Article L442-1)
-                           
-                        
+                         (Articles L441-1 à L441-7)
                      
                   
                   
@@ -1646,7 +1635,7 @@
                         
                            
                               Section 1 : Régime obligatoire dans les entreprises de cinquante salariés et plus
-                               (Articles L442-2 à L442-14)
+                               (Articles L442-1 à L442-14)
                            
                         
                         
@@ -1666,19 +1655,13 @@
                   
                      
                         Chapitre III : Plans d'épargne d'entreprise.
-                         (Articles L443-2 à L443-9)
-                     
-                  
-                  
-                     
-                        Chapitre 3 : Plans d'épargne d'entreprise.
-                         (Article L443-1)
+                         (Articles L443-1 à L443-9)
                      
                   
                   
                      
                         Chapitre IV : Dispositions communes
-                         (Articles L444-1 à L444-3)
+                         (Articles L444-1 à L444-7)
                      
                   
                
@@ -1719,7 +1702,7 @@
             
             
                
-                  Titre VII : FONDS SALARIAUX
+                  Titre VII : Fonds salariaux.
                    (Articles L471-1 à L471-3)
                
             
@@ -2409,7 +2392,13 @@
                   
                      
                         Chapitre Ier : Contrat d'apprentissage.
-                         (Article L811-1)
+                         (Articles L811-1 à L811-2)
+                     
+                  
+                  
+                     
+                        Chapitre II : Contrat de travail
+                         (Article L812-1)
                      
                   
                   
@@ -2475,7 +2464,25 @@
                         
                            
                               Section 5 : Aide à la création d'entreprise
-                               (Article L832-5)
+                               (Articles L832-5 à L832-6)
+                           
+                        
+                        
+                           
+                              Section 6 : Aide à la création d'emploi
+                               (Articles L832-7 à L832-8)
+                           
+                        
+                        
+                           
+                              Section 7 : Aide à la réinsertion professionnelle
+                               (Article L832-9)
+                           
+                        
+                        
+                           
+                              Section 8 : Dispositions régissant l'emploi de certaines catégories de travailleurs
+                               (Article L832-10)
                            
                         
                      
@@ -2794,7 +2801,7 @@
                                     
                                        
                                           Paragraphe 4 : De l'organisation financière des centres et des sections d'apprentissage.
-                                           (Articles R116-15 à R116-17)
+                                           (Articles R116-16 à R116-17)
                                        
                                     
                                  
@@ -2939,6 +2946,12 @@
                                  
                                     Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'apprentissage.
                                      (Articles R116-9 à R116-14-1)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 4 : De l'organisation financière des centres et des sections d'apprentissage
+                                     (Article R116-15)
                                  
                               
                            
@@ -3511,7 +3524,18 @@
                   
                      
                         Chapitre Ier : Age d'admission.
-                         (Articles R211-1 à R211-13)
+                        
+                           
+                              Section 1 : Dispositions générales.
+                               (Article R211-1)
+                           
+                        
+                        
+                           
+                              Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes - Emploi des enfants comme mannequins et dans la publicité et la mode.
+                               (Articles R211-2 à R211-13)
+                           
+                        
                      
                   
                   
@@ -3771,8 +3795,8 @@
                               
                               
                                  
-                                    Sous-section 6 : Règles particulières de prévention du risque cancérogène
-                                     (Articles R231-56 à R231-56-11)
+                                    Sous-section 6 : Règles particulières de prévention à prendre contre les risques d'exposition aux agents cancérogènes, mutagènes ou toxiques pour la reproduction
+                                     (Articles R231-56 à R231-56-12)
                                  
                               
                               
@@ -3783,8 +3807,14 @@
                               
                               
                                  
-                                    Sous-section 8 : Mesures d'application.
-                                     (Articles R231-58 à R231-58-2)
+                                    Sous-section 8 : Dispositions spécifiques à certains agents chimiques dangereux
+                                     (Articles R231-58 à R231-58-3)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 9 : Mesures d'application.
+                                     (Articles R231-59 à R231-59-2)
                                  
                               
                            
@@ -4759,7 +4789,7 @@
                               
                                  
                                     Paragraphe 1 : Dispositions générales
-                                     (Article R261-1)
+                                     (Articles R261-1 à R261-1-1)
                                  
                               
                            
@@ -6968,7 +6998,13 @@
                   
                      
                         Section 9 : De la participation des chefs d'exploitation ou d'entreprises agricoles au développement de la formation professionnelle continue
-                         (Articles R953-10 à R953-12)
+                         (Articles R953-10 à R953-14)
+                     
+                  
+                  
+                     
+                        Section 10 : De la participation des travailleurs indépendants, des chefs d'entreprise de la pêche maritime et des chefs d'entreprise des cultures marines autres que ceux relevant de la section IX au développement de la formation professionnelle continue
+                         (Articles R953-15 à R953-19)
                      
                   
                
@@ -7062,8 +7098,13 @@
                         
                         
                            
-                              Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation
+                              Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation et au fonds national prévu à l'article L. 961-13
                                (Articles R964-17-1 à R964-17-11)
+                           
+                        
+                        
+                           
+                              Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation
                            
                         
                      
@@ -7207,7 +7248,7 @@
                   
                      
                         Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
-                         (Article D118-1)
+                         (Articles D118-1 à D118-3)
                      
                   
                
@@ -7554,7 +7595,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers.
-                               (Articles D341-1 à D341-5-14)
+                               (Articles D341-1 à D341-5-15)
                            
                         
                      
