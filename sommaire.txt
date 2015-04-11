@@ -914,8 +914,37 @@
                   
                   
                      
-                        Chapitre V : Dispositions spéciales applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail.
-                         (Articles L235-1 à L235-8)
+                        Chapitre V : Dispositions particulières applicables aux opérations de bâtiment et de génie civil
+                        
+                           
+                              Section 1 : Principes généraux de prévention
+                               (Article L235-1)
+                           
+                        
+                        
+                           
+                              Section 2 : Prévention et coordination lors des opérations de bâtiment ou de génie civil
+                               (Articles L235-2 à L235-14)
+                           
+                        
+                        
+                           
+                              Section 3 : Intégration de la sécurité dans les ouvrages
+                               (Articles L235-15 à L235-17)
+                           
+                        
+                        
+                           
+                              Section 4 : Travailleurs indépendants
+                               (Article L235-18)
+                           
+                        
+                        
+                           
+                              Section 5 : Construction et aménagement des ouvrages
+                               (Article L235-19)
+                           
+                        
                      
                   
                   
@@ -967,7 +996,7 @@
                   
                      
                         Chapitre III : Hygiène et sécurité.
-                         (Articles L263-1 à L263-11)
+                         (Articles L263-1 à L263-12)
                      
                   
                   
