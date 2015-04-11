@@ -508,7 +508,7 @@
                         
                            
                               SECTION 1 : MODE DE PAIEMENT DU SALAIRE .
-                               (Articles L143-1 à L143-5)
+                               (Articles L143-1 à L143-4)
                            
                         
                         
@@ -790,6 +790,12 @@
             
                
                   Titre II : Repos et congés
+                  
+                     
+                        Chapitre préliminaire : Repos quotidien
+                         (Articles L220-1 à L220-2)
+                     
+                  
                   
                      
                         Chapitre Ier : Repos hebdomadaire.
@@ -2161,7 +2167,7 @@
                   
                      
                         Chapitre II : Marins.
-                         (Articles L742-1 à L742-8)
+                         (Articles L742-1 à L742-11)
                      
                   
                   
@@ -2380,7 +2386,7 @@
             
                
                   Titre préliminaire.
-                   (Article L800-1)
+                   (Articles L800-1 à L800-2)
                
             
             
@@ -2476,6 +2482,17 @@
                      
                         Chapitre III : Garantie de ressources des travailleurs privés d'emploi.
                          (Article L833-1)
+                     
+                  
+               
+            
+            
+               
+                  Titre V : Conflits du travail
+                  
+                     
+                        Chapitre II : Conflits collectifs
+                         (Article L852)
                      
                   
                
@@ -2624,7 +2641,7 @@
                   
                      
                         Chapitre III : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non-salariées
-                         (Articles L953-1 à L953-3)
+                         (Articles L953-1 à L953-4)
                      
                   
                   
@@ -4767,6 +4784,12 @@
                   
                      
                         Chapitre II : Repos et congés
+                        
+                           
+                              Section préliminaire : Repos quotidien
+                               (Article R262)
+                           
+                        
                         
                            
                               Section 1 : Repos hebdomadaire.
@@ -7308,8 +7331,20 @@
                   Titre II : Repos et congés
                   
                      
+                        Chapitre préliminaire : Repos quotidien
+                         (Articles D220-1 à D220-7)
+                     
+                  
+                  
+                     
                         Chapitre III : Congés annuels.
                          (Articles D223-1 à D223-6)
+                     
+                  
+                  
+                     
+                        Chapitre V : Congés non rémunérés
+                         (Article D225-1)
                      
                   
                
@@ -7582,7 +7617,7 @@
                         
                            
                               Chapitre X : Dépenses des conseils de prud'hommes.
-                               (Articles D51-10-1 à D51-10-6)
+                               (Article D51-10-1)
                            
                         
                      
@@ -7967,7 +8002,41 @@
             
                
                   Titre VIII : Des formations professionnelles en alternance.
-                   (Articles D980-1 à D980-11)
+                  
+                     
+                        Chapitre Ier : Contrats d'insertion en alternance
+                        
+                           
+                              Section 1 : Contrat de qualification
+                               (Articles D981-1 à D981-2)
+                           
+                        
+                        
+                           
+                              Section 2 : Contrat d'orientation
+                               (Articles D981-3 à D981-8)
+                           
+                        
+                        
+                           
+                              Section 3 : Contrat d'adaptation
+                               (Articles D981-9 à D981-16)
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions communes au contrat d'orientation et au contrat d'adaptation
+                               (Articles D981-17 à D981-19)
+                           
+                        
+                        
+                           
+                              Section 5 : Dispositions financières
+                               (Articles D981-20 à D981-21)
+                           
+                        
+                     
+                  
                
             
          
