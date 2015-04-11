@@ -269,6 +269,18 @@
                         
                         
                            
+                              Section 4-5 : Règles particulières aux salariés ayant souscrit un engagement à servir dans la réserve de sécurité civile
+                               (Article L122-24-11)
+                           
+                        
+                        
+                           
+                              Section 4-6 : Règles particulières applicables aux salariés participant à des opérations de secours
+                               (Article L122-24-12)
+                           
+                        
+                        
+                           
                               Section 5 : Protection de la maternité et éducation des enfants.
                                (Articles L122-25 à L122-32)
                            
@@ -784,6 +796,12 @@
                                (Articles L212-15-1 à L212-15-4)
                            
                         
+                        
+                           
+                              Section 6 : Journée de solidarité
+                               (Articles L212-16 à L212-17)
+                           
+                        
                      
                   
                   
@@ -1246,22 +1264,6 @@
                            
                               Section 2 : Travail dissimulé.
                                (Articles L324-9 à L324-15)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre IV : Cumuls d'emplois
-                        
-                           
-                              Travail dissimulé
-                              
-                                 
-                                    Section 2 : Travail dissimulé.
-                                     (Articles L324-12 à L324-14)
-                                 
-                              
                            
                         
                      
@@ -3691,7 +3693,7 @@
                               
                                  
                                     Sous-section 3 : Information sur les risques présentés par les produits chimiques
-                                     (Articles R231-53 à R231-53-1)
+                                     (Articles R231-53 à R231-53-4)
                                  
                               
                               
@@ -4573,10 +4575,10 @@
                   
                      
                         Chapitre Ier : Dispositions de droit commun.
-                         (Articles R241-1 à R241-1-7)
+                         (Articles R241-1 à R241-1-8)
                         
                            
-                              Section 1 : Des services médicaux d'entreprise ou d'établissement et des services médicaux communs aux entreprises constituant une unité économique et sociale
+                              Section 1 : Des services de santé au travail d'entreprise ou d'établissement et des services de santé au travail communs aux entreprises constituant une unité économique et sociale
                               
                                  
                                     Sous-section 1 : Dispositions générales.
@@ -4597,7 +4599,7 @@
                               
                               
                                  
-                                    Sous-section 4 : Agrément et contrôle des services médicaux.
+                                    Sous-section 4 : Agrément et contrôle des services de santé au travail.
                                      (Articles R241-7 à R241-9)
                                  
                               
@@ -4622,8 +4624,19 @@
                         
                         
                            
+                              Section 2 : Des services de santé au travail interentreprises
+                              
+                                 
+                                    Sous-section 1 : Organisation et fonctionnement.
+                                     (Article R241-15-1)
+                                 
+                              
+                           
+                        
+                        
+                           
                               Section 3 : Dispositions diverses.
-                               (Articles R241-26 à R241-28)
+                               (Articles R241-26 à R241-28-1)
                            
                         
                         
@@ -4651,6 +4664,17 @@
                                  
                                     Sous-section 4 : Des secouristes.
                                      (Articles R241-39 à R241-40)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 4 : Des personnels des services de santé au travail
+                              
+                                 
+                                    Sous-section 1 : Des médecins du travail.
+                                     (Articles R241-31-2 à R241-32-1)
                                  
                               
                            
@@ -5873,12 +5897,6 @@
                            
                               Section 4 : L'appel.
                                (Articles R517-7 à R517-9)
-                           
-                        
-                        
-                           
-                              Section 5 : Le pourvoi en cassation.
-                               (Article R517-10)
                            
                         
                      
