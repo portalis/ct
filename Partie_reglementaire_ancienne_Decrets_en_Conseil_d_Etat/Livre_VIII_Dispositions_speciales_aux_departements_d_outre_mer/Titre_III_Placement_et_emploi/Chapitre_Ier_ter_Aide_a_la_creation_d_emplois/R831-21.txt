@@ -3,7 +3,7 @@
          - transmettre au représentant de l'Etat les informations sur les effectifs et le développement de l'entreprise dont le contenu et la date de transmission sont fixés par arrêté des ministres chargés de l'emploi et de l'outre-mer ;
          - s'acquitter de ses obligations fiscales et sociales, le cas échéant dans le cadre d'un plan d'apurement ;
          - accroître ses effectifs salariés par rapport à l'effectif de référence.
-         L'effectif de référence est l'effectif moyen de l'année civile précédant celle au cours de laquelle est accordé l'agrément, calculé selon les modalités prévues à l'article L. 421-2, et arrondi à l'entier le plus voisin, à l'exclusion des contrats mentionnés à l'article L. 832-2 du code du travail.
+         L'effectif de référence est l'effectif moyen de l'année civile précédant celle au cours de laquelle est accordé l'agrément, calculé selon les modalités prévues à l'article L. 620-10, et arrondi à l'entier le plus voisin, à l'exclusion des contrats mentionnés à l'article L. 832-2 du code du travail.
          La prime est versée pour chaque emploi supplémentaire créé dans le département ou la collectivité territoriale, en équivalent temps plein, au-delà de l'effectif de référence.
          Les fractions d'emploi ne sont pas prises en compte.
          En cas de réduction ultérieure de l'effectif, le versement des primes correspondant aux plus récentes créations d'emplois est suspendu à due concurrence de cette baisse d'effectif.

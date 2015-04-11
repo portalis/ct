@@ -248,7 +248,7 @@
                         
                            
                               Section 7 : Discriminations
-                               (Articles L122-45 à L122-45-3)
+                               (Articles L122-45 à L122-45-5)
                            
                         
                         
@@ -310,6 +310,12 @@
                      
                         Chapitre VII : GROUPEMENTS D'EMPLOYEURS.
                          (Articles L127-1 à L127-9)
+                     
+                  
+                  
+                     
+                        Chapitre VII bis : Dispositions spécifiques aux groupements d'employeurs composés d'adhérents de droit privé et de collectivités territoriales.
+                         (Articles L127-10 à L127-14)
                      
                   
                   
@@ -663,7 +669,7 @@
                               
                                  
                                     Paragraphe 1 : Horaires individualisés.
-                                     (Article L212-4-1)
+                                     (Articles L212-4-1 à L212-4-1-1)
                                  
                               
                               
@@ -1135,7 +1141,7 @@
                               
                                  
                                     Sous-section 4 : Travail protégé
-                                     (Articles L323-29 à L323-32)
+                                     (Articles L323-30 à L323-32)
                                  
                               
                               
@@ -1144,12 +1150,6 @@
                                      (Article L323-34)
                                  
                               
-                           
-                        
-                        
-                           
-                              Section 3 : Commission départementale des travailleurs handicapés, des mutilés de guerre et assimilés.
-                               (Article L323-35)
                            
                         
                      
@@ -2235,11 +2235,11 @@
       
       
          
-            Livre VIII : Dispositions spéciales aux départements d'outre-mer
+            Livre VIII : Dispositions spéciales à l'outre-mer
             
                
                   Titre préliminaire.
-                   (Articles L800-1 à L800-2)
+                   (Articles L800-1 à L800-7)
                
             
             
@@ -2279,6 +2279,12 @@
             
                
                   Titre II : Réglementation du travail
+                  
+                     
+                        Chapitre Ier : Durée du travail
+                         (Article L821-1)
+                     
+                  
                   
                      
                         Chapitre IV : Médecine du travail
@@ -2350,7 +2356,7 @@
                         
                            
                               Section 8 : Dispositions régissant l'emploi de certaines catégories de travailleurs
-                               (Article L832-10)
+                               (Article L832-11)
                            
                         
                      
@@ -2379,12 +2385,6 @@
                   Titre VIII : Pénalités
                   
                      
-                        Chapitre II : Réglementation du travail.
-                         (Article L882-1)
-                     
-                  
-                  
-                     
                         Chapitre III : Dispositions spéciales à la main-d'oeuvre étrangère
                          (Article L883-1)
                      
@@ -2399,12 +2399,6 @@
             
                
                   (en vigueur jusqu'à la date de publication du décret d'application prévu au 4e alinéa de l'art. L910-1)
-                  
-                     
-                        Titre Ier : Des institutions de la formation professionnelle.
-                         (Article L910-2)
-                     
-                  
                   
                      
                         Titre V : De la participation des employeurs au développement de la formation professionnelle continue
@@ -2478,12 +2472,18 @@
                                (Articles L931-28 à L931-29)
                            
                         
+                        
+                           
+                              Section 5 : Affectation des fonds collectés au titre du congé de formation.
+                               (Article L931-30)
+                           
+                        
                      
                   
                   
                      
                         Chapitre II : Du plan de formation de l'entreprise
-                         (Article L932-1)
+                         (Articles L932-1 à L932-1-1)
                      
                   
                   
@@ -3329,13 +3329,7 @@
                         Chapitre II : Durée du travail
                         
                            
-                              Section 1 : Travail à temps partiel.
-                               (Article R212-1)
-                           
-                        
-                        
-                           
-                              Section 2 : Heures supplémentaires
+                              Section 1 : Heures supplémentaires
                               
                                  
                                     A - Dispositions concernant les dérogations exceptionnelles à la durée du travail.
@@ -3370,13 +3364,13 @@
                         
                         
                            
-                              Section 3 : Travail par équipes successives selon un cycle continu.
+                              Section 2 : Travail par équipes successives selon un cycle continu.
                                (Article R212-13)
                            
                         
                         
                            
-                              Section 4 : Dispositions relatives aux femmes.
+                              Section 3 : Dispositions relatives aux femmes.
                                (Article R212-14)
                            
                         
@@ -4968,8 +4962,14 @@
                         
                         
                            
-                              Section 4 : Insertion des bénéficiaires du revenu minimum d'activité.
-                               (Articles R322-15 à R322-15-3)
+                              Section 4 : Contrats d'accompagnement dans l'emploi et contrats initiative emploi.
+                               (Articles R322-16 à R322-16-3)
+                           
+                        
+                        
+                           
+                              Section 5 : Contrats d'avenir et contrats insertion-revenu minimum d'activité.
+                               (Articles R322-17 à R322-17-13)
                            
                         
                      
@@ -6181,23 +6181,6 @@
                         
                      
                   
-                  
-                     
-                        Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, de blanchiment et apprêts des étoffes
-                        
-                           
-                              Section 1 : Tissage et bobinage.
-                               (Articles R722-1 à R722-8)
-                           
-                        
-                        
-                           
-                              Section 2 : Coupe du velours de coton, teinture, blanchiment et apprêts des étoffes
-                               (Articles R722-9 à R722-11)
-                           
-                        
-                     
-                  
                
             
             
@@ -6474,12 +6457,6 @@
                            
                               Section 1 : Travailleurs à domicile
                                (Article R792-1)
-                           
-                        
-                        
-                           
-                              Section 2 : Moyens de constater les conventions relatives aux salaires en matière de tissage, bobinage, de coupe de velours, de coton, de teinture, blanchiment et apprêts des étoffes
-                               (Article R792-2)
                            
                         
                      
@@ -6922,6 +6899,7 @@
                   
                      
                         Chapitre II : Aide de l'Etat au remplacement de certains salariés en formation
+                         (Article R942-2)
                      
                   
                
@@ -7237,24 +7215,14 @@
                   Titre Ier : Contrats d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
                   
                      
+                        Chapitre VII : Du contrat d'apprentissage.
+                         (Articles D117 à D117-5)
+                     
+                  
+                  
+                     
                         Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
                          (Articles D118-1 à D118-5)
-                     
-                  
-               
-            
-            
-               
-                  Titre Ier : Contrats d'apprentissage
-                  
-                     
-                        Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
-                        
-                           
-                              Chapitre VII : Salaire de l'apprenti.
-                               (Articles D117-1 à D117-5)
-                           
-                        
                      
                   
                
@@ -7310,6 +7278,22 @@
                            
                               Section 2 : Conditions d'agrément des associations et des entreprises de services aux personnes
                                (Articles D129-7 à D129-12)
+                           
+                        
+                     
+                  
+               
+            
+            
+               
+                  Titre III : Conventions et accords collectifs de travail
+                  
+                     
+                        Chapitre II : Nature et validité des conventions et accords collectifs de travail
+                        
+                           
+                              Section 1 : Dispositions communes.
+                               (Articles D132-1 à D132-3)
                            
                         
                      
@@ -7480,7 +7464,7 @@
                   
                      
                         Chapitre II : Fonds national de l'emploi.
-                         (Articles D322-1 à D322-10-8)
+                         (Articles D322-1 à D322-10-11)
                         
                            
                               Section 2 : Insertion des jeunes dans la vie sociale.
@@ -8060,6 +8044,12 @@
                                (Article D910-21)
                            
                         
+                     
+                  
+                  
+                     
+                        Chapitre III : Conseil national de la formation professionnelle tout au long de la vie.
+                         (Articles D913-1 à D913-8)
                      
                   
                

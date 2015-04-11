@@ -192,6 +192,7 @@
 20040626 : Ordonnance n°2004-602 du 24 juin 2004 - art. 8 JORF 26 juin 2004, Ordonnance n°2004-602 du 24 juin 2004 - art. 1 JORF 26 juin 2004, Ordonnance n°2004-602 du 24 juin 2004 - art. 6 JORF 26 juin 2004
 20040822 : Décret n°2004-836 du 20 août 2004 - art. 39 JORF 22 août 2004
 20050119 : Loi n°2005-32 du 18 janvier 2005 - art. 16 (V) JORF 19 janvier 2005, Loi n°2005-32 du 18 janvier 2005 - art. 4 (V) JORF 19 janvier 2005
+20050212 : Loi n°2005-102 du 11 février 2005 - art. 70
 20050318 : Décret n°2005-239 du 14 mars 2005 - art. 4 JORF 18 mars 2005, Décret n°2005-239 du 14 mars 2005 - art. 3 JORF 18 mars 2005
 20051221 : Décret 85-1353 1985-12-17 art. 1 JORF 21 décembre 2005
 20060101 : Décret n°2006-152 du 13 février 2006 - art. 4 JORF 14 février 2006 en vigueur le 1er janvier 2006
@@ -204,3 +205,4 @@
 20080214 : LOI n°2008-126 du 13 février 2008 - art. 5 (V)
 20080301 : Loi 73-1195 1973-12-27 JORF 30 décembre 1973 en vigueur le 29 septembre 1974) A(Ordonnance 2007-329 2007-03-12 art. 12 I JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008, LOI 73-1195 1973-12-27 JORF 30 décembre 1973 en vigueur le 29 septembre 1974) A(Ordonnance 2007-329 2007-03-12 art. 12 I JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008, Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (VD) JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
 20080308 : Décret n°2008-244 du 7 mars 2008 - art. 10 (V), Décret n°2008-244 du 7 mars 2008 - art. 9 (V), Décret n°2008-244 du 7 mars 2008 - art. 9 v. init.
+20080417 : LOI n°2008-351 du 16 avril 2008 - art. 1 (V)
