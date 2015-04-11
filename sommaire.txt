@@ -296,6 +296,12 @@
                   
                   
                      
+                        Chapitre IV bis : Travail à temps partagé
+                         (Articles L124-24 à L124-32)
+                     
+                  
+                  
+                     
                         Chapitre V : Marchandage.
                          (Articles L125-1 à L125-4)
                      
@@ -327,7 +333,13 @@
                   
                      
                         Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).
-                         (Articles L129-1 à L129-3)
+                         (Articles L129-2 à L129-3)
+                     
+                  
+                  
+                     
+                        Chapitre IX : Services à la personne
+                         (Articles L129-1 à L129-17)
                      
                   
                   
@@ -571,12 +583,6 @@
                            
                               Section 5 : Groupements d'employeurs.
                                (Article L152-5)
-                           
-                        
-                        
-                           
-                              Section 6 : Corruption
-                               (Article L152-6)
                            
                         
                         
@@ -1085,7 +1091,7 @@
                         
                            
                               Section 2 ter : Aides de l'Etat au développement de l'emploi et des compétences
-                               (Article L322-9)
+                               (Articles L322-9 à L322-10)
                            
                         
                         
@@ -1094,12 +1100,6 @@
                                (Article L322-11)
                            
                         
-                     
-                  
-                  
-                     
-                        Chapitre II bis : Dispositions relatives au travail à temps partiel
-                         (Article L322-12)
                      
                   
                   
@@ -1141,7 +1141,7 @@
                               
                                  
                                     Sous-section 4 : Travail protégé
-                                     (Articles L323-30 à L323-32)
+                                     (Articles L323-29 à L323-32)
                                  
                               
                               
@@ -1171,6 +1171,12 @@
                         
                      
                   
+                  
+                     
+                        Chapitre V : Répression du travail illégal.
+                         (Articles L325-1 à L325-6)
+                     
+                  
                
             
             
@@ -1193,7 +1199,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers
-                               (Articles L341-2 à L341-6-5)
+                               (Article L341-2)
                               
                                  
                                     (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -1528,6 +1534,63 @@
                         
                      
                   
+                  
+                     
+                        Chapitre XI : Implication des salariés dans la société européenne et comité de la société européenne
+                        
+                           
+                              Section 1 : Champ d'application
+                               (Article L439-25)
+                           
+                        
+                        
+                           
+                              Section 2 : Groupe spécial de négociation
+                              
+                                 
+                                    Sous-section 1 : Constitution et fonctionnement du groupe spécial de négociation.
+                                     (Articles L439-26 à L439-31)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Dispositions relatives à l'accord négocié au sein du groupe spécial de négociation.
+                                     (Articles L439-32 à L439-33)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions relatives à l'implication des salariés en l'absence d'accord
+                              
+                                 
+                                    Sous-section 1 : Comité de la société européenne.
+                                     (Articles L439-34 à L439-41)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Dispositions relatives à la participation.
+                                     (Article L439-42)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions communes.
+                               (Articles L439-43 à L439-47)
+                           
+                        
+                        
+                           
+                              Section 5 : Dispositions applicables postérieurement à l'immatriculation de la société européenne.
+                               (Articles L439-48 à L439-50)
+                           
+                        
+                     
+                  
                
             
             
@@ -1571,7 +1634,7 @@
                   
                      
                         Chapitre IV : Dispositions communes
-                         (Articles L444-1 à L444-8)
+                         (Articles L444-1 à L444-9)
                      
                   
                
@@ -2101,11 +2164,22 @@
             
             
                
-                  Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles
+                  Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistants maternels, éducateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs
                   
                      
                         Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
-                         (Articles L771-1 à L771-9)
+                         (Article L771-1)
+                     
+                  
+               
+            
+            
+               
+                  Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistants maternels et assistants familiaux
+                  
+                     
+                        Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
+                         (Articles L771-2 à L771-9)
                      
                   
                   
@@ -2116,23 +2190,41 @@
                   
                   
                      
-                        Chapitre III : Assistantes maternelles
+                        Chapitre III : Assistants maternels et assistants familiaux employés par des personnes de droit privé
                         
                            
-                              Section 1 : Dispositions générales.
-                               (Articles L773-1 à L773-7)
-                           
-                        
-                        
-                           
-                              Section 2 : Dispositions spéciales aux personnes employées par des particuliers.
-                               (Articles L773-8 à L773-9)
+                              Section 1 : Dispositions communes.
+                               (Articles L773-1 à L773-6)
                            
                         
                         
                            
-                              Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.
-                               (Articles L773-10 à L773-17)
+                              Section 2 : Dispositions applicables aux assistants maternels.
+                               (Articles L773-7 à L773-11)
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions applicables aux assistants maternels employés par des particuliers.
+                               (Articles L773-12 à L773-16)
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions applicables aux assistants maternels et aux assistants familiaux employés par des personnes morales de droit privé.
+                               (Articles L773-17 à L773-24)
+                           
+                        
+                        
+                           
+                              Section 5 : Dispositions applicables aux assistants maternels employés par des personnes morales de droit privé.
+                               (Article L773-25)
+                           
+                        
+                        
+                           
+                              Section 6 : Dispositions applicables aux assistants familiaux employés par des personnes morales de droit privé.
+                               (Articles L773-26 à L773-29)
                            
                         
                      
@@ -2417,7 +2509,7 @@
       
          
             Livre IX : De la formation professionnelle continue dans le cadre de la formation professionnelle tout au long de la vie.
-             (Articles L900-1 à L900-7)
+             (Articles L900-1 à L900-6)
             
                
                   Titre Ier : Des institutions de la formation professionnelle
@@ -2426,19 +2518,8 @@
             
             
                
-                  Titre II : Des conventions et des contrats de formation professionnelle
-                  
-                     
-                        Chapitre Ier : Des conventions de formation professionnelle.
-                         (Articles L920-1 à L920-9)
-                     
-                  
-                  
-                     
-                        Chapitre II : Des contrats de formation professionnelle.
-                         (Article L920-13)
-                     
-                  
+                  Titre II : Des droits et des obligations des organismes de formation
+                   (Articles L920-1 à L920-13)
                
             
             
@@ -2542,7 +2623,7 @@
                   
                      
                         Chapitre III : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non-salariées
-                         (Articles L953-1 à L953-4)
+                         (Articles L953-1 à L953-5)
                      
                   
                   
@@ -2662,6 +2743,12 @@
                   
                      
                         Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+                        
+                           
+                              B - Dispositions relatives aux organismes collecteurs
+                               (Articles R119-8 à R119-12)
+                           
+                        
                      
                   
                
@@ -2669,12 +2756,6 @@
             
                
                   Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
-                  
-                     
-                        Chapitre V : Généralités
-                         (Article R115-1)
-                     
-                  
                   
                      
                         Chapitre VI : Des centres de formation d'apprentis et des sections d'apprentissage
@@ -2810,7 +2891,7 @@
                         
                            
                               A - Dispositions financières.
-                               (Articles R119-1 à R119-6)
+                               (Articles R119-2 à R119-7)
                            
                         
                         
@@ -2840,6 +2921,21 @@
                            
                               E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
                                (Articles R119-72 à R119-79)
+                           
+                        
+                     
+                  
+                  
+                     
+                        B - Mesures provisoires d'adaptation en matière d'apprentissage
+                        
+                           
+                              Section 1 : Des accords provisoires
+                              
+                                 
+                                    Paragraphe 1 : Dispositions générales.
+                                 
+                              
                            
                         
                      
@@ -2988,8 +3084,8 @@
                         
                         
                            
-                              Section 2 : Dispositions particulières aux groupements d'employeurs ayant pour objet principal de mettre des remplaçants à la disposition des exploitants agricoles et des chefs d'entreprise effectuant des travaux forestiers
-                               (Articles R127-9-1 à R127-9-9)
+                              Section 2 : Dispositions particulières aux groupements d'employeurs ayant pour objet principal de mettre des remplaçants à la disposition des chefs d'exploitations ou d'entreprises mentionnées aux 1° à 4° de l'article L. 722-1 du code rural, des chefs d'entreprises artisanales, industrielles ou commerciales ou des personnes physiques exerçant une profession libérale
+                               (Articles R127-9-1 à R127-9-8)
                            
                         
                      
@@ -3617,7 +3713,7 @@
                               
                                  
                                     Sous-section 8 : Dispositions spécifiques à certains agents chimiques dangereux
-                                     (Articles R231-58 à R231-58-6)
+                                     (Articles R231-58 à R231-58-7)
                                  
                               
                               
@@ -3713,6 +3809,29 @@
                                  
                                     Sous-section 7 : Règles applicables dans des cas d'exposition professionnelles liées à la radioactivité naturelle
                                      (Articles R231-114 à R231-116)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 9 : Prévention du risque d'exposition aux vibrations mécaniques
+                              
+                                 
+                                    Sous-section 1 : Dispositions générales
+                                     (Articles R231-117 à R231-119)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Obligations de l'employeur
+                                     (Articles R231-120 à R231-123)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Surveillance médicale renforcée
+                                     (Article R231-124)
                                  
                               
                            
@@ -4002,7 +4121,7 @@
                               
                                  
                                     Sous-section 8 : Procédure de sauvegarde
-                                     (Articles R233-78 à R233-79-1)
+                                     (Articles R233-78 à R233-79-2)
                                  
                               
                               
@@ -4852,8 +4971,19 @@
                         
                         
                            
-                              Section 3 : Inscription et radiation de la liste des demandeurs d'emploi.
-                               (Articles R311-3-1 à R311-3-10)
+                              Section 3 : Tenues de la liste et accompagnement des demandeurs d'emploi
+                              
+                                 
+                                    Sous-section 1 : Inscription et radiation des demandeurs d'emploi.
+                                     (Articles R311-3-1 à R311-3-10)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Accompagnement des demandeurs d'emploi.
+                                     (Articles R311-3-11 à R311-3-12)
+                                 
+                              
                            
                         
                         
@@ -4872,6 +5002,12 @@
                            
                               Section 6 : Dispositions diverses.
                                (Articles R311-6-1 à R311-6-4)
+                           
+                        
+                        
+                           
+                              Section 7 : Maisons de l'emploi.
+                               (Article R311-7-1)
                            
                         
                      
@@ -4912,7 +5048,7 @@
                   
                      
                         Chapitre Ier : Licenciement pour motif économique.
-                         (Articles R321-1 à R321-16)
+                         (Articles R321-1 à R321-23)
                      
                   
                   
@@ -4946,6 +5082,12 @@
                            
                               Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dans le cadre des accords sur l'emploi
                                (Articles R322-10-1 à R322-10-4)
+                           
+                        
+                        
+                           
+                              Section 2 bis : Soutien à la création ou à la reprise, par contrat d'appui, d'une activité économique
+                               (Article R322-10-5)
                            
                         
                         
@@ -5009,12 +5151,6 @@
                         
                            
                               Section 2 : Travailleurs handicapés
-                              
-                                 
-                                    Sous-section 1 : Dispositions générales.
-                                     (Articles R323-32 à R323-33)
-                                 
-                              
                               
                                  
                                     Sous-section 2 : Préorientation des travailleurs handicapés.
@@ -5146,35 +5282,35 @@
                         
                         
                            
-                              Section 2 : Office des migrations internationales
+                              Section 2 : Agence nationale de l'accueil des étrangers et des migrations
                               
                                  
                                     Paragraphe 1 : Dispositions générales.
-                                     (Articles R341-9 à R341-10)
+                                     (Article R341-9)
                                  
                               
                               
                                  
-                                    Paragraphe 2 : Administration et direction.
-                                     (Articles R341-11 à R341-15)
+                                    Paragraphe 2 : Conseil d'administration.
+                                     (Articles R341-10 à R341-14)
                                  
                               
                               
                                  
-                                    Paragraphe 3 : Attributions du conseil d'administration et du directeur.
-                                     (Articles R341-16 à R341-20)
+                                    Paragraphe 3 : Comité consultatif.
+                                     (Articles R341-15 à R341-16)
                                  
                               
                               
                                  
-                                    Paragraphe 4 : Services administratifs.
-                                     (Articles R341-21 à R341-24)
+                                    Paragraphe 4 : Direction et administration.
+                                     (Articles R341-17 à R341-21)
                                  
                               
                               
                                  
                                     Paragraphe 5 : Dispositions financières et comptables.
-                                     (Articles R341-25 à R341-41)
+                                     (Articles R341-22 à R341-35)
                                  
                               
                            
@@ -6432,6 +6568,17 @@
             
             
                
+                  Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
+                  
+                     
+                        Chapitre III : Situation des personnes bénéficiaires du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique
+                         (Articles R783-1 à R783-3)
+                     
+                  
+               
+            
+            
+               
                   Titre IX : Pénalités
                   
                      
@@ -7215,14 +7362,20 @@
                   Titre Ier : Contrats d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
                   
                      
+                        Chapitre VI : Des centres de formation d'apprentis.
+                         (Article D116-1)
+                     
+                  
+                  
+                     
                         Chapitre VII : Du contrat d'apprentissage.
                          (Articles D117 à D117-5)
                      
                   
                   
                      
-                        Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
-                         (Articles D118-1 à D118-5)
+                        Chapitre VIII : Dispositions financières
+                         (Articles D118 à D118-9)
                      
                   
                
@@ -7270,14 +7423,20 @@
                         Chapitre IX : Services aux personnes
                         
                            
-                              Section 1 : Chèque-service
-                               (Articles D129-1 à D129-6)
+                              Section 1 : Chèque emploi-service universel
+                               (Articles D129-1 à D129-13)
                            
                         
                         
                            
-                              Section 2 : Conditions d'agrément des associations et des entreprises de services aux personnes
-                               (Articles D129-7 à D129-12)
+                              Section 3 : Agence nationale des services à la personne.
+                               (Articles D129-16 à D129-29)
+                           
+                        
+                        
+                           
+                              Section 4 : Aide financière.
+                               (Articles D129-30 à D129-34)
                            
                         
                      
@@ -7479,8 +7638,19 @@
                         
                         
                            
-                              Section 4 : Insertion des bénéficiaires du revenu minimum d'activité.
-                               (Articles D322-22-1 à D322-22-12)
+                              Section 4 : Contrats d'avenir et contrats insertion - revenu minimum d'activité
+                              
+                                 
+                                    Sous-section 1 : Contrats insertion - revenu minimum d'activité.
+                                     (Articles D322-22-1 à D322-22-11)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Contrats d'avenir.
+                                     (Article D322-23)
+                                 
+                              
                            
                         
                      
@@ -7976,8 +8146,8 @@
                   
                   
                      
-                        Chapitre II : Soutien à l'emploi des jeunes en entreprise
-                         (Article D832-1)
+                        Chapitre II : Soutien à l'emploi des jeunes diplômés
+                         (Articles D832-1 à D832-8)
                      
                   
                
