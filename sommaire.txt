@@ -79,7 +79,7 @@
                         
                            
                               Chapitre VI : Des centres de formation d'apprentis.
-                               (Articles L116-1-1 à L116-5)
+                               (Article L116-5)
                            
                         
                         
@@ -94,7 +94,7 @@
                               
                                  
                                     Section 3 : Formation et résolution du contrat.
-                                     (Articles L117-12 à L117-18)
+                                     (Articles L117-13 à L117-18)
                                  
                               
                            
@@ -148,7 +148,7 @@
                         
                            
                               Section 3 : Formation et résolution du contrat
-                               (Articles L117-15 à L117-17)
+                               (Articles L117-12 à L117-17)
                            
                         
                      
@@ -342,7 +342,7 @@
                   
                      
                         Chapitre VII : GROUPEMENTS D'EMPLOYEURS.
-                         (Articles L127-1 à L127-7)
+                         (Articles L127-1 à L127-8)
                      
                   
                   
@@ -733,18 +733,17 @@
                               
                                  
                                     PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
+                                     (Article L212-4-8)
                                  
                               
                               
                                  
                                     Paragraphe 3 : Travail intermittent.
-                                     (Articles L212-4-8 à L212-4-11)
                                  
                               
                               
                                  
                                     Paragraphe 4 : Encouragement à la pratique du sport.
-                                     (Article L212-4-12)
                                  
                               
                            
@@ -776,12 +775,6 @@
                            
                               SECTION 2 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
                                (Articles L213-7 à L213-10)
-                           
-                        
-                        
-                           
-                              Section 3 : Dispositions particulières à la boulangerie.
-                               (Articles L213-11 à L213-12)
                            
                         
                      
@@ -954,6 +947,17 @@
                         Chapitre Ier : Conditions du travail
                         
                            
+                              Emploi des enfants dans les spectacles et professions ambulantes
+                              
+                                 
+                                    Emploi des enfants comme mannequins dans la publicité et la mode
+                                     (Article L261-3)
+                                 
+                              
+                           
+                        
+                        
+                           
                               Emploi des enfants dans les spectacles et professions ambulantes; emploi des enfants comme mannequins dans la publicité et la mode.
                                (Articles L261-1 à L261-6)
                            
@@ -1092,7 +1096,7 @@
                         
                         
                            
-                              Section 3 : Chômage partiel.
+                              Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
                                (Article L322-11)
                            
                         
@@ -1177,7 +1181,7 @@
                               
                                  
                                     Section 1 : Cumuls d'emplois.
-                                     (Articles L324-1 à L324-8)
+                                     (Articles L324-1 à L324-6)
                                  
                               
                               
@@ -1209,7 +1213,6 @@
                   
                      
                         Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
-                         (Article L341-9-1)
                         
                            
                               Section 1 : Travailleurs étrangers
@@ -1272,7 +1275,7 @@
                         
                            
                               Section 6 : Dispositions diverses.
-                               (Articles L351-23 à L351-25)
+                               (Articles L351-23 à L351-26)
                            
                         
                      
@@ -1428,7 +1431,7 @@
                   
                      
                         Chapitre III : Composition et élections.
-                         (Articles L423-1 à L423-18)
+                         (Articles L423-1 à L423-19)
                      
                   
                   
@@ -2238,7 +2241,6 @@
                   
                      
                         Chapitre V : Voyageurs, représentants et placiers.
-                         (Article L795-1)
                      
                   
                   
@@ -2401,7 +2403,7 @@
                   
                      
                         Chapitre Ier : Des conventions de formation professionnelle.
-                         (Articles L920-1 à L920-12)
+                         (Articles L920-1 à L920-11)
                      
                   
                   
@@ -2447,6 +2449,7 @@
                   
                      
                         Chapitre II : Des droits collectifs des salariés.
+                         (Article L932-2)
                      
                   
                   
@@ -2516,7 +2519,7 @@
                   
                      
                         Chapitre Ier : Des aides financières accordées aux stagiaires de formation professionnelle.
-                         (Articles L961-1 à L961-11)
+                         (Articles L961-1 à L961-12)
                      
                   
                   
@@ -2563,19 +2566,19 @@
                               
                                  
                                     Chapitre Ier : Du contrôle de la formation professionnelle continue
-                                     (Articles L991-4 à L991-9)
+                                     (Articles L991-2 à L991-9)
                                  
                               
                               
                                  
                                     Chapitre II : Dispositions diverses.
-                                     (Articles L992-2 à L992-8)
+                                     (Articles L992-1 à L992-8)
                                  
                               
                               
                                  
                                     Chapitre III : Dispositions pénales.
-                                     (Article L993-1)
+                                     (Articles L993-1 à L993-5)
                                  
                               
                            
@@ -2596,19 +2599,7 @@
                               
                                  
                                     Chapitre Ier : Du contr&lt;CB&gt;le de la formation professionnelle continue.
-                                     (Articles L991-1 à L991-8)
-                                 
-                              
-                              
-                                 
-                                    Chapitre II : Dispositions diverses.
-                                     (Article L992-1)
-                                 
-                              
-                              
-                                 
-                                    Chapitre III : Dispositions pénales.
-                                     (Article L993-2)
+                                     (Article L991-1)
                                  
                               
                            
@@ -4663,6 +4654,12 @@
                         Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
                         
                            
+                              Section 1 : Déclaration préalable à l'embauche
+                               (Articles R320-1 à R320-5)
+                           
+                        
+                        
+                           
                               Section 2 : Relevé mensuel des contrats de travail
                                (Article R320-1-1)
                            
@@ -5014,7 +5011,7 @@
                         
                            
                               Section 1 : Déclaration des mouvements de main-d'oeuvre et licenciements pour motif économique.
-                               (Article R362-1)
+                               (Articles R362-1 à R362-1-1)
                            
                         
                         
@@ -6003,6 +6000,12 @@
                            
                               Section 6 : Aide publique aux marins privés d'emploi.
                                (Article R742-38)
+                           
+                        
+                        
+                           
+                              Section 7 : Contrôle de l'embauche des marins
+                               (Article R742-39)
                            
                         
                      
@@ -7589,6 +7592,12 @@
             
                
                   Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
+                  
+                     
+                        Chapitre Ier : Modalités de restitution aux employeurs du versement visé à l'article L. 931-20 du code du travail
+                         (Article D931-1)
+                     
+                  
                   
                      
                         Chapitre II : Des droits collectifs des salariés
