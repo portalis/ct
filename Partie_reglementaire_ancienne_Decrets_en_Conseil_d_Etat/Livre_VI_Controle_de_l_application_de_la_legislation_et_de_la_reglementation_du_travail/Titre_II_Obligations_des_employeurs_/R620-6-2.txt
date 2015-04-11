@@ -12,7 +12,7 @@
          - numéros de téléphone et de télécopie ;
          - numéro de compte bancaire ;
          2. Mentions relatives au salarié :
-         - nom patronymique et prénom ;
+         - nom de famille et prénom ;
          - nom marital ;
          - adresse ;
          - numéro d'immatriculation à la sécurité sociale ;

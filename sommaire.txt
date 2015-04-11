@@ -37,97 +37,11 @@
             Livre Ier : Conventions relatives au travail
             
                
-                  Titre Ier : Contrat d'apprentissage
-                  
-                     
-                        Dispositions applicables aux contrats conclus avant le 1er juillet 1972
-                        
-                           
-                              Chapitre Ier : Etablissement du contrat.
-                               (Articles L111-1 à L111-10)
-                           
-                        
-                        
-                           
-                              Chapitre II : Devoirs des maîtres et des apprentis.
-                               (Articles L112-1 à L112-6)
-                           
-                        
-                        
-                           
-                              Chapitre III : Résiliation et expiration du contrat.
-                               (Articles L113-1 à L113-6)
-                           
-                        
-                        
-                           
-                              Chapitre IV : Apprentissage artisanal.
-                               (Article L114-1)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
-                        
-                           
-                              Chapitre V : Généralités.
-                               (Articles L115-1 à L115-2)
-                           
-                        
-                        
-                           
-                              Chapitre VI : Des centres de formation d'apprentis.
-                               (Article L116-5)
-                           
-                        
-                        
-                           
-                              Chapitre VII : Du contrat d'apprentissage
-                              
-                                 
-                                    Section 2 : Conditions du contrat.
-                                     (Articles L117-3 à L117-10)
-                                 
-                              
-                              
-                                 
-                                    Section 3 : Formation et résolution du contrat.
-                                     (Article L117-14)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Chapitre VII bis : Du statut de l'apprenti.
-                               (Article L117 BIS-2)
-                           
-                        
-                        
-                           
-                              Chapitre VIII : Dispositions financières.
-                               (Articles L118-1-1 à L118-7)
-                           
-                        
-                        
-                           
-                              Chapitre IX : Dispositions diverses.
-                               (Articles L119-1-1 à L119-4)
-                           
-                        
-                     
-                  
-               
-            
-            
-               
                   Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
                   
                      
                         Chapitre V : Généralités.
-                         (Article L115-3)
+                         (Articles L115-1 à L115-3)
                      
                   
                   
@@ -148,7 +62,7 @@
                         
                            
                               Section 2 : Conditions du contrat.
-                               (Articles L117-5-1 à L117-11-1)
+                               (Articles L117-3 à L117-11-1)
                            
                         
                         
@@ -162,13 +76,13 @@
                   
                      
                         Chapitre VII bis : Du statut de l'apprenti.
-                         (Articles L117 BIS-1 à L117 BIS-7)
+                         (Articles L117 BIS-1 à L117 BIS-8)
                      
                   
                   
                      
                         Chapitre VIII : Dispositions financières.
-                         (Articles L118-4 à L118-5)
+                         (Articles L118-1 à L118-7)
                      
                   
                   
@@ -407,13 +321,7 @@
                   
                      
                         Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).
-                         (Articles L129-2 à L129-3)
-                     
-                  
-                  
-                     
-                        Chapitre IX : Services aux personnes
-                         (Article L129-1)
+                         (Articles L129-1 à L129-3)
                      
                   
                   
@@ -461,7 +369,7 @@
                               
                               
                                  
-                                    Sous-section 2 : Négociation annuelle obligatoire.
+                                    Sous-section 2 : Négociation obligatoire.
                                      (Articles L132-27 à L132-29)
                                  
                               
@@ -802,6 +710,12 @@
                                (Articles L212-16 à L212-17)
                            
                         
+                        
+                           
+                              Section 7 : Dispositions particulières relatives à certains salariés du secteur des transports
+                               (Articles L212-18 à L212-19)
+                           
+                        
                      
                   
                   
@@ -819,6 +733,12 @@
                                (Articles L213-7 à L213-10)
                            
                         
+                        
+                           
+                              Section 3 : Dispositions particulières relatives à certains salariés du secteur des transports
+                               (Article L213-11)
+                           
+                        
                      
                   
                
@@ -829,7 +749,7 @@
                   
                      
                         Chapitre préliminaire : Repos quotidien
-                         (Articles L220-1 à L220-2)
+                         (Articles L220-1 à L220-3)
                      
                   
                   
@@ -1073,10 +993,10 @@
                   
                   
                      
-                        Chapitre Ier : Service public du placement
+                        Chapitre Ier : Service public de l'emploi
                         
                            
-                              Section 1 : Organismes qui concourent au service public du placement.
+                              Section 1 : Organismes concourant au service public de l'emploi.
                                (Articles L311-1 à L311-2)
                            
                         
@@ -1100,7 +1020,7 @@
                         
                         
                            
-                              Section 5 : Rôle des collectivités territoriales
+                              Section 5 : Rôle des collectivités territoriales, de leurs groupements et des maisons de l'emploi.
                                (Articles L311-9 à L311-11)
                            
                         
@@ -1115,24 +1035,7 @@
                   
                      
                         Chapitre II : Placement privé
-                        
-                           
-                              Section 1 : Placement gratuit.
-                               (Articles L312-1 à L312-6)
-                           
-                        
-                        
-                           
-                              Section 2 : Placement payant.
-                               (Articles L312-7 à L312-18)
-                           
-                        
-                        
-                           
-                              Section 3 : Dispositions communes
-                               (Articles L312-19 à L312-27)
-                           
-                        
+                         (Articles L312-1 à L312-3)
                      
                   
                
@@ -1142,14 +1045,14 @@
                   Titre II : Emploi
                   
                      
-                        Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
-                         (Articles L320 à L320-1)
+                        Chapitre préliminaire : Gestion de l'emploi et des compétences - Prévention des conséquences des mutations économiques.
+                         (Articles L320 à L320-3)
                      
                   
                   
                      
                         Chapitre Ier : Licenciement pour motif économique.
-                         (Articles L321-1 à L321-15)
+                         (Articles L321-1 à L321-17)
                      
                   
                   
@@ -1290,19 +1193,24 @@
                         
                            
                               Section 1 : Travailleurs étrangers
-                               (Articles L341-2 à L341-8)
+                               (Articles L341-2 à L341-6-5)
                               
                                  
                                     (en vigueur jusqu'au 1er janvier 2007 au plus tard)
-                                     (Articles L341-1 à L341-7-2)
+                                     (Articles L341-1 à L341-8)
                                  
                               
                            
                         
                         
                            
-                              Section 2 : Office des migrations internationales.
-                               (Articles L341-9 à L341-10)
+                              Section 2 : Agence nationale de l'accueil des étrangers et des migrations
+                              
+                                 
+                                    (en vigueur jusqu'au 1er janvier 2007 au plus tard)
+                                     (Articles L341-9 à L341-10)
+                                 
+                              
                            
                         
                      
@@ -1349,7 +1257,7 @@
                         
                            
                               Section 6 : Dispositions diverses.
-                               (Articles L351-23 à L351-26)
+                               (Articles L351-23 à L351-25)
                            
                         
                      
@@ -1364,6 +1272,12 @@
                      
                         Chapitre III : Dispositions particulières.
                          (Articles L353-2 à L353-3)
+                     
+                  
+                  
+                     
+                        Chapitre IV : Aide au retour à l'emploi des travailleurs privés d'emploi
+                         (Article L354-1)
                      
                   
                
@@ -1397,7 +1311,6 @@
                   
                      
                         Chapitre IV : Main-d'oeuvre étrangère
-                         (Articles L364-6 à L364-9)
                         
                            
                               (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -1754,7 +1667,7 @@
                   
                      
                         Chapitre Ier : Attributions et institution des conseils de prud'hommes.
-                         (Articles L511-2 à L511-4)
+                         (Articles L511-1 à L511-4)
                      
                   
                   
@@ -1831,22 +1744,6 @@
                      
                         Chapitre X : Dépenses des conseils de prud'hommes.
                          (Articles L51-10-1 à L51-10-2)
-                     
-                  
-               
-            
-            
-               
-                  Titre Ier : Conflits individuels
-                  
-                     
-                        Conseils de prud'hommes
-                        
-                           
-                              Chapitre Ier : Attributions et institution des conseils de prud'hommes.
-                               (Article L511-1)
-                           
-                        
                      
                   
                
@@ -2240,6 +2137,12 @@
                         
                      
                   
+                  
+                     
+                        Chapitre IV : Educateurs et aides familiaux
+                         (Article L774-1)
+                     
+                  
                
             
             
@@ -2267,6 +2170,12 @@
                      
                         Chapitre IV : Dispositions relatives au conjoint salarié du chef d'entreprise.
                          (Article L784-1)
+                     
+                  
+                  
+                     
+                        Chapitre V : Sportifs professionnels
+                         (Articles L785-1 à L785-3)
                      
                   
                
@@ -2383,6 +2292,12 @@
                   Titre III : Placement et emploi
                   
                      
+                        Chapitre préliminaire : Placement.
+                         (Article L830-1)
+                     
+                  
+                  
+                     
                         Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
                          (Articles L831-1 à L831-2)
                      
@@ -2429,7 +2344,7 @@
                         
                            
                               Section 7 : Aide à la réinsertion professionnelle
-                               (Article L832-9)
+                               (Articles L832-9 à L832-9-1)
                            
                         
                         
@@ -2593,11 +2508,17 @@
             
             
                
-                  Titre IV : De l'aide de l'Etat
+                  Titre IV : De la contribution de l'Etat et des régions
                   
                      
                         Chapitre Ier : De l'aide de l'Etat aux actions de formation professionnelle
-                         (Articles L941 à L941-5)
+                         (Articles L941 à L941-3)
+                     
+                  
+                  
+                     
+                        Chapitre III : De la contribution des régions.
+                         (Articles L943-1 à L943-2)
                      
                   
                
@@ -2691,34 +2612,13 @@
                   
                      
                         Chapitre II : Dispositions diverses.
-                         (Articles L992-1 à L992-7)
+                         (Articles L992-1 à L992-8)
                      
                   
                   
                      
                         Chapitre III : Dispositions pénales.
                          (Articles L993-1 à L993-5)
-                     
-                  
-               
-            
-            
-               
-                  Titre IX : Contrôle de la formation professionnelle continue
-                  
-                     
-                        Dispositions diverses
-                        
-                           
-                              Dispositions pénales
-                              
-                                 
-                                    Chapitre II : Dispositions diverses.
-                                     (Article L992-8)
-                                 
-                              
-                           
-                        
                      
                   
                
@@ -2900,7 +2800,7 @@
                   
                   
                      
-                        Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage
+                        Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et de l'artisanat et des chambres d'agriculture en matière d'apprentissage
                          (Article R118-1)
                      
                   
@@ -4011,6 +3911,12 @@
                                      (Article R233-13-19)
                                  
                               
+                              
+                                 
+                                    Sous-section 6 : Mesures complémentaires relatives à l'exécution de travaux temporaires en hauteur et aux équipements de travail mis à disposition et utilisés à cette fin
+                                     (Articles R233-13-20 à R233-13-37)
+                                 
+                              
                            
                         
                         
@@ -5046,6 +4952,12 @@
                            
                               Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dans le cadre des accords sur l'emploi
                                (Articles R322-10-1 à R322-10-4)
+                           
+                        
+                        
+                           
+                              Section 2 ter : Aides de l'Etat au développement de l'emploi et des compétences.
+                               (Articles R322-10-10 à R322-10-17)
                            
                         
                         
@@ -7010,7 +6922,6 @@
                   
                      
                         Chapitre II : Aide de l'Etat au remplacement de certains salariés en formation
-                         (Articles R942-1 à R942-8)
                      
                   
                
@@ -7021,7 +6932,7 @@
                   
                      
                         Section 1 : Champ d'application de la participation des employeurs au développement de la formation professionnelle continue.
-                         (Articles R950-1 à R950-2)
+                         (Article R950-1)
                      
                   
                   
@@ -7049,7 +6960,7 @@
                         
                            
                               Paragraphe 4 : Dispositions diverses
-                               (Articles R950-14 à R950-17)
+                               (Articles R950-14 à R950-16)
                            
                         
                      
@@ -7080,7 +6991,7 @@
                   
                   
                      
-                        Section 7 : Des conditions de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés
+                        Section 7 : Des conditions de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés au titre du quatrième alinéa de l'article L. 952-1
                          (Articles R952-3 à R952-4)
                      
                   
@@ -7182,24 +7093,25 @@
                         
                            
                               Paragraphe 3 : Dispositions relatives aux fonds d'assurance formation
-                               (Articles R964-2 à R964-15-3)
+                               (Articles R964-2 à R964-15)
                            
                         
                         
                            
-                              Paragraphe 4 : Dispositions relatives aux organismes de mutualisation et au compte unique prévu à l'article 45 de la loi de finances rectificative pour 1986
-                               (Articles R964-16-1 à R964-16-9)
-                           
-                        
-                        
-                           
-                              Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation et au fonds national prévu à l'article L. 961-13
-                               (Articles R964-17-1 à R964-17-11)
+                              Paragraphe 4 : Dispositions relatives aux organismes paritaires agréés au titre des contrats ou des périodes de professionnalisation et du droit individuel à la formation
+                               (Articles R964-16-1 à R964-16-6)
                            
                         
                         
                            
                               Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation
+                               (Articles R964-17-1 à R964-17-3)
+                           
+                        
+                        
+                           
+                              Paragraphe 6 : Dispositions relatives au fonds national prévu à l'article L. 961-13
+                               (Articles R964-18-1 à R964-18-7)
                            
                         
                      
@@ -7273,34 +7185,11 @@
             
             
                
-                  Titre VIII : Des formations professionnelles en alternance
+                  Titre VIII : Des contrats et des périodes de professionnalisation
                   
                      
-                        Chapitre Ier : Contrats d'insertion en alternance
-                        
-                           
-                              Section 1 : Contrat de qualification
-                               (Articles R981-1 à R981-7)
-                           
-                        
-                        
-                           
-                              Section 2 : Contrat d'orientation
-                               (Articles R981-7-1 à R981-9)
-                           
-                        
-                        
-                           
-                              Section 3 : Contrat d'adaptation
-                               (Article R981-9-1)
-                           
-                        
-                        
-                           
-                              Section 4 : Dispositions communes aux contrats d'insertion en alternance
-                               (Articles R981-10 à R981-11)
-                           
-                        
+                        Chapitre Ier : Contrats de professionnalisation
+                         (Articles R981-1 à R981-5)
                      
                   
                
@@ -7547,7 +7436,7 @@
                   
                      
                         Chapitre V : Congés non rémunérés
-                         (Article D225-1)
+                         (Articles D225-1 à D225-2)
                      
                   
                
@@ -8177,6 +8066,12 @@
             
             
                
+                  Titre II : Des conventions et des contrats de formation professionnelle
+                   (Article D920-1)
+               
+            
+            
+               
                   Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
                   
                      
@@ -8188,6 +8083,12 @@
                      
                         Chapitre II : Des droits collectifs des salariés
                          (Articles D932-1 à D932-2)
+                     
+                  
+                  
+                     
+                        Chapitre III : De l'allocation de formation
+                         (Article D933-1)
                      
                   
                
@@ -8206,7 +8107,7 @@
             
             
                
-                  Titre VIII : Des formations professionnelles en alternance.
+                  Titre VIII : Des contrats et des périodes de professionnalisation
                   
                      
                         Chapitre Ier : Contrats d'insertion en alternance
