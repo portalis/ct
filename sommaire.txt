@@ -5212,6 +5212,12 @@
                                (Articles R432-17 à R432-18)
                            
                         
+                        
+                           
+                              Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés
+                               (Article R432-19)
+                           
+                        
                      
                   
                   
@@ -6530,12 +6536,6 @@
                          (Articles R923-1 à R923-3)
                      
                   
-                  
-                     
-                        Chapitre IV : Injonction, mise en demeure et sanctions
-                         (Articles R924-1 à R924-2)
-                     
-                  
                
             
             
@@ -7093,8 +7093,8 @@
                          (Articles D322-1 à D322-7)
                         
                            
-                              Section 3 : Chômage partiel.
-                               (Articles D322-11 à D322-16)
+                              Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
+                               (Articles D322-11 à D322-22)
                            
                         
                      
@@ -7213,7 +7213,6 @@
                         
                            
                               Section 2 : PRIVATION PARTIELLE D'EMPLOI.
-                               (Article D351-3)
                            
                         
                      
