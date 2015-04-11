@@ -878,6 +878,12 @@
                                (Articles L225-20 à L225-27)
                            
                         
+                        
+                           
+                              Section 8 : Congé pour acquisition de la nationalité.
+                               (Article L225-28)
+                           
+                        
                      
                   
                   
@@ -3849,7 +3855,7 @@
                               
                                  
                                     Sous-section 5 : Règles concernant des situations anormales de travail
-                                     (Articles R231-103 à R231-105)
+                                     (Articles R231-103 à R231-105-1)
                                  
                               
                               
@@ -3861,7 +3867,13 @@
                               
                                  
                                     Sous-section 7 : Règles applicables dans des cas d'exposition professionnelles liées à la radioactivité naturelle
-                                     (Articles R231-114 à R231-116)
+                                     (Articles R231-114 à R231-116-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 8 : Règles applicables dans des cas d'expositions professionnelles liées aux sources orphelines.
+                                     (Article R231-116-2)
                                  
                               
                            
@@ -5306,7 +5318,7 @@
             
             
                
-                  Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale
+                  Titre IV : Main d'oeuvre étrangère et détachement transnational de travailleurs
                   
                      
                         Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère
@@ -5408,8 +5420,37 @@
                   
                   
                      
-                        Chapitre II : Protection de la main-d'oeuvre nationale.
-                         (Article R342-1)
+                        Chapitre II : Détachement transnational de travailleurs
+                        
+                           
+                              Section 1 : Dispositions communes
+                               (Articles R342-1 à R342-7)
+                           
+                        
+                        
+                           
+                              Section 2 : Déclaration préalable
+                               (Article R342-8)
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions spécifiques au travail temporaire
+                               (Articles R342-9 à R342-11)
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions spécifiques à certains secteurs d'activité
+                               (Article R342-12)
+                           
+                        
+                        
+                           
+                              Section 5 : Dispositions relatives à la surveillance et au contrôle du travail détaché et à la compétence des conseils de prud'hommes
+                               (Articles R342-13 à R342-14)
+                           
+                        
                      
                   
                
@@ -5510,11 +5551,17 @@
                   
                   
                      
-                        Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
+                        Chapitre IV : Main-d'oeuvre étrangère et détachement transnational de travailleurs
                         
                            
                               Paragraphe 1 : Dispositions spéciales à la main-d'oeuvre étrangère
                                (Article R364-1)
+                           
+                        
+                        
+                           
+                              Paragraphe 2 : Détachement transnational de travailleurs
+                               (Article R364-2)
                            
                         
                      
@@ -7882,7 +7929,7 @@
                         
                            
                               Section 1 : Travailleurs étrangers.
-                               (Articles D341-1 à D341-5-15)
+                               (Articles D341-1 à D341-3)
                            
                         
                      
