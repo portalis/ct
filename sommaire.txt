@@ -5800,7 +5800,7 @@
                   
                      
                         Chapitre III : Plans d'épargne salariale
-                         (Articles R443-1 à R443-14)
+                         (Articles R443-1 à R443-18)
                      
                   
                   
@@ -5809,7 +5809,7 @@
                         
                            
                               Section 1 : Dispositions générales
-                               (Articles R444-1-1 à R444-1-6)
+                               (Articles R444-1-1 à R444-1-7)
                            
                         
                         
@@ -5881,7 +5881,7 @@
                         
                         
                            
-                              Section 2 : Organisation et fonctionnement du secrétariat-greffe.
+                              Section 2 : Organisation et fonctionnement du greffe.
                                (Articles R512-18 à R512-35)
                            
                         
@@ -5902,7 +5902,7 @@
                               
                                  
                                     Paragraphe 3 : Etablissement des listes électorales.
-                                     (Articles R513-11 à R513-30)
+                                     (Articles R513-11 à R513-26)
                                  
                               
                            
@@ -5943,7 +5943,7 @@
                                           
                                              
                                                 II - Vote par correspondance.
-                                                 (Articles R513-77 à R513-89)
+                                                 (Articles R513-85 à R513-89)
                                              
                                           
                                           
@@ -7995,6 +7995,12 @@
                   Titre Ier : Conflits individuels - Conseils de prud'hommes
                   
                      
+                        Chapitre III : Election des conseillers prud'hommes.
+                         (Articles D513-1 à D513-14)
+                     
+                  
+                  
+                     
                         Chapitre IV : Statut des conseillers prud'hommes.
                          (Articles D514-1 à D514-7)
                      
@@ -8498,6 +8504,12 @@
                               
                                  
                                     Paragraphe 1 : Electorat
+                                    
+                                       
+                                          ANNEXE
+                                           (Article Annexe à l'article R513-7)
+                                       
+                                    
                                     
                                        
                                           ANNEXE II TABLEAU DES ACTIVITES RELEVANT DE LA SECTION DU COMMERCE ET DES SERVICES COMMERCIAUX (NAF)
