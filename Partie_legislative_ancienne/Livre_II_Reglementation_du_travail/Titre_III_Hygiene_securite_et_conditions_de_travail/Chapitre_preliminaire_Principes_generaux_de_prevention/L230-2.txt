@@ -1,5 +1,5 @@
 
-         I. - Le chef d'établissement prend les mesures nécessaires pour assurer la sécurité et protéger la santé des travailleurs de l'établissement, y compris les travailleurs temporaires. Ces mesures comprennent des actions de prévention des risques professionnels, d'information et de formation ainsi que la mise en place d'une organisation et de moyens adaptés. Il veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes.
+         I. - Le chef d'établissement prend les mesures nécessaires pour assurer la sécurité et protéger la santé physique et mentale des travailleurs de l'établissement, y compris les travailleurs temporaires. Ces mesures comprennent des actions de prévention des risques professionnels, d'information et de formation ainsi que la mise en place d'une organisation et de moyens adaptés. Il veille à l'adaptation de ces mesures pour tenir compte du changement des circonstances et tendre à l'amélioration des situations existantes.
          Sans préjudice des autres dispositions du présent code, lorsque dans un même lieu de travail les travailleurs de plusieurs entreprises sont présents, les employeurs doivent coopérer à la mise en oeuvre des dispositions relatives à la sécurité, à l'hygiène et à la santé selon des conditions et des modalités définies par décret en Conseil d'Etat.
          II. - Le chef d'établissement met en oeuvre les mesures prévues au I ci-dessus sur la base des principes généraux de prévention suivants :
          a) Eviter les risques ;
@@ -8,7 +8,7 @@
          d) Adapter le travail à l'homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail et de production, en vue notamment de limiter le travail monotone et le travail cadencé et de réduire les effets de ceux-ci sur la santé ;
          e) Tenir compte de l'état d'évolution de la technique ;
          f) Remplacer ce qui est dangereux par ce qui n'est pas dangereux ou par ce qui est moins dangereux ;
-         g) Planifier la prévention en y intégrant, dans un ensemble cohérent, la technique, l'organisation du travail, les conditions de travail, les relations sociales et l'influence des facteurs ambiants ;
+         g) Planifier la prévention en y intégrant, dans un ensemble cohérent, la technique, l'organisation du travail, les conditions de travail, les relations sociales et l'influence des facteurs ambiants, notamment en ce qui concerne les risques liés au harcèlement moral, tel qu'il est défini à l'article L. 122-49 ;
          h) Prendre des mesures de protection collective en leur donnant la priorité sur les mesures de protection individuelle ;
          i) Donner les instructions appropriées aux travailleurs.
          III. - Sans préjudice des autres dispositions du présent code, le chef d'établissement doit, compte tenu de la nature des activités de l'établissement :

@@ -94,7 +94,7 @@
                               
                                  
                                     Section 3 : Formation et résolution du contrat.
-                                     (Articles L117-13 à L117-18)
+                                     (Articles L117-13 à L117-14)
                                  
                               
                            
@@ -142,13 +142,13 @@
                         
                            
                               Section 2 : Conditions du contrat.
-                               (Articles L117-6 à L117-11-1)
+                               (Articles L117-5-1 à L117-11-1)
                            
                         
                         
                            
                               Section 3 : Formation et résolution du contrat
-                               (Articles L117-12 à L117-17)
+                               (Articles L117-12 à L117-18)
                            
                         
                      
@@ -179,7 +179,7 @@
                   
                      
                         Chapitre préliminaire.
-                         (Articles L120-1 à L120-3)
+                         (Articles L120-1 à L120-4)
                      
                   
                   
@@ -194,7 +194,18 @@
                         
                            
                               SECTION 1 : CONTRAT A DUREE DETERMINEE.
-                               (Articles L122-1 à L122-3-17)
+                              
+                                 
+                                    Sous-section 1 : Règles générales
+                                     (Articles L122-1 à L122-3-17-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Le contrat vendanges
+                                     (Articles L122-3-18 à L122-3-20)
+                                 
+                              
                            
                         
                         
@@ -228,7 +239,7 @@
                         
                         
                            
-                              Section 4-1 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.
+                              Section 4-1 : Règles particulières aux salariés candidats ou élus à un mandat parlementaire ou local
                                (Articles L122-24-1 à L122-24-3)
                            
                         
@@ -297,9 +308,21 @@
                               
                                  
                                     Sous-section 2 : Protection des salariés et droit disciplinaire.
-                                     (Articles L122-40 à L122-48)
+                                     (Articles L122-40 à L122-44)
                                  
                               
+                           
+                        
+                        
+                           
+                              Section 7 : Discriminations
+                               (Articles L122-45 à L122-45-3)
+                           
+                        
+                        
+                           
+                              Section 8 : Harcèlement
+                               (Articles L122-46 à L122-54)
                            
                         
                      
@@ -334,7 +357,7 @@
                         
                            
                               Section 4 : Dispositions diverses.
-                               (Articles L124-14 à L124-22)
+                               (Articles L124-14 à L124-23)
                            
                         
                      
@@ -361,6 +384,12 @@
                      
                         Chapitre IX : Services aux personnes
                          (Articles L129-1 à L129-3)
+                     
+                  
+                  
+                     
+                        Chapitre X : Dispositions diverses relatives au développement social urbain
+                         (Article L12-10-1)
                      
                   
                
@@ -577,33 +606,17 @@
                         Chapitre II : Contrat de travail
                         
                            
-                              Section 1 : Contrat de travail
-                              
-                                 
-                                    Règlement intérieur
-                                    
-                                       
-                                          Sous-section 1 : Contrat de travail.
-                                           (Articles L152-1 à L152-1-4)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Règlement intérieur.
-                                           (Article L152-1-5)
-                                       
-                                    
-                                 
-                              
-                           
-                        
-                        
-                           
                               Section 1 : Contrat de travail - Règlement intérieur
                               
                                  
                                     Sous-section 1 : Contrat de travail.
-                                     (Article L152-1-3)
+                                     (Articles L152-1 à L152-1-4)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Règlement intérieur.
+                                     (Article L152-1-5)
                                  
                               
                            
@@ -636,6 +649,12 @@
                            
                               Section 6 : Corruption
                                (Article L152-6)
+                           
+                        
+                        
+                           
+                              Section 7 : Violation des secrets de fabrique
+                               (Article L152-7)
                            
                         
                      
@@ -929,7 +948,7 @@
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Articles L231-1 à L231-12)
+                         (Articles L231-1 à L231-13)
                      
                   
                   
@@ -995,7 +1014,7 @@
             
             
                
-                  Titre IV : Médecine du travail.
+                  Titre IV : Services de santé au travail.
                    (Articles L241-1 à L241-11)
                
             
@@ -1018,11 +1037,17 @@
                               
                                  
                                     Emploi des enfants comme mannequins dans la publicité et la mode
-                                     (Articles L261-1 à L261-6)
+                                     (Articles L261-2 à L261-4)
                                  
                               
                            
                         
+                     
+                  
+                  
+                     
+                        Chapitre Ier : Conditions du travail - Emploi des enfants dans les spectacles et professions ambulantes - Emploi des enfants comme mannequins dans la publicité et la mode
+                         (Articles L261-1 à L261-6)
                      
                   
                   
@@ -1202,7 +1227,7 @@
                               
                                  
                                     Sous-section 4 : Travail protégé
-                                     (Articles L323-29 à L323-33)
+                                     (Articles L323-29 à L323-32)
                                  
                               
                               
@@ -1253,7 +1278,7 @@
                               
                                  
                                     Section 2 : Travail dissimulé.
-                                     (Articles L324-11-2 à L324-14)
+                                     (Articles L324-12 à L324-14)
                                  
                               
                            
@@ -1374,17 +1399,6 @@
                         Chapitre II : Emploi
                         
                            
-                              Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs
-                              
-                                 
-                                    Travailleurs handicapés.
-                                     (Article L362-2)
-                                 
-                              
-                           
-                        
-                        
-                           
                               Section 1 : Dispositions régissant l'emploi de certaines catégories de travailleurs - Travailleurs handicapés.
                                (Article L362-1)
                            
@@ -1400,11 +1414,11 @@
                   
                      
                         Chapitre IV : Main-d'oeuvre étrangère
-                         (Articles L364-1 à L364-10)
+                         (Articles L364-3 à L364-10)
                         
                            
                               (en vigueur jusqu'au 1er janvier 2007 au plus tard)
-                               (Articles L364-7 à L364-11)
+                               (Articles L364-1 à L364-11)
                            
                         
                      
@@ -1757,7 +1771,7 @@
                   
                      
                         Chapitre Ier : Attributions et institution des conseils de prud'hommes.
-                         (Articles L511-2 à L511-3)
+                         (Articles L511-2 à L511-4)
                      
                   
                   
@@ -1772,7 +1786,7 @@
                         
                            
                               Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
-                               (Articles L513-5 à L513-9)
+                               (Articles L513-4 à L513-9)
                            
                         
                      
@@ -1818,13 +1832,7 @@
                         
                            
                               Chapitre Ier : Attributions et institution des conseils de prud'hommes.
-                               (Articles L511-1 à L511-4)
-                           
-                        
-                        
-                           
-                              Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
-                               (Articles L512-2 à L512-13)
+                               (Article L511-1)
                            
                         
                         
@@ -1832,7 +1840,7 @@
                               Chapitre III : Election des conseillers prud'hommes
                               
                                  
-                                    Section 1 : Electorat, éligibilité et établissement des listes électorales
+                                    Section 1 : Electorat, éligibilité et établissement des listes électorales et des listes de candidatures
                                     
                                        
                                           Paragraphe 1 : Electorat.
@@ -1851,12 +1859,18 @@
                                            (Article L513-3)
                                        
                                     
+                                    
+                                       
+                                          Paragraphe 4 : Etablissement des listes de candidatures
+                                           (Article L513-3-1)
+                                       
+                                    
                                  
                               
                               
                                  
                                     Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
-                                     (Articles L513-4 à L513-10)
+                                     (Articles L513-6 à L513-11)
                                  
                               
                            
@@ -1864,7 +1878,7 @@
                         
                            
                               Chapitre IV : Statut des conseillers prud'hommes.
-                               (Articles L514-2 à L514-14)
+                               (Article L514-2)
                            
                         
                      
@@ -1951,17 +1965,7 @@
                   
                      
                         CHAPITRE Ier : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-                     
-                  
-                  
-                     
-                        Chapitre Ier : Conflits individuels
-                        
-                           
-                              Conseils de prud'hommes
-                               (Article L531-1)
-                           
-                        
+                         (Article L531-1)
                      
                   
                   
@@ -2423,6 +2427,12 @@
             
                
                   Titre II : Réglementation du travail
+                  
+                     
+                        Chapitre IV : Médecine du travail
+                         (Article L824-1)
+                     
+                  
                
             
             
@@ -2532,12 +2542,18 @@
             
                
                   Titre Ier : Des institutions de la formation professionnelle.
-                   (Articles L910-1 à L910-3)
+                   (Article L910-1)
                
             
             
                
                   (en vigueur jusqu'à la date de publication du décret d'application prévu au 4e alinéa de l'art. L910-1)
+                  
+                     
+                        Titre Ier : Des institutions de la formation professionnelle.
+                         (Article L910-2)
+                     
+                  
                   
                      
                         Titre V : De la participation des employeurs au développement de la formation professionnelle continue
@@ -2610,6 +2626,12 @@
                      
                         Chapitre III : Des droits collectifs des salariés.
                          (Articles L933-1 à L933-6)
+                     
+                  
+                  
+                     
+                        Chapitre IV : De la validation des acquis de l'expérience
+                         (Article L934-1)
                      
                   
                
@@ -2795,7 +2817,7 @@
                                     
                                        
                                           Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'apprentissage.
-                                           (Articles R116-11 à R116-12)
+                                           (Article R116-11)
                                        
                                     
                                     
@@ -2838,7 +2860,7 @@
                               
                                  
                                     Paragraphe 2 : De la durée de l'apprentissage.
-                                     (Articles R117-6 à R117-7-3)
+                                     (Articles R117-6 à R117-6-1)
                                  
                               
                               
@@ -2901,18 +2923,7 @@
                               
                                  
                                     C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
-                                     (Articles R119-32 à R119-41)
-                                 
-                              
-                              
-                                 
-                                    D - Inspection de l'apprentissage
-                                    
-                                       
-                                          Dispositions générales.
-                                           (Articles R119-48 à R119-61)
-                                       
-                                    
+                                     (Articles R119-33-1 à R119-41)
                                  
                               
                            
@@ -3047,7 +3058,7 @@
                         
                            
                               C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
-                               (Articles R119-33 à R119-45)
+                               (Articles R119-32 à R119-45)
                            
                         
                         
@@ -3056,7 +3067,7 @@
                               
                                  
                                     Dispositions générales.
-                                     (Articles R119-49 à R119-60)
+                                     (Articles R119-48 à R119-61)
                                  
                               
                               
@@ -3245,7 +3256,18 @@
                   
                      
                         Chapitre III : Extension des conventions collectives
-                         (Articles R133-1 à R133-4)
+                        
+                           
+                              Section 1 : Conventions et accords susceptibles d'être étendus
+                               (Article R133)
+                           
+                        
+                        
+                           
+                              Section 2 : Procédures d'extension et d'élargissement.
+                               (Articles R133-1 à R133-5)
+                           
+                        
                      
                   
                   
@@ -3693,6 +3715,12 @@
             
                
                   Titre III : Hygiène et sécurité
+                  
+                     
+                        Chapitre préliminaire : Principes de prévention
+                         (Article R230-1)
+                     
+                  
                   
                      
                         Chapitre Ier : Dispositions générales
@@ -5076,7 +5104,7 @@
                               
                                  
                                     Sous-section 1 : Dispositions générales.
-                                     (Article R323-32)
+                                     (Articles R323-32 à R323-33)
                                  
                               
                               
@@ -5277,7 +5305,7 @@
                               
                                  
                                     Sous-section 2 : Régime de solidarité.
-                                     (Articles R351-6 à R351-19)
+                                     (Articles R351-6 à R351-19-1)
                                  
                               
                               
@@ -5303,7 +5331,7 @@
                         
                            
                               Section 2 : Privation partielle d'emploi.
-                               (Articles R351-50 à R351-53)
+                               (Articles R351-50 à R351-55)
                            
                         
                      
@@ -5398,7 +5426,7 @@
                         
                            
                               Section 3 : Délégués syndicaux.
-                               (Articles R412-1 à R412-6)
+                               (Articles R412-1 à R412-7)
                            
                         
                      
@@ -5410,6 +5438,12 @@
                   Titre II : Les délégués du personnel
                   
                      
+                        Chapitre Ier : Champ d'application.
+                         (Article R421-1)
+                     
+                  
+                  
+                     
                         Chapitre II : Attributions et pouvoirs.
                          (Articles R422-1 à R422-3)
                      
@@ -5417,7 +5451,7 @@
                   
                      
                         Chapitre III : Composition et élections.
-                         (Articles R423-1 à R423-4)
+                         (Articles R423-1 à R423-5)
                      
                   
                   
@@ -5437,7 +5471,7 @@
                         
                            
                               Section 1 : Personnalité civile.
-                               (Article R432-1)
+                               (Articles R431 à R432-1)
                            
                         
                         
@@ -5481,7 +5515,7 @@
                   
                      
                         Chapitre III : Composition et élections.
-                         (Articles R433-1 à R433-4)
+                         (Articles R433-1 à R433-5)
                      
                   
                   
@@ -5493,7 +5527,7 @@
                   
                      
                         Chapitre V : Comités d'établissement et comité central d'entreprise.
-                         (Article R435-1)
+                         (Articles R435-1 à R435-2)
                      
                   
                   
@@ -5511,14 +5545,14 @@
                   
                      
                         Chapitre IX : Comité de groupe.
-                         (Articles R439-1 à R439-2)
+                         (Articles R439-1 à R439-3)
                      
                   
                
             
             
                
-                  Titre IV : Intéressement et participation
+                  Titre IV : Intéressement, participation et plans d'épargne
                   
                      
                         Chapitre Ier : Intéressement des salariés à l'entreprise
@@ -5572,15 +5606,15 @@
                         
                            
                               Section 4 : Dispositions particulières aux sociétés coopératives ouvrières de production
-                               (Articles R442-27 à R442-30)
+                               (Articles R442-28 à R442-29)
                            
                         
                      
                   
                   
                      
-                        Chapitre III : Plans d'épargne d'entreprise
-                         (Articles R443-1 à R443-11)
+                        Chapitre III : Plans d'épargne salariale
+                         (Articles R443-1 à R443-13)
                      
                   
                   
@@ -5589,7 +5623,7 @@
                         
                            
                               Section 1 : Dispositions générales
-                               (Articles R444-1-1 à R444-1-2)
+                               (Articles R444-1-1 à R444-1-6)
                            
                         
                         
@@ -5696,7 +5730,7 @@
                                     
                                        
                                           Paragraphe 1 : Déclarations de candidature.
-                                           (Articles R513-31 à R513-38)
+                                           (Articles R513-31 à R513-38-2)
                                        
                                     
                                     
@@ -5737,7 +5771,7 @@
                                     
                                        
                                           Paragraphe 5 : Contentieux.
-                                           (Articles R513-108 à R513-115)
+                                           (Articles R513-107-2 à R513-114)
                                        
                                     
                                  
@@ -5751,7 +5785,7 @@
                               
                                  
                                     Sous-section 3 : Elections complémentaires.
-                                     (Articles R513-117 à R513-119)
+                                     (Articles R513-117 à R513-120)
                                  
                               
                            
@@ -6170,6 +6204,23 @@
                         
                      
                   
+                  
+                     
+                        Chapitre III : Industries électriques et gazières
+                        
+                           
+                              Section 1 : Extension des accords professionnels
+                               (Articles R713-1 à R713-3)
+                           
+                        
+                        
+                           
+                              Section 2 : Commission supérieure nationale du personnel des industries électriques et gazières
+                               (Articles R713-4 à R713-6)
+                           
+                        
+                     
+                  
                
             
             
@@ -6572,6 +6623,18 @@
                   Titre Ier : Conventions relatives au travail
                   
                      
+                        Chapitre Ier : Parrainage
+                         (Articles R811-1 à R811-2)
+                     
+                  
+                  
+                     
+                        Chapitre II : Titre de travail simplifié
+                         (Articles R812-1 à R812-13)
+                     
+                  
+                  
+                     
                         Chapitre IV : Salaires
                         
                            
@@ -6727,6 +6790,18 @@
                      
                         Chapitre Ier bis : Dispositions relatives à l'aide à un projet initiative-jeune dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon
                          (Articles R831-10 à R831-19)
+                     
+                  
+                  
+                     
+                        Chapitre Ier ter : Aide à la création d'emplois
+                         (Articles R831-20 à R831-21)
+                     
+                  
+                  
+                     
+                        Chapitre Ier quater : Dispositions relatives à l'aide à la réinsertion professionnelle dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon
+                         (Articles R831-22 à R831-26)
                      
                   
                   
@@ -7197,12 +7272,18 @@
                         
                            
                               Section 2 : Contrat d'orientation
-                               (Articles R981-8 à R981-9)
+                               (Articles R981-7-1 à R981-9)
                            
                         
                         
                            
-                              Section 3 : Dispositions communes aux contrats d'insertion en alternance
+                              Section 3 : Contrat d'adaptation
+                               (Article R981-9-1)
+                           
+                        
+                        
+                           
+                              Section 4 : Dispositions communes aux contrats d'insertion en alternance
                                (Articles R981-10 à R981-11)
                            
                         
@@ -7274,7 +7355,7 @@
                         
                            
                               Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
-                               (Articles D118-2 à D118-4)
+                               (Article D118-4)
                            
                         
                      
@@ -7299,12 +7380,18 @@
                                (Articles D122-1 à D122-24)
                            
                         
+                        
+                           
+                              Section 5 : Protection de la maternité et éducation des enfants
+                               (Article D122-25)
+                           
+                        
                      
                   
                   
                      
                         Chapitre III : Egalité professionnelle entre les femmes et les hommes
-                         (Articles D123-1 à D123-5)
+                         (Articles D123-1 à D123-11)
                      
                   
                   
@@ -7354,22 +7441,6 @@
                            
                               Section 3 : Dispositions spéciales aux salariés agricoles.
                                (Article D141-11)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre Ier : Salaire minimum de croissance
-                        
-                           
-                              Rémunération mensuelle minimale
-                              
-                                 
-                                    Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.
-                                     (Article D141-9)
-                                 
-                              
                            
                         
                      
@@ -7438,6 +7509,12 @@
                            
                               Section 5 : Contrôle de la durée du travail
                                (Articles D212-17 à D212-24)
+                           
+                        
+                        
+                           
+                              Section 6 : Contingent d'heures supplémentaires
+                               (Article D212-25)
                            
                         
                      
@@ -7663,6 +7740,12 @@
                   Titre III : Les comités d'entreprise
                   
                      
+                        Chapitre II : Attributions et pouvoirs
+                         (Article D432-1)
+                     
+                  
+                  
+                     
                         Chapitre V : Comité d'établissement et comité central d'entreprise.
                          (Articles D435-1 à D435-2)
                      
@@ -7709,7 +7792,7 @@
                   
                      
                         Chapitre X : Dépenses des conseils de prud'hommes.
-                         (Articles D51-10-2 à D51-10-9)
+                         (Articles D51-10-1 à D51-10-9)
                      
                   
                
@@ -7730,12 +7813,6 @@
                            
                               Chapitre VII : COMPETENCE DES CONSEILS DE PRUD'HOMMES
                                (Article D517-1)
-                           
-                        
-                        
-                           
-                              Chapitre X : Dépenses des conseils de prud'hommes.
-                               (Article D51-10-1)
                            
                         
                      
@@ -7983,7 +8060,7 @@
                   
                      
                         Chapitre Ier : Apprentissage
-                         (Article D811)
+                         (Articles D811 à D811-1)
                      
                   
                   
@@ -8026,6 +8103,12 @@
                          (Articles D831-2 à D831-4)
                      
                   
+                  
+                     
+                        Chapitre Ier ter : Aide à la création d'emplois
+                         (Article D831-5)
+                     
+                  
                
             
             
@@ -8063,13 +8146,13 @@
                         Chapitre Ier : Attributions, composition et fonctionnement des comités de la formation professionnelle, de la promotion sociale et de l'emploi
                         
                            
-                              Section 1 : Attributions, composition et modalités de fonctionnement des comités régionaux de la formation professionnelle, de la promotion sociale et de l'emploi.
+                              Section 1 : Attributions, composition et modalités de fonctionnement des comités de coordination régionaux de l'emploi et de la formation professionnelle.
                                (Articles D910-1 à D910-6)
                            
                         
                         
                            
-                              Section 2 : Attributions, composition et fonctionnement des comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi.
+                              Section 2 : Attributions, composition et fonctionnement des comités départementaux de l'emploi.
                                (Articles D910-7 à D910-15)
                            
                         
@@ -8080,7 +8163,7 @@
                         Chapitre II : Dispositions spéciales aux régions d'outre-mer
                         
                            
-                              Section 1 : Attributions, composition et fonctionnement des comités régionaux de la formation professionnelle, de la promotion sociale et de l'emploi
+                              Section 1 : Attributions, composition et fonctionnement des comités de coordination régionaux de l'emploi et de la formation professionnelle
                                (Articles D910-16 à D910-21)
                            
                         
