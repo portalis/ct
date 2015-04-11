@@ -240,6 +240,18 @@
                         
                         
                            
+                              Section 4-3 : Dispositions particulières aux personnes exerçant une activité dans la réserve opérationnelle
+                               (Articles L122-24-5 à L122-24-8)
+                           
+                        
+                        
+                           
+                              Section 4-4 : Règles particulières aux personnes ayant souscrit un engagement à servir dans la réserve opérationnelle
+                               (Articles L122-24-9 à L122-24-10)
+                           
+                        
+                        
+                           
                               Section 5 : Protection de la maternité et éducation des enfants.
                                (Articles L122-25 à L122-32)
                            
@@ -347,12 +359,6 @@
                   
                   
                      
-                        Chapitre VIII : Associations intermédiaires.
-                         (Article L128)
-                     
-                  
-                  
-                     
                         Chapitre IX : Services aux personnes
                          (Articles L129-1 à L129-3)
                      
@@ -404,7 +410,7 @@
                         
                         
                            
-                              SECTION 4 : DISPOSITIONS PARTICULIERES AUX ENTREPRISES DE MOINS DE ONZE SALARIES.
+                              Section 4 : Dispositions particulières aux entreprises de moins de cinquante salariés
                                (Article L132-30)
                            
                         
@@ -718,7 +724,7 @@
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles L212-1 à L212-4)
+                               (Articles L212-1 à L212-4 bis)
                            
                         
                         
@@ -733,23 +739,19 @@
                               
                                  
                                     Paragraphe 2 : Travail à temps partiel.
-                                     (Articles L212-4-2 à L212-4-7)
-                                 
-                              
-                              
-                                 
-                                    PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
-                                     (Article L212-4-8)
+                                     (Articles L212-4-2 à L212-4-11)
                                  
                               
                               
                                  
                                     Paragraphe 3 : Travail intermittent.
+                                     (Articles L212-4-12 à L212-4-15)
                                  
                               
                               
                                  
                                     Paragraphe 4 : Encouragement à la pratique du sport.
+                                     (Article L212-4-16)
                                  
                               
                            
@@ -757,13 +759,19 @@
                         
                            
                               SECTION 3 : HEURES SUPPLEMENTAIRES.
-                               (Articles L212-5 à L212-9)
+                               (Articles L212-5 à L212-10)
                            
                         
                         
                            
                               Section 4 : Dispositions relatives aux jeunes travailleurs.
                                (Articles L212-13 à L212-14)
+                           
+                        
+                        
+                           
+                              Section 5 : Dispositions particulières relatives aux cadres
+                               (Articles L212-15-1 à L212-15-4)
                            
                         
                      
@@ -831,7 +839,7 @@
                         
                            
                               Section 2 : Durée du congé.
-                               (Articles L223-2 à L223-8)
+                               (Articles L223-2 à L223-9)
                            
                         
                         
@@ -885,6 +893,12 @@
                            
                               Section 5 : Congé de solidarité internationale
                                (Articles L225-9 à L225-14)
+                           
+                        
+                        
+                           
+                              Section 6 : Congé d'accompagnement d'une personne en fin de vie
+                               (Articles L225-15 à L225-19)
                            
                         
                      
@@ -1207,12 +1221,6 @@
                         
                         
                            
-                              Section 4 : Handicapés sociaux.
-                               (Article L323-35 bis)
-                           
-                        
-                        
-                           
                               Section 5 : Emploi obligatoire des pères de famille.
                                (Articles L323-36 à L323-39)
                            
@@ -1347,7 +1355,7 @@
                   
                      
                         Chapitre III : Dispositions particulières.
-                         (Articles L353-1 à L353-2)
+                         (Articles L353-1 à L353-3)
                      
                   
                
@@ -2091,6 +2099,12 @@
                         
                      
                   
+                  
+                     
+                        Chapitre III : Industries électriques et gazières
+                         (Articles L713-1 à L713-2)
+                     
+                  
                
             
             
@@ -2420,18 +2434,6 @@
             
                
                   Titre II : Réglementation du travail
-                  
-                     
-                        Chapitre Ier : Durée du travail.
-                         (Article L821-1)
-                     
-                  
-                  
-                     
-                        Chapitre II : Services médicaux du travail.
-                         (Articles L822-1 à L822-3)
-                     
-                  
                
             
             
@@ -2519,7 +2521,7 @@
       
          
             Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
-             (Articles L900-1 à L900-6)
+             (Articles L900-1 à L900-7)
             
                
                   Titre Ier : Des institutions de la formation professionnelle.
@@ -2594,7 +2596,7 @@
                   
                      
                         Chapitre II : Du plan de formation de l'entreprise
-                         (Articles L932-1 à L932-2)
+                         (Articles L932-1 à L932-3)
                      
                   
                   
@@ -3993,12 +3995,30 @@
                                      (Articles R233-9 à R233-13)
                                  
                               
+                              
+                                 
+                                    Sous-section 3 : Mesures complémentaires applicables pour l'utilisation des équipements de travail servant au levage de charges
+                                     (Articles R233-13-1 à R233-13-15)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles
+                                     (Articles R233-13-16 à R233-13-18)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 5 : Autorisation de conduite pour l'utilisation de certains équipements de travail mobiles et des équipements de travail servant au levage
+                                     (Article R233-13-19)
+                                 
+                              
                            
                         
                         
                            
                               Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail
-                               (Articles R233-14 à R233-31)
+                               (Articles R233-14 à R233-41)
                            
                         
                         
@@ -4755,7 +4775,7 @@
                               
                               
                                  
-                                    Paragraphe 2 : Travail à temps partiel
+                                    Paragraphe 2 : Travail à temps partiel et travail intermittent
                                      (Article R261-3-1)
                                  
                               
@@ -4769,6 +4789,12 @@
                                  
                                     Paragraphe 4 : Dispositions relatives aux femmes et aux jeunes travailleurs
                                      (Articles R261-5 à R261-6)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 5 : Dispositions relatives aux cadres
+                                     (Article R261-6-1)
                                  
                               
                            
@@ -4957,7 +4983,7 @@
                               
                                  
                                     B - Conventions d'allocation temporaire dégressive, conventions d'allocations spéciales et conventions d'aide au passage à temps partiel
-                                     (Articles R322-6 à R322-7-1)
+                                     (Articles R322-6 à R322-7-2)
                                  
                               
                               
@@ -6657,6 +6683,12 @@
                   Titre III : Placement et emploi
                   
                      
+                        Chapitre préliminaire : Dispositions particulières à la main-d'oeuvre étrangère à Saint-Pierre-et-Miquelon
+                         (Articles R830-1 à R830-5)
+                     
+                  
+                  
+                     
                         Chapitre Ier : Dispositions relatives aux contrats d'accès à l'emploi
                          (Articles R831-1 à R831-9)
                      
@@ -6717,6 +6749,12 @@
                      
                         Chapitre Ier : Conflits individuels - Conseils de prud'hommes.
                          (Articles R851-1 à R851-3)
+                     
+                  
+                  
+                     
+                        Chapitre II : Règlement des conflits collectifs
+                         (Articles R852-1 à R852-9)
                      
                   
                
@@ -6918,7 +6956,7 @@
                   
                      
                         Section 7 : Des conditions de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés
-                         (Articles R952-3 à R952-5)
+                         (Articles R952-3 à R952-4)
                      
                   
                   
@@ -7018,8 +7056,8 @@
                         
                         
                            
-                              Paragraphe 4 : Dispositions relatives aux organismes de mutualisation agréés
-                               (Articles R964-16-1 à R964-16-6)
+                              Paragraphe 4 : Dispositions relatives aux organismes de mutualisation et au compte unique prévu à l'article 45 de la loi de finances rectificative pour 1986
+                               (Articles R964-16-1 à R964-16-9)
                            
                         
                         
@@ -7099,8 +7137,30 @@
             
             
                
-                  Titre VIII : Modalités d'application des articles L. 980-1 à L. 980-5.
-                   (Articles R980-1-1 à R980-8)
+                  Titre VIII : Des formations professionnelles en alternance
+                  
+                     
+                        Chapitre Ier : Contrats d'insertion en alternance
+                        
+                           
+                              Section 1 : Contrat de qualification
+                               (Articles R981-1 à R981-7)
+                           
+                        
+                        
+                           
+                              Section 2 : Contrat d'orientation
+                               (Articles R981-8 à R981-9)
+                           
+                        
+                        
+                           
+                              Section 3 : Dispositions communes aux contrats d'insertion en alternance
+                               (Articles R981-10 à R981-11)
+                           
+                        
+                     
+                  
                
             
             
@@ -7143,6 +7203,17 @@
             Livre Ier : Conventions relatives au travail
             
                
+                  Titre Ier : Contrats d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+                  
+                     
+                        Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
+                         (Article D118-1)
+                     
+                  
+               
+            
+            
+               
                   Titre Ier : Contrats d'apprentissage
                   
                      
@@ -7156,7 +7227,7 @@
                         
                            
                               Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
-                               (Articles D118-1 à D118-4)
+                               (Articles D118-2 à D118-4)
                            
                         
                      
@@ -7332,7 +7403,7 @@
                   
                      
                         Chapitre préliminaire : Repos quotidien
-                         (Articles D220-1 à D220-7)
+                         (Articles D220-1 à D220-8)
                      
                   
                   
@@ -8025,14 +8096,8 @@
                         
                         
                            
-                              Section 4 : Dispositions communes au contrat d'orientation et au contrat d'adaptation
-                               (Articles D981-17 à D981-19)
-                           
-                        
-                        
-                           
-                              Section 5 : Dispositions financières
-                               (Articles D981-20 à D981-21)
+                              Section 4 : Dispositions financières
+                               (Articles D981-17 à D981-18)
                            
                         
                      
