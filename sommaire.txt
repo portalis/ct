@@ -1177,7 +1177,7 @@
                         
                            
                               Section 1 : Cumuls d'emplois.
-                               (Articles L324-1 à L324-6)
+                               (Articles L324-2 à L324-6)
                            
                         
                         
@@ -2634,8 +2634,8 @@
             
             
                
-                  Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.
-                   (Articles L970-1 à L970-5)
+                  Titre VII : Dispositions relatives à la formation professionnelle des agents publics tout au long de la vie.
+                   (Articles L970-1 à L970-6)
                
             
             
@@ -5294,8 +5294,55 @@
                         Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère
                         
                            
-                              Section 1 : Travailleurs étrangers.
-                               (Articles R341-1 à R341-7-2)
+                              Section 1 : Autorisations de travail des salariés non ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'Espace économique européen ou de la Confédération suisse, et des salariés ressortissants d'un Etat membre de l'Union européenne pendant la période d'application des mesures transitoires
+                              
+                                 
+                                    Sous-section 1 : Champ d'application
+                                     (Articles R341-1 à R341-1-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Catégories d'autorisation de travail et activités professionnelles autorisées
+                                     (Articles R341-2 à R341-2-5)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Procédure de demande
+                                     (Articles R341-3 à R341-3-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Délivrance des autorisations de travail
+                                     (Articles R341-4 à R341-4-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 5 : Dispositions particulières applicables aux travailleurs saisonniers, aux étudiants et aux salariés en mission
+                                     (Articles R341-4-2 à R341-4-5)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 6 : Renouvellement
+                                     (Article R341-5)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 7 : Vérification de l'existence des autorisations de travail
+                                     (Articles R341-6 à R341-6-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 8 : Inscription à l'Agence nationale pour l'emploi
+                                     (Articles R341-7 à R341-8)
+                                 
+                              
                            
                         
                         
@@ -5329,6 +5376,12 @@
                                  
                                     Paragraphe 5 : Dispositions financières et comptables.
                                      (Articles R341-22 à R341-35)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 6 : Inscription du privilège
+                                     (Articles R341-36 à R341-40)
                                  
                               
                            
