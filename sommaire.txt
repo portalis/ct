@@ -179,13 +179,13 @@
                   
                      
                         Chapitre préliminaire.
-                         (Article L120-1)
+                         (Articles L120-1 à L120-2)
                      
                   
                   
                      
                         Chapitre Ier : Dispositions générales.
-                         (Articles L121-1 à L121-5)
+                         (Articles L121-1 à L121-8)
                      
                   
                   
@@ -230,6 +230,12 @@
                            
                               Section 4-1 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.
                                (Articles L122-24-1 à L122-24-3)
+                           
+                        
+                        
+                           
+                              Section 4-2 : Règles particulières aux salariés devenus physiquement inaptes à leur emploi
+                               (Article L122-24-4)
                            
                         
                         
@@ -279,7 +285,7 @@
                               
                                  
                                     Sous-section 2 : Protection des salariés et droit disciplinaire.
-                                     (Articles L122-40 à L122-45)
+                                     (Articles L122-40 à L122-48)
                                  
                               
                            
@@ -891,6 +897,12 @@
                   Titre III : Hygiène, sécurité et conditions de travail
                   
                      
+                        Chapitre préliminaire : Principes généraux de prévention
+                         (Articles L230-1 à L230-5)
+                     
+                  
+                  
+                     
                         Chapitre Ier : Dispositions générales.
                          (Articles L231-1 à L231-12)
                      
@@ -1094,6 +1106,12 @@
                   
                   
                      
+                        Chapitre II bis : Dispositions relatives au travail à temps partiel
+                         (Article L322-12)
+                     
+                  
+                  
+                     
                         Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
                         
                            
@@ -1274,7 +1292,7 @@
                   
                      
                         Chapitre III : Dispositions particulières.
-                         (Article L353-1)
+                         (Articles L353-1 à L353-2)
                      
                   
                
@@ -1825,7 +1843,7 @@
                   
                      
                         Chapitre Ier : Inspection du travail.
-                         (Articles L611-1 à L611-15)
+                         (Articles L611-1 à L611-16)
                      
                   
                   
@@ -2026,7 +2044,7 @@
                   
                      
                         Chapitre II : Marins.
-                         (Articles L742-1 à L742-7)
+                         (Articles L742-1 à L742-8)
                      
                   
                   
@@ -2354,7 +2372,7 @@
       
          
             Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
-             (Articles L900-1 à L900-5)
+             (Articles L900-1 à L900-6)
             
                
                   Titre Ier : Des institutions de la formation professionnelle.
@@ -2482,6 +2500,12 @@
                      
                         Chapitre III : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non-salariées
                          (Articles L953-1 à L953-3)
+                     
+                  
+                  
+                     
+                        Chapitre IV : De la contribution des employeurs occupant des salariés intermittents du spectacle
+                         (Article L954)
                      
                   
                
@@ -2949,7 +2973,7 @@
                         
                            
                               Section 2 : Informations à fournir en application des articles L. 124-11 et L. 124-12.
-                               (Article R124-4)
+                               (Articles R124-4 à R124-4-1)
                            
                         
                         
@@ -3333,7 +3357,7 @@
                   
                      
                         Chapitre Ier : Age d'admission.
-                         (Articles R211-1 à R211-12)
+                         (Articles R211-1 à R211-13)
                      
                   
                   
@@ -3478,6 +3502,12 @@
                                (Articles R225-11 à R225-13)
                            
                         
+                        
+                           
+                              Section 4 : Congé de représentation
+                               (Articles R225-14 à R225-21)
+                           
+                        
                      
                   
                
@@ -3554,25 +3584,61 @@
                         
                         
                            
-                              Section 5 : Substances et préparations dangereuses pour les travailleurs
+                              Section 5 : Prévention du risque chimique
                               
                                  
-                                    Sous-section 1 : Réglementation des substances et préparations dangereuses pour les travailleurs.
-                                     (Articles R231-46 à R231-50)
-                                 
-                              
-                              
-                                 
-                                    SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.
-                                     (Articles R231-51 à R231-62)
+                                    Sous-section 1 : Principes de classement des substances et des préparations dangereuses
+                                     (Article R231-51)
                                  
                               
                               
                                  
-                                    Sous-section 3 : Dispositions diverses.
-                                     (Articles R231-63 à R231-65)
+                                    Sous-section 2 : Déclaration des substances et préparations.
+                                     (Articles R231-52 à R231-52-17)
                                  
                               
+                              
+                                 
+                                    Sous-section 3 : Information sur les risques présentés par les produits chimiques
+                                     (Articles R231-53 à R231-53-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Règles générales de prévention du risque chimique
+                                     (Articles R231-54 à R231-54-9)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 5 : Contrôles du risque chimique sur les lieux de travail
+                                     (Articles R231-55 à R231-55-3)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 6 : Règles particulières de prévention du risque cancérogène
+                                     (Articles R231-56 à R231-56-11)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 7 : Dispositions d'urgence
+                                     (Article R231-57)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 8 : Mesures d'application.
+                                     (Articles R231-58 à R231-58-2)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 6 : Manutention des charges
+                               (Articles R231-66 à R231-72)
                            
                         
                      
@@ -3589,12 +3655,6 @@
                                      (Article R232-7-1)
                                  
                               
-                              
-                                 
-                                    Sous-section 4 : Prévention des risques dus au bruit.
-                                     (Article R232-8-7)
-                                 
-                              
                            
                         
                      
@@ -3608,7 +3668,7 @@
                               
                                  
                                     Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail
-                                     (Article R232-1-14)
+                                     (Articles R232-1-11 à R232-1-14)
                                  
                               
                               
@@ -3655,7 +3715,7 @@
                               
                                  
                                     Sous-section 4 : Prévention des risques dus au bruit
-                                     (Articles R232-8 à R232-8-6)
+                                     (Articles R232-8 à R232-8-7)
                                  
                               
                               
@@ -3730,7 +3790,7 @@
                               
                                  
                                     Sous-section 2 : Dispositions générales
-                                     (Article R232-14)
+                                     (Articles R232-14 à R232-14-1)
                                  
                               
                            
@@ -3740,12 +3800,6 @@
                   
                      
                         Chapitre III : Sécurité
-                        
-                           
-                              Section 1 : Objets pesants.
-                               (Article R233-1)
-                           
-                        
                         
                            
                               Section 2 : Machines et appareils dangereux.
@@ -3766,58 +3820,87 @@
                         
                         
                            
-                              Section 6 : Procédures de contrôle des appareils, machines, éléments de machines, protecteurs de machines, dispositifs, équipements et produits de protection
+                              Section 6 : Procédures de certification de conformité
                               
                                  
-                                    Sous-section 1 : Dispositions générales.
-                                     (Articles R233-49 à R233-51-3)
+                                    Sous-section 1 : Dispositions générales
+                                     (Articles R233-49 à R233-50)
                                  
                               
                               
                                  
-                                    Sous-section 2 : Procédures applicables aux matériels et produits neufs soumis à l'homologation et à l'examen de type
-                                     (Articles R233-52 à R233-52-1)
+                                    Sous-section 2 : Organismes habilités
+                                     (Articles R233-51 à R233-52)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Procédures de certification applicables aux équipements de travail et moyens de protection neufs ou considérés comme neufs, mentionnés au premier alinéa de l'article R. 233-49
                                     
                                        
-                                          Homologation par le ministre chargé du travail.
-                                           (Articles R233-53 à R233-55)
+                                          L'autocertification CE
+                                           (Article R233-53)
                                        
                                     
                                     
                                        
-                                          Examen de type.
-                                           (Articles R233-56 à R233-58)
-                                       
-                                    
-                                    
-                                       
-                                          Dispositions communes aux deux procédures susvisées.
-                                           (Articles R233-59 à R233-67)
+                                          L'examen CE de type
+                                           (Articles R233-54 à R233-63)
                                        
                                     
                                  
                               
                               
                                  
-                                    Sous-section 3 : Procédure relative aux matériels neufs et produits soumis uniquement à autocertification.
-                                     (Articles R233-68 à R233-69-2)
+                                    Sous-section 4 : Procédure simplifiée de certification applicable aux machines neuves ou considérées comme neuves visées à l'article R. 233-57
+                                     (Articles R233-64 à R233-65)
                                  
                               
                               
                                  
-                                    Sous-section 4 : Prescriptions applicables aux matériels en service ou usagés.
-                                     (Articles R233-70 à R233-77)
+                                    Sous-section 5 : Procédures complémentaires de certification applicables à certains équipements de protection individuelle neufs ou considérés comme neufs visés à l'article R. 233-83-3
+                                     (Article R233-66)
+                                    
+                                       
+                                          Le système de garantie de qualité CE
+                                           (Articles R233-67 à R233-68-1)
+                                       
+                                    
+                                    
+                                       
+                                          Le système d'assurance qualité CE de la production avec surveillance.
+                                           (Articles R233-69 à R233-72-1)
+                                       
+                                    
                                  
                               
                               
                                  
-                                    Sous-section 5 : Dispositions communes.
-                                     (Articles R233-78 à R233-81-2)
+                                    Sous-section 6 : Formalités obligatoires préalables à la mise sur le marché des équipements de travail et moyens de protection neufs ou considérés comme neufs
+                                     (Articles R233-73 à R233-76-1)
                                  
                               
                               
                                  
-                                    Sous-section 6 : Dispositions diverses.
+                                    Sous-section 7 : Procédure de certification applicable aux équipements de travail et moyens de protection d'occasion mentionnés à la section VII
+                                     (Article R233-77)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 8 : Procédure de sauvegarde
+                                     (Articles R233-78 à R233-79-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 9 : Mesures de contrôle
+                                     (Articles R233-80 à R233-81-2)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 10 : Organismes agréés prévus par les articles L. 233-5-2 et R. 233-80
                                      (Article R233-82)
                                  
                               
@@ -3825,46 +3908,58 @@
                         
                         
                            
-                              Section 7 : Matériels auxquels s'appliquent les dispositions du premier alinéa de l'article L. 233-5
+                              Section 7 : Equipements de travail et moyens de protection soumis aux obligations définies au I de l'article L. 233-5
                               
                                  
-                                    Sous-section 1 : Machines et appareils.
-                                     (Article R233-83)
+                                    Sous-section 1 : Equipements de travail
+                                     (Articles R233-83 à R233-83-1)
                                  
                               
                               
                                  
-                                    Sous-section 2 : Protecteurs de machine, dispositifs, équipements et produits de protection.
-                                     (Article R233-83-1)
+                                    Sous-section 2 : Moyens de protection
+                                     (Articles R233-83-2 à R233-83-4)
                                  
                               
                            
                         
                         
                            
-                              SECTION 8 : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.
-                               (Articles R233-84 à R233-107)
-                           
-                        
-                        
-                           
-                              Section 9 : Règles particulières d'hygiène et de sécurité applicables à certains types ou catégories de matériels
+                              Section 8 : Dispositions applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
                               
                                  
-                                    Sous-section 1 : Machines mobiles agricoles ou forestières.
-                                     (Articles R233-108 à R233-123)
+                                    Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2, neufs ou considérés comme neufs
+                                     (Article R233-84)
                                  
                               
                               
                                  
-                                    Sous-section 2 : Chariots de manutention automoteurs.
-                                     (Articles R233-124 à R233-139)
+                                    Sous-section 2 : Procédures de certification de conformité applicables aux différentes machines neuves ou considérées comme neuves
+                                     (Articles R233-85 à R233-86)
                                  
                               
                               
                                  
-                                    Sous-section 4 : Appareils et machines d'extraction, de terrassement, d'excavation ou de forage du sol.
-                                     (Articles R233-151 à R233-152)
+                                    Sous-section 3 : Procédure de certification de conformité applicable aux accessoires de levage et aux composants d'accessoires de levage neufs ou considérés comme neufs
+                                     (Article R233-87)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Procédure de certification de conformité applicable aux structures de protection neuves ou considérées comme neuves
+                                     (Article R233-88)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 5 : Procédure de certification applicable aux équipements de travail d'occasion visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection d'occasion visés aux 1° et 2° de l'article R. 233-83-2
+                                     (Article R233-89)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 6 : Maintien en état de conformité
+                                     (Article R233-90)
                                  
                               
                            
@@ -3876,6 +3971,35 @@
                                  
                                     Sous-section 1 : Cabines de projection par pulvérisation, cabines et enceintes de séchage de peintures liquides, de vernis, de poudres ou de fibres sèches et cabines mixtes
                                      (Articles R233-140 à R233-150)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 10 : Equipements de protection individuelle
+                              
+                                 
+                                    Sous-section 1 : Règles techniques applicables aux équipements de protection individuelle neufs ou considérés comme neufs
+                                     (Article R233-151)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Procédures de certification de conformité auxquelles sont soumis les équipements de protection individuelle neufs ou considérés comme neufs
+                                     (Articles R233-152 à R233-154)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Dispositions applicables aux équipements de protection individuelle d'occasion
+                                     (Articles R233-155 à R233-156)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Maintien en état de conformité
+                                     (Article R233-157)
                                  
                               
                            
@@ -3927,30 +4051,31 @@
                               
                                  
                                     Sous-section 1 : Eclairage.
-                                     (Articles R235-2 à R235-5)
+                                     (Articles R235-2 à R235-2-3)
                                  
                               
                               
                                  
                                     Sous-section 2 : Aération, assainissement.
-                                     (Articles R235-6 à R235-10)
+                                     (Articles R235-2-4 à R235-2-8)
                                  
                               
                               
                                  
-                                    Sous-section 3 : Insonorisation.
-                                     (Article R235-11)
+                                    Sous-section 3 : Température des locaux.
+                                     (Articles R235-2-9 à R235-2-10)
                                  
                               
                               
                                  
-                                    Sous-section 4 : Installations sanitaires
-                                    
-                                       
-                                          Restauration.
-                                           (Articles R235-12 à R235-13)
-                                       
-                                    
+                                    Sous-section 4 : Insonorisation.
+                                     (Article R235-2-11)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 5 : Installations sanitaires - Restauration.
+                                     (Articles R235-2-12 à R235-2-13)
                                  
                               
                            
@@ -3958,7 +4083,66 @@
                         
                            
                               Section 3 : Règles de sécurité
-                               (Article R235-3-5)
+                               (Articles R235-3 à R235-3-21)
+                           
+                        
+                        
+                           
+                              Section 4 : Prévention des incendies - évacuation
+                              
+                                 
+                                    Sous-section 1 : Dispositions générales
+                                     (Article R235-4)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Dégagements
+                                     (Articles R235-4-1 à R235-4-7)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Désenfumage
+                                     (Article R235-4-8)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 4 : Chauffage des locaux
+                                     (Articles R235-4-9 à R235-4-11)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 5 : Locaux où sont entreposées ou manipulées des matières inflammables
+                                     (Article R235-4-12)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 6 : Bâtiments dont le plancher bas du dernier niveau est situé à plus de 8 mètres du sol
+                                     (Articles R235-4-13 à R235-4-15)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 7 : Moyens de prévention et de lutte contre l'incendie
+                                     (Article R235-4-16)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 8 : Mesures d'application
+                                     (Article R235-4-17)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 5 : Dossier de maintenance des lieux de travail
+                               (Article R235-5)
                            
                         
                      
@@ -3982,6 +4166,69 @@
                            
                               Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
                                (Articles R236-23 à R236-39)
+                           
+                        
+                     
+                  
+                  
+                     
+                        Chapitre VII : Prescriptions particulières d'hygiène et de sécurité applicables aux travaux effectués dans un établissement par une entreprise extérieure
+                        
+                           
+                              Section 1 : Dispositions générales
+                               (Articles R237-1 à R237-4)
+                           
+                        
+                        
+                           
+                              Section 2 : Mesures de prévention préalables à l'exécution d'une opération
+                               (Articles R237-5 à R237-11)
+                           
+                        
+                        
+                           
+                              Section 3 : Mesures de prévention pendant l'exécution des opérations
+                              
+                                 
+                                    Sous-section 1 : Sécurité des salariés
+                                     (Articles R237-12 à R237-15)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Locaux et installations à l'usage des salariés des entreprises extérieures
+                                     (Article R237-16)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Surveillance médicale des salariés
+                                     (Articles R237-17 à R237-21)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 4 : Rôle des institutions représentatives du personnel
+                              
+                                 
+                                    Sous-section 1 : Dispositions communes
+                                     (Articles R237-22 à R237-25)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Dispositions particulières concernant le comité d'hygiène, de sécurité et des conditions de travail de l'entreprise utilisatrice
+                                     (Articles R237-26 à R237-27)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Dispositions particulières concernant le comité d'hygiène, de sécurité et des conditions de travail de l'entreprise extérieure
+                                     (Article R237-28)
+                                 
+                              
                            
                         
                      
@@ -5792,6 +6039,40 @@
                         
                      
                   
+                  
+                     
+                        Chapitre III : Mannequins
+                        
+                           
+                              Section 1 : Règles applicables au contrat de travail liant le mannequin à l'agence et au contrat de mise à disposition conclu entre l'agence de mannequins et l'utilisateur
+                               (Articles R763-1 à R763-3)
+                           
+                        
+                        
+                           
+                              Section 2 : Règles applicables à la garantie financière exigée des agences de mannequins et à la substitution de l'utilisateur à l'agence de mannequins en cas de défaillance de celle-ci
+                              
+                                 
+                                    Sous-section 1 : Garantie financière exigée des agences de mannequins
+                                     (Articles R763-4 à R763-18)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Substitution de l'utilisateur à l'agence de mannequins en cas de défaillance de celle-ci
+                                     (Articles R763-19 à R763-22)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 3 : Règles applicables à la licence d'agence de mannequins
+                               (Articles R763-23 à R763-32)
+                           
+                        
+                     
+                  
                
             
             
@@ -6080,6 +6361,12 @@
             Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente
             
                
+                  Titre préliminaire
+                   (Articles R900-1 à R900-8)
+               
+            
+            
+               
                   Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.
                    (Articles R910-1 à R910-15)
                
@@ -6144,13 +6431,13 @@
                         
                         
                            
-                              Section 2 : Dispositions spéciales au congé de l'article L. 931-14.
+                              Section 2 : Dispositions spéciales au congé de l'article L. 931-29
                                (Articles R931-13 à R931-19)
                            
                         
                         
                            
-                              Section 3 : Dispositions spéciales aux priorités prévues au troisième alinéa de l'article L. 931-8.
+                              Section 3 : Dispositions spéciales aux priorités prévues au troisième alinéa de l'article L. 931-8-2
                                (Articles R931-20 à R931-22)
                            
                         
@@ -6158,6 +6445,12 @@
                            
                               Section 4 : Dispositions spéciales aux priorités prévues au 3e alinéa de l'article L. 931-17
                                (Articles R931-23 à R931-26)
+                           
+                        
+                        
+                           
+                              Section 5 : Dispositions spéciales relatives au congé de bilan de compétences
+                               (Articles R931-27 à R931-33)
                            
                         
                      
@@ -6210,7 +6503,25 @@
                   
                      
                         Section 2 : Dépenses consacrées par les employeurs au développement de la formation professionnelle continue.
-                         (Articles R950-3 à R950-17)
+                         (Article R950-3)
+                        
+                           
+                              Paragraphe 1 : Actions de formation
+                               (Articles R950-4 à R950-13)
+                           
+                        
+                        
+                           
+                              Paragraphe 2 : Bilans de compétences
+                               (Articles R950-13-1 à R950-13-2)
+                           
+                        
+                        
+                           
+                              Paragraphe 3 : Dispositions diverses
+                               (Articles R950-14 à R950-17)
+                           
+                        
                      
                   
                   
@@ -6448,7 +6759,7 @@
                         
                            
                               Chapitre VII : Salaire de l'apprenti.
-                               (Articles D117-1 à D117-4)
+                               (Articles D117-1 à D117-5)
                            
                         
                      
@@ -6582,13 +6893,19 @@
                         
                            
                               Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.
-                               (Articles D212-5 à D212-12)
+                               (Articles D212-5 à D212-11)
                            
                         
                         
                            
                               Section 4 : Durée quotidienne du travail.
-                               (Articles D212-13 à D212-17)
+                               (Articles D212-12 à D212-16)
+                           
+                        
+                        
+                           
+                              Section 5 : Contrôle de la durée du travail
+                               (Articles D212-17 à D212-24)
                            
                         
                      
@@ -7100,17 +7417,17 @@
                   
                   
                      
-                        Chapitre III : Assistantes maternelles
+                        Chapitre III : Assistantes et assistants maternels
                         
                            
                               Section 1 : Dispositions générales.
-                               (Articles D773-1 à D773-2)
+                               (Articles D773-1-1 à D773-1-3)
                            
                         
                         
                            
-                              Section 2 : Dispositions spéciales aux assistantes maternelles employées par des personnes morales de droit privé.
-                               (Articles D773-3 à D773-4)
+                              Section 2 : Dispositions spéciales aux assistantes et assistants maternels employés par des personnes morales de droit privé
+                               (Articles D773-1-4 à D773-1-5)
                            
                         
                      
@@ -7298,6 +7615,119 @@
                                        
                                           Paragraphe 1 : Electorat.
                                            (Article R513-7 annexe 2)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+                  
+               
+            
+         
+      
+      
+         
+            Livre 2 : Réglementation du travail
+            
+               
+                  Titre 3 : Hygiène et sécurité
+                  
+                     
+                        Chapitre 3 : Sécurité
+                        
+                           
+                              Section 8 : Dispositions applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
+                              
+                                 
+                                    Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2, neufs ou considérés comme neufs
+                                    
+                                       
+                                          1. Règles générales applicables aux machines neuves ou considérées comme neuves visées au 1 de l'article R. 233-83
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          2. Règles techniques supplémentaires applicables à certaines catégories de machines neuves ou considérées comme neuves visées au 1° de l'article R. 233-83.
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          3. Règles techniques de prévention des risques liés à la mobilité des machines.
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          4. Règles techniques de prévention des risques liés au levage de charges par les machines, quelle que soit leur énergie motrice.
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          5. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées exclusivement dans des travaux souterrains.
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          6. Règles techniques applicables aux chariots automoteurs de manutention à poste de conduite élevable neufs ou considérés comme neufs.
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          7. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées en atmosphère explosible.
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          8. Règles techniques applicables aux accessoires de levage, composants d'accessoires de levage, chaînes, câbles et sangles de levage à la longueur, neufs ou considérés comme neufs, respectivement visés aux 3°, 4° et 5° de l'article R. 233-83.
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          9. Règles techniques applicables aux structures de protection neuves ou considérées comme neuves visées aux 1° et 2° de l'article R. 233-83-2.
+                                           (Article R233-84 annexe)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Section 10 : Equipements de protection individuelle
+                              
+                                 
+                                    Sous-section 1 : Règles techniques applicables aux équipements de protection individuelle neufs ou considérés comme neufs
+                                    
+                                       
+                                          0. Règle préliminaire.
+                                           (Article R233-151 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          1. Règles générales applicables à tous les équipements de protection individuelle.
+                                           (Article R233-151 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          2. Règles supplémentaires communes à plusieurs genres ou types d'équipements de protection individuelle.
+                                           (Article R233-151 annexe)
+                                       
+                                    
+                                    
+                                       
+                                          3. Règles supplémentaires spécifiques aux risques à prévenir.
+                                           (Article R233-151 annexe)
                                        
                                     
                                  
