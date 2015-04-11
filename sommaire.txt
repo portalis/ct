@@ -382,6 +382,12 @@
                   
                   
                      
+                        Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).
+                         (Article L129-2)
+                     
+                  
+                  
+                     
                         Chapitre IX : Services aux personnes
                          (Articles L129-1 à L129-3)
                      
@@ -916,7 +922,7 @@
                         
                         
                            
-                              Section 6 : Congé d'accompagnement d'une personne en fin de vie
+                              Section 6 : Congé de solidarité familiale
                                (Articles L225-15 à L225-19)
                            
                         
@@ -1420,7 +1426,7 @@
                   
                      
                         Chapitre IV : Main-d'oeuvre étrangère
-                         (Articles L364-3 à L364-10)
+                         (Articles L364-6 à L364-9)
                         
                            
                               (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -7361,7 +7367,7 @@
                   
                      
                         Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
-                         (Articles D118-1 à D118-3)
+                         (Articles D118-1 à D118-5)
                      
                   
                
@@ -7376,12 +7382,6 @@
                            
                               Chapitre VII : Salaire de l'apprenti.
                                (Articles D117-1 à D117-5)
-                           
-                        
-                        
-                           
-                              Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
-                               (Article D118-4)
                            
                         
                      
@@ -7656,7 +7656,7 @@
                               
                                  
                                     Sous-section 1 : Dispositions générales.
-                                     (Articles D323-3-1 à D323-3-16)
+                                     (Articles D323-3-1 à D323-3-13)
                                  
                               
                               
