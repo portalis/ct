@@ -94,7 +94,7 @@
                               
                                  
                                     Section 3 : Formation et résolution du contrat.
-                                     (Articles L117-13 à L117-14)
+                                     (Article L117-14)
                                  
                               
                            
@@ -102,7 +102,7 @@
                         
                            
                               Chapitre VII bis : Du statut de l'apprenti.
-                               (Articles L117 BIS-2 à L117 BIS-3)
+                               (Article L117 BIS-2)
                            
                         
                         
@@ -114,7 +114,7 @@
                         
                            
                               Chapitre IX : Dispositions diverses.
-                               (Articles L119-1-1 à L119-5)
+                               (Articles L119-1-1 à L119-4)
                            
                         
                      
@@ -124,6 +124,12 @@
             
                
                   Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+                  
+                     
+                        Chapitre V : Généralités.
+                         (Article L115-3)
+                     
+                  
                   
                      
                         Chapitre VI : Des centres de formation d'apprentis
@@ -168,7 +174,7 @@
                   
                      
                         Chapitre IX : Dispositions diverses.
-                         (Articles L119-1 à L119-3)
+                         (Articles L119-1 à L119-5)
                      
                   
                
@@ -357,7 +363,7 @@
                         
                            
                               Section 4 : Dispositions diverses.
-                               (Articles L124-14 à L124-23)
+                               (Articles L124-15 à L124-23)
                            
                         
                      
@@ -389,13 +395,13 @@
                   
                      
                         Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).
-                         (Article L129-2)
+                         (Articles L129-2 à L129-3)
                      
                   
                   
                      
                         Chapitre IX : Services aux personnes
-                         (Articles L129-1 à L129-3)
+                         (Article L129-1)
                      
                   
                   
@@ -428,7 +434,7 @@
                         
                            
                               Section 2 : Conventions collectives de branches et accords professionnels et interprofessionnels.
-                               (Articles L132-11 à L132-17)
+                               (Articles L132-11 à L132-17-1)
                            
                         
                         
@@ -451,7 +457,7 @@
                         
                         
                            
-                              Section 4 : Dispositions particulières aux entreprises de moins de cinquante salariés
+                              Section 4 : Commissions paritaires
                                (Article L132-30)
                            
                         
@@ -531,22 +537,6 @@
                      
                         Chapitre II : Heures supplémentaires - Prime de transport - Conversion de certains avantages en nature.
                          (Articles L142-1 à L142-2)
-                     
-                  
-                  
-                     
-                        Chapitre II : Heures supplémentaires
-                        
-                           
-                              Prime de transport
-                              
-                                 
-                                    Conversion de certains avantages en nature.
-                                     (Article L142-5)
-                                 
-                              
-                           
-                        
                      
                   
                   
@@ -1167,6 +1157,12 @@
                         
                         
                            
+                              Section 2 ter : Aides de l'Etat au développement de l'emploi et des compétences
+                               (Article L322-9)
+                           
+                        
+                        
+                           
                               Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
                                (Article L322-11)
                            
@@ -1233,12 +1229,6 @@
                            
                               Section 3 : Commission départementale des travailleurs handicapés, des mutilés de guerre et assimilés.
                                (Article L323-35)
-                           
-                        
-                        
-                           
-                              Section 5 : Emploi obligatoire des pères de famille.
-                               (Articles L323-36 à L323-39)
                            
                         
                      
@@ -1371,7 +1361,7 @@
                   
                      
                         Chapitre III : Dispositions particulières.
-                         (Articles L353-1 à L353-3)
+                         (Articles L353-2 à L353-3)
                      
                   
                
@@ -1502,7 +1492,7 @@
                   
                      
                         Chapitre Ier : Champ d'application.
-                         (Articles L421-1 à L421-3)
+                         (Articles L421-1 à L421-2)
                      
                   
                   
@@ -1543,7 +1533,7 @@
                   
                      
                         Chapitre Ier : Champ d'application.
-                         (Articles L431-1 à L431-8)
+                         (Articles L431-1 à L431-7)
                      
                   
                   
@@ -1666,7 +1656,7 @@
                   
                      
                         Chapitre IV : Dispositions communes
-                         (Articles L444-1 à L444-7)
+                         (Articles L444-1 à L444-8)
                      
                   
                
@@ -1776,8 +1766,37 @@
                         Chapitre III : Election des conseillers prud'hommes
                         
                            
+                              Section 1 : Electorat, éligibilité et établissement des listes électorales et des listes de candidatures
+                              
+                                 
+                                    Paragraphe 1 : Electorat.
+                                     (Article L513-1)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 2 : Eligibilité.
+                                     (Article L513-2)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Etablissement des listes électorales.
+                                     (Article L513-3)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 4 : Etablissement des listes de candidatures
+                                     (Article L513-3-1)
+                                 
+                              
+                           
+                        
+                        
+                           
                               Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
-                               (Articles L513-4 à L513-9)
+                               (Articles L513-4 à L513-11)
                            
                         
                      
@@ -1824,52 +1843,6 @@
                            
                               Chapitre Ier : Attributions et institution des conseils de prud'hommes.
                                (Article L511-1)
-                           
-                        
-                        
-                           
-                              Chapitre III : Election des conseillers prud'hommes
-                              
-                                 
-                                    Section 1 : Electorat, éligibilité et établissement des listes électorales et des listes de candidatures
-                                    
-                                       
-                                          Paragraphe 1 : Electorat.
-                                           (Article L513-1)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 2 : Eligibilité.
-                                           (Article L513-2)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 3 : Etablissement des listes électorales.
-                                           (Article L513-3)
-                                       
-                                    
-                                    
-                                       
-                                          Paragraphe 4 : Etablissement des listes de candidatures
-                                           (Article L513-3-1)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
-                                     (Articles L513-6 à L513-11)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Chapitre IV : Statut des conseillers prud'hommes.
-                               (Article L514-2)
                            
                         
                      
@@ -1992,7 +1965,7 @@
             
                
                   Titre II : Obligations des employeurs.
-                   (Articles L620-1 à L620-9)
+                   (Articles L620-1 à L620-12)
                
             
             
@@ -2119,23 +2092,6 @@
                            
                               Section 6 : Hygiène et sécurité.
                                (Articles L721-22 à L721-23)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes
-                        
-                           
-                              Section 1 : Tissage et bobinage.
-                               (Articles L722-1 à L722-4)
-                           
-                        
-                        
-                           
-                              Section 2 : Coupe de velours de coton, teinture, blanchiment et apprêts des étoffes.
-                               (Articles L722-5 à L722-6)
                            
                         
                      
@@ -2523,13 +2479,6 @@
       
          
             Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
-             (Articles L900-1 à L900-7)
-            
-               
-                  Titre Ier : Des institutions de la formation professionnelle.
-                   (Article L910-1)
-               
-            
             
                
                   (en vigueur jusqu'à la date de publication du décret d'application prévu au 4e alinéa de l'art. L910-1)
@@ -2552,13 +2501,25 @@
                   
                
             
+         
+      
+      
+         
+            Livre IX : De la formation professionnelle continue dans le cadre de la formation professionnelle tout au long de la vie.
+             (Articles L900-1 à L900-7)
+            
+               
+                  Titre Ier : Des institutions de la formation professionnelle
+                   (Article L910-1)
+               
+            
             
                
                   Titre II : Des conventions et des contrats de formation professionnelle
                   
                      
                         Chapitre Ier : Des conventions de formation professionnelle.
-                         (Articles L920-1 à L920-11)
+                         (Articles L920-1 à L920-9)
                      
                   
                   
@@ -2572,9 +2533,10 @@
             
                
                   Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
+                   (Article L930-1)
                   
                      
-                        Chapitre Ier : De la promotion individuelle et du congé de formation.
+                        Chapitre Ier : De la promotion individuelle et du congé de formation
                         
                            
                               Section 1 : Congé de formation : dispositions communes
@@ -2584,7 +2546,7 @@
                         
                            
                               Section 2 : Congé de formation : dispositions particulières aux personnes qui ont été titulaires de contrats à durée déterminée.
-                               (Articles L931-13 à L931-20-1)
+                               (Articles L931-13 à L931-20-2)
                            
                         
                         
@@ -2604,43 +2566,43 @@
                   
                      
                         Chapitre II : Du plan de formation de l'entreprise
-                         (Articles L932-1 à L932-3)
+                         (Article L932-1)
                      
                   
                   
                      
-                        Chapitre III : Des droits collectifs des salariés.
+                        Chapitre III : Du droit individuel à la formation
                          (Articles L933-1 à L933-6)
                      
                   
                   
                      
-                        Chapitre IV : De la validation des acquis de l'expérience
-                         (Article L934-1)
+                        Chapitre IV : Des droits collectifs des salariés.
+                         (Articles L934-1 à L934-6)
+                     
+                  
+                  
+                     
+                        Chapitre V : De la validation des acquis de l'expérience
+                         (Article L935-1)
                      
                   
                
             
             
                
-                  Titre IV : De l'aide de l'Etat.
+                  Titre IV : De l'aide de l'Etat
                   
                      
-                        Chapitre Ier : De l'aide de l'Etat aux actions de formation professionnelle.
-                         (Articles L941-1 à L941-5)
-                     
-                  
-                  
-                     
-                        Chapitre II : De l'aide de l'Etat au remplacement de certains salariés en formation.
-                         (Article L942-1)
+                        Chapitre Ier : De l'aide de l'Etat aux actions de formation professionnelle
+                         (Articles L941 à L941-5)
                      
                   
                
             
             
                
-                  Titre V : De la participation des employeurs au développement de la formation professionnelle continue.
+                  Titre V : De la participation des employeurs au développement de la formation professionnelle continue
                    (Article L950-1)
                   
                      
@@ -2693,18 +2655,47 @@
             
             
                
-                  Titre VIII : Des formations professionnelles en alternance.
-                   (Articles L980-1 à L980-2)
+                  Titre VIII : Des contrats et des périodes de professionnalisation
+                   (Article L980-1)
                   
                      
-                        Chapitre Ier : Contrats d'insertion en alternance
-                         (Articles L981-1 à L981-12)
+                        Chapitre Ier : Contrats de professionnalisation
+                         (Articles L981-1 à L981-8)
                      
                   
                   
                      
-                        Chapitre II : Stages de formation professionnelle organisés avec le concours de l'Etat
-                         (Articles L982-1 à L982-5)
+                        Chapitre II : Périodes de professionnalisation
+                         (Articles L982-1 à L982-4)
+                     
+                  
+                  
+                     
+                        Chapitre III : Dispositions financières
+                         (Articles L983-1 à L983-4)
+                     
+                  
+               
+            
+            
+               
+                  Titre IX : Contrôle de la formation professionnelle continue - Dispositions diverses - Dispositions pénales
+                  
+                     
+                        Chapitre Ier : Du contrôle de la formation professionnelle continue
+                         (Articles L991-1 à L991-9)
+                     
+                  
+                  
+                     
+                        Chapitre II : Dispositions diverses.
+                         (Articles L992-1 à L992-7)
+                     
+                  
+                  
+                     
+                        Chapitre III : Dispositions pénales.
+                         (Articles L993-1 à L993-5)
                      
                   
                
@@ -2720,20 +2711,8 @@
                               Dispositions pénales
                               
                                  
-                                    Chapitre Ier : Du contrôle de la formation professionnelle continue
-                                     (Articles L991-1 à L991-9)
-                                 
-                              
-                              
-                                 
                                     Chapitre II : Dispositions diverses.
-                                     (Articles L992-1 à L992-8)
-                                 
-                              
-                              
-                                 
-                                    Chapitre III : Dispositions pénales.
-                                     (Articles L993-1 à L993-5)
+                                     (Article L992-8)
                                  
                               
                            
@@ -2929,7 +2908,7 @@
                         
                            
                               A - Dispositions financières.
-                               (Articles R119-1 à R119-5)
+                               (Articles R119-1 à R119-6)
                            
                         
                         
@@ -3111,6 +3090,12 @@
                                (Articles R127-9-1 à R127-9-9)
                            
                         
+                     
+                  
+                  
+                     
+                        Chapitre VIII : Associations à but non lucratif
+                         (Articles R128-1 à R128-7)
                      
                   
                   
@@ -5045,6 +5030,12 @@
                                (Articles R322-11 à R322-14)
                            
                         
+                        
+                           
+                              Section 4 : Insertion des bénéficiaires du revenu minimum d'activité.
+                               (Articles R322-15 à R322-15-3)
+                           
+                        
                      
                   
                   
@@ -6833,13 +6824,13 @@
                         
                            
                               Section 3 : Attributions du comité directeur
-                               (Articles R835-4 à R835-7)
+                               (Articles R835-4 à R835-5)
                            
                         
                         
                            
                               Section 4 : Organisation et fonctionnement du comité directeur
-                               (Articles R835-8 à R835-10)
+                               (Article R835-6)
                            
                         
                      
@@ -7593,6 +7584,12 @@
                            
                               Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
                                (Articles D322-11 à D322-22)
+                           
+                        
+                        
+                           
+                              Section 4 : Insertion des bénéficiaires du revenu minimum d'activité.
+                               (Articles D322-22-1 à D322-22-12)
                            
                         
                      
