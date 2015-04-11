@@ -14,4 +14,5 @@
          Les personnes à la recherche d'un emploi mentionnées au premier alinéa du I et les employés de maison sont inscrits sur la liste de la commune du lieu de leur domicile.
          Les salariés et les employeurs exerçant leur activité professionnelle principale sur l'emprise d'un aérodrome rattaché au ressort d'un conseil de prud'hommes en application du troisième alinéa de l'article L. 511-3 sont inscrits sur la liste électorale de la commune où ce conseil de prud'hommes a son siège.
          VI. - Nul ne peut être inscrit sur plus d'une liste électorale prud'homale communale et dans plus d'un collège et plus d'une section.
+         En cas d'appartenance aux deux collèges en raison de la double qualité d'employeur et de salarié, l'inscription est faite dans le collège correspondant à l'activité principale de l'électeur.
    
