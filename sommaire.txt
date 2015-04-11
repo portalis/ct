@@ -3492,6 +3492,12 @@
                                (Articles R213-9 à R213-10)
                            
                         
+                        
+                           
+                              Section 6 : Dispositions particulières relatives à certains salariés du secteur des transports.
+                               (Article R213-11)
+                           
+                        
                      
                   
                
@@ -3518,6 +3524,12 @@
                            
                               Section 3 : Régime particulier du personnel des entreprises de navigation intérieure.
                                (Articles R221-18 à R221-22)
+                           
+                        
+                        
+                           
+                              Section 4 : Régime particulier du personnel des entreprises assurant dans les trains la restauration ou l'exploitation des places couchées.
+                               (Articles R221-23 à R221-26)
                            
                         
                      
@@ -3619,11 +3631,17 @@
                         
                         
                            
-                              SECTION 3 : ORGANES CONSULTATIFS CENTRAUX
+                              Section 3 : Organismes consultatifs
                               
                                  
-                                    SOUS-SECTION 1 : CONSEIL SUPERIEUR DE LA PREVENTION DES RISQUES PROFESSIONNELS.
+                                    Sous-section 1 : Conseil supérieur de la prévention des risques professionnels.
                                      (Articles R231-14 à R231-24-2)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 3 : Comités régionaux de la prévention des risques professionnels.
+                                     (Articles R231-24-3 à R231-24-4)
                                  
                               
                               
@@ -5002,19 +5020,7 @@
                   Titre Ier : Placement
                   
                      
-                        Chapitre Ier : Service public du placement
-                        
-                           
-                              Section 1 : Organismes qui concourent au service public du placement.
-                               (Articles R311-1-1 à R311-1-5)
-                           
-                        
-                        
-                           
-                              Section 2 : Notification par les employeurs des places vacantes.
-                               (Article R311-2-1)
-                           
-                        
+                        Chapitre Ier : Service public de l'emploi
                         
                            
                               Section 3 : Tenues de la liste et accompagnement des demandeurs d'emploi
@@ -5035,19 +5041,13 @@
                         
                            
                               Section 4 : Agence nationale pour l'emploi.
-                               (Articles R311-4-1 à R311-4-22)
+                               (Articles R311-4-1 à R311-4-26)
                            
                         
                         
                            
                               Section 5 : Collectivités territoriales.
                                (Articles R311-5-1 à R311-5-6)
-                           
-                        
-                        
-                           
-                              Section 6 : Dispositions diverses.
-                               (Articles R311-6-1 à R311-6-4)
                            
                         
                         
@@ -5061,12 +5061,7 @@
                   
                      
                         Chapitre II : Placement privé
-                        
-                           
-                              Section 2 : Placement payant.
-                               (Articles R312-12 à R312-13)
-                           
-                        
+                         (Articles R312-1 à R312-8)
                      
                   
                
@@ -6345,6 +6340,12 @@
                                (Article R713-7)
                            
                         
+                        
+                           
+                              Section 4 : Institutions représentatives du personnel
+                               (Articles R713-8 à R713-14)
+                           
+                        
                      
                   
                
@@ -7506,7 +7507,7 @@
                         
                            
                               Section 5 : Agréments des associations et entreprises de services à la personne.
-                               (Articles D129-35 à D129-37)
+                               (Articles D129-35 à D129-38)
                            
                         
                      
@@ -7649,7 +7650,7 @@
                   
                      
                         Chapitre V : Congés non rémunérés
-                         (Articles D225-1 à D225-2)
+                         (Articles D225-1 à D225-5)
                      
                   
                   
@@ -7663,6 +7664,17 @@
             
                
                   Titre III : Hygiène et sécurité
+                  
+                     
+                        Chapitre Ier : Dispositions générales
+                        
+                           
+                              Section 1 : Comités régionaux de la prévention des risques professionnels
+                               (Articles D231-1 à D231-4)
+                           
+                        
+                     
+                  
                   
                      
                         Chapitre III : Sécurité.
@@ -7690,6 +7702,12 @@
             
                
                   Titre II : Emploi
+                  
+                     
+                        Chapitre préliminaire : Gestion de l'emploi et des compétences, prévention des conséquences sociales des mutations économiques.
+                         (Articles D320-1 à D320-4)
+                     
+                  
                   
                      
                         Chapitre Ier : Contrôle de l'emploi.
@@ -7852,6 +7870,12 @@
                            
                               Section 2 : PRIVATION PARTIELLE D'EMPLOI.
                                (Article D351-3)
+                           
+                        
+                        
+                           
+                              Section 3 : Régimes particuliers
+                               (Articles D351-4 à D351-8)
                            
                         
                      
