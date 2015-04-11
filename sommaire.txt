@@ -645,12 +645,6 @@
                         
                         
                            
-                              Section 2 : Retenues sur le salaire.
-                               (Article L154-2)
-                           
-                        
-                        
-                           
                               Section 3 : Economat.
                                (Article L154-3)
                            
@@ -2365,6 +2359,12 @@
                          (Article L882-1)
                      
                   
+                  
+                     
+                        Chapitre III : Dispositions spéciales à la main-d'oeuvre étrangère
+                         (Article L883-1)
+                     
+                  
                
             
          
@@ -2719,8 +2719,8 @@
                               Chapitre VII : Du contrat d'apprentissage
                               
                                  
-                                    Paragraphe 1 : De l'agrément de l'employeur.
-                                     (Articles R117-1 à R117-5-1)
+                                    Paragraphe 1 : De l'agrément des entreprises
+                                     (Articles R117-1 à R117-5-3)
                                  
                               
                               
@@ -2743,7 +2743,7 @@
                               
                                  
                                     Paragraphe 4 : Du contenu des contrats d'apprentissage.
-                                     (Articles R117-11 à R117-12)
+                                     (Article R117-11)
                                  
                               
                               
@@ -2853,7 +2853,7 @@
                         
                            
                               Paragraphe 4 : Du contenu des contrats d'apprentissage.
-                               (Article R117-10)
+                               (Articles R117-10 à R117-12)
                            
                         
                         
@@ -2885,7 +2885,7 @@
                               
                                  
                                     Dispositions générales.
-                                     (Articles R119-57 à R119-60)
+                                     (Articles R119-56 à R119-60)
                                  
                               
                               
@@ -3802,20 +3802,43 @@
                         Chapitre III : Sécurité
                         
                            
-                              Section 2 : Machines et appareils dangereux.
-                               (Articles R233-2 à R233-13)
+                              Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle
+                               (Articles R233-1 à R233-1-3)
                            
                         
                         
                            
-                              Section 4 : Dispositions diverses.
-                               (Articles R233-42 à R233-43)
+                              Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail
+                              
+                                 
+                                    Sous-section 1 : Mesures générales
+                                     (Articles R233-2 à R233-8-1)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail
+                                     (Articles R233-9 à R233-13)
+                                 
+                              
                            
                         
                         
                            
-                              Section 5 : Mesures d'application.
-                               (Articles R233-45 à R233-48)
+                              Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail
+                               (Articles R233-14 à R233-31)
+                           
+                        
+                        
+                           
+                              Section 4 : Mesures d'organisation et conditions d'utilisation des équipements de protection individuelle
+                               (Articles R233-42 à R233-44)
+                           
+                        
+                        
+                           
+                              Section 5 : Dispositions diverses et mesures d'application
+                               (Articles R233-45 à R233-47)
                            
                         
                         
@@ -3908,7 +3931,7 @@
                         
                         
                            
-                              Section 7 : Equipements de travail et moyens de protection soumis aux obligations définies au I de l'article L. 233-5
+                              Section 7 : Equipements de travail et moyens de protection soumis aux obligations de sécurité définies au I de l'article L. 233-5
                               
                                  
                                     Sous-section 1 : Equipements de travail
@@ -3925,7 +3948,7 @@
                         
                         
                            
-                              Section 8 : Dispositions applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
+                              Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
                               
                                  
                                     Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2, neufs ou considérés comme neufs
@@ -3952,8 +3975,8 @@
                               
                               
                                  
-                                    Sous-section 5 : Procédure de certification applicable aux équipements de travail d'occasion visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection d'occasion visés aux 1° et 2° de l'article R. 233-83-2
-                                     (Article R233-89)
+                                    Sous-section 5 : Procédure de certification applicable et règles techniques de conception et de construction applicables aux équipements de travail d'occasion visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection d'occasion visés aux 1° et 2° de l'article R. 233-83-2
+                                     (Articles R233-89 à R233-89-4)
                                  
                               
                               
@@ -3966,7 +3989,7 @@
                         
                         
                            
-                              Section 9 : Règles techniques applicables à certains types ou catégories de matériels
+                              Section 9 : Règles techniques de conception et de construction applicables à certains types ou catégories de matériels
                               
                                  
                                     Sous-section 1 : Cabines de projection par pulvérisation, cabines et enceintes de séchage de peintures liquides, de vernis, de poudres ou de fibres sèches et cabines mixtes
@@ -3977,7 +4000,7 @@
                         
                         
                            
-                              Section 10 : Equipements de protection individuelle
+                              Section 10 : Règles techniques de conception et de fabrication et procédures de certification de conformité applicables aux équipements de protection individuelle
                               
                                  
                                     Sous-section 1 : Règles techniques applicables aux équipements de protection individuelle neufs ou considérés comme neufs
@@ -3992,7 +4015,7 @@
                               
                               
                                  
-                                    Sous-section 3 : Dispositions applicables aux équipements de protection individuelle d'occasion
+                                    Sous-section 3 : Règles techniques de conception et de fabrication et procédure de certification de conformité applicables aux équipements de protection individuelle d'occasion
                                      (Articles R233-155 à R233-156)
                                  
                               
@@ -4159,13 +4182,30 @@
                         
                            
                               Section 2 : Formation des représentants du personnel aux comités d'hygiène, de sécurité et des conditions de travail.
-                               (Articles R236-15 à R236-22)
+                              
+                                 
+                                    Sous-section 1 : Dispositions communes à tous les établissements
+                                     (Articles R236-15 à R236-22)
+                                 
+                              
+                              
+                                 
+                                    Sous-section 2 : Dispositions particulières aux établissements de moins de 300 salariés
+                                     (Articles R236-22-1 à R236-22-2)
+                                 
+                              
                            
                         
                         
                            
                               Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
                                (Articles R236-23 à R236-39)
+                           
+                        
+                        
+                           
+                              Section 4 : Agrément des experts auxquels le comité d'hygiène, de sécurité et des conditions de travail peut faire appel
+                               (Articles R236-40 à R236-42)
                            
                         
                      
@@ -4461,13 +4501,19 @@
                               
                               
                                  
-                                    Paragraphe 2 : Heures supplémentaires.
+                                    Paragraphe 2 : Travail à temps partiel
+                                     (Article R261-3-1)
+                                 
+                              
+                              
+                                 
+                                    Paragraphe 3 : Heures supplémentaires.
                                      (Article R261-4)
                                  
                               
                               
                                  
-                                    Paragraphe 3 : Dispositions relatives aux femmes et aux jeunes travailleurs.
+                                    Paragraphe 4 : Dispositions relatives aux femmes et aux jeunes travailleurs
                                      (Articles R261-5 à R261-6)
                                  
                               
@@ -4615,7 +4661,12 @@
                   
                      
                         Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
-                         (Article R320-1)
+                        
+                           
+                              Section 2 : Relevé mensuel des contrats de travail
+                               (Article R320-1-1)
+                           
+                        
                      
                   
                   
@@ -4898,7 +4949,7 @@
                               
                                  
                                     Sous-section 1 : Régime d'assurance.
-                                     (Articles R351-1 à R351-5)
+                                     (Articles R351-1 à R351-5-3)
                                  
                               
                               
@@ -6479,30 +6530,13 @@
                   Titre V : De la participation des employeurs au développement de la formation professionnelle continue
                   
                      
-                        Section 8 : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non salariées au développement de la formation professionnelle continue
-                         (Articles R953-1 à R953-7)
-                     
-                  
-                  
-                     
-                        Section 9 : De la participation des chefs d'exploitation ou d'entreprises agricoles au développement de la formation professionnelle continue
-                         (Articles R953-10 à R953-12)
-                     
-                  
-               
-            
-            
-               
-                  Titre V : Modalités d'application des articles L. 950-1 à L. 950-10
-                  
-                     
                         Section 1 : Champ d'application de la participation des employeurs au développement de la formation professionnelle continue.
                          (Articles R950-1 à R950-2)
                      
                   
                   
                      
-                        Section 2 : Dépenses consacrées par les employeurs au développement de la formation professionnelle continue.
+                        Section 2 : Dépenses consacrées par les employeurs au développement de la formation professionnelle continue
                          (Article R950-3)
                         
                            
@@ -6532,14 +6566,38 @@
                   
                   
                      
-                        Section 4 : Déclaration relative à la participation des employeurs au développement de la formation professionnelle continue.
+                        Section 4 : Déclaration relative à la participation au développement de la formation professionnelle continue des employeurs occupant au minimum dix salariés
                          (Articles R950-19 à R950-22)
                      
                   
                   
                      
-                        Section 5 : Des engagements de développement de la formation.
-                         (Articles R950-23 à R950-30)
+                        Section 5 : Déclaration relative à la participation au développement de la formation professionnelle continue des employeurs occupant moins de dix salariés
+                         (Articles R950-23 à R950-24)
+                     
+                  
+                  
+                     
+                        Section 6 : Des engagements de développement de la formation.
+                         (Articles R950-25 à R950-32)
+                     
+                  
+                  
+                     
+                        Section 7 : Des conditions d'agrément et de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés
+                         (Articles R952-1 à R952-5)
+                     
+                  
+                  
+                     
+                        Section 8 : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non salariées au développement de la formation professionnelle continue
+                         (Articles R953-1 à R953-7)
+                     
+                  
+                  
+                     
+                        Section 9 : De la participation des chefs d'exploitation ou d'entreprises agricoles au développement de la formation professionnelle continue
+                         (Articles R953-10 à R953-12)
                      
                   
                
@@ -7362,24 +7420,13 @@
                   
                      
                         Chapitre III : Personnels des entreprises de manutention des ports : congés payés.
-                         (Articles D743-2 à D743-8)
+                         (Articles D743-1 à D743-8)
                      
                   
                   
                      
                         Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.
                          (Articles D744-1 à D744-3)
-                     
-                  
-               
-            
-            
-               
-                  Titre III : Transports et télécommunications
-                  
-                     
-                        Chapitre III : Personnels des entreprises de manutention des ports : congés payés.
-                         (Articles D743-1 à D743-7)
                      
                   
                
@@ -7638,62 +7685,67 @@
                         Chapitre 3 : Sécurité
                         
                            
-                              Section 8 : Dispositions applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
+                              Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
                               
                                  
                                     Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2, neufs ou considérés comme neufs
                                     
                                        
-                                          1. Règles générales applicables aux machines neuves ou considérées comme neuves visées au 1 de l'article R. 233-83
-                                           (Article R233-84 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          2. Règles techniques supplémentaires applicables à certaines catégories de machines neuves ou considérées comme neuves visées au 1° de l'article R. 233-83.
-                                           (Article R233-84 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          3. Règles techniques de prévention des risques liés à la mobilité des machines.
-                                           (Article R233-84 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          4. Règles techniques de prévention des risques liés au levage de charges par les machines, quelle que soit leur énergie motrice.
-                                           (Article R233-84 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          5. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées exclusivement dans des travaux souterrains.
-                                           (Article R233-84 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          6. Règles techniques applicables aux chariots automoteurs de manutention à poste de conduite élevable neufs ou considérés comme neufs.
-                                           (Article R233-84 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          7. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées en atmosphère explosible.
-                                           (Article R233-84 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          8. Règles techniques applicables aux accessoires de levage, composants d'accessoires de levage, chaînes, câbles et sangles de levage à la longueur, neufs ou considérés comme neufs, respectivement visés aux 3°, 4° et 5° de l'article R. 233-83.
-                                           (Article R233-84 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          9. Règles techniques applicables aux structures de protection neuves ou considérées comme neuves visées aux 1° et 2° de l'article R. 233-83-2.
-                                           (Article R233-84 annexe)
+                                          Annexe 1 définissant les règles techniques de conception et de construction prévues par l'article R. 233-84
+                                          
+                                             
+                                                1. Règles générales applicables aux machines neuves ou considérées comme neuves visées au 1 de l'article R. 233-83
+                                                 (Article R233-84 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                2. Règles techniques supplémentaires applicables à certaines catégories de machines neuves ou considérées comme neuves visées au 1° de l'article R. 233-83
+                                                 (Article R233-84 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                3. Règles techniques de prévention des risques liés à la mobilité des machines
+                                                 (Article R233-84 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                4. Règles techniques de prévention des risques liés au levage de charges par les machines, quelle que soit leur énergie motrice
+                                                 (Article R233-84 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                5. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées exclusivement dans des travaux souterrains
+                                                 (Article R233-84 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                6. Règles techniques applicables aux chariots automoteurs de manutention à poste de conduite élevable neufs ou considérés comme neufs
+                                                 (Article R233-84 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                7. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées en atmosphère explosible
+                                                 (Article R233-84 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                8. Règles techniques applicables aux accessoires de levage, composants d'accessoires de levage, chaînes, câbles et sangles de levage à la longueur, neufs ou considérés comme neufs, respectivement visés aux 3°, 4° et 5° de l'article R. 233-83
+                                                 (Article R233-84 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                9. Règles techniques applicables aux structures de protection neuves ou considérées comme neuves visées aux 1° et 2° de l'article R. 233-83-2
+                                                 (Article R233-84 annexe)
+                                             
+                                          
                                        
                                     
                                  
@@ -7702,32 +7754,32 @@
                         
                         
                            
-                              Section 10 : Equipements de protection individuelle
+                              Section 10 : Règles techniques de conception et de fabrication et procédures de certification de conformité applicables aux équipements de protection individuelle
                               
                                  
                                     Sous-section 1 : Règles techniques applicables aux équipements de protection individuelle neufs ou considérés comme neufs
+                                     (Article Annexe à l'article R233-151)
                                     
                                        
-                                          0. Règle préliminaire.
-                                           (Article R233-151 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          1. Règles générales applicables à tous les équipements de protection individuelle.
-                                           (Article R233-151 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          2. Règles supplémentaires communes à plusieurs genres ou types d'équipements de protection individuelle.
-                                           (Article R233-151 annexe)
-                                       
-                                    
-                                    
-                                       
-                                          3. Règles supplémentaires spécifiques aux risques à prévenir.
-                                           (Article R233-151 annexe)
+                                          Annexe 2 définissant les règles techniques de conception et de fabrication prévues par l'article R. 233-151
+                                          
+                                             
+                                                1. Règles générales applicables à tous les équipements de protection individuelle
+                                                 (Article R233-151 annexe)
+                                             
+                                          
+                                          
+                                             
+                                                2. Règles supplémentaires communes à plusieurs genres ou types d'équipements de protection individuelle
+                                                 (Article Annexe à l'article R233-151)
+                                             
+                                          
+                                          
+                                             
+                                                3. Règles supplémentaires spécifiques aux risques à prévenir
+                                                 (Article Annexe à l'article R233-151)
+                                             
+                                          
                                        
                                     
                                  
