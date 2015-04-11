@@ -382,6 +382,12 @@
                   
                   
                      
+                        Chapitre VIII : Associations à but non lucratif
+                         (Article L128-1)
+                     
+                  
+                  
+                     
                         Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).
                          (Article L129-2)
                      
@@ -727,18 +733,7 @@
                         
                            
                               Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes - Emploi des enfants comme mannequins dans la publicité et la mode.
-                               (Articles L211-7 à L211-14)
-                           
-                        
-                        
-                           
-                              Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes.
-                              
-                                 
-                                    Emploi des enfants comme mannequins dans la publicité et la mode.
-                                     (Article L211-6)
-                                 
-                              
+                               (Articles L211-6 à L211-14)
                            
                         
                      
@@ -1034,22 +1029,6 @@
                
                   Titre VI : Pénalités.
                    (Articles L260-1 à L260-4)
-                  
-                     
-                        Chapitre Ier : Conditions du travail
-                        
-                           
-                              Emploi des enfants dans les spectacles et professions ambulantes
-                              
-                                 
-                                    Emploi des enfants comme mannequins dans la publicité et la mode
-                                     (Articles L261-2 à L261-4)
-                                 
-                              
-                           
-                        
-                     
-                  
                   
                      
                         Chapitre Ier : Conditions du travail - Emploi des enfants dans les spectacles et professions ambulantes - Emploi des enfants comme mannequins dans la publicité et la mode
@@ -2013,7 +1992,7 @@
             
                
                   Titre II : Obligations des employeurs.
-                   (Articles L620-1 à L620-7)
+                   (Articles L620-1 à L620-9)
                
             
             
@@ -2358,12 +2337,6 @@
                      
                         Chapitre III : Bâtiment et travaux publics.
                          (Article L793-1)
-                     
-                  
-                  
-                     
-                        Chapitre V : Voyageurs, représentants et placiers.
-                         (Article L795-1)
                      
                   
                   
@@ -3739,7 +3712,7 @@
                               
                                  
                                     Sous-section 4 : Règles générales de prévention du risque chimique
-                                     (Articles R231-54 à R231-54-9)
+                                     (Articles R231-54 à R231-54-17)
                                  
                               
                               
@@ -3763,7 +3736,7 @@
                               
                                  
                                     Sous-section 8 : Dispositions spécifiques à certains agents chimiques dangereux
-                                     (Articles R231-58 à R231-58-3)
+                                     (Articles R231-58 à R231-58-6)
                                  
                               
                               
@@ -6082,7 +6055,7 @@
             
                
                   Titre II : Obligations des employeurs.
-                   (Articles R620-1 à R620-5)
+                   (Articles R620-1 à R620-6-5)
                
             
             
@@ -6476,7 +6449,7 @@
                               
                                  
                                     Paragraphe 3 : Placement.
-                                     (Articles R762-2 à R762-14)
+                                     (Articles R762-2 à R762-19)
                                  
                               
                            
@@ -6844,7 +6817,7 @@
                   
                   
                      
-                        Chapitre V : Fonds pour l'emploi dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon
+                        Chapitre V : Fonds pour l'emploi dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte
                         
                            
                               Section 1 : Ressources et dépenses
@@ -7823,24 +7796,14 @@
                   
                   
                      
+                        Chapitre VII : Compétence des conseils de prud'hommes.
+                         (Article D517-1)
+                     
+                  
+                  
+                     
                         Chapitre X : Dépenses des conseils de prud'hommes.
                          (Articles D51-10-1 à D51-10-9)
-                     
-                  
-               
-            
-            
-               
-                  Titre Ier : Conflits individuels
-                  
-                     
-                        Conseils de prud'hommes
-                        
-                           
-                              Chapitre VII : COMPETENCE DES CONSEILS DE PRUD'HOMMES
-                               (Article D517-1)
-                           
-                        
                      
                   
                
@@ -8119,20 +8082,14 @@
                   Titre III : Placement et emploi
                   
                      
-                        Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
-                         (Article D831-1)
+                        Chapitre Ier : Dispositions relatives aux contrats d'accès à l'emploi
+                         (Articles D831-1 à D831-4)
                      
                   
                   
                      
-                        Chapitre Ier bis : Dispositions relatives à l'aide à un projet initiative-jeune dans les départements d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon
-                         (Articles D831-2 à D831-4)
-                     
-                  
-                  
-                     
-                        Chapitre Ier ter : Aide à la création d'emplois
-                         (Article D831-5)
+                        Chapitre II : Soutien à l'emploi des jeunes en entreprise
+                         (Article D832-1)
                      
                   
                
@@ -8186,11 +8143,17 @@
                   
                   
                      
-                        Chapitre II : Dispositions spéciales aux régions d'outre-mer
+                        Chapitre II : Dispositions spéciales aux régions d'outre-mer et à Saint-Pierre-et-Miquelon
                         
                            
-                              Section 1 : Attributions, composition et fonctionnement des comités de coordination régionaux de l'emploi et de la formation professionnelle
-                               (Articles D910-16 à D910-21)
+                              Section 1 : Régions d'outre-mer
+                               (Articles D910-17 à D910-20)
+                           
+                        
+                        
+                           
+                              Section 2 : Saint-Pierre-et-Miquelon
+                               (Article D910-21)
                            
                         
                      
