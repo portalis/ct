@@ -1,8 +1,6 @@
 
-         A Paris, la commission [*constitué au sein du Conseil départemental de protection de l'enfance*] comprend [*composition*] :
-         Le préfet de Paris ou le secrétaire général de Paris,
- président.
-         Le président du tribunal pour enfants ou son suppléant.
+         A Paris, la commission comprend :
+         Le président du tribunal pour enfants ou son suppléant, président.
          Le directeur de l'enseignement de Paris ou son représentant.
          Le directeur départemental du travail et de main-d'oeuvre ou son représentant.
          Le directeur général de l'action sanitaire et sociale de la préfecture de Paris ou son représentant.
