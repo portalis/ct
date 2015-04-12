@@ -12875,6 +12875,19 @@
                         
                            
                               Chapitre II : Syndicats représentatifs
+                              
+                                 
+                                    Section 1 : Haut Conseil du dialogue social.
+                                     (Articles R*2122-1 à R*2122-5)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Recueil des résultats des organisations syndicales aux élections professionnelles 
+
+                                     (Articles D2122-6 à D2122-7)
+                                 
+                              
                            
                         
                      
@@ -13875,9 +13888,100 @@
                   
                   
                      
-                        TITRE VII : COMITÉ D'HYGIÈNE, DE SÉCURITÉ  ET DES CONDITIONS DE TRAVAIL
-                        Le présent titre ne comprend pas de dispositions réglementaires.
+                        TITRE VII : PARTICIPATION DES SALARIÉS DANS LES SOCIÉTÉS ISSUES DE FUSIONS TRANSFRONTALIÈRES
 
+                        
+                           
+                              Chapitre Ier : Dispositions générales
+                               (Article D2371-1)
+                           
+                        
+                        
+                           
+                              Chapitre II : Participation des salariés dans la société issue d'une fusion transfrontalière par accord du groupe spécial de négociation
+                              
+                                 
+                                    Section unique : Groupe spécial de négociation
+
+                                    
+                                       
+                                          Sous-section 1 : Mise en place et objet
+
+
+                                           (Articles D2372-1 à D2372-4)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Désignation, élection et statut des membres 
+
+                                           (Articles R2372-5 à D2372-13)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Fonctionnement 
+
+                                           (Articles D2372-14 à R2372-17)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Contestations 
+
+
+                                           (Articles R2372-18 à R2372-19)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre III : Comité de la société issue de la fusion transfrontalière et participation des salariés en l'absence d'accord 
+                              
+                                 
+                                    Section unique : Comité de la société issue de la fusion transfrontalière 
+
+                                    
+                                       
+                                          Sous-section 1 : Mise en place 
+
+
+                                           (Articles D2373-1 à R2373-3)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Fonctionnement 
+
+
+                                           (Articles R2373-4 à R2373-5)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre IV : Dispositions applicables postérieurement à l'immatriculation de la société issue de la fusion transfrontalière
+                              Le présent chapitre ne comprend pas de dispositions réglementaires.
+                           
+                        
+                        
+                           
+                              Chapitre V : Dispositions pénales
+                              Le présent chapitre ne comprend pas de dispositions réglementaires.
+                           
+                        
+                     
+                  
+                  
+                     
+                        TITRE VIII : COMITÉ D'HYGIÈNE, DE SÉCURITÉ  ET DES CONDITIONS DE TRAVAIL
+                        Le présent titre ne comprend pas de dispositions réglementaires.
                      
                   
                
@@ -14197,19 +14301,19 @@
                                     
                                     
                                        
-                                          Sous-section 2 : Contingent annuel d'heures supplémentaires  et dérogations
-                                           (Articles D3121-3 à R3121-6)
-                                       
-                                    
-                                    
-                                       
                                           Sous-section 3 : Contreparties aux heures supplémentaires
                                           
                                              
-                                                 Paragraphe unique  Repos compensateur obligatoire
+                                                Paragraphe unique : Contrepartie obligatoire en repos
                                                  (Articles D3121-7 à D3121-14)
                                              
                                           
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Contingent d'heures supplémentaires applicable en l'absence d'accord collectif
+                                           (Article D3121-14-1)
                                        
                                     
                                  
@@ -14272,6 +14376,13 @@
                                        
                                           Sous-section 3 : Récupération des heures perdues
                                            (Articles R3122-4 à R3122-7)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Répartition de l'horaire sur une période de quatre semaines au plus 
+
+                                           (Articles D3122-7-1 à D3122-7-3)
                                        
                                     
                                  
@@ -19083,43 +19194,49 @@
                         TITRE IV : INSTITUTIONS CONCOURANT  À L'ORGANISATION DE LA PRÉVENTION
                         
                            
-                              Chapitre Ier : Conseil supérieur et comités régionaux  de la prévention des risques professionnels
+                              Chapitre Ier : Conseil d'orientation sur les conditions de travail et comités régionaux de la prévention des risques professionnels.
                               
                                  
-                                     Section 1  Conseil supérieur de la prévention  des risques professionnels
+                                    Section 1 : Conseil d'orientation sur les conditions de travail.
                                     
                                        
-                                           Sous-section 1  Missions
-                                           (Articles R4641-1 à R4641-4)
+                                          Sous-section 1 : Dispositions générales
+                                          
+                                             
+                                                Paragraphe 1 : Missions et organisation
+                                                 (Articles R4641-1 à R4641-3)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Composition et désignation
+                                                 (Articles R4641-4 à D4641-6)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Fonctionnement
+                                                 (Articles R4641-7 à D4641-12)
+                                             
+                                          
                                        
                                     
                                     
                                        
-                                           Sous-section 2  Composition
-                                           (Articles R4641-5 à D4641-12)
+                                          Sous-section 2 : Comité permanent et observatoire de la pénibilité
+                                           (Articles R4641-13 à D4641-15)
                                        
                                     
                                     
                                        
-                                           Sous-section 3  Organisation et fonctionnement
-                                          
-                                             
-                                                 Paragraphe 1 : Réunions
-                                                 (Articles D4641-14 à D4641-18)
-                                             
-                                          
-                                          
-                                             
-                                                 Paragraphe 2 : Commission permanente
-                                                 (Articles D4641-20 à D4641-22)
-                                             
-                                          
-                                          
-                                             
-                                                 Paragraphe 3 : Commissions spécialisées
-                                                 (Articles D4641-24 à D4641-29)
-                                             
-                                          
+                                          Sous-section 3 : Commission générale
+                                           (Articles R4641-16 à D4641-18)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Commissions spécialisées
+                                           (Articles R4641-19 à D4641-24)
                                        
                                     
                                  
@@ -19603,13 +19720,13 @@
                                     
                                        
                                           Sous-section 1 : Missions
-                                           (Articles R5112-1 à R5112-2)
+                                           (Article R5112-1)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Composition et fonctionnement
-                                           (Articles R5112-3 à R5112-10)
+                                           (Articles R5112-2 à R5112-5)
                                        
                                     
                                  
@@ -19627,6 +19744,32 @@
                                        
                                           Sous-section 2 : Composition et fonctionnement
                                            (Articles R5112-14 à R5112-18)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Conseil régional de l'emploi 
+
+
+
+                                    
+                                       
+                                          Sous-section 1 : Missions 
+
+
+
+                                           (Article R5112-19)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Composition et fonctionnement 
+
+
+
+                                           (Articles R5112-20 à R5112-22)
                                        
                                     
                                  
@@ -20746,6 +20889,7 @@
                         
                            
                               Chapitre Ier : Missions et composantes du service public de l'emploi
+                               (Articles R5311-1 à R5311-3)
                            
                         
                         
@@ -21040,7 +21184,7 @@
                                     
                                     
                                        
-                                           Sous-section 3  Projet personnalisé d'accès à l'emploi
+                                          Sous-section 3 : Projet personnalisé d'accès à l'emploi et offre raisonnable d'emploi.
                                            (Articles R5411-14 à R5411-16)
                                        
                                     
@@ -21410,7 +21554,7 @@
                               Chapitre Ier : Dispositions générales
                               
                                  
-                                     Section unique  FEDOM
+                                    Section 1 : FEDOM
                                     
                                        
                                           Sous-section 1 : Etat annuel
@@ -21423,6 +21567,14 @@
                                            (Articles R5521-6 à D5521-10)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Conseil territorial de l'emploi 
+
+
+                                     (Articles R5521-11 à R5521-14)
                                  
                               
                            
