@@ -5443,47 +5443,19 @@
                               
                                  
                                     Section 2 : Prise en charge des frais de transports publics
-                                    
-                                       
-                                          Sous-section 1 : Transports dans la région Ile-de-France.
-                                           (Articles L3261-2 à L3261-3)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Transports hors de la région Ile-de-France.
-                                           (Article L3261-4)
-                                       
-                                    
+                                     (Article L3261-2)
                                  
                               
                               
                                  
-                                    Section 3 : Chèques-transport
-                                    
-                                       
-                                          Sous-section 1 : Mise en place et utilisation.
-                                           (Articles L3261-5 à L3261-8)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Emission.
-                                           (Article L3261-9)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Contributions de l'employeur et du comité d'entreprise.
-                                           (Article L3261-10)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 4 : Dispositions d'application.
-                                           (Article L3261-11)
-                                       
-                                    
+                                    Section 3 : Prise en charge des frais de transports personnels.
+                                     (Articles L3261-3 à L3261-4)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Dispositions d'application.
+                                     (Article L3261-5)
                                  
                               
                            
@@ -11647,7 +11619,7 @@
                               Chapitre V : Contestations et sanctions  des irrégularités du licenciement
                               
                                  
-                                    Section 1 : Remboursement de l'organisme gestionnaire  du régime d'assurance chômage
+                                    Section 1 : Remboursement des allocations de chômage
                                      (Articles R1235-1 à R1235-17)
                                  
                               
@@ -15721,7 +15693,7 @@
                               Chapitre Ier : Obligation générale d'information et de formation
                               
                                  
-                                     Section 1  Objet et organisation de la formation à la sécurité
+                                    Section 1 : Objet et organisation de l'information     et de la formation à la sécurité
                                      (Articles R4141-1 à R4141-10)
                                  
                               
@@ -16587,7 +16559,7 @@
                               
                                  
                                      Section 3 : Certification des équipements de travail  et moyens de protection d'occasion
-                                     (Articles R4313-57 à R4313-58)
+                                     (Article R4313-57)
                                  
                               
                               
@@ -16899,18 +16871,6 @@
                                      Section 3 : Fabrication, importation et vente
                                     
                                        
-                                           Sous-section 1 : Déclaration des substances nouvelles
-                                           (Articles R4411-7 à R4411-36)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 2 : Dispenses de déclaration
-                                           (Articles R4411-37 à R4411-41)
-                                       
-                                    
-                                    
-                                       
                                            Sous-section 3 : Information des autorités pour la prévention des risques
                                           
                                              
@@ -16920,14 +16880,14 @@
                                           
                                           
                                              
-                                                 Paragraphe 2  Substances et préparations très toxiques, toxiques ou corrosives
+                                                Paragraphe 2 : Préparations très toxiques, toxiques ou corrosives.
                                                  (Articles R4411-50 à R4411-53)
                                              
                                           
                                           
                                              
                                                  Paragraphe 3 : Substances mises sur le marché sous un nom commercial et préparations dangereuses autres que très toxiques, toxiques ou corrosives
-                                                 (Articles R4411-54 à R4411-55)
+                                                 (Article R4411-54)
                                              
                                           
                                        
@@ -16935,7 +16895,7 @@
                                     
                                        
                                            Sous-section 4 : Protection des secrets industriels et commerciaux
-                                           (Articles R4411-56 à R4411-68)
+                                           (Articles R4411-56 à R4411-65)
                                        
                                     
                                  
@@ -20907,16 +20867,31 @@
                                      Section 2  Statut, organisation et fonctionnement de l'Agence nationale  pour l'emploi
                                     
                                        
-                                           Sous-section 1  Statut et administration
+                                          Sous-section 1 : Administration.
                                           
                                              
-                                                 Paragraphe 1  Statut
+                                                Paragraphe 1 : Conseil d'administration.
                                                  (Articles R5312-6 à R5312-4)
+                                                
+                                                   
+                                                      Sous-paragraphe 1 : Attributions.
+                                                   
+                                                
+                                                
+                                                   
+                                                      Sous-paragraphe 2 : Composition, nomination et mandat.
+                                                   
+                                                
+                                                
+                                                   
+                                                      Sous-paragraphe 3 : Fonctionnement et réunions.
+                                                   
+                                                
                                              
                                           
                                           
                                              
-                                                 Paragraphe 2  Conseil d'administration
+                                                Paragraphe 2 : Directeur général.
                                                 
                                                    
                                                        Sous-paragraphe 1 : Attributions
@@ -20939,8 +20914,18 @@
                                           
                                           
                                              
-                                                 Paragraphe 3  Directeur général
+                                                Paragraphe 3 : Dispositions économiques et financières
                                                  (Articles R5312-27 à R5312-28)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 4 : Directeur régional.
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 5 : Instance paritaire régionale.
                                              
                                           
                                        
