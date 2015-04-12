@@ -13705,6 +13705,79 @@
                         TITRE VI : IMPLICATION DES SALARIÉS DANS LA SOCIÉTÉ COOPÉRATIVE EUROPÉENNE ET COMITÉ DE LA SOCIÉTÉ COOPÉRATIVE EUROPÉENNE
                         Le présent titre ne comprend pas de dispositions réglementaires.
 
+                        
+                           
+                              Chapitre Ier : Dispositions générales.
+                               (Article D2361-1)
+                           
+                        
+                        
+                           
+                              Chapitre II : Implication des salariés dans la société coopérative européenne par accord du groupe spécial de négociation.
+                              
+                                 
+                                    Section unique : Groupe spécial de négociation.
+                                    
+                                       
+                                          Sous-section 1 : Mise en place et objet.
+                                           (Articles D2362-1 à D2362-4)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Désignation, élection et statut des membres.
+                                           (Articles R2362-5 à D2362-13)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Fonctionnement.
+                                           (Articles D2362-14 à R2362-17)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Contestations.
+                                           (Articles R2362-18 à R2362-19)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre III : Comité de la société coopérative européenne et participation des salariés en l'absence d'accord.
+                              
+                                 
+                                    Section unique : Comité de la société coopérative européenne.
+                                    
+                                       
+                                          Sous-section 1 : Mise en place.
+                                           (Articles D2363-1 à R2363-3)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Fonctionnement.
+                                           (Articles R2363-4 à R2363-5)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre IV : Dispositions applicables postérieurement à l'immatriculation de la société coopérative européenne.
+                               (Article R2364-1)
+                           
+                        
+                        
+                           
+                              Chapitre V : Dispositions pénales.
+                           
+                        
                      
                   
                   
@@ -17617,7 +17690,7 @@
                               
                                  
                                      Section 2 : Comité d'hygiène, de sécurité  et des conditions de travail de l'entreprise utilisatrice.
-                                     (Articles R4514-6 à R4514-7)
+                                     (Articles R4514-6 à R4514-7-1)
                                  
                               
                               
@@ -17669,8 +17742,36 @@
                               Chapitre III : Comité d'hygiène, de sécurité  et des conditions de travail
                               
                                  
-                                     Section unique  Attributions particulières
+                                    Section 1 :  Attributions particulières.
                                      (Articles R4523-1 à R4523-4)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Dispositions relatives à l'élargissement du comité, applicables en l'absence de convention ou d'accord collectif.
+                                    
+                                       
+                                          Sous-section 1 : Désignation des entreprises extérieures et de leurs représentants.
+
+
+
+
+
+                                           (Articles R4523-5 à R4523-13)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Fonctionnement du comité élargi.
+                                           (Articles R4523-14 à R4523-16)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Dérogation applicable aux établissements comprenant une installation nucléaire de base.
+                                           (Article R4523-17)
+                                       
+                                    
                                  
                               
                            
