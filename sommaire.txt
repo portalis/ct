@@ -87,13 +87,13 @@
                         
                            
                               Chapitre III : Différences de traitement autorisées.
-                               (Articles L1133-1 à L1133-3)
+                               (Articles L1133-1 à L1133-4)
                            
                         
                         
                            
                               Chapitre IV : Actions en justice.
-                               (Articles L1134-1 à L1134-4)
+                               (Articles L1134-1 à L1134-5)
                            
                         
                      
@@ -247,6 +247,12 @@
                                     
                                  
                               
+                              
+                                 
+                                    Section 4 : Période d'essai.
+                                     (Articles L1221-19 à L1221-26)
+                                 
+                              
                            
                         
                         
@@ -275,12 +281,6 @@
                         
                            
                               Chapitre III : Formation et exécution de certains types de contrats
-                              
-                                 
-                                    Section 1 : Contrat de travail nouvelles embauches.
-                                     (Articles L1223-1 à L1223-4)
-                                 
-                              
                               
                                  
                                     Section 2 : Contrat de mission à l'exportation.
@@ -431,7 +431,7 @@
                                     
                                        
                                           Sous-section 1 : Inaptitude consécutive à une maladie ou un accident non professionnel.
-                                           (Articles L1226-2 à L1226-4)
+                                           (Articles L1226-2 à L1226-4-1)
                                        
                                     
                                     
@@ -851,12 +851,6 @@
                               Chapitre VI : Rupture de certains types de contrats
                               
                                  
-                                    Section 1 : Contrat de travail nouvelles embauches.
-                                     (Articles L1236-1 à L1236-6)
-                                 
-                              
-                              
-                                 
                                     Section 2 : Contrat de mission à l'exportation.
                                      (Article L1236-7)
                                  
@@ -910,6 +904,12 @@
                                            (Articles L1237-9 à L1237-10)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Rupture conventionnelle.
+                                     (Articles L1237-11 à L1237-16)
                                  
                               
                            
@@ -1203,6 +1203,12 @@
                                  
                                     Section 5 : Actions en justice.
                                      (Article L1251-59)
+                                 
+                              
+                              
+                                 
+                                    Section 7 : Portage salarial.
+                                     (Article L1251-64)
                                  
                               
                            
@@ -1891,14 +1897,43 @@
                         
                            
                               Chapitre II : Syndicats représentatifs.
-                               (Article L2122-1)
+                              
+                                 
+                                    Section 1 : Représentativité syndicale au niveau de l'entreprise et de l'établissement
+                                     (Articles L2122-1 à L2122-3)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Représentativité syndicale au niveau du groupe
+                                     (Article L2122-4)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Représentativité syndicale au niveau de la branche professionnelle
+                                     (Articles L2122-5 à L2122-8)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Représentativité syndicale au niveau national et interprofessionnel
+                                     (Articles L2122-9 à L2122-10)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Dispositions d'application
+                                     (Articles L2122-11 à L2122-12)
+                                 
+                              
                            
                         
                      
                   
                   
                      
-                        TITRE III : STATUT JURIDIQUE
+                        TITRE III : STATUT JURIDIQUE, RESSOURCES ET MOYENS
                         
                            
                               Chapitre Ier : Objet et constitution.
@@ -1925,8 +1960,25 @@
                         
                         
                            
-                              Chapitre V : Dispositions pénales.
-                               (Articles L2135-1 à L2135-2)
+                              Chapitre V : Ressources et moyens
+                              
+                                 
+                                    Section 1 : Certification et publicité des comptes   des organisations syndicales et professionnelles
+                                     (Articles L2135-1 à L2135-6)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Mise à disposition des salariés auprès des organisations syndicales
+                                     (Articles L2135-7 à L2135-8)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre VI : Dispositions pénales.
+                               (Articles L2136-1 à L2136-2)
                            
                         
                      
@@ -1951,25 +2003,31 @@
                               
                               
                                  
-                                    Section 2 : Cotisations syndicales.
+                                    Section 2 : Représentant de la section syndicale
+                                     (Articles L2142-1-1 à L2142-1-4)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Cotisations syndicales.
                                      (Article L2142-2)
                                  
                               
                               
                                  
-                                    Section 3 : Affichage et diffusion des communications syndicales.
+                                    Section 4 : Affichage et diffusion des communications syndicales.
                                      (Articles L2142-3 à L2142-7)
                                  
                               
                               
                                  
-                                    Section 4 : Local syndical.
+                                    Section 5 : Local syndical.
                                      (Articles L2142-8 à L2142-9)
                                  
                               
                               
                                  
-                                    Section 5 : Réunions syndicales.
+                                    Section 6 : Réunions syndicales.
                                      (Articles L2142-10 à L2142-11)
                                  
                               
@@ -2051,6 +2109,12 @@
                                  
                                     Section 4 : Attributions complémentaires dans les entreprises de moins de trois cents salariés.
                                      (Article L2143-22)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Conditions de désignation dérogatoire
+                                     (Article L2143-23)
                                  
                               
                            
@@ -2211,29 +2275,23 @@
                                     
                                     
                                        
-                                          Sous-section 3 : Dérogations dans les entreprises dépourvues de délégué syndical
+                                          Sous-section 3 : Modalités de négociation dans les entreprises dépourvues de délégué syndical
                                           
                                              
-                                                Paragraphe 1 : Conditions de la négociation dérogatoire.
+                                                Paragraphe 1 : Conclusion par les représentants élus au comité d'entreprise ou les délégués du personnel
                                                  (Articles L2232-21 à L2232-22)
                                              
                                           
                                           
                                              
-                                                Paragraphe 2 : Conclusion par les représentants élus au comité d'entreprise ou les délégués du personnel.
+                                                Paragraphe 2 : Conclusion par un ou plusieurs salariés mandatés
                                                  (Articles L2232-23 à L2232-24)
                                              
                                           
                                           
                                              
-                                                Paragraphe 3 : Conclusion par un ou plusieurs salariés mandatés.
+                                                Paragraphe 3 : Conditions de négociation, de validité, de révision et de dénonciation des accords conclus dans les entreprises dépourvues de délégué syndical
                                                  (Articles L2232-25 à L2232-28)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 4 : Renouvellement, révision, dénonciation.
-                                                 (Article L2232-29)
                                              
                                           
                                        
@@ -2384,7 +2442,7 @@
                                     
                                        
                                           Sous-section unique : Gestion prévisionnelle des emplois et prévention des conséquences des mutations économiques.
-                                           (Articles L2242-15 à L2242-19)
+                                           (Articles L2242-15 à L2242-20)
                                        
                                     
                                  
@@ -2490,7 +2548,7 @@
                               
                                  
                                     Section 6 : Mise en cause.
-                                     (Article L2261-14)
+                                     (Articles L2261-14 à L2261-14-1)
                                  
                               
                               
@@ -3604,11 +3662,103 @@
                   
                   
                      
-                        TITRE VII : COMITÉ D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
+                        TITRE VII : PARTICIPATION DES SALARIÉS DANS LES SOCIÉTÉS ISSUES DE FUSIONS TRANSFRONTALIÈRES.
+                        
+                           
+                              Chapitre Ier : Dispositions générales.
+                               (Articles L2371-1 à L2371-5)
+                           
+                        
+                        
+                           
+                              Chapitre II : Participation des salariés dans la société issue d'une fusion transfrontalière par accord du groupe spécial de négociation.
+                              
+                                 
+                                    Section 1 : Groupe spécial de négociation.
+                                    
+                                       
+                                          Sous-section 1 : Mise en place et objet. 
+                                           (Articles L2372-1 à L2372-2)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Désignation, élection et statut des membres.
+                                           (Article L2372-3)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Fonctionnement. 
+
+
+
+
+
+                                           (Articles L2372-4 à L2372-5)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Contenu de l'accord. 
+                                     (Articles L2372-6 à L2372-8)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre III : Comité de la société issue de la fusion transfrontalière et participation des salariés en l'absence d'accord.
+                              
+                                 
+                                    Section 1 : Comité de la société issue de la fusion transfrontalière.
+                                    
+                                       
+                                          Sous-section 1 :  Mise en place.
+                                           (Articles L2373-1 à L2373-2)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 :  Attributions, composition et fonctionnement.
+                                           (Article L2373-3)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Participation des salariés au conseil d'administration et de surveillance. 
+
+
+                                     (Articles L2373-4 à L2373-8)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre IV : Dispositions applicables postérieurement à l'immatriculation de la société issue de la fusion transfrontalière.
+                               (Articles L2374-1 à L2374-4)
+                           
+                        
+                        
+                           
+                              Chapitre V : Dispositions pénales.
+                               (Article L2375-1)
+                           
+                        
+                     
+                  
+                  
+                     
+                        TITRE VIII : COMITÉ D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
                         
                            
                               Chapitre unique.
-                               (Articles L2371-1 à L2371-2)
+                               (Articles L2381-1 à L2381-2)
                            
                         
                      
@@ -3701,7 +3851,7 @@
                               
                               
                                  
-                                    Section 6 : Licenciement d'un membre du groupe spécial de négociation, d'un représentant au comité de la société européenne ou d'un représentant au comité de la société coopérative européenne.
+                                    Section 6 : Licenciement d'un membre du groupe spécial de négociation, d'un représentant au comité de la société européenne, d'un représentant au comité de la société coopérative européenne ou d'un représentant au comité de la société issue d'une fusion transfrontalière.
                                      (Article L2411-12)
                                  
                               
@@ -3807,7 +3957,7 @@
                               
                               
                                  
-                                    Section 6 : Membre du groupe spécial de négociation et représentant au comité de la société européenne.
+                                    Section 6 : Membre du groupe spécial de négociation et représentant au comité de la société européenne, au comité de la société coopérative européenne ou au comité de la société issue de la fusion transfrontalière.
                                      (Article L2412-6)
                                  
                               
@@ -3966,8 +4116,8 @@
                         
                         
                            
-                              Chapitre IV : Membre du groupe spécial de négociation, du comité d'entreprise européen ou du comité de la société européenne.
-                               (Articles L2434-1 à L2434-2)
+                              Chapitre IV : Membre du groupe spécial de négociation, du comité d'entreprise européen, du comité de la société européenne, du comité de la société coopérative européenne ou du comité de la société issue de la fusion transfrontalière.
+                               (Articles L2434-1 à L2434-4)
                            
                         
                         
@@ -4262,12 +4412,6 @@
                                                  (Articles L3121-24 à L3121-25)
                                              
                                           
-                                          
-                                             
-                                                Paragraphe 3 : Repos compensateur obligatoire.
-                                                 (Articles L3121-26 à L3121-32)
-                                             
-                                          
                                        
                                     
                                  
@@ -4300,37 +4444,25 @@
                                     Section 4 : Conventions de forfait
                                     
                                        
-                                          Sous-section 1 : Dispositions applicables aux cadres
-                                          
-                                             
-                                                Paragraphe 1 : Cadres intéressés.
-                                                 (Articles L3121-38 à L3121-39)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Mise en place des conventions de forfait.
-                                                 (Articles L3121-40 à L3121-41)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Forfait en heures sur l'année.
-                                                 (Articles L3121-42 à L3121-44)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 4 : Forfait en jours sur l'année.
-                                                 (Articles L3121-45 à L3121-50)
-                                             
-                                          
+                                          Sous-section 1 : Mise en place des conventions de forfait
+                                           (Articles L3121-38 à L3121-41)
                                        
                                     
                                     
                                        
-                                          Sous-section 2 : Salariés non cadres.
-                                           (Article L3121-51)
+                                          Sous-section 2 : Conventions de forfait sur l'année
+                                          
+                                             
+                                                Paragraphe 1 : Conventions de forfait en heures sur l'année
+                                                 (Article L3121-42)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Conventions de forfait en jours sur l'année
+                                                 (Articles L3121-43 à L3121-48)
+                                             
+                                          
                                        
                                     
                                  
@@ -4348,47 +4480,8 @@
                               Chapitre II : Répartition et aménagement des horaires
                               
                                  
-                                    Section 1 : Répartition de l'horaire collectif
-                                    
-                                       
-                                          Sous-section 1 : Répartition de l'horaire sur une ou plusieurs semaines
-                                          
-                                             
-                                                Paragraphe 1 : Semaine civile.
-                                                 (Article L3122-1)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Cycles de travail.
-                                                 (Articles L3122-2 à L3122-5)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Jours de repos sur quatre semaines.
-                                                 (Articles L3122-6 à L3122-8)
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Répartition de l'horaire sur tout ou partie de l'année
-                                          
-                                             
-                                                Paragraphe 1 : Modulation du temps de travail.
-                                                 (Articles L3122-9 à L3122-18)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Attribution de jours de repos dans le cadre de l'année.
-                                                 (Articles L3122-19 à L3122-22)
-                                             
-                                          
-                                       
-                                    
+                                    Section 1 : Répartition des horaires sur une période supérieure à la semaine et au plus égale à l'année
+                                     (Articles L3122-1 à L3122-5)
                                  
                               
                               
@@ -4503,12 +4596,6 @@
                                        
                                           Sous-section 7 : Modification de la répartition de la durée du travail.
                                            (Articles L3123-21 à L3123-24)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 8 : Modulation de la durée du travail.
-                                           (Articles L3123-25 à L3123-28)
                                        
                                     
                                     
@@ -4948,25 +5035,25 @@
                         TITRE V : COMPTE ÉPARGNE-TEMPS
                         
                            
-                              Chapitre Ier : Objet et mise en place.
-                               (Articles L3151-1 à L3151-2)
+                              Chapitre Ier : Objet
+                               (Article L3151-1)
                            
                         
                         
                            
-                              Chapitre II : Constitution des droits.
-                               (Articles L3152-1 à L3152-2)
+                              Chapitre II : Mise en place
+                               (Articles L3152-1 à L3152-3)
                            
                         
                         
                            
                               Chapitre III : Utilisation.
-                               (Articles L3153-1 à L3153-4)
+                               (Articles L3153-1 à L3153-3)
                            
                         
                         
                            
-                              Chapitre IV : Gestion et liquidation.
+                              Chapitre IV : Garantie et liquidation des droits
                                (Articles L3154-1 à L3154-3)
                            
                         
@@ -5694,7 +5781,7 @@
                               
                                  
                                     Section 3 : Composition et gestion du plan.
-                                     (Articles L3332-15 à L3332-17)
+                                     (Articles L3332-15 à L3332-17-1)
                                  
                               
                               
@@ -8131,7 +8218,7 @@
                         
                            
                               Chapitre II : Radiation de la liste des demandeurs d'emploi.
-                               (Article L5412-1)
+                               (Articles L5412-1 à L5412-2)
                            
                         
                         
@@ -8219,12 +8306,6 @@
                                        
                                           Sous-section 3 : Allocation temporaire d'attente.
                                            (Articles L5423-8 à L5423-14)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 4 : Allocation forfaitaire du contrat nouvelles embauches.
-                                           (Articles L5423-15 à L5423-17)
                                        
                                     
                                     
@@ -9195,7 +9276,7 @@
                               
                                  
                                     Section 1 : Conditions d'ouverture.
-                                     (Articles L6323-1 à L6323-4)
+                                     (Articles L6323-1 à L6323-3)
                                  
                               
                               
@@ -9934,6 +10015,12 @@
                                  
                                     Section 3 : Carte d'identité professionnelle.
                                      (Article L7111-6)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Représentation professionnelle
+                                     (Articles L7111-7 à L7111-10)
                                  
                               
                            
@@ -10769,7 +10856,7 @@
                               
                                  
                                     Section 3 : Travail dissimulé par dissimulation d'emploi salarié.
-                                     (Articles L8221-5 à L8221-6)
+                                     (Articles L8221-5 à L8221-6-1)
                                  
                               
                               
@@ -11583,8 +11670,14 @@
                               Chapitre VII : Autres cas de rupture
                               
                                  
-                                     Section unique  Retraite
+                                    Section 1 : Retraite
                                      (Articles D1237-1 à D1237-2)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Rupture conventionnelle
+                                     (Article R1237-3)
                                  
                               
                            
@@ -12256,13 +12349,13 @@
                                     
                                        
                                           Sous-section 4 : Conseillers prud'hommes
-                                           (Articles R1423-55 à R1423-62)
+                                           (Articles R1423-55 à D1423-70)
                                        
                                     
                                     
                                        
                                           Sous-section 5 : Présidents et vice-présidents
-                                           (Articles R1423-63 à R1423-64)
+                                           (Articles D1423-71 à D1423-72)
                                        
                                     
                                  
@@ -23633,7 +23726,7 @@
                                     
                                        
                                           Sous-section 1 : Durée du travail et repos
-                                           (Articles R7124-27 à R7124-30)
+                                           (Articles R7124-27 à R7124-30-1)
                                        
                                     
                                     
