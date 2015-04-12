@@ -461,78 +461,13 @@
                    (Article L140-1)
                   
                      
-                        Chapitre préliminaire : Egalité de rémunération entre les hommes et les femmes.
-                         (Articles L140-2 à L140-9)
-                     
-                  
-                  
-                     
-                        Chapitre Ier : Salaire minimum de croissance
-                        
-                           
-                              Section 1 : Dispositions générales.
-                               (Articles L141-1 à L141-9)
-                           
-                        
-                        
-                           
-                              Section 2 : Rémunération mensuelle minimale.
-                               (Articles L141-10 à L141-17)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre II : Heures supplémentaires - Prime de transport - Conversion de certains avantages en nature.
-                         (Articles L142-1 à L142-2)
-                     
-                  
-                  
-                     
                         Chapitre III : PAIEMENT DU SALAIRE
-                        
-                           
-                              SECTION 1 : MODE DE PAIEMENT DU SALAIRE .
-                               (Articles L143-1 à L143-4)
-                           
-                        
                         
                            
                               Section 2 : Privilèges et garanties de la créance de salaire.
                                (Articles L143-6 à L143-13-1)
                            
                         
-                        
-                           
-                              Section 3 : Prescription de l'action en paiement du salaire.
-                               (Article L143-14)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre IV : Retenues sur le salaire.
-                         (Articles L144-1 à L144-3)
-                     
-                  
-                  
-                     
-                        Chapitre V : Saisie et cession de rémunérations dues par un employeur.
-                         (Articles L145-1 à L145-13)
-                     
-                  
-                  
-                     
-                        Chapitre VI : Salaire de la femme mariée.
-                         (Article L146-1)
-                     
-                  
-                  
-                     
-                        Chapitre VII : Règles particulières au contrôle et à la répartition des pourboires.
-                         (Articles L147-1 à L147-2)
                      
                   
                   
@@ -548,77 +483,7 @@
                   Titre V : Pénalités
                   
                      
-                        Chapitre Ier : Apprentissage.
-                         (Article L151-1)
-                     
-                  
-                  
-                     
-                        Chapitre II : Contrat de travail
-                        
-                           
-                              Section 1 : Contrat de travail - Règlement intérieur
-                              
-                                 
-                                    Sous-section 1 : Contrat de travail.
-                                     (Articles L152-1 à L152-1-4)
-                                 
-                              
-                              
-                                 
-                                    Sous-section 2 : Règlement intérieur.
-                                     (Article L152-1-5)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Section 2 : Travail temporaire.
-                               (Articles L152-2 à L152-2-2)
-                           
-                        
-                        
-                           
-                              Section 3 : Marchandage
-                               (Articles L152-3 à L152-3-1)
-                           
-                        
-                        
-                           
-                              Section 4 : Cautionnement.
-                               (Article L152-4)
-                           
-                        
-                        
-                           
-                              Section 5 : Groupements d'employeurs.
-                               (Article L152-5)
-                           
-                        
-                        
-                           
-                              Section 7 : Violation des secrets de fabrique
-                               (Article L152-7)
-                           
-                        
-                     
-                  
-                  
-                     
-                        Chapitre III : Conventions et accords collectifs de travail.
-                         (Articles L153-1 à L153-2)
-                     
-                  
-                  
-                     
                         Chapitre IV : SALAIRE
-                        
-                           
-                              Section 1 : Salaire.
-                               (Article L154-1)
-                           
-                        
                         
                            
                               Section 3 : Economat.
@@ -1049,8 +914,8 @@
                         
                         
                            
-                              Section 4 : Agence nationale pour l'emploi.
-                               (Articles L311-7 à L311-8)
+                              Section 4 : Placement et accompagnement des demandeurs d'emploi.
+                               (Articles L311-7 à L311-7-12)
                            
                         
                         
@@ -2447,23 +2312,6 @@
                                (Articles L814-1 à L814-4)
                            
                         
-                     
-                  
-               
-            
-            
-               
-                  Titre II : Réglementation du travail
-                  
-                     
-                        Chapitre Ier : Durée du travail
-                         (Article L821-1)
-                     
-                  
-                  
-                     
-                        Chapitre IV : Médecine du travail
-                         (Article L824-1)
                      
                   
                
