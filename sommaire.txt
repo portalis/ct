@@ -5529,7 +5529,7 @@
             
             
                
-                  LIVRE III : INTÉRESSEMENT, PARTICIPATION ET ÉPARGNE SALARIALE
+                  LIVRE III : DIVIDENDE DU TRAVAIL : INTÉRESSEMENT, PARTICIPATION ET ÉPARGNE. SALARIALE
                   
                      
                         TITRE Ier : INTÉRESSEMENT
@@ -5542,7 +5542,7 @@
                         
                            
                               Chapitre II : Mise en place de l'intéressement.
-                               (Articles L3312-1 à L3312-7)
+                               (Articles L3312-1 à L3312-8)
                            
                         
                         
@@ -5699,7 +5699,7 @@
                               
                               
                                  
-                                    Section 3 : Indisponibilité des droits des salariés.
+                                    Section 3 : Règles de disponibilité des droits des salariés.
                                      (Article L3324-10)
                                  
                               
@@ -5822,7 +5822,7 @@
                               
                                  
                                     Section 1 : Mise en place.
-                                     (Articles L3334-1 à L3334-5)
+                                     (Articles L3334-1 à L3334-5-1)
                                  
                               
                               
@@ -5939,7 +5939,8 @@
                         
                         
                            
-                              Chapitre VI : Conseil supérieur de la participation.
+                              Chapitre VI : Conseil d'orientation de la participation, de l'intéressement, de l'épargne salariale et de l'actionnariat salarié
+                               (Article L3346-1)
                            
                         
                      
