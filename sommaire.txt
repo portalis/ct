@@ -1207,6 +1207,12 @@
                               
                               
                                  
+                                    Section 6 : Dispositions applicables aux employeurs publics
+                                     (Articles L1251-60 à L1251-63)
+                                 
+                              
+                              
+                                 
                                     Section 7 : Portage salarial.
                                      (Article L1251-64)
                                  
@@ -1381,14 +1387,8 @@
                         
                         
                            
-                              Chapitre III : Titre emploi-entreprise.
-                               (Articles L1273-1 à L1273-6)
-                           
-                        
-                        
-                           
-                              Chapitre IV : Chèque-emploi pour les très petites entreprises.
-                               (Articles L1274-1 à L1274-7)
+                              Chapitre III : Titre Emploi-Service Entreprise.
+                               (Articles L1273-1 à L1273-7)
                            
                         
                      
@@ -4643,7 +4643,7 @@
                               
                                  
                                     Section 1 : Principes.
-                                     (Articles L3132-1 à L3132-3)
+                                     (Articles L3132-1 à L3132-3-1)
                                  
                               
                               
@@ -4734,7 +4734,7 @@
                                                 
                                                    
                                                       Sous-paragraphe 1 : Dérogations accordées par le préfet.
-                                                       (Articles L3132-20 à L3132-25)
+                                                       (Articles L3132-20 à L3132-25-6)
                                                    
                                                 
                                                 
@@ -6567,45 +6567,22 @@
                   
                   
                      
-                        TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTS IONISANTS
+                        TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTS
                         
                            
-                              Chapitre Ier : Principes et dispositions d'application.
+                              Chapitre Ier : Prévention des risques d'exposition aux rayonnements ionisants.
                                (Articles L4451-1 à L4451-2)
                            
                         
                         
                            
-                              Chapitre II : Aménagement technique des locaux de travail.
+                              Chapitre II : Prévention des risques d'exposition aux rayonnements optiques artificiels.
                               Le présent chapitre ne comprend pas de dispositions législatives.
                            
                         
                         
                            
-                              Chapitre III : Conditions d'emploi et de suivi des travailleurs exposés.
-                           
-                        
-                        
-                           
-                              Chapitre IV : Surveillance médicale.
-                              Le présent chapitre ne comprend pas de dispositions législatives.
-                           
-                        
-                        
-                           
-                              Chapitre V : Situations anormales de travail.
-                              Le présent chapitre ne comprend pas de dispositions législatives.
-                           
-                        
-                        
-                           
-                              Chapitre VI : Organisation de la radioprotection.
-                              Le présent chapitre ne comprend pas de dispositions législatives.
-                           
-                        
-                        
-                           
-                              Chapitre VII : Règles applicables en cas d'exposition professionnelle liée à la radioactivité naturelle.
+                              Chapitre III : Prévention des risques d'exposition aux champs électromagnétiques.
                               Le présent chapitre ne comprend pas de dispositions législatives.
                            
                         
@@ -6613,25 +6590,10 @@
                   
                   
                      
-                        TITRE VI : PREVENTION DES RISQUES EN MILIEU HYPERBARE
+                        TITRE VI : AUTRES RISQUES
                         
                            
-                              Chapitre Ier :  Dispositions générales 
-                           
-                        
-                        
-                           
-                              Chapitre II : Evaluation des risques 
-                           
-                        
-                        
-                           
-                              Chapitre III : Mesures et moyens de prévention 
-                           
-                        
-                        
-                           
-                              Chapitre IV : Surveillance médicale 
+                              Chapitre Ier :  Prévention des risques en milieu hyperbare.
                            
                         
                      
@@ -6846,13 +6808,13 @@
                         
                         
                            
-                              Chapitre III : Evaluation des risques.
+                              Chapitre III : Interventions sur les équipements élévateurs et installés à demeure.
                               Le présent chapitre ne comprend pas de dispositions législatives
                            
                         
                         
                            
-                              Chapitre IV : Mesures et moyens de prévention.
+                              Chapitre IV : Opérations sur les installations électriques et dans leur voisinage.
                               Le présent chapitre ne comprend pas de dispositions législatives
                            
                         
@@ -7222,7 +7184,7 @@
                         
                            
                               Chapitre III : Infractions aux règles concernant le travail des jeunes et des femmes enceintes, venant d'accoucher ou allaitant.
-                               (Article L4743-1)
+                               (Articles L4743-1 à L4743-2)
                            
                         
                         
@@ -7484,7 +7446,13 @@
                                     
                                        
                                           Sous-section 5 : Ateliers et chantiers d'insertion.
-                                           (Article L5132-15)
+                                           (Articles L5132-15 à L5132-15-1)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 6 : Groupes économiques solidaires.
+                                           (Article L5132-15-2)
                                        
                                     
                                  
@@ -7499,8 +7467,21 @@
                         
                         
                            
-                              Chapitre III : Prime de retour à l'emploi.
-                               (Articles L5133-1 à L5133-7)
+                              Chapitre III : Prime de retour à  l'emploi et aide personnalisée de retour à l'emploi .
+                              
+                                 
+                                    Section 1 : Prime de retour à l'emploi.
+                                     (Articles L5133-1 à L5133-7)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Aide personnalisée de retour à l'emploi 
+
+
+                                     (Articles L5133-8 à L5133-10)
+                                 
+                              
                            
                         
                         
@@ -8024,7 +8005,7 @@
                         
                         
                            
-                              Chapitre III : Agence nationale de l'accueil des étrangers et des migrations
+                              Chapitre III : Office français de l'immigration et de l'intégration
                               
                                  
                                     Section 1 : Missions et exercice des missions.
@@ -8278,7 +8259,6 @@
                                     
                                        
                                           Sous-section 5 : Allocation équivalent retraite.
-                                           (Article L5423-19)
                                        
                                     
                                  
@@ -8467,12 +8447,6 @@
                                        
                                           Sous-section 2 : Contrat d'avenir.
                                            (Article L5522-2)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Contrat jeune en entreprise.
-                                           (Articles L5522-3 à L5522-4)
                                        
                                     
                                     
@@ -9975,7 +9949,7 @@
                               
                                  
                                     Section 2 : Définitions.
-                                     (Articles L7111-3 à L7111-5)
+                                     (Articles L7111-3 à L7111-5-1)
                                  
                               
                               
@@ -10012,7 +9986,7 @@
                         
                            
                               Chapitre III : Rémunération.
-                               (Articles L7113-1 à L7113-2)
+                               (Articles L7113-1 à L7113-4)
                            
                         
                         
@@ -11395,7 +11369,7 @@
                                     
                                     
                                        
-                                          Sous-section 3 : Changements temporaires d'affectation
+                                          Sous-section 3 : Autorisations d'absence et congé de maternité.
                                            (Article D1225-4-1)
                                        
                                     
@@ -12084,14 +12058,8 @@
                         
                         
                            
-                              Chapitre III : Titre emploi-entreprise
-                               (Articles R1273-1 à R1273-6)
-                           
-                        
-                        
-                           
-                              Chapitre IV : Chèque-emploi pour les très petites entreprises
-                               (Articles D1274-1 à D1274-7)
+                              Chapitre III : Titre emploi-service entreprise
+                               (Articles D1273-1 à D1273-8)
                            
                         
                      
@@ -12322,7 +12290,7 @@
                                     
                                        
                                           Sous-section 5 : Présidents et vice-présidents
-                                           (Articles D1423-71 à D1423-72)
+                                           (Articles D1423-71 à D1423-75)
                                        
                                     
                                  
@@ -13385,7 +13353,13 @@
                                     
                                     
                                        
-                                          Sous-section 3 : Information et consultation périodiques du comité d'entreprise
+                                          Sous-section 3 : Information et consultation   sur les interventions publiques directes.
+                                           (Article R2323-7-1)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Information et consultation périodiques du comité d'entreprise.
                                           
                                              
                                                 Paragraphe 1 : Rapports et information dans les entreprises  de moins de trois cents salariés
@@ -13402,19 +13376,19 @@
                                     
                                     
                                        
-                                          Sous-section 4 : Participation aux conseils d'administration  ou de surveillance des sociétés
+                                          Sous-section 5 : Participation aux conseils d'administration  ou de surveillance des sociétés.
                                            (Articles R2323-13 à R2323-16)
                                        
                                     
                                     
                                        
-                                          Sous-section 5 : Bilan social
+                                          Sous-section 6 : Bilan social.
                                            (Article R2323-17)
                                        
                                     
                                     
                                        
-                                          Sous-section 6 : Droit d'alerte économique
+                                          Sous-section 7 : Droit d'alerte économique.
                                            (Articles R2323-18 à R2323-19)
                                        
                                     
@@ -14395,7 +14369,7 @@
                               Chapitre III : Travail à temps partiel et travail intermittent
                               
                                  
-                                     Section unique  Travail à temps partiel
+                                    Section 1 : Travail à temps partiel
                                     
                                        
                                           Sous-section 1 : Mise en œuvre à l'initiative de l'employeur
@@ -14408,6 +14382,12 @@
                                            (Article D3123-3)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Travail intermittent
+                                     (Article D3123-4)
                                  
                               
                            
@@ -14743,7 +14723,7 @@
                         
                            
                               Chapitre IV : Gestion et liquidation
-                               (Articles D3154-1 à D3154-4)
+                               (Articles D3154-1 à D3154-6)
                            
                         
                      
@@ -15206,7 +15186,7 @@
                         
                            
                               Chapitre Ier : Champ d'application
-                               (Articles R3311-1 à R3311-2)
+                               (Articles R3311-1 à D3311-4)
                            
                         
                         
@@ -15231,6 +15211,12 @@
                                        
                                            Sous-section 2 : Modification et dénonciation.
                                            (Articles D3313-5 à D3313-7)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Reconduction tacite.
+                                           (Article D3313-7-1)
                                        
                                     
                                  
@@ -15264,8 +15250,7 @@
                         
                            
                               Chapitre Ier : Champ d'application
-                              
-
+                               (Articles R3321-1 à D3321-2)
                            
                         
                         
@@ -15331,8 +15316,8 @@
                               
                               
                                  
-                                     Section 4  Indisponibilité des droits des salariés
-                                     (Articles R3324-22 à R3324-24)
+                                    Section 4 : Disponibilité des droits des bénéficiaires.
+                                     (Articles R3324-21-1 à R3324-24)
                                  
                               
                               
@@ -15369,6 +15354,7 @@
                         
                            
                               Chapitre Ier : Champ d'application
+                               (Articles R3331-1 à D3331-3)
                            
                         
                         
@@ -15400,7 +15386,7 @@
                               
                                  
                                      Section 3 : Composition et gestion du plan.
-                                     (Articles R3332-14 à R3332-21)
+                                     (Articles R3332-14 à R3332-21-5)
                                  
                               
                               
@@ -15478,6 +15464,7 @@
                         
                            
                               Chapitre II : Conditions d'ancienneté
+                               (Article D3342-1)
                            
                         
                         
@@ -15502,19 +15489,8 @@
                         
                         
                            
-                              Chapitre VI : Conseil supérieur de la participation
-                              
-                                 
-                                     Section 1 : Missions.
-                                     (Articles D3346-1 à D3346-2)
-                                 
-                              
-                              
-                                 
-                                     Section 2 : Organisation et fonctionnement.
-                                     (Articles D3346-3 à D3346-9)
-                                 
-                              
+                              Chapitre VI : Conseil d'orientation de la participation, de l'intéressement de l'épargne salariale et de l'actionnariat salarié.
+                               (Articles D3346-1 à D3346-7)
                            
                         
                      
@@ -15584,6 +15560,12 @@
                                  
                                      Section 2 : Paiement du salaire.
                                      (Article D3423-10)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Dispositions pénales.
+                                     (Article R3423-11)
                                  
                               
                            
@@ -15985,7 +15967,7 @@
                               
                                  
                                      Section 5 : Accessibilité et aménagement des postes de travail  des travailleurs handicapés
-                                     (Articles R4214-26 à R4214-29)
+                                     (Articles R4214-26 à R4214-28)
                                  
                               
                            
@@ -17873,7 +17855,7 @@
                               
                                  
                                     Section 1 :  Attributions particulières.
-                                     (Articles R4523-1 à R4523-4)
+                                     (Articles R4523-1 à R4523-4-1)
                                  
                               
                               
@@ -18370,7 +18352,7 @@
                   
                   
                      
-                        TITRE IV : AUTRES ACTIVITÉS ET MANUTENTION
+                        TITRE IV : AUTRES ACTIVITÉS ET OPERATIONS.
                         
                            
                               Chapitre Ier : Manutention des charges
@@ -19807,7 +19789,7 @@
                                     
                                        
                                           Sous-section 1 : Dispositions communes
-                                           (Articles D5122-30 à D5122-31)
+                                           (Article D5122-30)
                                        
                                     
                                     
@@ -19839,7 +19821,7 @@
                                           
                                              
                                                 Paragraphe 2 : Indemnisation
-                                                 (Articles D5122-46 à D5122-50)
+                                                 (Articles D5122-46 à D5122-51)
                                              
                                           
                                        
@@ -20011,6 +19993,12 @@
                                            (Articles R5132-7 à R5132-10)
                                        
                                     
+                                    
+                                       
+                                          Sous-section 3 : Période d'immersion.
+                                           (Articles D5132-10-1 à D5132-10-5)
+                                       
+                                    
                                  
                               
                               
@@ -20032,6 +20020,12 @@
                                        
                                           Sous-section 3 : Aide financière
                                            (Articles R5132-23 à R5132-26)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Période d'immersion.
+                                           (Articles D5132-26-1 à D5132-26-5)
                                        
                                     
                                  
@@ -20057,6 +20051,12 @@
                                            (Articles R5132-37 à R5132-43)
                                        
                                     
+                                    
+                                       
+                                          Sous-section 4 : Période d'immersion.
+                                           (Articles D5132-43-1 à D5132-43-5)
+                                       
+                                    
                                  
                               
                               
@@ -20070,7 +20070,20 @@
                         
                            
                               Chapitre III : Prime de retour à l'emploi
-                               (Articles R5133-1 à R5133-8)
+                              
+                                 
+                                    Section 1 : Prime de retour à l'emploi
+                                     (Articles R5133-1 à R5133-8)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Aide personnalisée de retour à l'emploi 
+
+
+                                     (Articles R5133-9 à R5133-17)
+                                 
+                              
                            
                         
                         
@@ -20133,6 +20146,12 @@
                                     
                                     
                                        
+                                          Sous-section 4 : Période d'immersion.
+                                           (Articles D5134-37-1 à D5134-37-7)
+                                       
+                                    
+                                    
+                                       
                                           Sous-section 2 : Suivi financier et statistique
                                            (Articles R5134-23 à R5134-28)
                                        
@@ -20180,7 +20199,7 @@
                                     
                                        
                                           Sous-section 4 : Suivi financier et statistique
-                                           (Articles R5134-64 à R5134-73)
+                                           (Articles R5134-64 à R5134-72)
                                        
                                     
                                     
@@ -20216,6 +20235,12 @@
                                        
                                           Sous-section 6 : Commission de pilotage
                                            (Article R5134-87)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 7 : Période d'immersion.
+                                           (Articles D5134-87-1 à D5134-87-7)
                                        
                                     
                                  
@@ -20394,12 +20419,6 @@
                                        
                                           Sous-section 2 : Chéquier-conseil
                                            (Articles R5141-31 à R5141-33)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Convention d'accompagnateur bénévole
-                                           (Articles R5141-34 à R5141-36)
                                        
                                     
                                  
@@ -21449,7 +21468,7 @@
                                     
                                        
                                           Sous-section 1 : Etat annuel
-                                           (Articles R5521-1 à D5521-5)
+                                           (Article D5521-5)
                                        
                                     
                                     
@@ -22273,7 +22292,7 @@
                               
                                  
                                     Section 1 : Indemnité compensatrice forfaitaire
-                                     (Articles R6243-1 à R6243-4)
+                                     (Articles R6243-1 à R6243-6)
                                  
                               
                               
@@ -23624,7 +23643,7 @@
                               
                                  
                                     Section 4 : Dispositions pénales
-                                     (Articles R7122-40 à R7122-42)
+                                     (Articles R7122-40 à R7122-43)
                                  
                               
                            
@@ -23769,7 +23788,7 @@
                                     
                                        
                                           Sous-section 1 : Durée du travail et repos
-                                           (Articles R7124-27 à R7124-30-1)
+                                           (Articles R7124-27 à R7124-30-2)
                                        
                                     
                                     
@@ -24053,40 +24072,6 @@
                         
                         
                            
-                              Chapitre II : Accès à la profession
-                              
-                                 
-                                    Section 1 : Délivrance de la carte d'identité professionnelle
-                                     (Articles D7312-1 à D7312-14)
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Renouvellement et modification de la carte
-                                    
-                                       
-                                          Sous-section 1 : Renouvellement
-                                           (Articles D7312-15 à D7312-18)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Modifications
-                                           (Articles D7312-19 à D7312-21)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 3 : Restitution, retrait et perte
-                                     (Articles D7312-22 à D7312-25)
-                                 
-                              
-                           
-                        
-                        
-                           
                               Chapitre III : Contrat de travail
                                (Article D7313-1)
                            
@@ -24350,7 +24335,7 @@
                         
                            
                               Chapitre IV : Dispositions pénales
-                               (Article R8114-1)
+                               (Articles R8114-1 à R8114-2)
                            
                         
                      
@@ -25362,6 +25347,17 @@
                      
                         Chapitre Ier : Travailleurs intermittents des transports : congés payés.
                          (Articles D741-1 à D741-8)
+                     
+                  
+                  
+                     
+                        Chapitre II : Marins
+                        
+                           
+                              Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.
+                               (Articles D742-3 à D742-11)
+                           
+                        
                      
                   
                   
