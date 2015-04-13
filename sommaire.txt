@@ -2279,19 +2279,19 @@
                                           
                                              
                                                 Paragraphe 1 : Conclusion par les représentants élus au comité d'entreprise ou les délégués du personnel
-                                                 (Articles L2232-21 à L2232-22)
+                                                 (Articles L2232-21 à L2232-23)
                                              
                                           
                                           
                                              
                                                 Paragraphe 2 : Conclusion par un ou plusieurs salariés mandatés
-                                                 (Articles L2232-23 à L2232-24)
+                                                 (Articles L2232-24 à L2232-27)
                                              
                                           
                                           
                                              
                                                 Paragraphe 3 : Conditions de négociation, de validité, de révision et de dénonciation des accords conclus dans les entreprises dépourvues de délégué syndical
-                                                 (Articles L2232-25 à L2232-28)
+                                                 (Articles L2232-27-1 à L2232-29)
                                              
                                           
                                        
@@ -7529,6 +7529,12 @@
                               
                               
                                  
+                                    Section 1-1 : Contrat unique d'insertion.
+                                     (Articles L5134-19-1 à L5134-19-5)
+                                 
+                              
+                              
+                                 
                                     Section 2 : Contrat d'accompagnement dans l'emploi
                                     
                                        
@@ -7539,7 +7545,7 @@
                                     
                                        
                                           Sous-section 2 : Convention.
-                                           (Articles L5134-21 à L5134-23)
+                                           (Articles L5134-21 à L5134-23-2)
                                        
                                     
                                     
@@ -7558,41 +7564,6 @@
                                        
                                           Sous-section 5 : Dispositions d'application.
                                            (Article L5134-34)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 3 : Contrat d'avenir
-                                    
-                                       
-                                          Sous-section 1 : Objet.
-                                           (Article L5134-35)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Conventions.
-                                           (Articles L5134-36 à L5134-40)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Contrat de travail.
-                                           (Articles L5134-41 à L5134-50)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 4 : Aide financière et exonérations.
-                                           (Articles L5134-51 à L5134-52)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 5 : Dispositions d'application.
-                                           (Article L5134-53)
                                        
                                     
                                  
@@ -7656,48 +7627,13 @@
                                     
                                        
                                           Sous-section 4 : Aide financière.
-                                           (Article L5134-72)
+                                           (Articles L5134-72 à L5134-72-2)
                                        
                                     
                                     
                                        
                                           Sous-section 5 : Dispositions d'application.
                                            (Article L5134-73)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 6 : Contrat insertion-revenu minimum d'activité
-                                    
-                                       
-                                          Sous-section 1 : Objet.
-                                           (Article L5134-74)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Conventions.
-                                           (Articles L5134-75 à L5134-81)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Contrat de travail.
-                                           (Articles L5134-82 à L5134-94)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 4 : Aide financière.
-                                           (Articles L5134-95 à L5134-97)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 5 : Dispositions d'application.
-                                           (Articles L5134-98 à L5134-99)
                                        
                                     
                                  
@@ -8604,7 +8540,7 @@
                               Chapitre III : Institutions de la formation professionnelle
                               
                                  
-                                    Section unique : Conseil national de la formation professionnelle tout au long de la vie
+                                    Section 1 : Conseil national de la formation professionnelle tout au long de la vie
                                     
                                        
                                           Sous-section 1 : Missions.
@@ -8617,6 +8553,14 @@
                                            (Article L6123-2)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Délégué à l'information et à l'orientation
+
+
+                                     (Articles L6123-3 à L6123-5)
                                  
                               
                            
@@ -9030,13 +8974,22 @@
                         
                            
                               Chapitre III : Catégories d'actions de formation.
-                               (Articles L6313-1 à L6313-11)
+                               (Articles L6313-1 à L6313-12)
                            
                         
                         
                            
-                              Chapitre IV : Droit à la qualification professionnelle.
-                               (Article L6314-1)
+                              Chapitre IV : Droit à l'information, à l'orientation et à la qualification professionnelles.
+                               (Articles L6314-1 à L6314-2)
+                           
+                        
+                        
+                           
+                              Chapitre V : Bilan d'étape professionnel et passeport orientation et formation
+
+
+
+                               (Articles L6315-1 à L6315-2)
                            
                         
                      
@@ -9058,14 +9011,8 @@
                                     Section 2 : Régimes applicables aux heures de formation
                                     
                                        
-                                          Sous-section 1 : Actions d'adaptation au poste de travail.
+                                          Sous-section 1 : Actions d'adaptation au poste de travail ou liées à l'évolution ou au maintien dans l'emploi.
                                            (Article L6321-2)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Actions liées à l'évolution des emplois ou participant au maintien dans l'emploi.
-                                           (Articles L6321-3 à L6321-5)
                                        
                                     
                                     
@@ -9209,6 +9156,13 @@
                                     
                                  
                               
+                              
+                                 
+                                    Section 4 : Formations se déroulant en dehors du temps de travail
+
+                                     (Article L6322-64)
+                                 
+                              
                            
                         
                         
@@ -9240,8 +9194,8 @@
                               
                               
                                  
-                                    Section 5 : Transfert du droit individuel à la formation.
-                                     (Articles L6323-17 à L6323-20)
+                                    Section 5 : Portabilité du droit individuel à la formation.
+                                     (Articles L6323-17 à L6323-21)
                                  
                               
                            
@@ -9304,6 +9258,17 @@
                               
                            
                         
+                        
+                           
+                              Chapitre VI : Préparation opérationnelle à l'emploi
+
+
+
+
+
+                               (Articles L6326-1 à L6326-2)
+                           
+                        
                      
                   
                   
@@ -9329,19 +9294,8 @@
                                     
                                     
                                        
-                                          Sous-section 2 : Dépenses libératoires.
-                                           (Articles L6331-4 à L6331-5)
-                                       
-                                    
-                                    
-                                       
                                           Sous-section 3 : Majoration de la contribution.
                                            (Article L6331-6)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 4 : Déclaration fiscale.
                                        
                                     
                                     
@@ -9462,13 +9416,13 @@
                                     
                                        
                                           Sous-section 1 : Agrément.
-                                           (Articles L6332-1 à L6332-2)
+                                           (Articles L6332-1 à L6332-2-1)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Gestion des fonds.
-                                           (Articles L6332-3 à L6332-5)
+                                           (Articles L6332-3 à L6332-5-1)
                                        
                                     
                                     
@@ -9510,8 +9464,8 @@
                               
                               
                                  
-                                    Section 4 : Fonds national de péréquation.
-                                     (Articles L6332-18 à L6332-22)
+                                    Section 4 : Fonds paritaire de sécurisation des parcours professionnels.
+                                     (Articles L6332-18 à L6332-22-2)
                                  
                               
                               
@@ -9623,7 +9577,19 @@
                         
                            
                               Chapitre Ier : Déclaration d'activité.
-                               (Articles L6351-1 à L6351-8)
+                              
+                                 
+                                    Section 1 : Principes généraux
+
+                                     (Article L6351-1 A)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Régime juridique de la déclaration d'activité 
+                                     (Articles L6351-1 à L6351-8)
+                                 
+                              
                            
                         
                         
@@ -9752,7 +9718,7 @@
                               
                                  
                                     Section 1 : Accès aux documents et justifications à apporter.
-                                     (Articles L6362-1 à L6362-7)
+                                     (Articles L6362-1 à L6362-7-3)
                                  
                               
                               
@@ -12860,6 +12826,13 @@
                         
                            
                               Chapitre V : Ressources et moyens
+                               (Articles D2135-1 à D2135-9)
+                           
+                        
+                        
+                           
+                              Chapitre VI : Dispositions pénales
+                              Le présent chapitre ne comporte pas de dispositions règlementaires
                            
                         
                      
@@ -14593,8 +14566,14 @@
                                     Section 1 : Congés rémunérés
                                     
                                        
-                                          Sous-section unique : Congés de formation économique et sociale  et de formation syndicale
+                                          Sous-section 1 : Congés de formation économique et sociale  et de formation syndicale
                                            (Articles R3142-1 à R3142-5)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-Section 2 : Participation à un jury
+                                           (Article D3142-5-1)
                                        
                                     
                                  
@@ -15136,7 +15115,7 @@
                                     
                                     
                                        
-                                          Sous-section 2 : Condition d'exercice de la profession de restaurateur ou assimilé
+                                          Sous-section 2 : Condition d'exercice de la profession de restaurateur ou assimilé ou des détaillants en fruits et légumes
                                            (Articles R3262-26 à R3262-32)
                                        
                                     
@@ -16332,25 +16311,31 @@
                                     
                                     
                                        
-                                           Sous-section 2 : Équipements de travail visés.
-                                           (Articles R4311-4 à R4311-8)
+                                          Sous-section 2 : Equipements de travail obéissant à des règles pour la mise sur le marché
+                                          
+                                             
+                                                Paragraphe 1 : Machines
+                                                 (Articles R4311-4 à R4311-5)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Quasi-machines
+                                                 (Article R4311-6)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Autres équipements de travail auxquels s'appliquent des dispositions pour la mise sur le marché
+                                                 (Article R4311-7)
+                                             
+                                          
                                        
                                     
                                     
                                        
-                                           Sous-section 3 : Moyens de protection visés
-                                          
-                                             
-                                                 Paragraphe 1 : Composants de sécurité
-                                                 (Articles R4311-9 à R4311-11)
-                                             
-                                          
-                                          
-                                             
-                                                 Paragraphe 2 : Équipements de protection individuelle
-                                                 (Articles R4311-12 à R4311-15)
-                                             
-                                          
+                                          Sous-section 3 : Equipements de protection individuelle
+                                           (Articles R4311-8 à R4311-11)
                                        
                                     
                                  
@@ -16358,7 +16343,7 @@
                               
                                  
                                      Section 2 : Dispositions d'application
-                                     (Article R4311-16)
+                                     (Articles R4311-12 à R4311-13)
                                  
                               
                            
@@ -16368,28 +16353,17 @@
                               Chapitre II : Règles techniques de conception
                               
                                  
-                                     Section 1 : Équipements de travail et composants de sécurité
+                                    Section 1 : Équipements de travail
                                     
                                        
-                                           Sous-section 1 : Équipements neufs ou considérés comme neufs
-                                          
-                                             
-                                                 Paragraphe 1 : Machines, accessoires de levage, composants d'accessoires de levage,  chaînes, câbles, sangles de levage et composants de sécurité
-                                                 (Articles R4312-1 à R4312-2)
-                                             
-                                          
-                                          
-                                             
-                                                 Paragraphe 2 :  Cabines de projection par pulvérisation, cabines et enceintes de séchage de peintures liquides, de vernis, de poudres ou de fibres sèches et cabines mixtes
-                                                 (Articles R4312-3 à R4312-18)
-                                             
-                                          
+                                          Sous-section 1 : Equipements de travail neufs ou considérés comme neufs
+                                           (Articles R4312-1 à R4312-1-2)
                                        
                                     
                                     
                                        
                                            Sous-section 2 : Équipements d'occasion
-                                           (Articles R4312-19 à R4312-22)
+                                           (Articles R4312-2 à R4312-5)
                                        
                                     
                                  
@@ -16400,13 +16374,13 @@
                                     
                                        
                                            Sous-section 1 : Équipements neufs ou considérés comme neufs
-                                           (Article R4312-23)
+                                           (Article R4312-6)
                                        
                                     
                                     
                                        
                                            Sous-section 2 : Équipements d'occasion
-                                           (Articles R4312-24 à R4312-26)
+                                           (Articles R4312-7 à R4312-9)
                                        
                                     
                                  
@@ -16418,130 +16392,122 @@
                               Chapitre III : Procédures de certification  de conformité
                               
                                  
-                                     Section 1 : Typologie des procédures de certification des équipements de travail et moyens de protection neufs ou considérés comme neufs
+                                    Section 1 : Formalités préalables à la mise sur le marché
                                     
                                        
-                                           Sous-section 1 : Catégories de certification
-                                           (Article R4313-1)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 2 : Autocertification CE
-                                           (Articles R4313-2 à R4313-4)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 3 : Procédure d'examen CE de type
-                                           (Articles R4313-5 à R4313-20)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 4 : Procédure d'examen CE de type simplifiée
-                                           (Articles R4313-21 à R4313-26)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 5 : Procédure d'examen CE de type applicable  à certains équipements de protection individuelle
+                                          Sous-section 1 : Machines, quasi-machines et équipements de protection individuelle neufs ou considérés comme neufs
                                           
                                              
-                                                 Paragraphe 1 : Choix d'un système qualité
-                                                 (Article R4313-27)
+                                                Paragraphe 1 : Machines et équipements de protection individuelle
+                                                 (Articles R4313-1 à R4313-6)
                                              
                                           
                                           
                                              
-                                                 Paragraphe 2 : Système de garantie de qualité CE
-                                                 (Articles R4313-28 à R4313-32)
+                                                Paragraphe 2 : Quasi-machines
+                                                 (Articles R4313-7 à R4313-11)
                                              
                                           
                                           
                                              
-                                                 Paragraphe 3 : Système d'assurance qualité CE de la production avec surveillance
-                                                 (Articles R4313-33 à R4313-46)
+                                                Paragraphe 3 : Dispositions d'application
+                                                 (Articles R4313-12 à R4313-13)
                                              
                                           
                                        
                                     
                                     
                                        
-                                           Sous-section 6 : Dispositions communes
-                                           (Article R4313-47)
+                                          Sous-section 2 : Equipements de travail et équipements de protection individuelle d'occasion
+                                           (Articles R4313-14 à R4313-16)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Interdictions
+                                           (Articles R4313-17 à R4313-18)
                                        
                                     
                                  
                               
                               
                                  
-                                     Section 2 :  Procédure de certification applicable à chaque catégorie d'équipement de travail ou de moyen de protection neuf ou considéré comme neuf
+                                    Section 2 :  Les procédures d'évaluation de la conformité
                                     
                                        
-                                           Sous-section 1 : Machines
-                                           (Articles R4313-48 à R4313-50)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 2 : Accessoire de levage et composants d'accessoires de levage
-                                           (Article R4313-51)
+                                          Sous-section 1 : Dispositions communes
+                                           (Article R4313-19)
                                        
                                     
                                     
                                        
-                                           Sous-section 3 : Composants de sécurité
-                                           (Articles R4313-52 à R4313-53)
+                                          Sous-section 2 : Procédures d'évaluation de la conformité applicables aux machines ainsi qu'aux équipements de protection individuelle
+                                          
+                                             
+                                                Paragraphe 1 : Evaluation de la conformité avec contrôle interne de la fabrication dite aussi procédure " d'autocertification CE ”
+                                                 (Articles R4313-20 à R4313-22)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Examen CE de type
+                                                 (Articles R4313-23 à R4313-42)
+                                             
+                                          
                                        
                                     
                                     
                                        
-                                           Sous-section 4 : Équipements de protection individuelle
-                                           (Articles R4313-54 à R4313-56)
+                                          Sous-section 3 : Le système d'assurance qualité complète
+                                           (Articles R4313-43 à R4313-56)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Procédures d'évaluation de la conformité applicables aux équipements de protection individuelle
+                                          
+                                             
+                                                Paragraphe 1 : Le système de garantie de qualité CE
+                                                 (Articles R4313-57 à R4313-61)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Le système d'assurance qualité CE de la production avec surveillance
+                                                 (Articles R4313-62 à R4313-74)
+                                             
+                                          
                                        
                                     
                                  
                               
                               
                                  
-                                     Section 3 : Certification des équipements de travail  et moyens de protection d'occasion
-                                     (Article R4313-57)
-                                 
-                              
-                              
-                                 
-                                     Section 4 : Formalités obligatoires préalables à la mise sur le marché
+                                    Section 3 : Les procédures d'évaluation de la conformité applicables à chaque catégorie de machines, équipements de travail ou d'équipements de protection individuelle
                                     
                                        
-                                           Sous-section 1 : Equipements de travail et moyens de protection neufs  ou considérés comme neufs
-                                           (Articles R4313-59 à R4313-65)
+                                          Paragraphe 1 : Machines et autres équipements de travail
+                                           (Articles R4313-75 à R4313-79)
                                        
                                     
                                     
                                        
-                                           Sous-section 2 : Equipements de travail et moyens de protection d'occasion
-                                           (Articles R4313-66 à R4313-67)
+                                          Paragraphe 2 : Equipements de protection individuelle
+                                           (Articles R4313-80 à R4313-82)
                                        
                                     
                                  
                               
                               
                                  
-                                     Section 5 : Interdictions
-                                     (Articles R4313-68 à R4313-70)
+                                    Section 4 : Organismes notifiés
+                                     (Articles R4313-83 à R4313-89)
                                  
                               
                               
                                  
-                                     Section 6 : Organismes habilités
-                                     (Articles R4313-71 à R4313-80)
-                                 
-                              
-                              
-                                 
-                                     Section 7 : Communications à l'autorité administrative  et mesures de contrôle
-                                     (Articles R4313-81 à R4313-86)
+                                    Section 5 : Communication à l'autorité administrative et mesures de contrôle
+                                     (Articles R4313-90 à R4313-95)
                                  
                               
                            
@@ -16549,7 +16515,24 @@
                         
                            
                               Chapitre IV : Procédure de sauvegarde
-                               (Articles R4314-1 à R4314-5)
+                              
+                                 
+                                    Section 1 : Procédure de sauvegarde d'initiative nationale
+                                     (Articles R4314-1 à R4314-4)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Procédure de sauvegarde consécutive à un avis de la Commission européenne
+                                     (Article R4314-5)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Recours 
+                                     (Article R4314-6)
+                                 
+                              
                            
                         
                         
@@ -17000,7 +16983,7 @@
                                           
                                              
                                                  Paragraphe 1 : Contrôle des valeurs limites d'exposition professionnelle
-                                                 (Articles R4412-76 à R4412-81)
+                                                 (Articles R4412-76 à R4412-80)
                                              
                                           
                                           
@@ -17176,7 +17159,7 @@
                                     
                                        
                                            Sous-section 2 : Fixation des valeurs limites biologiques
-                                           (Articles R4412-152 à R4412-153)
+                                           (Article R4412-152)
                                        
                                     
                                     
@@ -19309,7 +19292,7 @@
                               Chapitre Ier : Mises en demeure
                               
                                  
-                                    Section 1 : Mises en demeure du directeur départemental du travail,  de l'emploi et de la formation professionnelle.
+                                    Section 1 : Mises en demeure du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
                                      (Articles R4721-1 à R4721-3)
                                  
                               
@@ -19356,7 +19339,7 @@
                               
                                  
                                     Section 3 : Équipements de travail et moyens de protection.
-                                     (Articles R4722-5 à R4722-9)
+                                     (Articles R4722-5 à R4722-8)
                                  
                               
                               
@@ -19365,19 +19348,19 @@
                                     
                                        
                                           Sous-section 1 : Analyse de produits.
-                                           (Articles R4722-10 à R4722-12)
+                                           (Articles R4722-9 à R4722-11)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Contrôle des valeurs limites d'exposition professionnelle.
-                                           (Articles R4722-13 à R4722-14)
+                                           (Articles R4722-12 à R4722-13)
                                        
                                     
                                     
                                        
                                           Sous-section 3 : Amiante.
-                                           (Articles R4722-15 à R4722-16)
+                                           (Articles R4722-14 à R4722-15)
                                        
                                     
                                  
@@ -19385,31 +19368,31 @@
                               
                                  
                                     Section 5 : Bruit.
-                                     (Articles R4722-17 à R4722-18)
+                                     (Articles R4722-16 à R4722-17)
                                  
                               
                               
                                  
                                     Section 6 : Vibrations mécaniques.
-                                     (Articles R4722-19 à R4722-20)
+                                     (Articles R4722-18 à R4722-19)
                                  
                               
                               
                                  
                                     Section 7 : Rayonnements ionisants.
-                                     (Articles R4722-21 à R4722-22)
+                                     (Articles R4722-20 à R4722-21)
                                  
                               
                               
                                  
                                     Section 8 : Travaux du bâtiment et du génie civil.
-                                     (Articles R4722-23 à R4722-25)
+                                     (Articles R4722-22 à R4722-24)
                                  
                               
                               
                                  
                                     Section 9 : Dispositions communes.
-                                     (Articles R4722-26 à R4722-27)
+                                     (Articles R4722-25 à R4722-26)
                                  
                               
                            
@@ -19438,7 +19421,7 @@
                               
                                  
                                     Section 3 : Organismes de vérification des équipements de travail.
-                                     (Articles R4724-4 à R4724-5)
+                                     (Article R4724-4)
                                  
                               
                               
@@ -19518,7 +19501,7 @@
                               
                                  
                                     Section 1 : Infractions commises par l'employeur  ou son représentant.
-                                     (Articles R4741-1 à R4741-3)
+                                     (Articles R4741-1 à R4741-3-1)
                                  
                               
                               
@@ -19680,6 +19663,12 @@
                                            (Articles R5112-20 à R5112-22)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Demandes d'informations relatives à certains dispositifs d'aides à l'emploi
+                                     (Articles R5112-23 à D5112-24)
                                  
                               
                            
@@ -20120,196 +20109,86 @@
                               
                               
                                  
+                                    Section 1-1 : Contrat unique d'insertion
+                                    
+                                       
+                                          Sous-section 1 : Dispositions générales
+                                           (Articles D5134-14 à R5134-17)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Suivi financier et statistique
+                                           (Articles R5134-18 à D5134-25)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
                                     Section 2 : Contrat d'accompagnement dans l'emploi
                                     
                                        
-                                          Sous-section 1 : Convention
-                                           (Articles R5134-14 à R5134-22)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Aide financière et exonérations
-                                          
-                                             
-                                                Paragraphe 1 : Aide financière
-                                                 (Articles R5134-29 à R5134-34)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Exonérations
-                                                 (Articles R5134-35 à R5134-37)
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 4 : Période d'immersion.
-                                           (Articles D5134-37-1 à D5134-37-7)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Suivi financier et statistique
-                                           (Articles R5134-23 à R5134-28)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 3 : Contrat d'avenir
-                                    
-                                       
-                                          Sous-section 1 : Conventions
-                                           (Articles R5134-38 à R5134-54)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Référent
-                                           (Articles R5134-55 à R5134-57)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Contrat de travail
-                                          
-                                             
-                                                Paragraphe 1 : Conclusion
-                                                 (Articles R5134-58 à R5134-59)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Durée du travail
-                                                 (Article R5134-60)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Renouvellement, suspension et rupture du contrat
-                                                 (Articles R5134-61 à R5134-63)
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 4 : Suivi financier et statistique
-                                           (Articles R5134-64 à R5134-72)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 5 : Aide financière et exonérations
-                                          
-                                             
-                                                Paragraphe 1 : Aide financière
-                                                 (Articles R5134-74 à D5134-77)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Prime de cohésion sociale
-                                                 (Articles D5134-78 à D5134-81)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Exonérations
-                                                 (Articles R5134-82 à R5134-83)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 4 : Aide forfaitaire en cas d'embauche  en contrat de travail à durée indéterminée
-                                                 (Articles R5134-84 à R5134-86)
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 6 : Commission de pilotage
-                                           (Article R5134-87)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 7 : Période d'immersion.
-                                           (Articles D5134-87-1 à D5134-87-7)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 4 : Contrat initiative-emploi
-                                    
-                                       
-                                          Sous-section 1 : Convention
-                                           (Articles R5134-88 à R5134-96)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Suivi financier et statistique
-                                           (Article R5134-97)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Aide financière
-                                           (Articles R5134-98 à R5134-104)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 5 : Contrat insertion-revenu minimum d'activité
-                                    
-                                       
-                                          Sous-section 1 : Conventions
-                                           (Articles D5134-105 à D5134-122)
+                                          Sous-section 1 : Convention individuelle
+                                           (Articles R5134-26 à R5134-35)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Contrat de travail
+                                           (Article R5134-36)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Accompagnement
+                                           (Articles R5134-37 à R5134-39)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Aide financière et exonérations
                                           
                                              
-                                                Paragraphe 1 : Conclusion
-                                                 (Article D5134-123)
+                                                Paragraphe 1er : Aide financière
+                                                 (Articles R5134-40 à R5134-47)
                                              
                                           
                                           
                                              
-                                                Paragraphe 2 : Renouvellement, suspension et rupture du contrat
-                                                 (Articles D5134-124 à D5134-125)
+                                                Paragraphe 2 : Exonérations
+                                                 (Articles D5134-48 à R5134-50)
                                              
                                           
                                        
                                     
                                     
                                        
-                                          Sous-section 3 : Suivi financier et statistique
-                                           (Articles R5134-126 à R5134-130)
+                                          Sous-section 5 : Périodes d'immersion
+                                           (Articles D5134-50-1 à D5134-50-8)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Contrat initiative-emploi
+                                    
+                                       
+                                          Sous-section 1 : Convention individuelle
+                                           (Articles R5134-51 à R5134-59)
                                        
                                     
                                     
                                        
-                                          Sous-section 4 : Aide financière
-                                           (Articles D5134-131 à R5134-138)
+                                          Sous-section 2 : Accompagnement
+                                           (Articles R5134-60 à R5134-62)
                                        
                                     
                                     
                                        
-                                          Sous-section 5 : Dispositions spécifiques au contrat de mission  conclu avec une entreprise de travail temporaire
-                                           (Articles R5134-139 à R5134-144)
+                                          Sous-section 3 : Aide financière
+                                           (Articles R5134-63 à R5134-70)
                                        
                                     
                                  
@@ -20931,12 +20810,6 @@
                                      (Article R5313-8)
                                  
                               
-                              
-                                 
-                                     Section 4 : Commission nationale des maisons de l'emploi.
-                                     (Articles R5313-9 à R5313-12)
-                                 
-                              
                            
                         
                         
@@ -21369,8 +21242,8 @@
                                     
                                     
                                        
-                                           Sous-section 2 : Bénéficiaire d'un contrat d'avenir  ou du contrat insertion-revenu minimum d'activité.
-                                           (Articles R5425-9 à R5425-13)
+                                          Sous-section 2 : Bénéficiaires d'un contrat d'insertion par l'activité
+                                           (Articles R5425-9 à R5425-10)
                                        
                                     
                                  
@@ -22640,6 +22513,12 @@
                                     
                                  
                               
+                              
+                                 
+                                    Section 4 : Formations se déroulant en dehors du temps de travail
+                                     (Article D6322-79)
+                                 
+                              
                            
                         
                         
@@ -22654,7 +22533,7 @@
                               
                                  
                                     Section 1 : Objet et conditions d'ouverture
-                                     (Article D6324-1)
+                                     (Articles D6324-1 à D6324-1-1)
                                  
                               
                               
@@ -22933,7 +22812,7 @@
                               
                               
                                  
-                                    Section 6 : Fonds national de péréquation
+                                    Section 6 : Fonds paritaire de sécurisation des parcours professionnels
                                     
                                        
                                           Sous-section 1 : Création et agrément du fonds
@@ -23084,7 +22963,7 @@
                               
                                  
                                     Section 2 : Déclaration rectificative et annulation
-                                     (Articles R6351-8 à R6351-11)
+                                     (Articles R6351-8 à D6351-12)
                                  
                               
                            
@@ -24380,18 +24259,7 @@
                         
                            
                               Chapitre II : Services déconcentrés
-                               (Articles R8122-1 à R8122-2)
-                              
-                                 
-                                    Section 1 : Direction régionale du travail,  de l'emploi et de la formation professionnelle
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Direction départementale du travail,  de l'emploi et de la formation professionnelle
-                                     (Articles R8122-3 à R8122-9)
-                                 
-                              
+                               (Articles R8122-1 à R8122-4)
                            
                         
                         
