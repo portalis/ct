@@ -230,7 +230,7 @@
                                     
                                        
                                           Sous-section 1 : Déclaration préalable à l'embauche.
-                                           (Articles L1221-10 à L1221-12)
+                                           (Articles L1221-10 à L1221-12-1)
                                        
                                     
                                     
@@ -422,7 +422,7 @@
                               
                                  
                                     Section 1 : Absences pour maladie ou accident.
-                                     (Article L1226-1)
+                                     (Articles L1226-1 à L1226-1-1)
                                  
                               
                               
@@ -431,7 +431,7 @@
                                     
                                        
                                           Sous-section 1 : Inaptitude consécutive à une maladie ou un accident non professionnel.
-                                           (Articles L1226-2 à L1226-4-1)
+                                           (Articles L1226-2 à L1226-4-3)
                                        
                                     
                                     
@@ -711,7 +711,7 @@
                                     
                                     
                                        
-                                          Sous-section 2 : Convention de reclassement personnalisé.
+                                          Sous-section 2 : Contrat de sécurisation professionnelle
                                            (Articles L1233-65 à L1233-70)
                                        
                                     
@@ -1362,7 +1362,7 @@
                               
                                  
                                     Section 2 : Dispositions financières.
-                                     (Articles L1271-9 à L1271-15)
+                                     (Articles L1271-9 à L1271-15-1)
                                  
                               
                               
@@ -1923,8 +1923,17 @@
                               
                               
                                  
+                                    Section 4 bis : Mesure de l'audience des organisations syndicales concernant les entreprises de moins de onze salariés 
+
+
+
+                                     (Articles L2122-10-1 à L2122-10-11)
+                                 
+                              
+                              
+                                 
                                     Section 5 : Dispositions d'application
-                                     (Articles L2122-11 à L2122-12)
+                                     (Articles L2122-11 à L2122-13)
                                  
                               
                            
@@ -3332,7 +3341,7 @@
                         
                            
                               Chapitre Ier : Champ d'application et mise en place.
-                               (Articles L2341-1 à L2341-6)
+                               (Articles L2341-1 à L2341-11)
                            
                         
                         
@@ -3347,7 +3356,7 @@
                               
                                  
                                     Section 2 : Comité d'entreprise européen institué par accord.
-                                     (Articles L2342-9 à L2342-10)
+                                     (Articles L2342-9 à L2342-10-2)
                                  
                               
                               
@@ -3399,7 +3408,7 @@
                               
                                  
                                     Section 2 : Désignation, élection et statut des membres.
-                                     (Articles L2344-2 à L2344-8)
+                                     (Articles L2344-2 à L2344-9)
                                  
                               
                            
@@ -6342,7 +6351,7 @@
                         TITRE Ier : RISQUES CHIMIQUES
                         
                            
-                              Chapitre Ier : Mise sur le marché des substances et préparations
+                              Chapitre Ier : Mise sur le marché des substances et mélanges
                               
                                  
                                     Section 1 : Mesures générales et dispositions d'application.
@@ -6945,13 +6954,13 @@
                               
                                  
                                     Section 2 : Services de santé au travail interentreprises.
-                                     (Article L4622-7)
+                                     (Articles L4622-7 à L4622-16)
                                  
                               
                               
                                  
                                     Section 3 : Dispositions d'application.
-                                     (Article L4622-8)
+                                     (Article L4622-17)
                                  
                               
                            
@@ -6971,7 +6980,7 @@
                                     
                                        
                                           Sous-section 2 : Protection.
-                                           (Articles L4623-4 à L4623-7)
+                                           (Articles L4623-4 à L4623-8)
                                        
                                     
                                  
@@ -6980,14 +6989,14 @@
                         
                         
                            
-                              Chapitre IV : Actions du médecin du travail.
-                               (Article L4624-1)
+                              Chapitre IV : Actions et moyens des membres des équipes pluridisciplinaires de santé au travail.
+                               (Articles L4624-1 à L4624-4)
                            
                         
                         
                            
-                              Chapitre V : Surveillance médicale des salariés temporaires.
-                              Le présent chapitre ne comprend pas de dispositions législatives
+                              Chapitre V : Surveillance médicale de catégories particulières de travailleurs.
+                               (Articles L4625-1 à L4625-2)
                            
                         
                         
@@ -7158,13 +7167,13 @@
                               Chapitre Ier : Infractions aux règles de santé et de sécurité
                               
                                  
-                                    Section 1 : Infractions commises par l'employeur ou son représentant.
+                                    Section 1 : Infractions commises par l'employeur ou son délégataire.
                                      (Articles L4741-1 à L4741-8)
                                  
                               
                               
                                  
-                                    Section 2 : Infractions commises par une personne autre que l'employeur ou son représentant.
+                                    Section 2 : Infractions commises par une personne autre que l'employeur ou son délégataire.
                                      (Articles L4741-9 à L4741-10)
                                  
                               
@@ -7471,16 +7480,16 @@
                               Chapitre III : Prime de retour à  l'emploi et aide personnalisée de retour à l'emploi .
                               
                                  
-                                    Section 1 : Prime de retour à l'emploi.
-                                     (Articles L5133-1 à L5133-7)
-                                 
-                              
-                              
-                                 
                                     Section 2 : Aide personnalisée de retour à l'emploi 
 
 
                                      (Articles L5133-8 à L5133-10)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Aide à l'embauche des seniors
+                                     (Article L5133-11)
                                  
                               
                            
@@ -7679,7 +7688,6 @@
                         
                            
                               Chapitre V : Dispositions pénales.
-                               (Article L5135-1)
                            
                         
                      
@@ -7741,7 +7749,7 @@
                         
                            
                               Chapitre Ier : Objet des politiques en faveur de l'emploi des personnes handicapées.
-                               (Articles L5211-1 à L5211-4)
+                               (Articles L5211-1 à L5211-5)
                            
                         
                         
@@ -7882,8 +7890,20 @@
                               Chapitre IV : Institutions et organismes concourant à l'insertion professionnelle des handicapés
                               
                                  
+                                    Section 1  A : Pilotage des politiques en faveur de l'emploi des personnes handicapées
+                                     (Articles L5214-1 A à L5214-1 B)
+                                 
+                              
+                              
+                                 
                                     Section 1 : Fonds de développement pour l'insertion professionnelle des handicapés.
                                      (Articles L5214-1 à L5214-3)
+                                 
+                              
+                              
+                                 
+                                    Section 1 bis : Organismes de placement spécialisés dans l'insertion professionnelle des personnes handicapées
+                                     (Article L5214-3-1)
                                  
                               
                               
@@ -8022,20 +8042,14 @@
                         
                         
                            
-                              Chapitre III : Placement privé.
-                               (Articles L5323-1 à L5323-3)
+                              Chapitre III : Contrôle
+                               (Article L5323-1)
                            
                         
                         
                            
-                              Chapitre IV : Contrôle.
+                              Chapitre IV : Dispositions pénales
                                (Article L5324-1)
-                           
-                        
-                        
-                           
-                              Chapitre V : Dispositions pénales.
-                               (Article L5325-1)
                            
                         
                      
@@ -8089,7 +8103,7 @@
                               
                                  
                                     Section 2 : Recherche d'emploi.
-                                     (Articles L5411-6 à L5411-8)
+                                     (Articles L5411-6 à L5411-7)
                                  
                               
                               
@@ -8164,7 +8178,7 @@
                               
                                  
                                     Section 4 : Modalités de recouvrement et de contrôle des contributions.
-                                     (Articles L5422-15 à L5422-19)
+                                     (Articles L5422-15 à L5422-16)
                                  
                               
                               
@@ -8230,7 +8244,7 @@
                               Chapitre IV : Régimes particuliers
                               
                                  
-                                    Section 1 : Dispositions particulières à certains salariés du secteur public.
+                                    Section 1 : Dispositions particulières à certains salariés.
                                      (Articles L5424-1 à L5424-5)
                                  
                               
@@ -8300,7 +8314,13 @@
                               
                               
                                  
-                                    Section 4 : Dispositions d'application.
+                                    Section 4 : Répétition des prestations indues.
+                                     (Articles L5426-8-1 à L5426-8-3)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Dispositions d'application.
                                      (Article L5426-9)
                                  
                               
@@ -8382,8 +8402,8 @@
                                     
                                     
                                        
-                                          Sous-section 2 : Contrat d'avenir.
-                                           (Article L5522-2)
+                                          Sous-section 2 : Contrat unique d'insertion
+                                           (Articles L5522-2 à L5522-2-3)
                                        
                                     
                                     
@@ -8392,7 +8412,7 @@
                                           
                                              
                                                 Paragraphe 1 : Objet.
-                                                 (Articles L5522-5 à L5522-6)
+                                                 (Articles L5522-5 à L5522-6-1)
                                              
                                           
                                           
@@ -8457,12 +8477,6 @@
                         
                            
                               Chapitre IV : Le demandeur d'emploi
-                              
-                                 
-                                    Section 1 : Allocation de retour à l'activité.
-                                     (Articles L5524-1 à L5524-9)
-                                 
-                              
                               
                                  
                                     Section 2 : Dispositions d'adaptation.
@@ -8629,6 +8643,12 @@
                                            (Articles L6222-18 à L6222-22)
                                        
                                     
+                                    
+                                       
+                                          Sous-section 6 : Contrat d'apprentissage préparant au baccalauréat professionnel
+                                           (Article L6222-22-1)
+                                       
+                                    
                                  
                               
                               
@@ -8670,6 +8690,12 @@
                                  
                                     Section 3 : Présentation et préparation aux examens.
                                      (Articles L6222-34 à L6222-36)
+                                 
+                              
+                              
+                                 
+                                    Section 3 bis : Carte d'étudiant des métiers
+                                     (Article L6222-36-1)
                                  
                               
                               
@@ -8742,6 +8768,12 @@
                                      (Article L6225-8)
                                  
                               
+                           
+                        
+                        
+                           
+                              Chapitre VI : Entreprises de travail temporaire
+                               (Article L6226-1)
                            
                         
                      
@@ -8824,7 +8856,7 @@
                               
                                  
                                     Section 1 : Principes.
-                                     (Articles L6241-1 à L6241-3)
+                                     (Articles L6241-1 à L6241-2)
                                  
                               
                               
@@ -8836,7 +8868,7 @@
                               
                                  
                                     Section 3 : Affectation des fonds.
-                                     (Articles L6241-9 à L6241-8)
+                                     (Articles L6241-10 à L6241-11)
                                  
                               
                               
@@ -9224,7 +9256,7 @@
                               
                                  
                                     Section 1 : Objet et conditions d'ouverture.
-                                     (Articles L6325-1 à L6325-4)
+                                     (Articles L6325-1 à L6325-4-1)
                                  
                               
                               
@@ -9267,7 +9299,7 @@
 
 
 
-                               (Articles L6326-1 à L6326-2)
+                               (Articles L6326-1 à L6326-3)
                            
                         
                      
@@ -9985,7 +10017,7 @@
                               
                                  
                                     Section 3 : Contrat de travail.
-                                     (Articles L7121-3 à L7121-7)
+                                     (Articles L7121-3 à L7121-7-1)
                                  
                               
                               
@@ -9999,34 +10031,28 @@
                                     Section 5 : Placement
                                     
                                        
-                                          Sous-section 1 : Licence d'agent artistique.
-                                           (Articles L7121-9 à L7121-17)
+                                          Sous-section 1 : Inscription au registre national des agents artistiques
+                                           (Articles L7121-9 à L7121-12)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Rémunération des services de placement.
-                                           (Article L7121-18)
+                                           (Article L7121-13)
                                        
                                     
                                     
                                        
                                           Sous-section 3 : Agences artistiques.
-                                           (Articles L7121-19 à L7121-21)
+                                           (Article L7121-14)
                                        
                                     
                                  
                               
                               
                                  
-                                    Section 6 : Dispositions d'application.
-                                     (Article L7121-22)
-                                 
-                              
-                              
-                                 
-                                    Section 7 : Dispositions pénales
-                                     (Articles L7121-23 à L7121-30)
+                                    Section 6 : Dispositions pénales
+                                     (Articles L7121-15 à L7121-17)
                                  
                               
                            
@@ -10144,7 +10170,7 @@
                                     
                                        
                                           Sous-section 1 : Licence d'agence de mannequins.
-                                           (Articles L7123-11 à L7123-16)
+                                           (Articles L7123-11 à L7123-15)
                                        
                                     
                                     
@@ -10269,7 +10295,6 @@
                         
                            
                               Chapitre IV : Surveillance médicale.
-                               (Article L7214-1)
                            
                         
                         
@@ -10314,10 +10339,10 @@
                         
                         
                            
-                              Chapitre II : Agrément des organismes et mise en oeuvre des activités
+                              Chapitre II : Déclaration et agrément des organismes et mise en œuvre des activités
                               
                                  
-                                    Section 1 : Agrément des organismes.
+                                    Section 1 : Déclaration et agrément des organismes
                                      (Articles L7232-1 à L7232-5)
                                  
                               
@@ -10330,7 +10355,7 @@
                               
                                  
                                     Section 3 : Dispositions d'application.
-                                     (Article L7232-7)
+                                     (Articles L7232-7 à L7232-9)
                                  
                               
                            
@@ -10341,7 +10366,7 @@
                               
                                  
                                     Section 1 : Frais de gestion et mesures fiscales et sociales.
-                                     (Articles L7233-1 à L7233-3)
+                                     (Articles L7233-1 à L7233-2)
                                  
                               
                               
@@ -10565,7 +10590,7 @@
                         
                            
                               Chapitre IV : Santé et sécurité au travail.
-                               (Articles L7424-1 à L7424-4)
+                               (Articles L7424-1 à L7424-3)
                            
                         
                      
@@ -10825,7 +10850,7 @@
                         
                            
                               Chapitre IV : Dispositions pénales.
-                               (Articles L8234-1 à L8234-2)
+                               (Articles L8234-1 à L8234-3)
                            
                         
                      
@@ -10848,7 +10873,7 @@
                         
                            
                               Chapitre III : Dispositions pénales.
-                               (Articles L8243-1 à L8243-2)
+                               (Articles L8243-1 à L8243-3)
                            
                         
                      
@@ -10859,13 +10884,13 @@
                         
                            
                               Chapitre Ier : Interdictions.
-                               (Article L8251-1)
+                               (Articles L8251-1 à L8251-2)
                            
                         
                         
                            
                               Chapitre II : Droits du salarié étranger.
-                               (Articles L8252-1 à L8252-3)
+                               (Articles L8252-1 à L 8252-4)
                            
                         
                         
@@ -10931,7 +10956,7 @@
                               
                                  
                                     Section 1 : Dispositions communes.
-                                     (Articles L8271-1 à L8271-6)
+                                     (Articles L8271-1 à L8271-6-2)
                                  
                               
                               
@@ -10969,7 +10994,7 @@
                         
                            
                               Chapitre II : Sanctions administratives.
-                               (Article L8272-1)
+                               (Articles L8272-1 à L8272-4)
                            
                         
                         
@@ -11125,7 +11150,7 @@
                               
                               
                                  
-                                    Section 3 : Contrat pour l'égalité professionnelle
+                                    Section 3 :     Contrat pour la mixité des emplois et l'égalité professionnelle entre les femmes et les hommes
                                     
                                        
                                           Sous-section 1 : Conclusion et objet du contrat
@@ -11135,13 +11160,13 @@
                                     
                                        
                                           Sous-section 2 : Aide financière de l'Etat
-                                           (Articles D1143-12 à D1143-16)
+                                           (Articles D1143-12 à D1143-15)
                                        
                                     
                                     
                                        
                                           Sous-section 3 : Suivi et évaluation
-                                           (Articles D1143-17 à D1143-19)
+                                           (Articles D1143-16 à D1143-18)
                                        
                                     
                                  
@@ -11229,7 +11254,7 @@
                                     Section 1 : Déclaration préalable à l'embauche
                                     
                                        
-                                          Sous-section 1 : Mentions obligatoires
+                                          Sous-section 1 : Mentions obligatoires et portée de la déclaration
                                            (Articles R1221-1 à R1221-2)
                                        
                                     
@@ -11254,7 +11279,7 @@
                                     
                                        
                                           Sous-section 5 : Documents à remettre au salarié
-                                           (Articles R1221-9 à R1221-11)
+                                           (Article R1221-9)
                                        
                                     
                                     
@@ -11263,23 +11288,23 @@
                                            (Articles R1221-12 à R1221-13)
                                        
                                     
+                                    
+                                       
+                                          Sous-section 7 : Obligations de l'organisme destinataire
+                                           (Articles R1221-14 à R1221-17)
+                                       
+                                    
                                  
                               
                               
                                  
-                                    Section 2 : Déclaration unique d'embauche
-                                     (Articles R1221-14 à R1221-22)
-                                 
-                              
-                              
-                                 
-                                    Section 3 : Registre unique du personnel
+                                    Section 2 : Registre unique du personnel
                                      (Articles D1221-23 à D1221-27)
                                  
                               
                               
                                  
-                                    Section 4 : Autres formalités
+                                    Section 3 : Autres formalités
                                     
                                        
                                           Sous-section 1 : Relevé mensuel des contrats de travail
@@ -11290,6 +11315,12 @@
                                        
                                           Sous-section 2 : Autres déclarations préalables
                                            (Articles R1221-32 à R1221-33)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Informations en cas d'expatriation
+                                           (Articles R1221-34 à R1221-35)
                                        
                                     
                                  
@@ -12012,7 +12043,7 @@
                               
                                  
                                     Section 3 : Autres dispositions financières
-                                     (Articles D1271-28 à D1271-32)
+                                     (Articles D1271-28 à D1271-33)
                                  
                               
                            
@@ -12027,6 +12058,12 @@
                            
                               Chapitre III : Titre emploi-service entreprise
                                (Articles D1273-1 à D1273-8)
+                           
+                        
+                        
+                           
+                              Chapitre IV : Employeurs non établis en France
+                               (Article D1273-9)
                            
                         
                      
@@ -12705,6 +12742,12 @@
                         
                      
                   
+                  
+                     
+                        TITRE VII : MÉDIATION
+                         (Articles R1471-1 à R1471-2)
+                     
+                  
                
             
             
@@ -12788,6 +12831,206 @@
                                     Section 2 : Recueil des résultats des organisations syndicales aux élections professionnelles 
 
                                      (Articles D2122-6 à D2122-7)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Mesure de l'audience des organisations syndicales concernant les entreprises de moins de onze salariés 
+
+
+
+
+
+
+                                    
+                                       
+                                          Sous-section 1 : Electorat 
+
+
+
+                                           (Articles R2122-8 à R2122-11)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Etablissement de la liste électorale 
+
+
+
+
+
+
+                                          
+                                             
+                                                Paragraphe 1er : Traitement des données 
+
+
+
+                                                 (Articles R2122-12 à R2122-17)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Inscription sur la liste 
+
+
+                                                 (Articles R2122-18 à R2122-20)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Contestations relatives à l'inscription sur les listes électorales 
+
+
+
+
+
+
+                                          
+                                             
+                                                Paragraphe 1er : Recours gracieux 
+
+
+
+                                                 (Articles R2122-21 à R2122-25)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Recours contentieux 
+
+
+
+                                                 (Articles R2122-26 à R2122-32)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Candidatures des organisations syndicales de salariés 
+
+
+
+                                           (Articles R2122-33 à R2122-42)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 5 : Scrutin 
+
+                                          
+                                             
+                                                Paragraphe 1er : Commission des opérations de vote 
+
+
+
+                                                 (Articles R2122-43 à R2122-48)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Documents électoraux 
+
+
+
+                                                 (Articles R2122-49 à R2122-52)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 6 : Modalités de vote 
+
+
+
+                                          
+                                             
+                                                Paragraphe 1er : Dispositions communes 
+
+
+
+                                                 (Articles R2122-53 à R2122-55)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Bureau de vote 
+
+
+
+                                                 (Articles R2122-56 à R2122-60)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Vote électronique à distance 
+
+
+
+                                                 (Articles R2122-61 à R2122-71)
+                                             
+                                          
+                                          
+                                             
+                                                 Paragraphe 4 : Vote par correspondance 
+
+
+
+
+
+                                                 (Articles R2122-72 à R2122-77)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 7  : Dépouillement 
+
+
+                                          
+                                             
+                                                Paragraphe 1er : Dépouillement du vote électronique à distance 
+
+
+
+
+
+                                                 (Articles R2122-78 à R2122-79)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Dépouillement du vote par correspondance 
+
+
+
+                                                 (Articles R2122-80 à R2122-90)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Centralisation et proclamation des résultats 
+
+
+
+                                                 (Articles R2122-91 à R2122-92)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 8 : Contestations relatives au déroulement des opérations électorales 
+
+
+                                           (Articles R2122-93 à R2122-98)
+                                       
+                                    
                                  
                               
                            
@@ -13046,7 +13289,18 @@
                         
                            
                               Chapitre II : Négociation obligatoire en entreprise
-                               (Article R2242-1)
+                              
+                                 
+                                    Section 1 : Dispositions communes
+                                     (Article R2242-1)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Egalité professionnelle entre les femmes et les hommes
+                                     (Articles R2242-2 à R2242-8)
+                                 
+                              
                            
                         
                         
@@ -13337,13 +13591,13 @@
                                           
                                              
                                                 Paragraphe 1 : Rapports et information dans les entreprises  de moins de trois cents salariés
-                                                 (Articles R2323-8 à R2323-9)
+                                                 (Articles R2323-8 à D2323-9-1)
                                              
                                           
                                           
                                              
                                                 Paragraphe 2 : Rapports et information dans les entreprises  de trois cents salariés et plus
-                                                 (Articles R2323-10 à D2323-12)
+                                                 (Articles R2323-10 à D2323-12-1)
                                              
                                           
                                        
@@ -13615,7 +13869,7 @@
                               
                                  
                                     Section 1 : Répartition des sièges
-                                     (Articles R2344-1 à R2344-2)
+                                     (Article R2344-1)
                                  
                               
                               
@@ -14585,7 +14839,7 @@
                                     
                                        
                                           Sous-section 1 : Congé de solidarité familiale
-                                           (Articles D3142-6 à D3142-8)
+                                           (Articles D3142-6 à D3142-8-1)
                                        
                                     
                                     
@@ -15582,7 +15836,18 @@
                         
                            
                               Chapitre Ier : Obligations de l'employeur
-                               (Articles R4121-1 à R4121-4)
+                              
+                                 
+                                    Section 1 : Document unique d'évaluation des risques
+                                     (Articles R4121-1 à R4121-4)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Pénibilité
+                                     (Article D4121-5)
+                                 
+                              
                            
                         
                         
@@ -15712,6 +15977,12 @@
                                  
                                      Section 7 : Local dédié à l'allaitement
                                      (Articles R4152-13 à R4152-28)
+                                 
+                              
+                              
+                                 
+                                    Section 8 : Interventions et travaux en milieu hyperbare
+                                     (Article D4152-29)
                                  
                               
                            
@@ -15954,8 +16225,19 @@
                         
                         
                            
-                              Chapitre V : Installations électriques
-                               (Articles R4215-1 à R4215-3)
+                              Chapitre V : Installations électriques des bâtiments et de leurs aménagements
+                              
+                                 
+                                    Section 1 : Obligations générales du maître d'ouvrage
+                                     (Articles R4215-1 à R4215-2)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Prescriptions relatives à la conception  et à la réalisation des installations électriques
+                                     (Articles R4215-3 à R4215-17)
+                                 
+                              
                            
                         
                         
@@ -16170,6 +16452,47 @@
                         
                            
                               Chapitre VI : Installations électriques
+                              
+                                 
+                                    Section 1 : Champ d'application et définitions
+                                     (Articles R4226-1 à R4226-4)
+                                 
+                              
+                              
+                                 
+                                    Section 2 :  Dispositions générales
+                                     (Articles R4226-5 à R4226-7)
+                                 
+                              
+                              
+                                 
+                                    Section 3 :  Dispositions particulières à certains locaux ou emplacements
+                                     (Articles R4226-8 à R4226-10)
+                                 
+                              
+                              
+                                 
+                                    Section 4 :  Autres dispositions particulières
+                                     (Articles R4226-11 à R4226-13)
+                                 
+                              
+                              
+                                 
+                                    Section 5 :  Vérification des installations électriques
+                                    
+                                       
+                                          Sous-section 1 : Vérification des installations électriques permanentes
+                                           (Articles R4226-14 à R4226-20)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 :  Vérification des installations électriques temporaires
+                                           (Article R4226-21)
+                                       
+                                    
+                                 
+                              
                            
                         
                         
@@ -16196,7 +16519,7 @@
                               
                                  
                                      Section 4 : Emploi et stockage  de matières explosives et inflammables
-                                     (Articles R4227-21 à R4227-27)
+                                     (Articles R4227-22 à R4227-27)
                                  
                               
                               
@@ -16539,7 +16862,7 @@
                         
                            
                               Annexes
-                               (Articles Annexe I à l'article R4312-1 à Annexe II à l'article R4312-23)
+                               (Articles Annexe I à l'article R4312-1 à Annexe II à l'article R4312-6)
                            
                         
                      
@@ -16701,6 +17024,12 @@
                                     
                                  
                               
+                              
+                                 
+                                    Section 10 : Dispositions particulières applicables aux ascenseurs et équipements de travail desservant des niveaux définis à l'aide d'un habitacle.
+                                     (Articles R4323-107 à R4323-109)
+                                 
+                              
                            
                         
                         
@@ -16768,6 +17097,12 @@
                                  
                                      Section 3 : Prescriptions complémentaires  pour les équipements de travail mobiles
                                      (Articles R4324-30 à R4324-45)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Prescriptions complémentaires pour les équipements de travail desservant des niveaux définis à l'aide d'un habitacle.
+                                     (Articles R4324-46 à R4324-53)
                                  
                               
                            
@@ -17749,9 +18084,289 @@
                   
                   
                      
-                        TITRE VI : PRÉVENTION DES RISQUES EN MILIEU HYPERBARE
-                        Le présent titre ne comprend pas de dispositions réglementaires.
+                        TITRE VI : AUTRES RISQUES
+                        
+                           
+                              Chapitre Ier : Prévention des risques en milieu hyperbare 
 
+
+
+                              
+                                 
+                                    Section 1 : Définitions et dispositions générales 
+
+
+
+
+
+                                     (Articles R4461-1 à R4461-2)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Evaluation des risques 
+
+
+
+                                    
+                                       
+                                          Sous-section 1 : Document unique 
+
+
+
+                                           (Article R4461-3)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Conseiller à la prévention hyperbare 
+
+
+
+                                           (Articles R4461-4 à R4461-5)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Mesures et moyens de prévention 
+
+
+
+                                    
+                                       
+                                          Sous-section 1 : Organisation du travail en milieu hyperbare 
+
+
+
+
+
+
+                                          
+                                             
+                                                Paragraphe 1 : Procédures et méthodes d'intervention, procédures de secours et manuel de sécurité hyperbare 
+
+
+                                                 (Articles R4461-6 à R4461-11)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Fiche de sécurité 
+
+
+
+                                                 (Articles R4461-12 à R4461-13)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Règles techniques 
+
+
+
+                                          
+                                             
+                                                Paragraphe 1 : Gaz et mélanges gazeux respiratoires 
+
+
+                                                
+                                                   
+                                                      Sous-paragraphe 1 : Principes 
+                                                       (Articles R4461-14 à R4461-16)
+                                                   
+                                                
+                                                
+                                                   
+                                                      Sous-paragraphe 2 : Composition des gaz 
+
+
+
+
+
+                                                       (Articles R4461-17 à R4461-20)
+                                                   
+                                                
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Equipements de protection individuelle 
+
+
+
+                                                 (Articles R4461-21 à R4461-22)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Contrôle des gaz et détendeurs 
+
+
+
+                                                 (Articles R4461-23 à R4461-26)
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Formation 
+
+
+
+                                    
+                                       
+                                          Sous-section 1 : Certificat d'aptitude à l'hyperbarie et certificat de conseiller à la prévention hyperbare 
+
+
+
+                                           (Articles R4461-27 à R4461-28)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Organisation de la formation 
+
+
+
+
+
+                                           (Articles R4461-29 à R4461-31)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Habilitation, accréditation et certification 
+
+
+                                          
+                                             
+                                                Paragraphe 1 : Habilitation 
+
+
+
+
+
+                                                 (Articles R4461-32 à R4461-35)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Accréditation et certification 
+
+
+
+                                                 (Article R4461-36)
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Organisation des interventions et travaux en milieu hyperbare 
+
+
+                                    
+                                       
+                                          Sous-section 1 : Dispositions communes 
+
+
+
+
+
+                                           (Articles R4461-37 à R4461-39)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Dispositions spécifiques aux interventions en milieu hyperbare 
+
+
+
+
+
+
+                                          
+                                             
+                                                Paragraphe 1 : Equipe d'intervention 
+
+
+
+                                                 (Articles R4461-40 à R4461-41)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Interventions en apnée 
+
+
+
+                                                 (Article R4461-42)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Dispositions spécifiques aux travaux en milieu hyperbare 
+
+
+
+
+
+                                           (Articles R4461-43 à R4461-44)
+                                          
+                                             
+                                                Paragraphe 1 : Equipe de travaux 
+
+
+
+                                                 (Articles R4461-45 à R4461-46)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Equipements de travail 
+
+
+
+                                                 (Article R4461-47)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Dispositif de certification 
+
+
+
+                                                 (Article R4461-48)
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 6 : Situations exceptionnelles d'interventions et de travaux exécutés en milieu hyperbare 
+
+
+
+
+
+                                     (Article R4461-49)
+                                 
+                              
+                           
+                        
                      
                   
                
@@ -18393,6 +19008,29 @@
                                     
                                  
                               
+                              
+                                 
+                                    Section 4 : Risque hyperbare
+                                     (Article R4535-11)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Risques électriques
+                                    
+                                       
+                                          Sous-section 1 : Utilisation des installations électriques
+                                           (Article R4535-11)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Opérations sur ou au voisinage des installations électriques
+                                           (Article R4535-12)
+                                       
+                                    
+                                 
+                              
                            
                         
                      
@@ -18472,6 +19110,99 @@
                                  
                                     Section 6 : Surveillance médicale.
                                      (Articles R4542-17 à R4542-19)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre III : Interventions sur les équipements élévateurs et installés à demeure.
+                              
+                                 
+                                    Section 1 : Champ d'application.
+                                     (Article R4543-1)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Etude de sécurité spécifique.
+                                     (Articles R4543-2 à R4543-11)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Information des travailleurs intervenants. 
+
+
+
+
+
+                                     (Articles R4543-12 à R4543-13)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Organisation de l'intervention. 
+
+
+
+                                     (Articles R4543-14 à R4543-18)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Travailleurs isolés. 
+
+
+                                     (Articles R4543-19 à R4543-21)
+                                 
+                              
+                              
+                                 
+                                    Section 6 : Formation des travailleurs. 
+
+
+                                     (Articles R4543-22 à R4543-24)
+                                 
+                              
+                              
+                                 
+                                    Section 7 : Montage et démontage des ascenseurs. 
+
+
+
+
+
+                                     (Articles R4543-25 à R4543-28)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre IV : Opérations sur les installations électriques ou dans leur voisinage
+                              
+                                 
+                                    Section 1 : Champ d'application et définitions
+                                     (Articles R4544-1 à R4544-3)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Obligations générales de l'employeur
+                                     (Article R4544-4)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Prescriptions particulières
+                                     (Articles R4544-5 à R4544-8)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Travailleurs autorisés à effectuer des opérations sur les installations électriques ou dans leur voisinage
+                                     (Articles R4544-9 à R4544-10)
                                  
                               
                            
@@ -19455,8 +20186,14 @@
                               
                               
                                  
-                                    Section 9 : Dispositions communes.
-                                     (Articles R4722-25 à R4722-26)
+                                    Section 9 : Installations électriques
+                                     (Articles R4722-26 à R4722-28)
+                                 
+                              
+                              
+                                 
+                                    Section 10 : Dispositions communes
+                                     (Articles R4722-29 à R4722-30)
                                  
                               
                            
@@ -19512,7 +20249,7 @@
                                     
                                        
                                           Sous-section 4 : Contrôle des valeurs limites biologiques.
-                                           (Article R4724-15)
+                                           (Articles R4724-15 à R4724-15-2)
                                        
                                     
                                  
@@ -19521,6 +20258,12 @@
                                  
                                     Section 5 : Contrôle des ambiances physiques de travail.
                                      (Articles R4724-16 à R4724-18)
+                                 
+                              
+                              
+                                 
+                                    Section 6 : Vérification des installations électriques
+                                     (Article R4724-19)
                                  
                               
                            
@@ -20351,17 +21094,17 @@
                               
                               
                                  
-                                    Section 5 : Financement d'actions de conseil,  de formation et d'accompagnement
+                                    Section 5 : Organisation et labellisation d'actions de conseil et d'accompagnement
                                     
                                        
-                                          Sous-section 1 : Dispositions communes
-                                           (Articles R5141-29 à R5141-30)
+                                          Sous-section 1 : Organisation du parcours d'accompagnement pour la création ou la reprise d'entreprise
+                                           (Articles R5141-29 à R5141-33)
                                        
                                     
                                     
                                        
-                                          Sous-section 2 : Chéquier-conseil
-                                           (Articles R5141-31 à R5141-33)
+                                          Sous-section 2 : Modalités de délivrance d'un label
+                                           (Article R5141-34)
                                        
                                     
                                  
@@ -20577,25 +21320,21 @@
                                     
                                        
                                           Sous-section 1 : Missions
-                                           (Article R5214-2)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Composition
-                                           (Articles R5214-3 à R5214-5)
                                        
                                     
                                     
                                        
                                           Sous-section 3 : Fonctionnement
-                                           (Articles R5214-6 à R5214-12)
                                        
                                     
                                     
                                        
                                           Sous-section 4 : Section permanente
-                                           (Articles R5214-13 à D5214-18)
                                        
                                     
                                  
@@ -20642,7 +21381,7 @@
                               
                               
                                  
-                                    Section 4 : Travailleurs saisonniers, étudiants et salariés en mission
+                                    Section 4 : Travailleurs saisonniers, étudiants, salariés en mission et travailleurs hautement qualifiés
                                     
                                        
                                           Sous-section 1 : Travailleurs saisonniers
@@ -20659,6 +21398,12 @@
                                        
                                           Sous-section 3 : Salariés en mission
                                            (Articles R5221-30 à R5221-31)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Travailleurs hautement qualifiés
+                                           (Article R5221-31-1)
                                        
                                     
                                  
@@ -20849,6 +21594,12 @@
                                            (Article R5312-31)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Transmissions à Pôle emploi d'une liste nominative des bénéficiaires du revenu de solidarité active et de l'allocation aux adultes handicapés
+                                     (Articles R5312-32 à R5312-37)
                                  
                               
                            
@@ -21441,7 +22192,13 @@
                                     
                                     
                                        
-                                           Sous-section 2 : Contrats d'accès à l'emploi.
+                                          Sous-section 2 : Contrat unique d'insertion
+                                           (Articles R5522-11-1 à R5522-11-2)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Contrats d'accès à l'emploi
                                           
                                              
                                                  Paragraphe 1 : Objet.
@@ -21451,7 +22208,7 @@
                                           
                                              
                                                  Paragraphe 2 : Convention.
-                                                 (Articles R5522-14 à R5522-23)
+                                                 (Articles R5522-14 à R5522-23-3)
                                              
                                           
                                           
@@ -21571,23 +22328,6 @@
                         
                            
                               Chapitre IV : Le demandeur d'emploi
-                              
-                                 
-                                     Section unique : Allocation de retour à l'activité.
-                                    
-                                       
-                                           Sous-section 1 : Demande et gestion de l'allocation.
-                                           (Articles R5524-1 à R5524-6)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 2 : Conditions d'attribution et versement.
-                                           (Articles R5524-7 à R5524-12)
-                                       
-                                    
-                                 
-                              
                            
                         
                      
@@ -21621,6 +22361,7 @@
                               Chapitre Ier : Objectifs et contenu de la formation professionnelle
                               Le présent chapitre ne comprend pas de dispositions réglementaires.
 
+                               (Articles R6111-1 à R6111-5)
                            
                         
                         
@@ -21667,7 +22408,7 @@
                                     
                                        
                                           Sous-section 1 : Missions
-                                           (Article D6123-1)
+                                           (Articles R6123-1 à R6123-1-4)
                                        
                                     
                                     
@@ -21827,7 +22568,7 @@
                                     
                                        
                                           Sous-section 3 : Santé et sécurité
-                                           (Articles R6222-36 à R6222-40)
+                                           (Articles R6222-36 à R6222-40-1)
                                        
                                     
                                  
@@ -21840,7 +22581,7 @@
                               
                               
                                  
-                                    Section 4 : Carte d'apprenti
+                                    Section 4 : Carte d'étudiant des métiers
                                      (Articles D6222-42 à D6222-44)
                                  
                               
@@ -21938,7 +22679,7 @@
                               
                                  
                                     Section 1 : Demande d'enregistrement
-                                     (Articles R6224-1 à R6224-3)
+                                     (Article R6224-1)
                                  
                               
                               
@@ -21950,7 +22691,6 @@
                               
                                  
                                     Section 3 : Décision d'opposition à l'enregistrement
-                                     (Articles R6224-7 à R6224-9)
                                  
                               
                               
@@ -22161,8 +22901,8 @@
                               
                               
                                  
-                                    Section 2 : Fonds national de développement  et de modernisation de l'apprentissage
-                                     (Articles R6241-11 à R6241-17)
+                                    Section 2 : Financement national du développement et de la modernisation de l'apprentissage
+                                     (Article D6241-12)
                                  
                               
                               
@@ -22649,6 +23389,12 @@
                                      (Articles D6325-22 à D6325-28)
                                  
                               
+                              
+                                 
+                                    Section 7 : Carte d'étudiant des métiers
+                                     (Article D6325-29)
+                                 
+                              
                            
                         
                      
@@ -22771,13 +23517,13 @@
                                           
                                              
                                                 Paragraphe 3 : Transmission de documents
-                                                 (Articles R6332-30 à R6332-35)
+                                                 (Articles R6332-30 à R6332-34)
                                              
                                           
                                           
                                              
-                                                Paragraphe 4 : Contributions
-                                                 (Articles R6332-36 à R6332-37)
+                                                Paragraphe 4 : Frais de gestion et d'information et frais relatifs aux missions des organismes collecteurs paritaires agréés au titre du plan de formation, de la professionnalisation et du droit individuel à la formation
+                                                 (Articles R6332-36 à R6332-37-1)
                                              
                                           
                                           
@@ -22792,64 +23538,53 @@
                               
                               
                                  
-                                    Section 2 : Fonds d'assurance formation
+                                    Section 2 : Organismes collecteurs paritaires agréés au titre du plan de formation
                                     
                                        
-                                          Sous-section 1 : Dispositions communes
-                                          
-                                             
-                                                Paragraphe 1 : Constitution et fonctionnement
-                                                 (Articles R6332-46 à R6332-48)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Gestion et ressources
-                                                 (Articles R6332-49 à R6332-54)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Contrôle
-                                                 (Articles R6332-55 à R6332-56)
-                                             
-                                          
+                                          Paragraphe 1 : Constitution et fonctionnement
+                                           (Articles R6332-46 à R6332-47)
                                        
                                     
                                     
                                        
-                                          Sous-section 2 : Fonds d'assurance formation de salariés
-                                           (Articles R6332-57 à R6332-62)
+                                          Paragraphe 2 : Gestion et ressources
+                                           (Articles R6332-50 à R6332-54)
                                        
                                     
                                     
                                        
-                                          Sous-section 3 : Fonds d'assurance formation de non-salariés
-                                          
-                                             
-                                                Paragraphe 1 : Constitution
-                                                 (Articles R6332-63 à R6332-67)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Habilitation
-                                                 (Articles R6332-68 à R6332-71)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Contribution et gestion
-                                                 (Articles R6332-72 à R6332-77)
-                                             
-                                          
+                                          Paragraphe 3 : Contrôle
+                                           (Articles R6332-55 à R6332-62)
                                        
                                     
                                  
                               
                               
                                  
-                                    Section 3 : Organismes agréés au titre de la professionnalisation  et du droit individuel à la formation
+                                    Section 3 : Fonds d'assurance formation de non-salariés
+                                    
+                                       
+                                          Paragraphe 1 : Constitution
+                                           (Articles R6332-63 à R6332-67)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 2 : Habilitation
+                                           (Articles R6332-68 à R6332-71)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 3 : Contribution et gestion
+                                           (Articles R6332-72 à R6332-77)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Organismes agréés au titre de la professionnalisation  et du droit individuel à la formation
                                     
                                        
                                           Sous-section 1 : Affectation et gestion des fonds
@@ -22866,19 +23601,19 @@
                               
                               
                                  
-                                    Section 4 : Organismes agréés au titre du congé individuel de formation
+                                    Section 5 : Organismes agréés au titre du congé individuel de formation
                                      (Articles D6332-93 à D6332-95)
                                  
                               
                               
                                  
-                                    Section 5 : Fonds national de gestion paritaire  de la formation professionnelle continue
+                                    Section 6 : Fonds national de gestion paritaire  de la formation professionnelle continue
                                      (Articles R6332-96 à R6332-103)
                                  
                               
                               
                                  
-                                    Section 6 : Fonds paritaire de sécurisation des parcours professionnels
+                                    Section 7 : Fonds paritaire de sécurisation des parcours professionnels
                                     
                                        
                                           Sous-section 1 : Création et agrément du fonds
@@ -22901,7 +23636,7 @@
                               
                               
                                  
-                                    Section 7 : Information de l'Etat
+                                    Section 8 : Information de l'Etat
                                      (Article R6332-114)
                                  
                               
@@ -23421,40 +24156,23 @@
                               Chapitre Ier : Artistes du spectacle
                               
                                  
-                                    Section 1 : Placement
+                                    Section 1 : Agents artistiques
                                     
                                        
-                                          Sous-section 1 : Licence d'agent artistique
-                                          
-                                             
-                                                Paragraphe 1 : Demande, renouvellement et retrait
-                                                 (Articles R7121-1 à R7121-8)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Attestation d'équivalence
-                                                 (Articles R7121-9 à R7121-14)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Commission consultative
-                                                 (Articles R7121-15 à R7121-19)
-                                             
-                                          
+                                          Sous-section 1 : Dispositions générales
+                                           (Articles R7121-1 à R7121-5)
                                        
                                     
                                     
                                        
-                                          Sous-section 2 : Rémunération des services de placement
-                                           (Article R7121-20)
+                                          Sous-section 2 : Le mandat
+                                           (Article R7121-6)
                                        
                                     
                                     
                                        
-                                          Sous-section 3 : Obligations des agences artistiques
-                                           (Articles R7121-21 à R7121-27)
+                                          Sous-Section 3 : Rémunérations
+                                           (Articles D7121-7 à D7121-8)
                                        
                                     
                                  
@@ -23502,7 +24220,7 @@
                               
                                  
                                     Section 3 : Dispositions pénales
-                                     (Articles R7121-50 à R7121-64)
+                                     (Articles R7121-50 à R7121-52)
                                  
                               
                            
@@ -23524,18 +24242,6 @@
                                           Sous-section 2 : Licence d'entrepreneur de spectacles vivants
                                           
                                              
-                                                Paragraphe 1 :  Ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat de l'Espace économique européen titulaire d'un titre équivalent
-                                                 (Articles R7122-6 à R7122-8)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Entrepreneur non établi en France et non titulaire d'un titre équivalent
-                                                 (Articles R7122-9 à R7122-11)
-                                             
-                                          
-                                          
-                                             
                                                 Paragraphe 1 : Entrepreneur de spectacles vivants établi en France
                                                  (Articles R7122-2 à R7122-5)
                                              
@@ -23543,6 +24249,24 @@
                                           
                                              
                                                 Paragraphe 2 : Entrepreneur de spectacles vivants non établi en France
+                                                
+                                                   
+                                                      Sous-paragraphe 1 :  Conditions d'établissement en France des ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+                                                       (Articles R7122-6 à R7122-8)
+                                                   
+                                                
+                                                
+                                                   
+                                                      Sous-paragraphe 2 : Conditions de prestation de services en France des entrepreneurs de spectacles vivants établis dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen
+                                                       (Article R7122-9)
+                                                   
+                                                
+                                                
+                                                   
+                                                      Sous-paragraphe 3 : Entrepreneurs non établis dans un Etat membre de l'Union européenne ou de l'Espace économique européen
+                                                       (Articles R7122-10 à R7122-11)
+                                                   
+                                                
                                              
                                           
                                           
@@ -23587,7 +24311,7 @@
                               
                               
                                  
-                                    Section 4 : Dispositions pénales
+                                    Section 4 : Dispositions pénales et sanctions administratives
                                      (Articles R7122-40 à R7122-43)
                                  
                               
@@ -23624,17 +24348,23 @@
                                     Section 3 : Agences de mannequins
                                     
                                        
-                                          Sous-section 1 : Licence d'agence de mannequins
+                                          Sous-section 1 : Licence d'agence de mannequins et déclaration préalable
                                           
                                              
-                                                Paragraphe 1 : Délivrance de la licence
-                                                 (Articles R7123-8 à R7123-10)
+                                                Paragraphe 1 : Délivrance de la licence et déclaration préalable
+                                                 (Articles R7123-8 à R7123-13)
                                              
                                           
                                           
                                              
-                                                Paragraphe 2 : Retrait, renouvellement et refus de licence
-                                                 (Articles R7123-11 à R7123-17)
+                                                Paragraphe 2 : Refus, suspension et retrait de licence d'agence de mannequins
+                                                 (Article R7123-14)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Prévention des conflits d'intérêts
+                                                 (Articles R7123-15 à R7123-17-1)
                                              
                                           
                                        
@@ -23903,7 +24633,7 @@
                         
                         
                            
-                              Chapitre II : Agrément des organismes  et mise en œuvre des activités
+                              Chapitre II : Agrément et déclaration des personnes morales et entrepreneurs individuels
                               
                                  
                                     Section 1 : Demande d'agrément
@@ -23920,6 +24650,12 @@
                                  
                                     Section 3 : Retrait d'agrément
                                      (Articles R7232-13 à R7232-17)
+                                 
+                              
+                              
+                                 
+                                    Section 4  : Déclaration, enregistrement d'activité et retrait de l'enregistrement
+                                     (Articles R7232-18 à R7232-24)
                                  
                               
                            
@@ -23984,8 +24720,8 @@
                                     
                                     
                                        
-                                          Sous-section 3 : Comité des engagements et comité scientifique
-                                           (Articles D7234-20 à D7234-23)
+                                          Sous-section 3 : Bureau exécutif
+                                           (Articles D7234-20 à D7234-22)
                                        
                                     
                                  
@@ -24239,7 +24975,7 @@
                         
                            
                               Chapitre II : Compétences des agents
-                               (Articles R8112-1 à R8112-5)
+                               (Articles R8112-1 à R8112-6)
                            
                         
                         
@@ -24492,6 +25228,58 @@
                               Chapitre II : Droits du salarié étranger
                               Le présent chapitre ne comprend pas de dispositions réglementaires.
 
+                              
+                                 
+                                    Section 1 : Information des étrangers sans titre au regard de leurs droits
+                                     (Article R8252-1)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Le document d'information
+                                     (Article R8252-2)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Modalités de paiement, de recouvrement et de versement des salaires et indemnités dus au salarié étranger sans titre
+                                    
+                                       
+                                          Sous-section 1 : Dispositions générales
+                                           (Articles R8252-4 à R8252-5)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Paiement spontané par l'employeur des salaires et indemnités dus au salarié étranger sans titre
+                                           (Articles R8252-6 à R8252-7)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Recouvrement forcé des salaires et indemnités dus au salarié étranger sans titre
+                                           (Articles R8252-8 à R8252-9)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Recouvrement des sommes dues au salarié étranger sans titre sur décision judiciaire
+                                          
+                                             
+                                                Paragraphe 1er : Dispositions générales
+                                                 (Articles R8252-10 à R8252-11)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Intervention de l'Office français de l'immigration et de l'intégration saisi sur décision judiciaire
+                                                 (Articles R8252-12 à R8252-13)
+                                             
+                                          
+                                       
+                                    
+                                 
+                              
                            
                         
                         
@@ -24577,7 +25365,52 @@
                         
                            
                               Chapitre II : Sanctions administratives
-                               (Articles D8272-1 à D8272-2)
+                              
+                                 
+                                    Section 1 : Refus d'attribution et remboursement des aides publiques
+                                    
+                                       
+                                          Sous-section 1 : Dispositions générales
+                                           (Articles D8272-1 à D8272-2)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Refus des aides publiques
+                                           (Articles D8272-3 à D8272-4)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Remboursement des aides publiques
+                                           (Articles D8272-5 à D8272-6)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Dispositions relatives à la fermeture administrative et à l'exclusion des contrats administratifs mentionnés aux articles L. 551-1 et L. 551-5 du code de justice administrative
+                                    
+                                       
+                                          Sous-section 1 : Dispositions générales
+                                           (Article R8272-7)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Fermeture administrative
+                                           (Articles R8272-8 à R8272-9)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Exclusion des contrats administratifs
+                                           (Articles R8272-10 à R8272-11)
+                                       
+                                    
+                                 
+                              
                            
                         
                         
@@ -24612,7 +25445,18 @@
                         
                            
                               Chapitre II : Inspection du travail
-                               (Article D8322-1)
+                              
+                                 
+                                    Section 1 : Compétences et moyens d'intervention
+                                     (Article D8322-1)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Systèmes d'inspection du travail
+                                     (Article R8322-2)
+                                 
+                              
                            
                         
                         
@@ -24705,7 +25549,6 @@
                         
                            
                               Section 7 : Dispositions particulières relatives à certains salariés du secteur des transports
-                               (Articles L212-18 à L212-19)
                            
                         
                      
@@ -24716,7 +25559,6 @@
                         
                            
                               Section 3 : Dispositions particulières relatives à certains salariés du secteur des transports
-                               (Article L213-11)
                            
                         
                      
@@ -24729,7 +25571,6 @@
                   
                      
                         Chapitre préliminaire : Repos quotidien
-                         (Article L220-3)
                      
                   
                   
@@ -24787,7 +25628,7 @@
                         
                            
                               Section 1 : Régime d'assurance
-                               (Articles L351-6 à L351-8)
+                               (Articles L351-5-1 à L351-8)
                            
                         
                         
@@ -24832,7 +25673,6 @@
                   
                      
                         Chapitre III : Industries électriques et gazières
-                         (Articles L713-1 à L713-2)
                      
                   
                
@@ -24843,13 +25683,12 @@
                   
                      
                         Chapitre II : Marins.
-                         (Articles L742-1 à L742-12)
+                         (Articles L742-1-1 à L742-2)
                      
                   
                   
                      
                         Chapitre III : Personnel des entreprises de manutention des ports.
-                         (Articles L743-1 à L743-2)
                      
                   
                
