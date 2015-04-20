@@ -26,6 +26,8 @@
 	
 	
 
+			Version consolidée au 4 avril 2015
+
 		
 
 
@@ -1144,7 +1146,7 @@ et des collectivités territoriales
                   
                   
                      
-                        TITRE V : CONTRAT DE TRAVAIL TEMPORAIRE ET AUTRES CONTRATS DE MISE À DISPOSITION
+                        TITRE V : CONTRAT DE TRAVAIL TEMPORAIRE,  AUTRES CONTRATS DE MISE À DISPOSITION ET PORTAGE SALARIAL
                         
                            
                               Chapitre Ier : Contrat de travail conclu avec une entreprise de travail temporaire
@@ -1304,12 +1306,6 @@ et des collectivités territoriales
                                      (Articles L1251-60 à L1251-63)
                                  
                               
-                              
-                                 
-                                    Section 7 : Portage salarial.
-                                     (Article L1251-64)
-                                 
-                              
                            
                         
                         
@@ -1383,19 +1379,88 @@ et des collectivités territoriales
                         
                         
                            
-                              Chapitre IV : Dispositions pénales
+                              Chapitre IV : Portage salarial
                               
                                  
-                                    Section 1 : Travail temporaire.
-                                     (Articles L1254-1 à L1254-10)
+                                    Section 1 : Définition et champ d'application
+                                     (Articles L1254-1 à L1254-2)
                                  
                               
                               
                                  
-                                    Section 2 : Groupements d'employeurs.
-                                     (Article L1254-13)
+                                    Section 2 : Conditions et interdictions de recours au portage salarial
+                                     (Articles L1254-3 à L1254-6)
                                  
                               
+                              
+                                 
+                                    Section 3 : Contrat de travail
+                                    
+                                       
+                                          Sous-section 1 : Dispositions communes
+                                           (Articles L1254-7 à L1254-9)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Le contrat de travail à durée déterminée
+                                           (Article L1254-10)
+                                          
+                                             
+                                                Paragraphe 1 : Fixation du terme et durée du contrat
+                                                 (Articles L1254-11 à L1254-13)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Forme, contenu et transmission du contrat
+                                                 (Articles L1254-14 à L1254-16)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Renouvellement du contrat 
+                                                 (Article L1254-17)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 4 : Dispositions finales
+                                                 (Article L1254-18)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Le contrat de travail à durée indéterminée 
+
+
+                                           (Articles L1254-19 à L1254-21)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Le contrat commercial de prestation de portage salarial 
+
+
+                                     (Articles L1254-22 à L1254-23)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : L'entreprise de portage salarial
+                                     (Articles L1254-24 à L1254-31)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre  V : Dispositions pénales
+                               (Articles L1255-1 à L1255-13)
                            
                         
                      
@@ -2016,7 +2081,7 @@ et des collectivités territoriales
                               
                                  
                                     Section 1 : Représentativité syndicale au niveau de l'entreprise et de l'établissement
-                                     (Articles L2122-1 à L2122-3)
+                                     (Articles L2122-1 à L2122-3-1)
                                  
                               
                               
@@ -3047,7 +3112,7 @@ et multi-professionnel
                                           
                                           
                                              
-                                                Paragraphe 5 : Recours aux contrats de travail à durée déterminée et au travail temporaire.
+                                                Paragraphe 5 : Recours aux contrats de travail à durée déterminée, au travail temporaire et aux contrats conclus avec une entreprise de portage salarial
                                                  (Article L2323-17)
                                              
                                           
@@ -3337,6 +3402,12 @@ et multi-professionnel
                                            (Article L2325-34)
                                        
                                     
+                                    
+                                       
+                                          Sous-section 6 : Commission des marchés
+                                           (Articles L2325-34-1 à L2325-34-4)
+                                       
+                                    
                                  
                               
                               
@@ -3395,6 +3466,12 @@ et multi-professionnel
                                  
                                     Section 9 : Formation des membres du comité d'entreprise.
                                      (Article L2325-44)
+                                 
+                              
+                              
+                                 
+                                    Section 10 : Etablissement et contrôle des comptes du comité d'entreprise
+                                     (Articles L2325-45 à L2325-58)
                                  
                               
                            
@@ -3472,7 +3549,7 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 3 : Fonctionnement.
-                                           (Articles L2327-12 à L2327-14)
+                                           (Articles L2327-12 à L2327-14-1)
                                        
                                     
                                  
@@ -4139,6 +4216,12 @@ et multi-professionnel
                                      (Article L2411-22)
                                  
                               
+                              
+                                 
+                                    Section 13 : Licenciement d'un assesseur maritime.
+                                     (Article L2411-23)
+                                 
+                              
                            
                         
                         
@@ -4220,6 +4303,12 @@ et multi-professionnel
                                  
                                     Section 13 : Conseiller prud'homme.
                                      (Article L2412-13)
+                                 
+                              
+                              
+                                 
+                                    Section 14 : Assesseur maritime
+                                     (Article L2412-14)
                                  
                               
                            
@@ -4355,6 +4444,12 @@ et multi-professionnel
                            
                               Chapitre VII : Conseiller prud'homme.
                                (Article L2437-1)
+                           
+                        
+                        
+                           
+                              Chapitre VIII : Assesseur maritime
+                               (Article L2438-1)
                            
                         
                      
@@ -6368,6 +6463,88 @@ et multi-professionnel
                                      (Articles L4154-2 à L4154-4)
                                  
                               
+                           
+                        
+                     
+                  
+                  
+                     
+                        TITRE VI : DISPOSITIONS PARTICULIERES A CERTAINS FACTEURS DE RISQUES PROFESSIONNELS ET A LA PENIBILITE
+                        
+                           
+                              Chapitre Ier : Fiche de prévention des expositions
+                               (Articles L4161-1 à L4161-2)
+                           
+                        
+                        
+                           
+                              Chapitre II : Compte personnel de prévention de la pénibilité
+                              
+                                 
+                                    Section 1 : Ouverture et abondement du compte personnel de prévention de la pénibilité
+
+
+
+
+
+                                     (Articles L4162-1 à L4162-3)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Utilisations du compte personnel
+de prévention de la pénibilité
+                                     (Article L4162-4)
+                                    
+                                       
+                                          Sous-section 1 : Utilisation du compte pour la formation professionnelle
+
+
+                                           (Article L4162-5)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Utilisation du compte pour le passage à temps partiel
+
+
+                                           (Articles L4162-6 à L4162-9)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Utilisation du compte pour la retraite
+                                           (Article L4162-10)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Gestion des comptes, contrôle et réclamations
+
+
+                                     (Articles L4162-11 à L4162-16)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Financement
+                                     (Articles L4162-17 à L4162-21)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Dispositions d'application
+                                     (Article L4162-22)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre III : Accords en faveur de la prévention de la pénibilité
+                               (Articles L4163-1 à L4163-4)
                            
                         
                      
@@ -8526,6 +8703,12 @@ et multi-professionnel
                                      (Articles L5422-20 à L5422-24)
                                  
                               
+                              
+                                 
+                                    Section 6 -   Suivi financier du régime d'assurance chômage  
+                                     (Article L5422-25)
+                                 
+                              
                            
                         
                         
@@ -8846,13 +9029,45 @@ et multi-professionnel
             SIXIÈME PARTIE : LA FORMATION PROFESSIONNELLE TOUT AU LONG DE LA VIE
             
                
-                  LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION INSTITUTIONNELLE DE LA FORMATION PROFESSIONNELLE
+                  LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION INSTITUTIONNELLE DE LA FORMATION ET DE L'ORIENTATION PROFESSIONNELLES
                   
                      
                         TITRE Ier : PRINCIPES GÉNÉRAUX
                         
                            
-                              Chapitre Ier : Objectifs et contenu de la formation professionnelle.
+                              Chapitre Ier : Objectifs et contenu de la formation et de l'orientation professionnelles.
+                              
+                                 
+                                    Section 1 : La formation professionnelle tout au long de la vie
+                                     (Articles L6111-1 à L6111-2)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : L'orientation professionnelle tout au long de la vie
+                                     (Articles L6111-3 à L6111-5)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Le conseil en évolution professionnelle
+
+
+
+
+
+                                     (Article L6111-6)
+                                 
+                              
+                              
+                                 
+                                     Section 4 : Supports d'information
+
+
+
+                                     (Article L6111-7)
+                                 
+                              
                            
                         
                         
@@ -8880,7 +9095,18 @@ et multi-professionnel
                         
                            
                               Chapitre Ier : Rôle des régions.
-                               (Articles L6121-1 à L6121-3)
+                              
+                                 
+                                    Section 1 :  Compétences des régions
+                                     (Articles L6121-1 à L6121-2-1)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Coordination avec les branches professionnelles, le service public de l'emploi et le service public de l'orientation
+                                     (Articles L6121-3 à L6121-7)
+                                 
+                              
                            
                         
                         
@@ -9241,7 +9467,7 @@ et multi-professionnel
                               
                                  
                                     Section 1 : Prime à l'apprentissage.
-                                     (Article L6243-1)
+                                     (Articles L6243-1 à L6243-1-2)
                                  
                               
                               
@@ -9362,8 +9588,8 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre IV : Droit à l'information, à l'orientation et à la qualification professionnelles.
-                               (Articles L6314-1 à L6314-3)
+                              Chapitre IV : Droit à la qualification professionnelle.
+                               (Articles L6314-1 à L6314-2)
                            
                         
                         
@@ -9553,35 +9779,67 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre III : Droit individuel à la formation
+                              Chapitre III : Compte personnel de formation
                               
                                  
-                                    Section 1 : Conditions d'ouverture.
-                                     (Articles L6323-1 à L6323-3)
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Modalités de mise en oeuvre.
-                                     (Articles L6323-5 à L6323-12)
+                                    Section 1 :  Principes communs
+                                     (Articles L6323-1 à L6323-9)
                                  
                               
                               
                                  
-                                    Section 3 : Rémunération et protection sociale.
-                                     (Articles L6323-13 à L6323-15)
+                                    Section 2 : Mise en œuvre du compte personnel de formation pour les salariés
+                                    
+                                       
+                                          Sous-section 1 : Alimentation et abondement du compte
+                                           (Articles L6323-10 à L6323-15)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Formations éligibles et mobilisation du compte
+                                           (Articles L6323-16 à L6323-17)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Rémunération et protection sociale
+                                           (Articles L6323-18 à L6323-19)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Prise en charge des frais de formation
+                                           (Article L6323-20)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Mise en œuvre du compte personnel de formation pour les demandeurs d'emploi
+                                    
+                                       
+                                          Sous-section 1 : Formations éligibles et mobilisation du compte
+                                           (Articles L6323-21 à L6323-22)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Prise en charge des frais de formation
+                                           (Article L6323-23)
+                                       
+                                    
                                  
                               
                               
                                  
                                     Section 4 : Prise en charge des frais de formation.
-                                     (Article L6323-16)
                                  
                               
                               
                                  
                                     Section 5 : Portabilité du droit individuel à la formation.
-                                     (Articles L6323-17 à L6323-21)
                                  
                               
                            
@@ -9675,7 +9933,7 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 1 : Montant et mise en oeuvre de la participation.
-                                           (Articles L6331-2 à L6331-3)
+                                           (Article L6331-2)
                                        
                                     
                                     
@@ -9701,31 +9959,19 @@ et multi-professionnel
                                           
                                              
                                                 Paragraphe 1 : Dispositions générales.
-                                                 (Articles L6331-9 à L6331-14)
+                                                 (Articles L6331-9 à L6331-12)
                                              
                                           
                                           
                                              
                                                 Paragraphe 2 : Prise en compte d'un accroissement d'effectif.
-                                                 (Articles L6331-15 à L6331-18)
+                                                 (Articles L6331-15 à L6331-17)
                                              
                                           
                                           
                                              
-                                                Paragraphe 3 : Dépenses libératoires.
-                                                 (Articles L6331-19 à L6331-27)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 4 : Versement au Trésor public.
+                                                Paragraphe 3 : Versement au Trésor public.
                                                  (Article L6331-28)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 5 : Report d'excédent.
-                                                 (Article L6331-29)
                                              
                                           
                                        
@@ -9733,7 +9979,7 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 2 : Majoration de la contribution.
-                                           (Articles L6331-30 à L6331-31)
+                                           (Article L6331-30)
                                        
                                     
                                     
@@ -9850,7 +10096,7 @@ et multi-professionnel
                               
                               
                                  
-                                    Section 3 : Organismes agréés au titre de la professionnalisation et du droit individuel à la formation.
+                                    Section 3 : Organismes collecteurs paritaires agréés pour la prise en charge de la professionnalisation et du compte personnel de formation
                                      (Articles L6332-14 à L6332-17)
                                  
                               
@@ -9870,8 +10116,16 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre III : Dispositions pénales.
-                              Le présent chapitre ne comprend pas de dispositions législatives 
+                              Chapitre III : Organismes paritaires agréés pour la prise en charge du congé individuel de formation
+
+
+                               (Articles L6333-1 à L6333-8)
+                           
+                        
+                        
+                           
+                              Chapitre IV : Dispositions pénales.
+                              Le présent chapitre ne comprend pas de dispositions législatives
                            
                         
                      
@@ -10242,7 +10496,7 @@ et multi-professionnel
                         
                            
                               Chapitre Ier : Dispositions générales.
-                               (Article L6521-1)
+                               (Articles L6521-1 à L6521-2)
                            
                         
                         
@@ -11384,7 +11638,7 @@ et multi-professionnel
                               
                                  
                                     Section 2 : Travail dissimulé.
-                                     (Articles L8271-7 à L8271-13)
+                                     (Articles L8271-7 à L8271-12)
                                  
                               
                               
@@ -11724,7 +11978,13 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 7 : Obligations de l'organisme destinataire
-                                           (Articles R1221-14 à R1221-17)
+                                           (Articles R1221-14 à R1221-18)
+                                       
+                                    
+                                    
+                                       
+                                           Sous-section 8 : Obligation de dématérialisation 
+                                           (Articles D1221-18 à D1221-19)
                                        
                                     
                                  
@@ -12412,7 +12672,7 @@ et multi-professionnel
                               
                                  
                                     Section 4 : Salaire
-                                     (Articles R1262-7 à R1262-8)
+                                     (Articles R1262-7 à R1262-8-1)
                                  
                               
                               
@@ -12427,6 +12687,12 @@ et multi-professionnel
                                      (Articles R1262-16 à R1262-18)
                                  
                               
+                              
+                                 
+                                    Section 8 : Dispositions diverses
+                                     (Article R1262-19)
+                                 
+                              
                            
                         
                         
@@ -12435,7 +12701,7 @@ et multi-professionnel
                               
                                  
                                     Section 1 : Dispositions communes
-                                     (Articles R1263-1 à R1263-2)
+                                     (Articles R1263-1 à R1263-2-1)
                                  
                               
                               
@@ -12456,12 +12722,24 @@ et multi-professionnel
                                      (Articles R1263-10 à R1263-11)
                                  
                               
+                              
+                                 
+                                    Section 5 : Obligation de vigilance des maîtres d'ouvrage et des donneurs d'ordre
+                                     (Article R1263-12)
+                                 
+                              
                            
                         
                         
                            
                               Chapitre IV : Dispositions pénales
-                               (Articles R1264-1 à R1264-3)
+                               (Articles R1264-2 à R1264-3)
+                           
+                        
+                        
+                           
+                              Chapitre V : Actions en justice
+                               (Article D1265-1)
                            
                         
                      
@@ -13531,7 +13809,71 @@ et multi-professionnel
                         
                            
                               Chapitre V : Ressources et moyens
-                               (Articles D2135-1 à D2135-9)
+                              
+                                 
+                                    Section 1 : Certification et publicité des comptes des organisations syndicales de salariés et professionnelles d'employeurs
+                                     (Articles D2135-1 à D2135-34)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Financement des organisations syndicales de salariés et des organisations professionnelles d'employeurs 
+
+                                    
+                                       
+                                          Sous-section 1 : Organisation et fonctionnement du fonds paritaire
+                                          
+                                             
+                                                Paragraphe 1er : Composition du conseil d'administration de l'association paritaire 
+                                                 (Articles R2135-10 à R2135-13)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Compétences du conseil d'administration de l'association paritaire
+                                                 (Articles R2135-14 à R2135-16)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Biens et moyens
+                                                 (Articles R2135-17 à R2135-18)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 4 : Rôle du commissaire du Gouvernement
+                                                 (Articles R2135-19 à R2135-20)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 5 : Rapport annuel du fonds paritaire
+                                                 (Articles R2135-21 à R2135-22)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 6 : Droit de sanction du conseil d'administration - Suspension ou réduction du financement
+                                                 (Articles R2135-23 à R2135-25)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 7 : Utilisation des crédits par les organisations
+                                                 (Article R2135-26)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Répartition des crédits du fonds paritaire
+                                           (Articles R2135-27 à D2135-31)
+                                       
+                                    
+                                 
+                              
                            
                         
                         
@@ -14151,7 +14493,7 @@ et multi-professionnel
                                           
                                              
                                                 Paragraphe 2 : Ressources et dépenses du comité interentreprises
-                                                 (Articles R2323-40 à R2323-41)
+                                                 (Articles R2323-40 à R2323-41-4)
                                              
                                           
                                           
@@ -14284,6 +14626,12 @@ et multi-professionnel
                                      (Article R2325-8)
                                  
                               
+                              
+                                 
+                                    Section 6 : Etablissement et contrôle des comptes du comité d'entreprise
+                                     (Articles D2325-9 à R2325-15)
+                                 
+                              
                            
                         
                         
@@ -14298,7 +14646,7 @@ et multi-professionnel
                               
                                  
                                     Section 1 : Composition et fonctionnement du comité central d'entreprise
-                                     (Articles D2327-1 à R2327-4)
+                                     (Articles D2327-1 à D2327-4-4)
                                  
                               
                               
@@ -15725,6 +16073,12 @@ et multi-professionnel
                         
                         
                            
+                              Chapitre V bis : Obligations et responsabilité financière des maîtres d'ouvrage et des donneurs d'ordre
+                               (Articles R3245-1 à R3245-4)
+                           
+                        
+                        
+                           
                               Chapitre VI : Dispositions pénales
                                (Articles R3246-1 à R3246-4)
                            
@@ -16354,7 +16708,6 @@ et multi-professionnel
                               
                                  
                                     Section 2 : Pénibilité
-                                     (Articles D4121-5 à D4121-9)
                                  
                               
                            
@@ -16668,6 +17021,123 @@ et multi-professionnel
                                  
                                      Section 2 : Dérogations
                                      (Articles D4154-2 à D4154-6)
+                                 
+                              
+                           
+                        
+                     
+                  
+                  
+                     
+                        TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINS FACTEURS DE RISQUES PROFESSIONNELS ET À LA PÉNIBILITÉ
+                        
+                           
+                              Chapitre Ier : Fiche de prévention des expositions 
+                               (Articles D4161-1 à R4161-6)
+                           
+                        
+                        
+                           
+                              Chapitre II : Compte personnel de prévention de la pénibilité
+                              
+                                 
+                                     Section 1 : Ouverture et abondement du compte personnel de prévention de la pénibilité
+
+                                     (Articles R4162-1 à R4162-3)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Utilisations du compte personnel de prévention de la pénibilité
+
+                                    
+                                       
+                                          Sous-section 1 : Conditions d'utilisation du compte
+
+                                           (Articles R4162-4 à R4162-10)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Utilisation du compte pour la formation professionnelle
+
+                                           (Articles R4162-11 à R4162-17)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Utilisation du compte pour le passage à temps partiel
+
+
+                                           (Articles D4162-18 à D4162-22)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Utilisation du compte pour la retraite
+
+                                           (Article R4162-23)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Gestion des comptes, contrôles et réclamations
+                                     (Articles D4162-24 à D4162-38)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Fonds chargé du financement des droits liés au compte personnel de prévention de la pénibilité
+                                    
+                                       
+                                          Sous-section 1 : Organisation et fonctionnement du fonds 
+                                           (Articles D4162-39 à D4162-44)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Gestion administrative, financière et comptable du fonds 
+                                           (Articles D4162-45 à D4162-50)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Dépenses du fonds 
+
+                                           (Articles D4162-51 à D4162-53)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Recettes du fonds
+                                           (Articles D4162-54 à R4162-57)
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre III : Accords en faveur de la prévention de la pénibilité 
+                              
+                                 
+                                    Section 1 : Dispositions générales 
+                                     (Articles D4163-1 à D4163-3)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Procédure 
+                                     (Articles R4163-4 à R4163-6)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Pénalité 
+                                     (Articles R4163-7 à R4163-8)
                                  
                               
                            
@@ -17149,6 +17619,17 @@ et multi-professionnel
                                      (Articles R4228-26 à R4228-37)
                                  
                               
+                           
+                        
+                     
+                  
+                  
+                     
+                        TITRE III  : OBLIGATION DE VIGILANCE ET RESPONSABILITÉ DES MAÎTRES D'OUVRAGE ET DES DONNEURS D'ORDRE EN MATIÈRE D'HÉBERGEMENT
+                        
+                           
+                              Chapitre unique 
+                               (Articles R4231-1 à R4231-4)
                            
                         
                      
@@ -21066,24 +21547,6 @@ et multi-professionnel
 
 
 
-                                    
-                                       
-                                          Sous-section 1 : Missions 
-
-
-
-                                           (Article R5112-19)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Composition et fonctionnement 
-
-
-
-                                           (Articles R5112-20 à R5112-22)
-                                       
-                                    
                                  
                               
                               
@@ -21348,8 +21811,8 @@ et multi-professionnel
                                     
                                     
                                        
-                                          Sous-section 3 : Période d'immersion.
-                                           (Articles D5132-10-1 à D5132-10-5)
+                                          Sous-section 3 : Périodes de mise en situation en milieu professionnel.
+                                           (Articles D5132-10-1 à D5132-10-4)
                                        
                                     
                                  
@@ -21394,8 +21857,8 @@ et multi-professionnel
                                     
                                     
                                        
-                                          Sous-section 4 : Période d'immersion.
-                                           (Articles D5132-26-1 à D5132-26-5)
+                                          Sous-section 4 : Périodes de mise en situation en milieu professionnel.
+                                           (Articles D5132-26-1 à D5132-26-4)
                                        
                                     
                                     
@@ -21429,8 +21892,8 @@ et multi-professionnel
                                     
                                     
                                        
-                                          Sous-section 4 : Période d'immersion.
-                                           (Articles D5132-43-1 à D5132-43-5)
+                                          Sous-section 4 : Périodes de mise en situation en milieu professionnel.
+                                           (Articles D5132-43-1 à D5132-43-4)
                                        
                                     
                                  
@@ -21551,8 +22014,8 @@ et multi-professionnel
                                     
                                     
                                        
-                                          Sous-section 5 : Périodes d'immersion
-                                           (Articles D5134-50-1 à D5134-50-8)
+                                          Sous-section 5 : Périodes de mise en situation en milieu professionnel
+                                           (Articles D5134-50-1 à D5134-50-3)
                                        
                                     
                                  
@@ -21576,6 +22039,12 @@ et multi-professionnel
                                        
                                           Sous-section 3 : Aide financière
                                            (Articles R5134-63 à R5134-70)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Périodes de mise en situation en milieu professionnel
+                                           (Articles D5134-71-1 à D5134-71-3)
                                        
                                     
                                  
@@ -21647,9 +22116,8 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre V : Dispositions pénales
-                              Le présent chapitre ne comprend pas de dispositions réglementaires.
-
+                              Chapitre V : Périodes de mise en situation en milieu professionnel
+                               (Articles D5135-1 à D5135-8)
                            
                         
                      
@@ -21867,37 +22335,31 @@ et multi-professionnel
                                           Sous-section 2 : Entreprises adaptées et centres de distribution  de travail à domicile
                                           
                                              
-                                                Paragraphe 1 : Cadre d'intervention
-                                                 (Articles R5213-62 à R5213-64)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Contrat d'objectifs
+                                                Paragraphe 1 : Contrat d'objectifs
                                                  (Articles R5213-65 à R5213-69)
                                              
                                           
                                           
                                              
-                                                Paragraphe 3 : Fonctionnement
+                                                Paragraphe 2 : Fonctionnement
                                                  (Articles R5213-70 à R5213-73)
                                              
                                           
                                           
                                              
-                                                Paragraphe 4 : Aide au poste
-                                                 (Articles R5213-74 à R5213-76)
+                                                Paragraphe 3 : Aide au poste
+                                                 (Article R5213-76)
                                              
                                           
                                           
                                              
-                                                Paragraphe 5 : Subvention spécifique
+                                                Paragraphe 4 : Subvention spécifique
                                                  (Articles D5213-77 à D5213-80)
                                              
                                           
                                           
                                              
-                                                Paragraphe 6 : Mises à disposition dans une autre entreprise
+                                                Paragraphe 5 : Mises à disposition dans une autre entreprise
                                                  (Articles D5213-81 à D5213-86)
                                              
                                           
@@ -22766,14 +23228,6 @@ et multi-professionnel
                                     
                                  
                               
-                              
-                                 
-                                    Section 2 : Conseil territorial de l'emploi 
-
-
-                                     (Articles R5521-11 à R5521-14)
-                                 
-                              
                            
                         
                         
@@ -22956,16 +23410,14 @@ et multi-professionnel
                         TITRE Ier : PRINCIPES GÉNÉRAUX
                         
                            
-                              Chapitre Ier : Objectifs et contenu de la formation professionnelle
-                              Le présent chapitre ne comprend pas de dispositions réglementaires.
-
-                               (Articles R6111-1 à R6111-5)
-                           
-                        
-                        
-                           
                               Chapitre II : Égalité d'accès à la formation
                                (Article D6112-1)
+                           
+                        
+                        
+                           
+                              Chapitre III : Socle de connaissances et de compétences professionnelles
+                               (Articles D6113-1 à D6113-5)
                            
                         
                      
@@ -22978,6 +23430,12 @@ et multi-professionnel
                               Chapitre Ier : Rôle des régions
                               Le présent chapitre ne comprend pas de dispositions réglementaires.
 
+                              
+                                 
+                                    Section 1 : Procédure d'habilitation des organismes chargés d'actions d'insertion et de formation professionnelle
+                                     (Articles R6121-1 à R6121-8)
+                                 
+                              
                            
                         
                         
@@ -23025,23 +23483,23 @@ et multi-professionnel
                               
                               
                                  
-                                    Section 2 : Comité de coordination régional de l'emploi  et de la formation professionnelle
+                                    Section 2 : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
                                     
                                        
                                           Sous-section 1 : Missions
-                                           (Articles D6123-18 à D6123-20)
+                                           (Articles R6123-3 à R6123-3-2)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Composition
-                                           (Articles D6123-21 à D6123-24)
+                                           (Articles R6123-3-3 à R6123-3-7)
                                        
                                     
                                     
                                        
                                           Sous-section 3 : Organisation et fonctionnement
-                                           (Articles D6123-25 à Annexe)
+                                           (Articles R6123-3-8 à Annexe)
                                        
                                     
                                  
@@ -23050,6 +23508,12 @@ et multi-professionnel
                                  
                                     Section 3 : Comité paritaire interprofessionnel national pour l'emploi et la formation
                                      (Article R6123-5)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Comité paritaire interprofessionnel régional pour l'emploi et la formation
+                                     (Article R6123-6)
                                  
                               
                            
@@ -23070,7 +23534,7 @@ et multi-professionnel
                               
                                  
                                     Section 1 : Contrat d'objectifs et de moyens
-                                     (Articles D6211-1 à D6211-2)
+                                     (Article D6211-2)
                                  
                               
                               
@@ -23108,7 +23572,7 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 1 : Conditions d'âge
-                                           (Article D6222-1)
+                                           (Articles D6222-1 à R6222-1-1)
                                        
                                     
                                     
@@ -23388,7 +23852,7 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 2 : Contenu et conclusion de la convention
-                                           (Articles R6232-3 à R6232-12)
+                                           (Articles R6232-4 à R6232-11)
                                        
                                     
                                     
@@ -23523,13 +23987,12 @@ et multi-professionnel
                               
                                  
                                     Section 2 : Financement national du développement et de la modernisation de l'apprentissage
-                                     (Article D6241-12)
                                  
                               
                               
                                  
                                     Section 3 : Versements libératoires
-                                     (Articles R6241-18 à R6241-19-1)
+                                     (Article R6241-19)
                                  
                               
                               
@@ -23560,8 +24023,8 @@ et multi-professionnel
                                     
                                     
                                        
-                                          Sous-section 3 : Agrément
-                                           (Articles R6242-6 à R6242-11)
+                                          Sous-section 3 :  Modalités et retrait de l'habilitation
+                                           (Articles R6242-8 à R6242-10)
                                        
                                     
                                  
@@ -23575,7 +24038,7 @@ et multi-professionnel
                               
                                  
                                     Section 3 : Délégation de collecte
-                                     (Articles R6242-17 à R6242-20)
+                                     (Articles R6242-18 à R6242-20)
                                  
                               
                               
@@ -23591,7 +24054,7 @@ et multi-professionnel
                               Chapitre III : Aides à l'apprentissage
                               
                                  
-                                    Section 1 : Indemnité compensatrice forfaitaire
+                                    Section 1 : Prime à l'apprentissage
                                      (Articles R6243-1 à R6243-6)
                                  
                               
@@ -23950,8 +24413,44 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre III : Droit individuel à la formation
-                               (Articles D6323-1 à D6323-3)
+                              Chapitre III : Le compte personnel de formation
+                              
+                                 
+                                    Section 1 : Alimentation du compte
+                                     (Articles R6323-1 à R6323-3)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Mobilisation du compte
+                                     (Article R6323-4)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Prise en charge des frais de formation au titre du compte personnel de formation
+                                     (Articles R6323-5 à R6323-6)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Mobilisation du droit individuel à la formation dans le cadre du compte personnel de formation
+                                     (Article R6323-7)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Formations éligibles au compte personnel de formation
+                                     (Articles R6323-8 à R6323-11)
+                                 
+                              
+                              
+                                 
+                                    Section 6 : Système d'information du compte personnel de formation
+
+                                     (Articles R6323-12 à R6323-21)
+                                 
+                              
                            
                         
                         
@@ -24047,19 +24546,19 @@ et multi-professionnel
                                           
                                              
                                                 Paragraphe 1 : Dispositions générales
-                                                 (Articles R6331-9 à D6331-10)
+                                                 (Article R6331-9)
                                              
                                           
                                           
                                              
                                                 Paragraphe 2 : Prise en compte d'un accroissement d'effectif
-                                                 (Articles R6331-11 à R6331-12)
+                                                 (Article R6331-12)
                                              
                                           
                                           
                                              
-                                                Paragraphe 3 : Dépenses libératoires
-                                                 (Articles R6331-13 à R6331-28)
+                                                Paragraphe 3 : Dépenses éligibles au financement par l'employeur du compte personnel de formation
+                                                 (Articles R6331-13 à R6331-16)
                                              
                                           
                                        
@@ -24090,7 +24589,20 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 3 : Travailleurs indépendants du secteur artisanal
-                                           (Articles R6331-55 à R5331-63)
+                                          
+                                             
+                                                Paragraphe 1 : Fonds d'assurance formation des chefs d'entreprise artisanale
+                                                 (Articles R6331-55 à R6331-63)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Conseils de la formation institués auprès des chambres de métiers et de l'artisanat de région, des chambres régionales de métiers et de l'artisanat et de la chambre de métiers et de l'artisanat de Mayotte 
+
+
+                                                 (Articles R6331-63-1 à R6331-63-12)
+                                             
+                                          
                                        
                                     
                                     
@@ -24137,32 +24649,38 @@ et multi-professionnel
                                           Sous-section 3 : Gestion des fonds
                                           
                                              
-                                                Paragraphe 1 : Prise en charge des demandes des employeurs
+                                                Paragraphe 1 : Sections financières et répartition des sommes perçues par l'organisme collecteur paritaire
+                                                 (Articles R6332-22-1 à R6332-22-7)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Prise en charge des demandes des employeurs
                                                  (Articles R6332-23 à R6332-27)
                                              
                                           
                                           
                                              
-                                                Paragraphe 2 : Disponibilités
+                                                Paragraphe 3 : Disponibilités
                                                  (Articles R6332-28 à R6332-29)
                                              
                                           
                                           
                                              
-                                                Paragraphe 3 : Transmission de documents
-                                                 (Articles R6332-30 à R6332-34)
+                                                Paragraphe 4 : Transmission de documents
+                                                 (Articles R6332-30 à R6332-35-1)
                                              
                                           
                                           
                                              
-                                                Paragraphe 4 : Frais de gestion et d'information et frais relatifs aux missions des organismes collecteurs paritaires agréés au titre du plan de formation, de la professionnalisation et du droit individuel à la formation
-                                                 (Articles R6332-36 à R6332-37-1)
+                                                Paragraphe 5 :  Frais de gestion et d'information et frais relatifs aux missions des organismes collecteurs paritaires agréés
+                                                 (Articles R6332-36 à R6332-37-4)
                                              
                                           
                                           
                                              
-                                                Paragraphe 5 : Contrôle et comptabilité
-                                                 (Articles R6332-38 à R6332-44)
+                                                Paragraphe 6 : Contrôle et comptabilité
+                                                 (Articles R6332-38 à R6332-42)
                                              
                                           
                                        
@@ -24171,23 +24689,23 @@ et multi-professionnel
                               
                               
                                  
-                                    Section 2 : Organismes collecteurs paritaires agréés au titre du plan de formation
+                                    Section 2 : Prise en charge par l'organisme collecteur paritaire agréé des formations relevant du plan de formation
                                     
                                        
-                                          Paragraphe 1 : Constitution et fonctionnement
-                                           (Articles R6332-46 à R6332-47)
+                                          Paragraphe 1 : Sections financières et répartition des sommes perçues par l'organisme collecteur paritaire
+                                           (Article R6332-43)
                                        
                                     
                                     
                                        
-                                          Paragraphe 2 : Gestion et ressources
-                                           (Articles R6332-50 à R6332-54)
+                                          Paragraphe 2 : Gestion des ressources
+                                           (Article R6332-44)
                                        
                                     
                                     
                                        
                                           Paragraphe 3 : Contrôle
-                                           (Articles R6332-55 à R6332-62)
+                                           (Article R6332-4)
                                        
                                     
                                  
@@ -24210,14 +24728,14 @@ et multi-professionnel
                                     
                                        
                                           Paragraphe 3 : Contribution et gestion
-                                           (Articles R6332-72 à R6332-77)
+                                           (Articles R6332-72 à R6332-77-1)
                                        
                                     
                                  
                               
                               
                                  
-                                    Section 4 : Organismes agréés au titre de la professionnalisation  et du droit individuel à la formation
+                                    Section 4 : Prise en charge par l'organisme collecteur paritaire agréé des actions de professionnalisation mentionnées aux articles L. 6332-14 à L. 6332-16-1
                                     
                                        
                                           Sous-section 1 : Affectation et gestion des fonds
@@ -24226,7 +24744,7 @@ et multi-professionnel
                                     
                                     
                                        
-                                          Sous-section 2 : Dépenses de tutorat
+                                          Sous-section 2 : Dépenses de tutorat et de formation pédagogique des maîtres d'apprentissage
                                            (Articles D6332-90 à D6332-92)
                                        
                                     
@@ -24234,19 +24752,30 @@ et multi-professionnel
                               
                               
                                  
-                                    Section 5 : Organismes agréés au titre du congé individuel de formation
-                                     (Articles D6332-93 à D6332-95)
+                                    Section 5 : Prise en charge par l'organisme collecteur paritaire agréé des formations organisées au titre du compte personnel de formation
+                                    
+                                       
+                                          Paragraphe 1 : Sommes perçues par l'organisme collecteur paritaire agréé
+                                           (Article R6332-93)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 2 : Gestion des ressources
+                                           (Article R6332-94)
+                                       
+                                    
+                                    
+                                       
+                                          Paragraphe 3 : Contrôle
+                                           (Article R6332-95)
+                                       
+                                    
                                  
                               
                               
                                  
-                                    Section 6 : Fonds national de gestion paritaire  de la formation professionnelle continue
-                                     (Articles R6332-96 à R6332-103)
-                                 
-                              
-                              
-                                 
-                                    Section 7 : Fonds paritaire de sécurisation des parcours professionnels
+                                    Section 6 : Fonds paritaire de sécurisation des parcours professionnels
                                     
                                        
                                           Sous-section 1 : Création et agrément du fonds
@@ -24269,7 +24798,7 @@ et multi-professionnel
                               
                               
                                  
-                                    Section 8 : Information de l'Etat
+                                    Section 7 : Information de l'Etat
                                      (Article R6332-114)
                                  
                               
@@ -24277,9 +24806,43 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre III : Dispositions pénales
-                              Le présent chapitre ne comprend pas de dispositions réglementaires.
-
+                              Chapitre III : Organismes paritaires agréés pour la prise en charge du congé individuel de formation
+                              
+                                 
+                                    Section 1 : Agrément
+                                     (Articles R6333-1 à R6333-4)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Constitution et fonctionnement des organismes
+                                     (Articles R6333-5 à R6333-10)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Disponibilités
+                                     (Article R6333-11)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Transmission de documents
+                                     (Article R6333-12)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Frais de gestion et d'information et frais relatifs aux missions des organismes agréés pour la prise en charge du congé individuel de formation
+                                     (Articles R6333-13 à R6333-14)
+                                 
+                              
+                              
+                                 
+                                    Section 6 :  Contrôle
+                                     (Article R6333-15)
+                                 
+                              
                            
                         
                      
@@ -24555,7 +25118,18 @@ et multi-professionnel
                               
                                  
                                     Section 1 : Conditions d'ouverture et autorisation d'absence
-                                     (Articles R6422-1 à R6422-7)
+                                    
+                                       
+                                          Sous-section 1 : Demande de congé
+                                           (Articles R6422-1 à R6422-7)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Dispositions propres aux salariés titulaires d'un contrat à durée déterminée
+                                           (Articles R6422-7-1 à R6422-7-2)
+                                       
+                                    
                                  
                               
                               
@@ -24568,6 +25142,38 @@ et multi-professionnel
                                  
                                     Section 3 : Convention
                                      (Articles R6422-11 à R6422-13)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre III : Accompagnement des candidats à la validation des acquis de l'expérience 
+
+
+                              
+                                 
+                                    Section 1 : Dispositions générales 
+                                     (Article R6423-1)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Contenu et déroulement 
+                                     (Articles R6423-2 à R6423-3)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Information des candidats 
+
+                                     (Article R6423-4)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Suivi statistique des parcours de validation des acquis de l'expérience 
+                                     (Article R6423-5)
                                  
                               
                            
@@ -24591,64 +25197,8 @@ et multi-professionnel
                         TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
                         
                            
-                              Chapitre Ier : Dispositions générales
-                              
-                                 
-                                    Section 1 : Régions d'outre-mer
-                                    
-                                       
-                                          Sous-section 1 : Comité de coordination régional de l'emploi  et de la formation professionnelle
-                                          
-                                             
-                                                Paragraphe 1 : Missions
-                                                 (Articles R6521-1 à D6521-2)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Composition
-                                                 (Articles D6521-3 à D6521-8)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Organisation et fonctionnement
-                                                
-                                                   
-                                                      Sous-paragraphe 1 : Commission emploi
-                                                       (Articles D6521-9 à D6521-11)
-                                                   
-                                                
-                                                
-                                                   
-                                                      Sous-paragraphe 2 : Autres commissions
-                                                       (Articles D6521-12 à D6521-13)
-                                                   
-                                                
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Conventions tripartites
-                                           (Article D6521-14)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Saint-Barthélemy, Saint-Martin  et Saint-Pierre-et-Miquelon
-                                     (Articles D6521-15 à D6521-17)
-                                 
-                              
-                           
-                        
-                        
-                           
                               Chapitre II : Apprentissage
-                               (Articles D6522-1 à D6522-3)
+                               (Articles D6522-1 à D6522-2)
                            
                         
                         
@@ -24663,7 +25213,7 @@ et multi-professionnel
                               
                                  
                                     Section 2 : Financement de la formation professionnelle continue
-                                     (Article R6523-2)
+                                     (Articles R6523-2 à D6523-2-4)
                                  
                               
                               
@@ -24676,6 +25226,35 @@ et multi-professionnel
                                  
                                     Section 4 : Remboursement des frais de transport exposés par les stagiaires
                                      (Articles R6523-10 à R6523-14)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
+                                    
+                                       
+                                          Sous-section 1 : Guadeloupe, Guyane, Martinique, La Réunion
+                                           (Articles R6523-15 à R6523-21)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Saint-Barthélemy et Saint-Martin
+                                           (Articles R6523-22 à R6523-23)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Saint-Pierre-et-Miquelon
+                                           (Articles R6523-24 à R6523-26)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 6 : Comité paritaire interprofessionnel régional pour l'emploi et la formation
+                                     (Articles R6523-27 à R6523-28)
                                  
                               
                            
@@ -25601,6 +26180,32 @@ et multi-professionnel
                                (Articles R8114-1 à R8114-2)
                            
                         
+                        
+                           
+                              Chapitre V : Sanctions administratives 
+
+                              
+                                 
+                                    Section 1 : Dispositions générales 
+
+
+                                     (Articles R8115-1 à R8115-4)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Dispositions particulières
+                                    
+                                       
+                                          Sous-section 1 : Déclaration préalable de détachement
+
+                                           (Article R8115-5)
+                                       
+                                    
+                                 
+                              
+                           
+                        
                      
                   
                   
@@ -25638,12 +26243,18 @@ et multi-professionnel
                                      (Articles R8121-13 à R8121-14)
                                  
                               
+                              
+                                 
+                                    Section 3 : Groupe national de veille, d'appui et de contrôle
+                                     (Article R8121-15)
+                                 
+                              
                            
                         
                         
                            
                               Chapitre II : Services déconcentrés
-                               (Articles R8122-1 à R8122-5)
+                               (Articles R8122-1 à R8122-11)
                            
                         
                         
@@ -25728,8 +26339,8 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre III : Droits des salariés
-                               (Articles D8223-1 à D8223-3)
+                              Chapitre III : Droits des salariés et actions en justice
+                               (Articles D8223-1 à D8223-4)
                            
                         
                         
@@ -25890,8 +26501,7 @@ et multi-professionnel
                         
                            
                               Chapitre V : Actions en justice
-                              Le présent chapitre ne comprend pas de dispositions réglementaires.
-
+                               (Article D8255-1)
                            
                         
                         
@@ -25987,6 +26597,26 @@ et multi-professionnel
                         
                            
                               Chapitre III : Coordination interministérielle  de la lutte contre le travail illégal
+                           
+                        
+                     
+                  
+                  
+                     
+                        TITRE VIII : OBLIGATION DU DONNEUR D'ORDRE EN MATIÈRE D'APPLICATION DE LA LÉGISLATION DU TRAVAIL 
+
+                        
+                           
+                              Chapitre Ier : Obligation de vigilance et responsabilité du donneur d'ordre 
+
+                               (Articles R8281-1 à R8281-4)
+                           
+                        
+                        
+                           
+                              Chapitre II : Dispositions pénales
+
+                               (Article R8282-1)
                            
                         
                      
@@ -26566,28 +27196,6 @@ et multi-professionnel
                         
                      
                   
-                  
-                     
-                        Chapitre III : Personnels des entreprises de manutention des ports
-                        
-                           
-                              Section 2 : Participation des salariés des entreprises de manutention des ports maritimes aux fruits de l'expansion.
-                               (Articles R743-2 à R743-5)
-                           
-                        
-                        
-                           
-                              Section 3 : Amélioration des conditions de travail
-                              
-                                 
-                                    Paragraphe 1 : Commission paritaire spéciale.
-                                     (Articles R743-6 à R743-12)
-                                 
-                              
-                           
-                        
-                     
-                  
                
             
          
@@ -26669,12 +27277,6 @@ et multi-professionnel
                                (Articles D742-3 à D742-11)
                            
                         
-                     
-                  
-                  
-                     
-                        Chapitre III : Personnels des entreprises de manutention des ports : congés payés.
-                         (Articles D743-1 à D743-8)
                      
                   
                   

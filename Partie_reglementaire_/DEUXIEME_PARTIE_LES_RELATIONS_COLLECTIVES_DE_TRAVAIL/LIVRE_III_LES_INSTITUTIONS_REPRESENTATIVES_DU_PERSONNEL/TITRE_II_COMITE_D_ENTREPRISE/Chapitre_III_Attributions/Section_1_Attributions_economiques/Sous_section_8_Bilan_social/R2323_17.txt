@@ -18,7 +18,10 @@
                      
                      1. 2. Travailleurs extérieurs. 
                      
-                     Travailleurs extérieurs. Nombre de salariés appartenant à une entreprise extérieure (6). Nombre de stagiaires (écoles, universités...) (7). Nombre moyen mensuel de salariés temporaires (8). Durée moyenne des contrats de travail temporaire. 
+                     
+                        Travailleurs extérieurs. Nombre de salariés appartenant à une entreprise extérieure (6). Nombre de stagiaires (écoles, universités...) (7). Nombre moyen mensuel de salariés temporaires (8). Durée moyenne des contrats de travail temporaire. 
+                        Nombre de salariés de l'entreprise détachés Nombre de salariés détachés accueillis
+                        
                      
                   
                   
