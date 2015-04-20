@@ -496,6 +496,7 @@
 20101224 : Décret n°2010-1642 du 23 décembre 2010 - art. 1
 20101230 : LOI n°2010-1657 du 29 décembre 2010 - art. 208 (V), LOI n°2010-1657 du 29 décembre 2010 - art. 201 (V), LOI n°2010-1657 du 29 décembre 2010 - art. 200 (V), LOI n°2010-1657 du 29 décembre 2010 - art. 137 (V), LOI n°2010-1657 du 29 décembre 2010 - art. 202 (V), LOI n°2010-1657 du 29 décembre 2010 - art. 78
 20101231 : Décret n°2010-1729 du 30 décembre 2010 - art. 2, Décret n°2010-1729 du 30 décembre 2010 - art. 1
+20110111 : Décret n°2011-39 du 10 janvier 2011 - art. 2, Décret n°2011-39 du 10 janvier 2011 - art. 1
 20110112 : Décret n°2011-45 du 11 janvier 2011 - art. 3, Décret n°2011-45 du 11 janvier 2011 - art. 2, Décret n°2011-45 du 11 janvier 2011 - art. 1, Décret n°2011-45 du 11 janvier 2011 - art. 4, Décret n°2011-50 du 11 janvier 2011 - art. 4, Décret n°2011-50 du 11 janvier 2011 - art. 3
 20110121 : Ordonnance n°2011-91 du 20 janvier 2011 - art. 11
 20110202 : Décret n°2011-138 du 1er février 2011 - art. 1
@@ -540,24 +541,70 @@
 20111201 : Décret n°2011-1693 du 30 novembre 2011 - art. 4, Décret n°2011-1693 du 30 novembre 2011 - art. 1, Décret n°2011-1693 du 30 novembre 2011 - art. 3
 20111202 : Décret n°2011-1697 du 1er décembre 2011 - art. 30
 20111207 : Décret n°2011-1830 du 6 décembre 2011 - art. 8, Décret n°2011-1830 du 6 décembre 2011 - art. 9, Décret n°2011-1830 du 6 décembre 2011 - art. 4, Décret n°2011-1830 du 6 décembre 2011 - art. 5, Décret n°2011-1830 du 6 décembre 2011 - art. 6, Décret n°2011-1830 du 6 décembre 2011 - art. 2, Décret n°2011-1830 du 6 décembre 2011 - art. 3, Décret n°2011-1830 du 6 décembre 2011 - art. 14, Décret n°2011-1830 du 6 décembre 2011 - art. 12, Décret n°2011-1830 du 6 décembre 2011 - art. 13, Décret n°2011-1830 du 6 décembre 2011 - art. 10, Décret n°2011-1830 du 6 décembre 2011 - art. 11
+20111214 : LOI n°2011-1862 du 13 décembre 2011 - art. 3, LOI n°2011-1862 du 13 décembre 2011 - art. 5
 20111215 : Décret n°2011-1877 du 14 décembre 2011 - art.
+20111220 : Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 20111221 : Décret n°2011-1909 du 20 décembre 2011 - art. 1, Décret n°2011-1909 du 20 décembre 2011 - art. 2
 20111222 : LOI n°2011-1906 du 21 décembre 2011 - art. 123, Décret n°2011-1924 du 21 décembre 2011 - art. 3, LOI n°2011-1906 du 21 décembre 2011 - art. 40, Décret n°2011-1924 du 21 décembre 2011 - art. 6, LOI n°2011-1906 du 21 décembre 2011 - art. 125, Décret n°2011-1924 du 21 décembre 2011 - art. 4, Décret n°2011-1924 du 21 décembre 2011 - art. 5, Décret n°2011-1924 du 21 décembre 2011 - art. 2, LOI n°2011-1906 du 21 décembre 2011 - art. 12, Décret n°2011-1924 du 21 décembre 2011 - art. 1, Décret n°2011-1924 du 21 décembre 2011 - art. 7
 20111223 : Ordonnance n°2011-1922 du 22 décembre 2011 - art. 1
 20111224 : Décret n°2011-1953 du 23 décembre 2011 - art. 1, Décret n°2011-1936 du 23 décembre 2011 - art. 1 (VD)
 20111227 : Décret n°2011-1970 du 26 décembre 2011 - art. 4, Décret n°2011-1970 du 26 décembre 2011 - art. 5, Décret n°2011-1970 du 26 décembre 2011 - art. 2, Décret n°2011-1970 du 26 décembre 2011 - art. 3
 20111228 : Décret n°2011-1999 du 27 décembre 2011 - art. 1
-20111229 : LOI n°2011-1977 du 28 décembre 2011 - art. 152 (V), LOI n°2011-1977 du 28 décembre 2011 - art. 62 (V), LOI n°2011-1977 du 28 décembre 2011 - art. 151, LOI n°2011-1978 du 28 décembre 2011 - art. 88 (V), LOI n°2011-1977 du 28 décembre 2011 - art. 61, LOI n°2011-1977 du 28 décembre 2011 - art. 17, LOI n°2011-1977 du 28 décembre 2011 - art. 10, Décret n°2011-2001 du 28 décembre 2011 - art. 1, Décret n°2011-2001 du 28 décembre 2011 - art. 2
+20111229 : LOI n°2011-1977 du 28 décembre 2011 - art. 46 (M), LOI n°2011-1977 du 28 décembre 2011 - art. 152 (V), LOI n°2011-1977 du 28 décembre 2011 - art. 62 (V), LOI n°2011-1977 du 28 décembre 2011 - art. 151, LOI n°2011-1978 du 28 décembre 2011 - art. 88 (V), LOI n°2011-1977 du 28 décembre 2011 - art. 61, LOI n°2011-1977 du 28 décembre 2011 - art. 17, LOI n°2011-1978 du 28 décembre 2011 - art. 89 (VD), LOI n°2011-1977 du 28 décembre 2011 - art. 46 (VD), LOI n°2011-1977 du 28 décembre 2011 - art. 10, LOI n°2011-1977 du 28 décembre 2011 - art. 46 (MMN), Décret n°2011-2001 du 28 décembre 2011 - art. 1, Décret n°2011-2001 du 28 décembre 2011 - art. 2
 20111230 : Décret n°2011-2029 du 29 décembre 2011 - art. 2
 20111231 : Décret n°2011-2075 du 30 décembre 2011 - art. 1, Décret n°2011-2096 du 30 décembre 2011 - art. 3
 20120106 : Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD), Ordonnance n°2012-6 du 5 janvier 2012 - art. 5 v. init.
 20120121 : Décret n°2012-66 du 20 janvier 2012 - art. 7
-20120131 : Décret n°2012-134 du 30 janvier 2012 - art. 2, Décret n°2012-136 du 30 janvier 2012 - art. 1, Décret n°2012-135 du 30 janvier 2012 - art. 1, Décret n°2012-133 du 30 janvier 2012 - art. 1, Décret n°2012-134 du 30 janvier 2012 - art. 3, Décret n°2012-134 du 30 janvier 2012 - art. 1
+20120131 : Décret n°2012-137 du 30 janvier 2012 - art. 1, Décret n°2012-134 du 30 janvier 2012 - art. 2, Décret n°2012-136 du 30 janvier 2012 - art. 1, Décret n°2012-135 du 30 janvier 2012 - art. 2, Décret n°2012-135 du 30 janvier 2012 - art. 1, Décret n°2012-133 du 30 janvier 2012 - art. 1, Décret n°2012-134 du 30 janvier 2012 - art. 3, Décret n°2012-134 du 30 janvier 2012 - art. 1
 20120208 : Décret n°2012-183 du 7 février 2012 - art. 2, Décret n°2012-183 du 7 février 2012 - art. 1
 20120229 : Décret n°2012-275 du 28 février 2012 - art. 3, Décret n°2012-275 du 28 février 2012 - art. 1
 20120301 : Décret n°2012-285 du 29 février 2012 - art. 2, Décret n°2012-285 du 29 février 2012 - art. 1
 20120308 : Décret n°2012-336  du 7 mars 2012 - art. 25, Décret n°2012-336 du 7 mars 2012 - art. 23, Décret n°2012-336 du 7 mars 2012 - art. 22, Décret n°2012-336 du 7 mars 2012 - art. 21, Décret n°2012-336 du 7 mars 2012 - art. 20, Décret n°2012-336 du 7 mars 2012 - art. 25, Décret n°2012-336 du 7 mars 2012 - art. 12, Décret n°2012-336 du 7 mars 2012 - art. 13, Décret n°2012-336 du 7 mars 2012 - art. 10, Décret n°2012-336 du 7 mars 2012 - art. 11, Décret n°2012-336 du 7 mars 2012 - art. 16, Décret n°2012-336 du 7 mars 2012 - art. 17, Décret n°2012-336 du 7 mars 2012 - art. 14, Décret n°2012-336 du 7 mars 2012 - art. 15, Décret n°2012-336 du 7 mars 2012 - art. 18, Décret n°2012-336 du 7 mars 2012 - art. 19, Décret n°2012-336 du 7 mars 2012 - art. 1, Décret n°2012-336 du 7 mars 2012 - art. 2, Décret n°2012-336 du 7 mars 2012 - art. 3, Décret n°2012-336 du 7 mars 2012 - art. 4, Décret n°2012-336 du 7 mars 2012 - art. 5, Décret n°2012-336 du 7 mars 2012 - art. 6, Décret n°2012-336 du 7 mars 2012 - art. 7, Décret n°2012-336 du 7 mars 2012 - art. 8, Décret n°2012-336 du 7 mars 2012 - art. 9
 20120310 : Décret n°2012-341 du 9 mars 2012 - art. 1, Décret n°2012-341 du 9 mars 2012 - art. 2, Décret n°2012-341 du 9 mars 2012 - art. 3, Décret n°2012-341 du 9 mars 2012 - art. 4, Décret n°2012-341 du 9 mars 2012 - art. 5, Décret n°2012-341 du 9 mars 2012 - art. 6
-20120323 : LOI n°2012-387 du 22 mars 2012 - art. 41 (V)
+20120313 : Ordonnance n°2012-351 du 12 mars 2012 - art. 11
+20120323 : LOI n°2012-387 du 22 mars 2012 - art. 49, LOI n°2012-387 du 22 mars 2012 - art. 48, LOI n°2012-387 du 22 mars 2012 - art. 54, LOI n°2012-387 du 22 mars 2012 - art. 50 (V), LOI n°2012-387 du 22 mars 2012 - art. 79, LOI n°2012-387 du 22 mars 2012 - art. 43, LOI n°2012-387 du 22 mars 2012 - art. 26, LOI n°2012-387 du 22 mars 2012 - art. 52, LOI n°2012-387 du 22 mars 2012 - art. 53, LOI n°2012-387 du 22 mars 2012 - art. 47, LOI n°2012-387 du 22 mars 2012 - art. 41 (V), LOI n°2012-387 du 22 mars 2012 - art. 45, LOI n°2012-387 du 22 mars 2012 - art. 57, LOI n°2012-387 du 22 mars 2012 - art. 56, LOI n°2012-387 du 22 mars 2012 - art. 46, LOI n°2012-387 du 22 mars 2012 - art. 55, LOI n°2012-387 du 22 mars 2012 - art. 44
+20120324 : Décret n°2012-418 du 23 mars 2012 - art. 1, Décret n°2012-419 du 23 mars 2012 - art. 1, Décret n°2012-419 du 23 mars 2012 - art. 2
+20120412 : Décret n°2012-472 du 11 avril 2012 - art. 2, Décret n°2012-472 du 11 avril 2012 - art. 1
+20120419 : Décret n°2012-509 du 18 avril 2012 - art. 14
+20120420 : Décret n°2012-530 du 19 avril 2012 - art. 2, Décret n°2012-530 du 19 avril 2012 - art. 3 (V), Décret n°2012-528 du 19 avril 2012 - art. 1
+20120421 : Décret n°2012-539 du 20 avril 2012 - art. 1
+20120425 : Décret n°2012-564 du 24 avril 2012 - art. 1
+20120503 : Décret n°2012-627 du 2 mai 2012 - art. 2, Décret n°2012-627 du 2 mai 2012 - art. 1, Décret n°2012-628 du 2 mai 2012 - art. 1
+20120504 : Décret n°2012-634 du 3 mai 2012 - art. 21
+20120505 : Décret n°2012-639 du 4 mai 2012 - art. 2, Décret n°2012-639 du 4 mai 2012 - art. 3, Décret n°2012-639 du 4 mai 2012 - art. 1, Décret n°2012-639 du 4 mai 2012 - art. 4
+20120510 : Décret n°2012-746 du 9 mai 2012 - art. 1, Décret n°2012-755 du 9 mai 2012 - art. 3
+20120531 : Décret n°2012-783 du 30 mai 2012 - art. 4
+20120617 : Décret n°2012-812 du 16 juin 2012 - art. 3, Décret n°2012-812 du 16 juin 2012 - art. 2, Décret n°2012-812 du 16 juin 2012 - art. 1
+20120630 : Décret n°2012-837 du 29 juin 2012 - art. 6
+20120720 : Décret n°2012-896 du 19 juillet 2012 - art. 4, Décret n°2012-896 du 19 juillet 2012 - art. 2, Décret n°2012-896 du 19 juillet 2012 - art. 3, Décret n°2012-896 du 19 juillet 2012 - art. 1
+20120731 : Décret n°2012-927 du 30 juillet 2012 - art. 1
+20120802 : Décret n°2012-943 du 1er août 2012 - art. 2, Décret n°2012-943 du 1er août 2012 - art. 1
+20120807 : LOI n°2012-954 du 6 août 2012 - art. 7, LOI n°2012-954 du 6 août 2012 - art. 4
+20120817 : LOI n°2012-958 du 16 août 2012 - art. 38
+20120919 : Décret n°2012-1066 du 18 septembre 2012 - art. 1
+20121006 : Décret n°2012-1130 du 5 octobre 2012 - art. 2
+20121027 : LOI n°2012-1189 du 26 octobre 2012 - art. 8, LOI n°2012-1189 du 26 octobre 2012 - art. 9, LOI n°2012-1189 du 26 octobre 2012 - art. 6, LOI n°2012-1189 du 26 octobre 2012 - art. 7, LOI n°2012-1189 du 26 octobre 2012 - art. 4, LOI n°2012-1189 du 26 octobre 2012 - art. 1
+20121101 : Décret n°2012-1210 du 31 octobre 2012 - art. 1, Décret n°2012-1211 du 31 octobre 2012 - art. 2, Décret n°2012-1211 du 31 octobre 2012 - art. 1
+20121108 : Décret n°2012-1247 du 7 novembre 2012 - art. 45, Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+20121120 : Décret n°2012-1271 du 19 novembre 2012 - art. 3, Décret n°2012-1271 du 19 novembre 2012 - art. 2, Décret n°2012-1271 du 19 novembre 2012 - art. 1, Décret n°2012-1271 du 19 novembre 2012 - art. 5, Décret n°2012-1271 du 19 novembre 2012 - art. 4
+20121205 : Décret n°2012-1354 du 4 décembre 2012 - art. 3, Décret n°2012-1354 du 4 décembre 2012 - art. 2, Décret n°2012-1354 du 4 décembre 2012 - art. 1, Décret n°2012-1354 du 4 décembre 2012 - art. 7, Décret n°2012-1354 du 4 décembre 2012 - art. 6, Décret n°2012-1354 du 4 décembre 2012 - art. 5, Décret n°2012-1354 du 4 décembre 2012 - art. 4, Décret n°2012-1354 du 4 décembre 2012 - art. 8
+20121208 : Décret n°2012-1370 du 7 décembre 2012 - art. 2
+20121214 : Décret n°2012-1401 du 13 décembre 2012 - art. 1
+20121218 : LOI n°2012-1404 du 17 décembre 2012 - art. 94
+20121219 : Décret n°2012-1408 du 18 décembre 2012 - art. 5, Décret n°2012-1408 du 18 décembre 2012 - art. 4, Décret n°2012-1408 du 18 décembre 2012 - art. 1, Décret n°2012-1408 du 18 décembre 2012 - art. 3, Décret n°2012-1408 du 18 décembre 2012 - art. 2
+20121228 : Décret n°2012-1483 du 27 décembre 2012 - art. 11 (V)
+20121230 : LOI n°2012-1509 du 29 décembre 2012 - art. 42 (VD)
+20130115 : Décret n°2013-47 du 14 janvier 2013 - art. 1, Décret n°2013-44 du 14 janvier 2013 - art. 1, Décret n°2013-44 du 14 janvier 2013 - art. 2
+20130116 : Décret n°2013-50 du 15 janvier 2013 - art. 1, Décret n°2013-52 du 15 janvier 2013 - art. 1
+20130131 : Décret n°2013-109 du 30 janvier 2013 - art. 4, Décret n°2013-109 du 30 janvier 2013 - art. 5, Décret n°2013-109 du 30 janvier 2013 - art. 6, Décret n°2013-109 du 30 janvier 2013 - art. 2, Décret n°2013-109 du 30 janvier 2013 - art. 3
+20130208 : Décret n°2013-123 du 7 février 2013 - art. 1, Décret n°2013-123 du 7 février 2013 - art. 2
+20130302 : LOI n°2013-185 du 1er mars 2013 - art. 1, LOI n°2013-185 du 1er mars 2013 - art. 2
+20130316 : Décret n°2013-222 du 15 mars 2013 - art. 2, Décret n°2013-222 du 15 mars 2013 - art. 1
+20130417 : LOI n°2013-316 du 16 avril 2013 - art. 9, LOI n°2013-316 du 16 avril 2013 - art. 8, LOI n°2013-316 du 16 avril 2013 - art. 10
+20130501 : Décret n°2013-371 du 30 avril 2013 - art. 8, Décret n°2013-371 du 30 avril 2013 - art. 3, Décret n°2013-371 du 30 avril 2013 - art. 6, Décret n°2013-371 du 30 avril 2013 - art. 7, Décret n°2013-371 du 30 avril 2013 - art. 4, Décret n°2013-371 du 30 avril 2013 - art. 5
+20130518 : LOI n°2013-404 du 17 mai 2013 - art. 19
+20130529 : LOI n°2013-431 du 28 mai 2013 - art. 31
+20130605 : Décret n°2013-467 du 4 juin 2013 - art. 1
+20130615 : LOI n° 2013-504 du 14 juin 2013 - art. 5 (V), LOI n°2013-504 du 14 juin 2013 - art. 17 (V), LOI n°2013-504 du 14 juin 2013 - art. 5 (V), LOI n°2013-504 du 14 juin 2013 - art. 11 (V), LOI n° 2013-504 du 14 juin 2013 - art. 16 (V), LOI n°2013-504 du 14 juin 2013 - art. 12 (V), LOI n°2013-504 du 14 juin 2013 - art. 10, LOI n°2013-504 du 14 juin 2013 - art. 14, LOI n°2013-504 du 14 juin 2013 - art. 23, LOI n°2013-504 du 14 juin 2013 - art. 20, LOI n°2013-504 du 14 juin 2013 - art. 21, LOI n°2013-504 du 14 juin 2013 - art. 15 (V), LOI n°2013-504 du 14 juin 2013 - art. 12 (M), LOI n°2013-504 du 14 juin 2013 - art. 8 (V), LOI n°2013-504 du 14 juin 2013 - art. 6, LOI n° 2013-504 du 14 juin 2013 - art. 9 (V), LOI n°2013-504 du 14 juin 2013 - art. 7, LOI n°2013-504 du 14 juin 2013 - art. 9 (V)
 20130627 : Décret n°2013-551 du 26 juin 2013 - art. 2
 20140405 : Décision n°2014-387 QPC du 4 avril 2014 - art. 1 v. init., Décision n°2014-374 QPC du 4 avril 2014 - art. 1 v. init.
