@@ -236,7 +236,7 @@
                                     
                                        
                                           Sous-section 2 : Registre unique du personnel.
-                                           (Articles L1221-13 à L1221-15)
+                                           (Articles L1221-13 à L1221-15-1)
                                        
                                     
                                     
@@ -391,7 +391,7 @@
                                     
                                     
                                        
-                                          Sous-section 2 : Congé pour enfant malade et congé de présence parentale
+                                          Sous-section 2 : Congés pour maladie d'un enfant
                                           
                                              
                                                 Paragraphe 1 : Congé pour enfant malade.
@@ -402,6 +402,12 @@
                                              
                                                 Paragraphe 2 : Congé de présence parentale.
                                                  (Articles L1225-62 à L1225-65)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Don de jours de repos à un parent d'enfant gravement malade
+                                                 (Articles L1225-65-1 à L1225-65-2)
                                              
                                           
                                        
@@ -784,7 +790,7 @@ et des collectivités territoriales
                               
                                  
                                     Section 5 : Licenciement économique dans le cadre d'une sauvegarde, d'un redressement ou d'une liquidation judiciaire.
-                                     (Articles L1233-58 à L1233-60)
+                                     (Articles L1233-58 à L1233-60-1)
                                  
                               
                               
@@ -1428,8 +1434,14 @@ et des collectivités territoriales
                         
                         
                            
-                              Chapitre IV : Dispositions pénales.
-                              Le présent chapitre ne comprend pas de dispositions législatives
+                              Chapitre IV : Amendes administratives.
+                               (Articles L1264-1 à L1264-3)
+                           
+                        
+                        
+                           
+                              Chapitre V : Actions en justice
+                               (Article L1265-1)
                            
                         
                      
@@ -1809,7 +1821,7 @@ et des collectivités territoriales
                         
                            
                               Chapitre Ier : Dispositions générales.
-                              Le présent chapitre ne comprend pas de dispositions législatives
+                               (Article L1451-1)
                            
                         
                         
@@ -1837,6 +1849,12 @@ et des collectivités territoriales
                                  
                                     Section 2 : Départage.
                                      (Articles L1454-2 à L1454-4)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Demande de requalification en contrat de travail d'une convention de stage
+                                     (Article L1454-5)
                                  
                               
                            
@@ -2595,7 +2613,7 @@ et multi-professionnel
                                     
                                     
                                        
-                                          Sous-section 3 : Régime de prévoyance maladie.
+                                          Sous-section 3 : Protection sociale complémentaire des salariés.
                                            (Article L2242-11)
                                        
                                     
@@ -3006,7 +3024,7 @@ et multi-professionnel
                                           
                                              
                                                 Paragraphe 1 : Marche générale de l'entreprise.
-                                                 (Articles L2323-6 à L2323-7-2)
+                                                 (Articles L2323-6 à L2323-7-3)
                                              
                                           
                                           
@@ -5524,6 +5542,12 @@ et multi-professionnel
                         
                         
                            
+                              Chapitre V bis : Obligations et responsabilité financière du donneur d'ordre.
+                               (Article L3245-2)
+                           
+                        
+                        
+                           
                               Chapitre VI : Dispositions pénales.
                               Le présent chapitre ne comprend pas de dispositions législatives
                            
@@ -6450,6 +6474,17 @@ et multi-professionnel
                            
                               Chapitre VIII : Installations sanitaires, restauration et hébergement. 
                               Le présent chapitre ne comprend pas de dispositions législatives 
+                           
+                        
+                     
+                  
+                  
+                     
+                        Titre III  : VIGILANCE DU DONNEUR D'ORDRE EN MATIÈRE D'HÉBERGEMENT.
+                        
+                           
+                              Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
+                               (Article L4231-1)
                            
                         
                      
@@ -9733,7 +9768,7 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 2 : Travailleurs indépendants, membres des professions libérales et professions non salariées.
-                                           (Articles L6331-48 à L6331-54)
+                                           (Articles L6331-48 à L6331-54-1)
                                        
                                     
                                     
@@ -10731,7 +10766,7 @@ et multi-professionnel
             
             
                
-                  LIVRE III : VOYAGEURS, REPRÉSENTANTS OU PLACIERS, GÉRANTS DE SUCCURSALES ET CONJOINTS SALARIÉS DU CHEF D'ENTREPRISE
+                  LIVRE III : VOYAGEURS, REPRÉSENTANTS OU PLACIERS, GÉRANTS DE SUCCURSALES ET ENTREPRENEURS SALARIÉS ASSOCIÉS D'UNE COOPÉRATIVE D'ACTIVITÉ ET D'EMPLOI
                   
                      
                         TITRE Ier : VOYAGEURS, REPRÉSENTANTS ET PLACIERS
@@ -10848,6 +10883,40 @@ et multi-professionnel
                            
                               Chapitre II : Gérants non salariés des succursales de commerce de détail alimentaire.
                                (Articles L7322-1 à L7322-6)
+                           
+                        
+                     
+                  
+                  
+                     
+                        TITRE III : ENTREPRENEURS SALARIÉS ASSOCIÉS D'UNE COOPÉRATIVE D'ACTIVITÉ ET D'EMPLOI
+                        
+                           
+                              Chapitre Ier : Dispositions générales 
+                              
+                                 
+                                    Section 1 : Champ d'application 
+
+
+
+
+
+                                     (Article L7331-1)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Principes
+                                     (Articles L7331-2 à L7331-3)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre II : Mise en œuvre 
+
+                               (Articles L7332-1 à L7332-7)
                            
                         
                      
@@ -11156,8 +11225,19 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre III : Droits des salariés.
-                               (Articles L8223-1 à L8223-3)
+                              Chapitre III : Droits des salariés et actions en justice.
+                              
+                                 
+                                    Section 1 : Droits des salariés.
+                                     (Articles L8223-1 à L8223-3)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Actions en justice.
+                                     (Article L8223-4)
+                                 
+                              
                            
                         
                         
@@ -11336,13 +11416,24 @@ et multi-professionnel
                         
                            
                               Chapitre II : Sanctions administratives.
-                               (Articles L8272-1 à L8272-4)
+                               (Articles L8272-1 à L8272-5)
                            
                         
                         
                            
                               Chapitre III : Coordination interministérielle de la lutte contre le travail illégal.
                               Le présent chapitre ne comprend pas de dispositions législatives 
+                           
+                        
+                     
+                  
+                  
+                     
+                        Titre VIII : VIGILANCE DU DONNEUR D'ORDRE EN MATIÈRE D'APPLICATION DE LA LÉGISLATION DU TRAVAIL.
+                        
+                           
+                              Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
+                               (Article L8281-1)
                            
                         
                      
@@ -12399,7 +12490,7 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 2 : Habilitation
-                                           (Articles D1271-8 à D1271-27)
+                                           (Articles R1271-8 à R1271-27)
                                        
                                     
                                  
@@ -16166,6 +16257,7 @@ et multi-professionnel
                               Chapitre Ier : Dispositions générales
                               Le présent chapitre ne comprend pas de dispositions réglementaires.
 
+                               (Article R3411-1)
                            
                         
                         
@@ -16363,7 +16455,7 @@ et multi-professionnel
                               
                                  
                                     Section 1 : Dispositions générales
-                                     (Articles R4152-1 à R4152-2)
+                                     (Article R4152-2)
                                  
                               
                               
@@ -18758,6 +18850,81 @@ et multi-professionnel
                               
                            
                         
+                        
+                           
+                              Chapitre II : Prévention du risque pyrotechnique
+                              
+                                 
+                                    Section 1 : Champ d'application et définitions
+                                     (Articles R4462-1 à R4462-2)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : L'étude de sécurité
+                                     (Articles R4462-3 à R4462-5)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Mesures générales de sécurité
+                                     (Articles R4462-6 à R4462-9)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Implantation des installations et transports internes
+                                    
+                                       
+                                          Sous-section 1 : Implantation des installations et des postes de travail
+                                           (Articles R4462-10 à R4462-13)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Transports de substances ou d'objets explosifs internes au site
+                                           (Articles R4462-14 à R4462-15)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Exigences de sécurité concernant les installations
+                                    
+                                       
+                                          Sous-section 1 : Caractéristiques générales
+                                           (Articles R4462-16 à R4462-17)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Issues et dégagements
+                                           (Articles R4462-18 à R4462-22)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Installations électriques et précaution contre l'électricité statique
+                                           (Articles R4462-23 à R4462-25)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 6 : Encadrement et formation
+                                     (Articles R4462-26 à R4462-28)
+                                 
+                              
+                              
+                                 
+                                    Section 7 : Dispositions administratives
+                                     (Articles R4462-29 à R4462-36)
+                                 
+                              
+                           
+                        
                      
                   
                
@@ -19944,7 +20111,7 @@ et multi-professionnel
                               
                                  
                                     Section 2 : Collaborateur médecin.
-                                     (Article R4623-25)
+                                     (Articles R4623-25 à R4623-25-2)
                                  
                               
                               
@@ -19955,7 +20122,13 @@ et multi-professionnel
                               
                               
                                  
-                                    Section 4 : Personnel infirmier.
+                                    Section 4 : Médecin candidat à l'autorisation d'exercice.
+                                     (Articles R4623-25-3 à R4623-25-5)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Personnel infirmier.
                                     
                                        
                                           Sous-section 1 : Dispositions communes.
@@ -19978,13 +20151,13 @@ et multi-professionnel
                               
                               
                                  
-                                    Section 5 : Intervenant en prévention des risques professionnels des services de santé au travail interentreprises.
+                                    Section 6 : Intervenant en prévention des risques professionnels des services de santé au travail interentreprises.
                                      (Articles R4623-37 à R4623-39)
                                  
                               
                               
                                  
-                                    Section 6 : Assistant de service de santé au travail.
+                                    Section 7 : Assistant de service de santé au travail.
                                      (Article R4623-40)
                                  
                               
@@ -20058,19 +20231,19 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 1 : Fiche d'entreprise.
-                                           (Articles D4624-37 à D4624-41)
+                                           (Articles R4624-37 à R4624-41)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Rapport annuel d'activité.
-                                           (Articles D4624-42 à D4624-45)
+                                           (Articles R4624-42 à R4624-45)
                                        
                                     
                                     
                                        
                                           Sous-section 3 : Dossier médical en santé au travail et fiches médicales d'aptitude.
-                                           (Articles D4624-46 à R4624-49)
+                                           (Articles R4624-46 à R4624-49)
                                        
                                     
                                  
@@ -20078,7 +20251,7 @@ et multi-professionnel
                               
                                  
                                     Section 4 : Recherches, études et enquêtes.
-                                     (Article D4624-50)
+                                     (Article R4624-50)
                                  
                               
                            
@@ -20153,6 +20326,43 @@ et multi-professionnel
                                  
                                     Section 2 : Salarié saisonnier.
                                      (Article D4625-22)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Travailleurs éloignés
+
+                                    
+                                       
+                                          Sous-section 1 : Champ d'application 
+
+                                           (Articles D4625-23 à D4625-24)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Adhésion à un service de santé au travail 
+                                           (Articles D4625-25 à D4625-28)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Echanges d'informations, documents et rapports
+                                           (Articles D4625-29 à D4625-32)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Dossier médical en santé au travail
+                                           (Article D4625-33)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 5 : Contestation des avis médicaux
+                                           (Article D4625-34)
+                                       
+                                    
                                  
                               
                            
@@ -20769,7 +20979,7 @@ et multi-professionnel
                         
                            
                               Chapitre V : Infractions aux règles relatives  à la médecine du travail
-                               (Articles R4745-1 à R4745-4)
+                               (Articles R4745-1 à R4745-6)
                            
                         
                      
@@ -20833,23 +21043,6 @@ et multi-professionnel
                         
                            
                               Chapitre II : Instances concourant à la politique  de l'emploi
-                              
-                                 
-                                    Section 1 : Conseil national de l'emploi
-                                    
-                                       
-                                          Sous-section 1 : Missions
-                                           (Article R5112-1)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Composition et fonctionnement
-                                           (Articles R5112-2 à R5112-5)
-                                       
-                                    
-                                 
-                              
                               
                                  
                                     Section 2 : Commissions départementales
@@ -20987,7 +21180,7 @@ et multi-professionnel
                         
                            
                               Chapitre II : Aide aux salariés placés en activité partielle
-                               (Articles R5122-1 à R5122-19)
+                               (Articles R5122-1 à R5122-26)
                            
                         
                         
@@ -21219,13 +21412,13 @@ et multi-professionnel
                                     
                                        
                                           Sous-section 1 : Conventions
-                                           (Articles D5132-27 à R5132-33)
+                                           (Articles R5132-27 à R5132-32)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Mise en œuvre des actions
-                                           (Articles D5132-34 à R5132-36)
+                                           (Articles D5132-34 à R5132-35)
                                        
                                     
                                     
@@ -21944,69 +22137,58 @@ et multi-professionnel
                               Chapitre II : Placement et accompagnement  des demandeurs d'emploi.
                               
                                  
-                                     Section 1 : Missions de l'institution de placement et d'accompagnement.
+                                    Section 1 : Statut et missions de Pôle emploi
                                      (Articles R5312-1 à R5312-5)
                                  
                               
                               
                                  
-                                    Section 2 : Organisation et fonctionnement de l'institution mentionnée à l'article L. 5312-1.
+                                    Section 2 : Organisation et fonctionnement de Pôle emploi
                                     
                                        
-                                          Sous-section 1 : Administration.
+                                          Sous-section 1 : Conseil d'administration.
                                           
                                              
-                                                Paragraphe 1 : Conseil d'administration.
-                                                
-                                                   
-                                                      Sous-paragraphe 1 : Attributions.
-                                                       (Article R5312-6)
-                                                   
-                                                
-                                                
-                                                   
-                                                      Sous-paragraphe 2 : Composition, nomination et mandat.
-                                                       (Articles R5312-7 à R5312-12)
-                                                   
-                                                
-                                                
-                                                   
-                                                      Sous-paragraphe 3 : Fonctionnement et réunions.
-                                                       (Articles R5312-13 à R5312-17)
-                                                   
-                                                
+                                                Paragraphe 1 : Attributions.
+                                                 (Article R5312-6)
                                              
                                           
                                           
                                              
-                                                Paragraphe 2 : Directeur général.
-                                                 (Articles R5312-18 à R5312-19)
+                                                Paragraphe 2 : Composition, nomination et mandat.
+                                                 (Articles R5312-7 à R5312-12)
                                              
                                           
                                           
                                              
-                                                Paragraphe 3 : Dispositions économiques et financières
-                                                 (Articles R5312-20 à R5312-24)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 4 : Directeur régional.
-                                                 (Articles R5312-25 à R5312-27)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 5 : Instance paritaire régionale.
-                                                 (Articles R5312-28 à R5312-30)
+                                                Paragraphe 3 : Fonctionnement et réunions.
+                                                 (Articles R5312-13 à R5312-17)
                                              
                                           
                                        
                                     
                                     
                                        
-                                          Sous-section 2 : Dénomination.
-                                           (Article R5312-31)
+                                          Sous-section 2 : Directeur général.
+                                           (Articles R5312-18 à R5312-19)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Dispositions économiques et financières
+                                           (Articles R5312-20 à R5312-24)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Directeur régional ou d'établissement
+                                           (Articles R5312-25 à R5312-27)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 5 : Instance paritaire régionale.
+                                           (Articles R5312-28 à R5312-30)
                                        
                                     
                                  
@@ -22566,6 +22748,7 @@ et multi-professionnel
                         
                            
                               Chapitre Ier : Dispositions générales
+                               (Article R5511-1)
                               
                                  
                                     Section 1 : FEDOM
@@ -22816,26 +22999,26 @@ et multi-professionnel
                         
                         
                            
-                              Chapitre III : Institutions de la formation professionnelle
+                              Chapitre III : Coordination des politiques de l'emploi, de l'orientation et de la formation professionnelles
                               
                                  
-                                    Section 1 : Conseil national de la formation professionnelle  tout au long de la vie
+                                    Section 1 : Conseil national de l'emploi, de la formation et de l'orientation professionnelles
                                     
                                        
                                           Sous-section 1 : Missions
-                                           (Articles R6123-1 à R6123-1-4)
+                                           (Articles R6123-1 à R6123-1-7)
                                        
                                     
                                     
                                        
                                           Sous-section 2 : Composition
-                                           (Articles D6123-2 à D6123-8)
+                                           (Articles R6123-1-8 à R6123-1-11)
                                        
                                     
                                     
                                        
                                           Sous-section 3 : Organisation et fonctionnement
-                                           (Articles D6123-9 à D6123-17)
+                                           (Articles R6123-2 à R6123-2-6)
                                        
                                     
                                  
@@ -22861,6 +23044,12 @@ et multi-professionnel
                                            (Articles D6123-25 à Annexe)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Comité paritaire interprofessionnel national pour l'emploi et la formation
+                                     (Article R6123-5)
                                  
                               
                            
@@ -23771,7 +23960,7 @@ et multi-professionnel
                               
                                  
                                     Section 1 : Objet et conditions d'ouverture
-                                     (Articles D6324-1 à D6324-1-1)
+                                     (Article D6324-1)
                                  
                               
                               
@@ -24285,7 +24474,7 @@ et multi-professionnel
                         
                            
                               Chapitre III : Réalisation des actions de formation
-                               (Articles R6353-1 à R6353-2)
+                               (Articles R6353-1 à D6353-4)
                            
                         
                         
@@ -25072,7 +25261,7 @@ et multi-professionnel
                         
                            
                               Chapitre Ier : Champ d'application
-                               (Articles D7231-1 à D7231-2)
+                               (Article D7231-1)
                            
                         
                         
@@ -25123,57 +25312,6 @@ et multi-professionnel
                                  
                                     Section 3 : Aide financière en faveur des salariés,  du chef d'entreprise ou des dirigeants sociaux
                                      (Articles D7233-6 à R7233-12)
-                                 
-                              
-                           
-                        
-                        
-                           
-                              Chapitre IV : Agence nationale des services à la personne
-                              
-                                 
-                                    Section 1 : Missions
-                                     (Articles D7234-1 à D7234-2)
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Statut, organisation et fonctionnement
-                                    
-                                       
-                                          Sous-section 1 : Statut et organisation
-                                           (Articles D7234-3 à D7234-7)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Conseil d'administration
-                                          
-                                             
-                                                Paragraphe 1 : Composition, nomination et mandat
-                                                 (Articles D7234-8 à D7234-13)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Séances
-                                                 (Articles D7234-14 à D7234-19)
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Bureau exécutif
-                                           (Articles D7234-20 à D7234-22)
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 3 : Dispositions financières
-                                     (Articles D7234-24 à D7234-27)
                                  
                               
                            
@@ -26281,7 +26419,6 @@ et multi-professionnel
                         
                            
                               Section 3 : Travail de nuit.
-                               (Article R261-7)
                            
                         
                      
@@ -26493,7 +26630,6 @@ et multi-professionnel
                         
                            
                               Section 4 : Durée quotidienne du travail.
-                               (Article D212-12)
                            
                         
                         
@@ -26512,7 +26648,6 @@ et multi-professionnel
                   
                      
                         Chapitre préliminaire : Repos quotidien
-                         (Article D220-4)
                      
                   
                
@@ -26525,12 +26660,6 @@ et multi-professionnel
             
                
                   Titre IV : Transports et télécommunications
-                  
-                     
-                        Chapitre Ier : Travailleurs intermittents des transports : congés payés.
-                         (Articles D741-1 à D741-8)
-                     
-                  
                   
                      
                         Chapitre II : Marins
