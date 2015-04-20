@@ -87,7 +87,7 @@
                         
                            
                               Chapitre III : Différences de traitement autorisées.
-                               (Articles L1133-1 à L1133-4)
+                               (Articles L1133-1 à L1133-5)
                            
                         
                         
@@ -377,7 +377,7 @@
                               
                                  
                                     Section 3 : Congés d'adoption.
-                                     (Articles L1225-37 à L1225-46)
+                                     (Articles L1225-37 à L1225-46-1)
                                  
                               
                               
@@ -623,8 +623,14 @@
                                           Sous-section 1 : Dispositions générales
                                           
                                              
-                                                Paragraphe 1 : Modalités spécifiques résultant d'un accord.
-                                                 (Articles L1233-21 à L1233-24)
+                                                Paragraphe 1 : Possibilité d'un accord et modalités spécifiques en résultant.
+                                                 (Articles L1233-21 à L1233-24-3)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 1 bis : Document unilatéral de l'employeur
+                                                 (Article L1233-24-4)
                                              
                                           
                                           
@@ -685,6 +691,12 @@
                                                  (Article L1233-45)
                                              
                                           
+                                          
+                                             
+                                                Paragraphe 4 : Mesures de reclassement interne.
+                                                 (Article L1233-45-1)
+                                             
+                                          
                                        
                                     
                                     
@@ -698,8 +710,14 @@
                                           
                                           
                                              
-                                                Paragraphe 2 : Intervention de l'autorité administrative.
-                                                 (Articles L1233-52 à L1233-57)
+                                                Paragraphe 2 : Intervention de l'autorité administrative concernant les entreprises non soumises à l'obligation d'établir un plan de sauvegarde de l'emploi.
+                                                 (Articles L1233-53 à L1233-56)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Intervention de l'autorité administrative concernant les entreprises soumises à l'obligation d'établir un plan de sauvegarde de l'emploi. 
+                                                 (Articles L1233-57 à L1233-57-8)
                                              
                                           
                                        
@@ -708,7 +726,64 @@
                               
                               
                                  
-                                    Section 5 : Licenciement économique dans le cadre d'un redressement ou d'une liquidation judiciaire.
+                                    Section 4 bis : Obligation de rechercher un repreneur
+en cas de projet de fermeture d'un établissement
+
+
+                                    
+                                       
+                                          Sous-section 1 : Information des salariés et de l'autorité administrative de l'intention de fermer un établissement
+                                          
+                                             
+                                                Paragraphe 1 : Information des salariés
+                                                 (Articles L1233-57-9 à L1233-57-11)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Information de l'autorité administrative
+et des collectivités territoriales
+                                                 (Articles L1233-57-12 à L1233-57-13)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                           Sous-section 2 : Recherche d'un repreneur
+                                          
+                                             
+                                                Paragraphe 1 : Obligations à la charge de l'employeur
+
+
+                                                 (Article L1233-57-14)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : Rôle du comité d'entreprise
+                                                 (Articles L1233-57-15 à L1233-57-18)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : Clôture de la période de recherche
+                                                 (Articles L1233-57-19 à L1233-57-21)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                           Sous-section 3 : Dispositions d'application
+                                           (Article L1233-57-22)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Licenciement économique dans le cadre d'une sauvegarde, d'un redressement ou d'une liquidation judiciaire.
                                      (Articles L1233-58 à L1233-60)
                                  
                               
@@ -832,8 +907,8 @@
                                     Section 2 : Licenciement pour motif économique
                                     
                                        
-                                          Sous-section 1 : Délais de contestation.
-                                           (Article L1235-7)
+                                          Sous-section 1 : Délais de contestation et voies de recours.
+                                           (Articles L1235-7 à L1235-7-1)
                                        
                                     
                                     
@@ -2005,6 +2080,12 @@
                                      (Articles L2135-7 à L2135-8)
                                  
                               
+                              
+                                 
+                                    Section 3 : Financement mutualisé des organisations syndicales de salariés et des organisations professionnelles d'employeurs
+                                     (Articles L2135-9 à L2135-18)
+                                 
+                              
                            
                         
                         
@@ -2167,6 +2248,64 @@
                            
                               Chapitre VI : Dispositions pénales.
                                (Articles L2146-1 à L2146-2)
+                           
+                        
+                     
+                  
+                  
+                     
+                        TITRE V : REPRÉSENTATIVITÉ PATRONALE 
+
+
+                        
+                           
+                              Chapitre Ier : Critères de représentativité 
+
+                               (Article L2151-1)
+                           
+                        
+                        
+                           
+                              Chapitre II : Organisations professionnelles d'employeurs représentatives
+
+
+
+                              
+                                 
+                                    Section 1 : Représentativité patronale
+au niveau de la branche professionnelle
+
+                                     (Article L2152-1)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Représentativité au niveau national
+et multi-professionnel
+
+                                     (Articles L2152-2 à L2152-3)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Représentativité patronale au niveau national et interprofessionnel
+                                     (Article L2152-4)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Déclaration de candidature
+
+                                     (Article L2152-5)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Dispositions d'application
+
+                                     (Articles L2152-6 à L2152-7)
+                                 
+                              
                            
                         
                      
@@ -2618,6 +2757,12 @@
                                     
                                  
                               
+                              
+                                 
+                                    Section 8 : Restructuration des branches professionnelles
+                                     (Article L2261-32)
+                                 
+                              
                            
                         
                         
@@ -2903,7 +3048,7 @@
                                           
                                              
                                                 Paragraphe 8 : Offre publique d'acquisition.
-                                                 (Articles L2323-21 à L2323-26)
+                                                 (Articles L2323-21 à L2323-26-1 B)
                                              
                                           
                                           
@@ -7342,12 +7487,7 @@
                         
                            
                               Chapitre II : Instances concourant à la politique de l'emploi
-                              
-                                 
-                                    Section unique : Conseil national de l'emploi.
-                                     (Articles L5112-1 à L5112-2)
-                                 
-                              
+                               (Articles L5112-1-1 à L5112-2)
                            
                         
                      
@@ -7491,7 +7631,7 @@
                               
                                  
                                     Section 2 : Conventions.
-                                     (Articles L5132-2 à L5132-3)
+                                     (Articles L5132-2 à L5132-3-1)
                                  
                               
                               
@@ -7845,7 +7985,13 @@
                         
                         
                            
-                              Chapitre V : Dispositions pénales.
+                              Chapitre V : Périodes de mise en situation en milieu professionnel.
+                               (Articles L5135-1 à L5135-8)
+                           
+                        
+                        
+                           
+                              Chapitre VI : Dispositions pénales.
                            
                         
                      
@@ -8516,7 +8662,7 @@
                         
                            
                               Chapitre IX : Dispositions pénales.
-                               (Articles L5429-1 à L5429-3)
+                               (Articles L5429-1 à L5429-2)
                            
                         
                      
@@ -8710,30 +8856,35 @@
                         
                         
                            
-                              Chapitre III : Institutions de la formation professionnelle
+                              Chapitre III : Coordination des politiques de l'emploi, de l'orientation et de la formation professionnelles
                               
                                  
-                                    Section 1 : Conseil national de la formation professionnelle tout au long de la vie
-                                    
-                                       
-                                          Sous-section 1 : Missions.
-                                           (Article L6123-1)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Composition.
-                                           (Article L6123-2)
-                                       
-                                    
+                                    Section 1 : Conseil national de l'emploi, de la formation et de l'orientation professionnelles
+                                     (Articles L6123-1 à L6123-2)
                                  
                               
                               
                                  
-                                    Section 2 : Délégué à l'information et à l'orientation
-
-
-                                     (Articles L6123-3 à L6123-5)
+                                    Section 2 : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
+                                     (Articles L6123-3 à L6123-4)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Comité paritaire interprofessionnel national pour l'emploi et la formation
+                                     (Article L6123-5)
+                                 
+                              
+                              
+                                 
+                                    Section 4 : Comité paritaire interprofessionnel régional pour l'emploi et la formation
+                                     (Article L6123-6)
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Dispositions d'application
+                                     (Article L6123-7)
                                  
                               
                            
@@ -8762,7 +8913,7 @@
                         
                            
                               Chapitre Ier : Définition et régime juridique.
-                               (Article L6221-1)
+                               (Articles L6221-1 à L6221-2)
                            
                         
                         
@@ -9014,13 +9165,13 @@
                               
                                  
                                     Section 1 : Principes.
-                                     (Articles L6241-1 à L6241-2)
+                                     (Articles L6241-1 à L6241-3)
                                  
                               
                               
                                  
                                     Section 2 : Versements libératoires.
-                                     (Articles L6241-4 à L6241-7)
+                                     (Articles L6241-4 à L6241-9)
                                  
                               
                               
@@ -9035,12 +9186,18 @@
                                      (Article L6241-12)
                                  
                               
+                              
+                                 
+                                    Section 5 : Dispositions applicables aux employeurs occupant des salariés intermittents du spectacle
+                                     (Article L6241-13)
+                                 
+                              
                            
                         
                         
                            
                               Chapitre II : Organismes collecteurs de la taxe d'apprentissage.
-                               (Articles L6242-1 à L6242-6)
+                               (Articles L6242-1 à L6242-10)
                            
                         
                         
@@ -9048,13 +9205,13 @@
                               Chapitre III : Aides à l'apprentissage
                               
                                  
-                                    Section 1 : Indemnité compensatrice forfaitaire.
+                                    Section 1 : Prime à l'apprentissage.
                                      (Article L6243-1)
                                  
                               
                               
                                  
-                                    Section 2 : Exonération de charges salariales.
+                                    Section 2 : Cotisations dues au titre de l'emploi des apprentis.
                                      (Articles L6243-2 à L6243-3)
                                  
                               
@@ -9165,7 +9322,7 @@
                         
                            
                               Chapitre III : Catégories d'actions de formation.
-                               (Articles L6313-1 à L6313-12)
+                               (Articles L6313-1 à L6313-14)
                            
                         
                         
@@ -9176,11 +9333,14 @@
                         
                         
                            
-                              Chapitre V : Bilan d'étape professionnel et passeport orientation et formation
-
-
-
-                               (Articles L6315-1 à L6315-2)
+                              Chapitre V : Entretien professionnel
+                               (Article L6315-1)
+                           
+                        
+                        
+                           
+                              Chapitre VI : Qualité des actions       de la formation professionnelle continue
+                               (Article L6316-1)
                            
                         
                      
@@ -9457,7 +9617,7 @@
 
 
 
-                               (Articles L6326-1 à L6326-3)
+                               (Articles L6326-1 à L6326-4)
                            
                         
                      
@@ -9974,7 +10134,7 @@
                         
                            
                               Chapitre II : Régime juridique.
-                               (Article L6412-1)
+                               (Articles L6412-1 à L6412-2)
                            
                         
                      
@@ -10015,6 +10175,12 @@
                                      (Article L6422-10)
                                  
                               
+                           
+                        
+                        
+                           
+                              Chapitre III : Accompagnement à la validation       des acquis de l'expérience
+                               (Articles L6423-1 à L6423-2)
                            
                         
                      
@@ -10069,6 +10235,18 @@
                                  
                                     Section 3 : Stagiaire de la formation professionnelle.
                                      (Article L6523-6)
+                                 
+                              
+                              
+                                 
+                                    Section 3 bis : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
+                                     (Article L6523-6-1)
+                                 
+                              
+                              
+                                 
+                                    Section 3 ter : Comité paritaire interprofessionnel régional pour l'emploi et la formation
+                                     (Article L6523-6-2)
                                  
                               
                               
@@ -11637,7 +11815,7 @@
                               
                                  
                                     Section 1 : Dispositions communes
-                                     (Articles R1233-1 à R1233-2)
+                                     (Article R1233-1)
                                  
                               
                               
@@ -11651,22 +11829,38 @@
                                     Section 3 : Licenciement de dix salariés ou plus  dans une même période de trente jours
                                     
                                        
-                                          Sous-section 1 : Information de l'autorité administrative
+                                          Sous-section 1 : Information-consultation
+
+
+                                           (Article R1233-3-1)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Autorité administrative compétente
+
+
+                                           (Articles R*1233-3-4 à R1233-3-5)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Information de l'autorité administrative
                                            (Articles D1233-4 à D1233-10)
                                        
                                     
                                     
                                        
-                                          Sous-section 2 : Intervention de l'autorité administrative
-                                           (Articles D1233-11 à D1233-14)
+                                          Sous-section 4 : Intervention de l'autorité administrative
+                                           (Articles D1233-11 à D1233-12)
                                        
                                     
-                                 
-                              
-                              
-                                 
-                                    Section 4 : Licenciement économique dans le cadre d'un redressement  ou d'une liquidation judiciaire
-                                     (Articles R1233-15 à R1233-16)
+                                    
+                                       
+                                          Sous-section 5 : Procédure de validation ou d'homologation du plan de sauvegarde de l'emploi
+                                           (Articles D1233-14 à D1233-14-4)
+                                       
+                                    
                                  
                               
                               
@@ -11757,6 +11951,12 @@
                                  
                                     Section 2 : Actions en justice des organisations syndicales  en cas de licenciement économique
                                      (Articles D1235-18 à D1235-20)
+                                 
+                              
+                              
+                                 
+                                    Section 3 : Indemnité forfaitaire en cas d'accord de conciliation.
+                                     (Article D1235-21)
                                  
                               
                            
@@ -13728,13 +13928,43 @@
                                     Section 1 : Attributions économiques
                                     
                                        
-                                          Sous-section 1 : Information et consultation sur les conditions de travail
-                                           (Article R2323-1)
+                                          Sous-section 1 : Délais de consultation
+                                           (Articles R2323-1 à R2323-1-1)
                                        
                                     
                                     
                                        
-                                          Sous-section 2 : Information et consultation en matière  de formation professionnelle et d'apprentissage
+                                          Sous-section 2 : Base de données
+                                           (Article R2323-1-2)
+                                          
+                                             
+                                                Paragraphe 1 : L'organisation et le contenu de la base de données
+                                                 (Articles R2323-1-3 à R2323-1-5)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 2 : La mise en place et le fonctionnement de la base de données
+                                                 (Articles R2323-1-6 à R2323-1-9)
+                                             
+                                          
+                                          
+                                             
+                                                Paragraphe 3 : La base de données au niveau du groupe
+                                                 (Article R2323-1-10)
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Information et consultation sur les conditions de travail
+                                           (Article R2323-1-11)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 4 : Information et consultation en matière  de formation professionnelle et d'apprentissage
                                           
                                              
                                                 Paragraphe 1 : Orientation de la formation professionnelle
@@ -13751,13 +13981,13 @@
                                     
                                     
                                        
-                                          Sous-section 3 : Information et consultation   sur les interventions publiques directes.
+                                          Sous-section 5 : Information et consultation   sur les interventions publiques directes
                                            (Article R2323-7-1)
                                        
                                     
                                     
                                        
-                                          Sous-section 4 : Information et consultation périodiques du comité d'entreprise.
+                                          Sous-section 6 : Information et consultation périodiques du comité d'entreprise
                                           
                                              
                                                 Paragraphe 1 : Rapports et information dans les entreprises  de moins de trois cents salariés
@@ -13774,19 +14004,19 @@
                                     
                                     
                                        
-                                          Sous-section 5 : Participation aux conseils d'administration  ou de surveillance des sociétés.
+                                          Sous-section 7 : Participation aux conseils d'administration  ou de surveillance des sociétés
                                            (Articles R2323-13 à R2323-16)
                                        
                                     
                                     
                                        
-                                          Sous-section 6 : Bilan social.
+                                          Sous-section 8 : Bilan social
                                            (Article R2323-17)
                                        
                                     
                                     
                                        
-                                          Sous-section 7 : Droit d'alerte économique.
+                                          Sous-section 9 : Droit d'alerte économique
                                            (Articles R2323-18 à R2323-19)
                                        
                                     
@@ -13937,7 +14167,24 @@
                               
                                  
                                     Section 4 : Recours à un expert
-                                     (Article R2325-7)
+                                    
+                                       
+                                          Sous-section 1 : Délais d'expertise comptable
+                                           (Articles R2325-6-1 à R2325-6-2)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Délai d'expertise technique
+                                           (Article R2325-6-3)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 3 : Recours et contestations
+                                           (Article R2325-7)
+                                       
+                                    
                                  
                               
                               
@@ -16045,6 +16292,12 @@
                                (Articles D4132-1 à D4132-2)
                            
                         
+                        
+                           
+                              Chapitre III -  Droit d'alerte en matière de santé publique et d'environnement
+                               (Articles D4133-1 à D4133-3)
+                           
+                        
                      
                   
                   
@@ -16191,94 +16444,119 @@
                               
                               
                                  
-                                     Section 2 : Travaux interdits
+                                    Section 2 : Travaux interdits et réglementés pour les jeunes âgés de quinze ans au moins et de moins de dix-huit ans
+                                     (Article D4153-15)
                                     
                                        
-                                           Sous-section 1 : Travaux portant atteinte aux bonnes mœurs et à la moralité
-                                           (Articles D4153-15 à D4153-16)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 2 : Travaux à l'extérieur
-                                           (Articles D4153-17 à D4153-19)
+                                          Sous-section 1 : Travaux portant atteinte à l'intégrité physique ou morale
+                                           (Article D4153-16)
                                        
                                     
                                     
                                        
-                                           Sous-section 3 : Utilisation d'équipements de travail
-                                           (Articles D4153-20 à D4153-24)
+                                          Sous-section 2 : Travaux exposant à des agents chimiques dangereux
+                                           (Articles D4153-17 à D4153-18)
                                        
                                     
                                     
                                        
-                                           Sous-section 4 : Travaux exposant à des agents chimiques dangereux
-                                           (Articles D4153-28 à D4153-27)
+                                          Sous-section 3 : Travaux exposant à des agents biologiques
+                                           (Article D4153-19)
                                        
                                     
                                     
                                        
-                                           Sous-section 5 : Travaux exposant à un risque électrique
-                                           (Article D4153-29)
+                                          Sous-section 4 : Travaux exposant aux vibrations mécaniques
+                                           (Article D4153-20)
                                        
                                     
                                     
                                        
-                                           Sous-section 6 : Travaux avec des appareils à pression  et travaux en milieu hyperbare
+                                          Sous-section 5 : Travaux exposant à des rayonnements
+                                           (Articles D4153-21 à D4153-22)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 6 : Travaux en milieu hyperbare
+                                           (Article D4153-23)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 7 : Travaux exposant à un risque d'origine électrique
+                                           (Article D4153-24)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 8 : Travaux comportant des risques d'effondrement et d'ensevelissement
+                                           (Article D4153-25)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 9 : Conduite d'équipements de travail mobiles automoteurs et d'équipements de travail servant au levage
+                                           (Articles D4153-26 à D4153-27)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 10 : Travaux nécessitant l'utilisation d'équipements de travail
+                                           (Articles D4153-28 à D4153-29)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 11 :  Travaux temporaires en hauteur
                                            (Articles D4153-30 à D4153-32)
                                        
                                     
                                     
                                        
-                                           Sous-section 7 : Travaux exposant aux rayonnements ionisants
-                                           (Articles D4153-33 à D4153-34)
+                                          Sous-section 12 : Travaux avec des appareils sous pression
+                                           (Article D4153-33)
                                        
                                     
                                     
                                        
-                                           Sous-section 8 : Travaux au contact d'animaux
+                                          Sous-section 13 :  Travaux en milieu confiné
+                                           (Article D4153-34)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 14 : Travaux au contact du verre ou du métal en fusion
                                            (Article D4153-35)
                                        
                                     
                                     
                                        
-                                           Sous-section 9 : Travaux du bâtiment et travaux publics
+                                          Sous-section 15 : Travaux exposant à des températures extrêmes
                                            (Article D4153-36)
                                        
                                     
                                     
                                        
-                                           Sous-section 10 : Travail du verre
+                                          Sous-section 16 : Travaux en contact d'animaux
                                            (Article D4153-37)
                                        
                                     
-                                    
-                                       
-                                           Sous-section 11 : Travaux au contact du métal en fusion
-                                           (Article D4153-38)
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 12 : Manutention des charges
-                                           (Articles D4153-39 à D4153-40)
-                                       
-                                    
                                  
                               
                               
                                  
-                                     Section 3 : Travaux réglementés
+                                    Section 3 : Dérogations pour les jeunes de quinze ans au moins et de moins de dix-huit ans
                                     
                                        
-                                           Sous-section 1 : Dérogations accordées pour les élèves et apprentis
-                                           (Articles D4153-41 à D4153-47)
+                                          Sous-section 1 : Autorisation de dérogation pour les jeunes en formation professionnelle
+                                           (Articles R4153-38 à R4153-48)
                                        
                                     
                                     
                                        
-                                           Sous-section 2 : Autres dérogations
-                                           (Articles D4153-48 à D4153-49)
+                                          Sous-section 2 : Dérogations permanentes pour les jeunes travailleurs
+                                           (Articles R4153-49 à R4153-52)
                                        
                                     
                                  
@@ -17304,36 +17582,8 @@
                               
                               
                                  
-                                     Section 3 : Fabrication, importation et vente
-                                    
-                                       
-                                           Sous-section 3 : Information des autorités pour la prévention des risques
-                                          
-                                             
-                                                 Paragraphe 1 : Dispositions communes
-                                                 (Articles R4411-42 à R4411-49)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Préparations très toxiques, toxiques ou corrosives.
-                                                 (Articles R4411-50 à R4411-53)
-                                             
-                                          
-                                          
-                                             
-                                                 Paragraphe 3 : Substances mises sur le marché sous un nom commercial et préparations dangereuses autres que très toxiques, toxiques ou corrosives
-                                                 (Article R4411-54)
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                           Sous-section 4 : Protection des secrets industriels et commerciaux
-                                           (Articles R4411-56 à R4411-65)
-                                       
-                                    
+                                    Section 3 : Information des autorités pour la prévention des risques
+                                     (Articles R4411-42 à R4411-46)
                                  
                               
                               
@@ -17519,7 +17769,7 @@
                                     
                                     
                                        
-                                          Sous-section 2 :  Dispositions communes à toutes les activités comportant des risques d'exposition à l'amiante
+                                          Sous-section 2 :  Dispositions communes à toutes les opérations comportant des risques d'exposition à l'amiante
                                           
                                              
                                                 Paragraphe 1 : Evaluation initiale des risques
@@ -17535,7 +17785,7 @@
                                           
                                              
                                                 Paragraphe 3 : Conditions de mesurage des empoussièrements et de contrôle de la valeur limite d'exposition professionnelle
-                                                 (Articles R4412-104 à R4412-106)
+                                                 (Articles R4412-103 à R4412-106)
                                              
                                           
                                           
@@ -17578,7 +17828,7 @@
                                     
                                     
                                        
-                                          Sous-section 3 : Dispositions spécifiques aux activités d'encapsulage et de retrait d'amiante ou d'articles en contenant
+                                          Sous-section 3 : Dispositions spécifiques aux travaux d'encapsulage et de retrait d'amiante ou d'articles en contenant
                                           
                                              
                                                  Paragraphe 1 : Champ d'application
@@ -17702,7 +17952,7 @@
                               
                                  
                                      Section 2 : Dispositions particulières à certaines activités
-                                     (Articles R4424-7 à R4424-10)
+                                     (Articles R4424-7 à R4424-11)
                                  
                               
                            
@@ -19151,12 +19401,6 @@
                               
                               
                                  
-                                    Section 4 : Risque hyperbare
-                                     (Article R4535-11)
-                                 
-                              
-                              
-                                 
                                     Section 4 : Risques électriques
                                     
                                        
@@ -19170,6 +19414,12 @@
                                            (Article R4535-12)
                                        
                                     
+                                 
+                              
+                              
+                                 
+                                    Section 5 : Risque hyperbare
+                                     (Article R4535-13)
                                  
                               
                            
@@ -19493,6 +19743,26 @@
                                  
                                     Section 5 : Formation.
                                      (Articles R4615-14 à R4615-21)
+                                 
+                              
+                           
+                        
+                        
+                           
+                              Chapitre VI : Instance de coordination des comités d'hygiène, de sécurité et des conditions de travail
+
+                              
+                                 
+                                    Section 1 : Composition et désignation 
+
+                                     (Articles R4616-1 à R4616-3)
+                                 
+                              
+                              
+                                 
+                                    Section 2 : Fonctionnement 
+
+                                     (Articles R4616-4 à R4616-10)
                                  
                               
                            
@@ -20707,7 +20977,7 @@
                                        
                                           Sous-section 4 : Modalités de l'aide
 
-                                           (Articles R5121-40 à R5121-49)
+                                           (Articles R5121-40 à R5121-55)
                                        
                                     
                                  
@@ -20716,98 +20986,8 @@
                         
                         
                            
-                              Chapitre II : Aides aux salariés en chômage partiel
-                              
-                                 
-                                    Section 1 : Allocation spécifique de chômage partiel
-                                    
-                                       
-                                          Sous-section 1 : Conditions d'attribution
-                                           (Articles R5122-1 à R5122-10)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Calcul et versement de l'allocation
-                                           (Articles R5122-11 à R5122-17)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Dispositions particulières
-                                          
-                                             
-                                                Paragraphe 1 : Entreprises appliquant des équivalences
-                                                 (Articles R5122-18 à R5122-19)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Entreprises appliquant des conventions de forfait
-                                                 (Articles R5122-20 à R5122-22)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 3 : Entreprises accordant des jours de repos  sur quatre semaines ou dans le cadre de l'année
-                                                 (Articles R5122-23 à R5122-25)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 4 : Entreprises appliquant un accord de modulation
-                                                 (Articles R5122-26 à R5122-29)
-                                             
-                                          
-                                       
-                                    
-                                 
-                              
-                              
-                                 
-                                    Section 2 : Allocations complémentaires de chômage partiel
-                                    
-                                       
-                                          Sous-section 1 : Dispositions communes
-                                           (Article D5122-30)
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 2 : Indemnisation complémentaire de chômage partiel
-                                          
-                                             
-                                                Paragraphe 1 : Convention
-                                                 (Articles D5122-32 à D5122-37)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Indemnisations
-                                                 (Articles D5122-38 à D5122-42)
-                                             
-                                          
-                                       
-                                    
-                                    
-                                       
-                                          Sous-section 3 : Versement d'allocations en cas de réduction d'activité de longue durée
-                                          
-                                             
-                                                Paragraphe 1 : Convention
-                                                 (Articles D5122-43 à D5122-45)
-                                             
-                                          
-                                          
-                                             
-                                                Paragraphe 2 : Indemnisation
-                                                 (Articles D5122-46 à D5122-51)
-                                             
-                                          
-                                       
-                                    
-                                 
-                              
+                              Chapitre II : Aide aux salariés placés en activité partielle
+                               (Articles R5122-1 à R5122-19)
                            
                         
                         
@@ -20977,6 +21157,23 @@
                                        
                                           Sous-section 3 : Période d'immersion.
                                            (Articles D5132-10-1 à D5132-10-5)
+                                       
+                                    
+                                 
+                              
+                              
+                                 
+                                    Section 1 bis : Entreprises de travail temporaire d'insertion
+                                    
+                                       
+                                          Sous-section 1 : Convention
+                                           (Articles R5132-10-6 à R5132-10-11)
+                                       
+                                    
+                                    
+                                       
+                                          Sous-section 2 : Aide financière
+                                           (Articles R5132-10-12 à R5132-10-14)
                                        
                                     
                                  
@@ -23149,7 +23346,7 @@
                               
                                  
                                     Section 4 : Affectation des fonds
-                                     (Articles R6241-20 à R6241-26)
+                                     (Articles R6241-20 à R6241-28)
                                  
                               
                            
@@ -25308,7 +25505,7 @@
                         
                            
                               Chapitre II : Services déconcentrés
-                               (Articles R8122-1 à R8122-4)
+                               (Articles R8122-1 à R8122-5)
                            
                         
                         

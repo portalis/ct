@@ -1,7 +1,6 @@
 
       Les industries dans lesquelles sont utilisées les matières susceptibles d'altération très rapide et celles dans lesquelles toute interruption de travail entraînerait la perte ou la dépréciation du produit en cours de fabrication ainsi que les catégories d'établissements et établissements mentionnés dans le tableau suivant, sont admis, en application de l'article L. 3132-12, à donner le repos hebdomadaire par roulement pour les salariés employés aux travaux ou activités spécifiés dans ce tableau. 
       
-      
          
             
             
@@ -23,8 +22,6 @@
                      
                         Agglomérés de charbon (fabrication d'). 
                      
-                     
-                        
                      
                   
                   
@@ -61,8 +58,6 @@
                         Abattoirs. 
                      
                      
-                        
-                     
                   
                   
                      
@@ -93,15 +88,11 @@
                         Boyauderies, triperies, cordes à boyau (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Brasseries (fabrication de bière). 
                      
-                     
-                        
                      
                   
                   
@@ -109,15 +100,11 @@
                         Caséine (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Cidre (fabrication du). 
                      
-                     
-                        
                      
                   
                   
@@ -125,15 +112,11 @@
                         Conserves alimentaires (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Corps gras (extraction des). 
                      
-                     
-                        
                      
                   
                   
@@ -149,15 +132,11 @@
                         Fécule (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Fromageries industrielles. 
                      
-                     
-                        
                      
                   
                   
@@ -165,23 +144,17 @@
                         Glaces (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Lait (établissements industriels pour le traitement du). 
                      
                      
-                        
-                     
                   
                   
                      
                         Levure (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -197,23 +170,17 @@
                         Margarine (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Minoterie et meunerie. 
                      
                      
-                        
-                     
                   
                   
                      
                         Poissons (ateliers de salage, saurage et séchage des). 
                      
-                     
-                        
                      
                   
                   
@@ -236,8 +203,6 @@
                      
                         Vinaigre (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -281,8 +246,6 @@
                      
                         Indigo (teinturerie à l'). 
                      
-                     
-                        
                      
                   
                   
@@ -343,15 +306,11 @@
                         Entreprises de journaux et d'information. 
                      
                      
-                        
-                     
                   
                   
                      
                         Papier, carton et pâtes à papier (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -380,15 +339,11 @@
                         Acide azotique monohydraté (fabrication d'). 
                      
                      
-                        
-                     
                   
                   
                      
                         Acide carbonique liquide (fabrication d'). 
                      
-                     
-                        
                      
                   
                   
@@ -396,15 +351,11 @@
                         Acide chlorhydrique (fabrication d'). 
                      
                      
-                        
-                     
                   
                   
                      
                         Acides résiduels de la fabrication des produits nitrés (établissements traitant les). 
                      
-                     
-                        
                      
                   
                   
@@ -412,15 +363,11 @@
                         Acide sulfurique (fabrication d'). 
                      
                      
-                        
-                     
                   
                   
                      
                         Ammoniaque liquide (fabrication d'). 
                      
-                     
-                        
                      
                   
                   
@@ -436,15 +383,11 @@
                         Celluloïd (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Chlore et produits dérivés (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -476,23 +419,17 @@
                         Cyanures alcalins (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Dynamite (fabrication de). Eau oxygénée (fabrication d'). 
                      
                      
-                        
-                     
                   
                   
                      
                         Electrolyse de l'eau (établissements pratiquant l'). 
                      
-                     
-                        
                      
                   
                   
@@ -508,15 +445,11 @@
                         Ether (fabrication d'). 
                      
                      
-                        
-                     
                   
                   
                      
                         Extraits tannants et tinctoriaux (fabrication d'). 
                      
-                     
-                        
                      
                   
                   
@@ -524,15 +457,11 @@
                         Glycérine (distillation de la). 
                      
                      
-                        
-                     
                   
                   
                      
                         Goudron (usines de distillation du). 
                      
-                     
-                        
                      
                   
                   
@@ -540,23 +469,17 @@
                         Huiles de schiste (usines de distillation des). 
                      
                      
-                        
-                     
                   
                   
                      
                         Iode (fabrication d'). 
                      
                      
-                        
-                     
                   
                   
                      
                         Matières colorantes artificielles dérivées du goudron de houille (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -580,8 +503,6 @@
                         Oxyde de zinc (fabrication d'). 
                      
                      
-                        
-                     
                   
                   
                      
@@ -604,15 +525,11 @@
                         Phosphore (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Plaques, papiers et pellicules sensibles pour la photographie (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -620,15 +537,11 @@
                         Produits chimiques organiques par voie de synthèse (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Savonneries. 
                      
-                     
-                        
                      
                   
                   
@@ -644,15 +557,11 @@
                         Silicates de soude et de potasse (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Soude (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -668,15 +577,11 @@
                         Sulfate de soude (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Sulfate de carbone (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -684,23 +589,17 @@
                         Sulfure de sodium (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Superphosphates. 
                      
                      
-                        
-                     
                   
                   
                      
                         Viscose (fabrication de). 
                      
-                     
-                        
                      
                   
                   
@@ -883,8 +782,6 @@
                         Bioxyde de baryum (fabrication de). 
                      
                      
-                        
-                     
                   
                   
                      
@@ -915,23 +812,17 @@
                         Laminoirs et tréfileries de tous métaux. 
                      
                      
-                        
-                     
                   
                   
                      
                         Protection des métaux en continu. 
                      
                      
-                        
-                     
                   
                   
                      
                         Métaux (usines de production des). 
                      
-                     
-                        
                      
                   
                   
@@ -989,15 +880,11 @@
                         Entreprises d'éclairage, de distribution d'eau et de production d'énergie. 
                      
                      
-                        
-                     
                   
                   
                      
                         Entreprises de chauffage. 
                      
-                     
-                        
                      
                   
                   
@@ -1029,8 +916,6 @@
                         Moulins à vent. 
                      
                      
-                        
-                     
                   
                   
                      
@@ -1042,7 +927,11 @@
                         Ameublement (établissements de commerce de détail). 
                      
                      
-                        
+                  
+                  
+                     
+                        Bricolage (établissements de commerce de détail).
+                     
                      
                   
                   
@@ -1050,15 +939,11 @@
                         Débits de tabac. 
                      
                      
-                        
-                     
                   
                   
                      
                         Distribution de carburants et lubrifiants pour automobiles (postes de). 
                      
-                     
-                        
                      
                   
                   
@@ -1066,15 +951,11 @@
                         Marée (établissements faisant le commerce de la). 
                      
                      
-                        
-                     
                   
                   
                      
                         Fleurs naturelles (établissements de commerce en gros des). 
                      
-                     
-                        
                      
                   
                   
@@ -1086,8 +967,6 @@
                      
                         Entreprises de transport par terre autres que de transport ferroviaire. 
                      
-                     
-                        
                      
                   
                   
@@ -1103,23 +982,17 @@
                         Entreprises de transport et de travail aériens. 
                      
                      
-                        
-                     
                   
                   
                      
                         Entreprises d'expédition, de transit et d'emballage. 
                      
                      
-                        
-                     
                   
                   
                      
                         Aéroports (commerces et services situés dans l'enceinte des). 
                      
-                     
-                        
                      
                   
                   
@@ -1148,8 +1021,6 @@
                         Entreprises d'émission et de réception de télécommunication. 
                      
                      
-                        
-                     
                   
                   
                      
@@ -1160,8 +1031,6 @@
                      
                         Caisses d'épargne. 
                      
-                     
-                        
                      
                   
                   
@@ -1181,8 +1050,6 @@
                      
                         Etablissements de santé et établissements sociaux et médico-sociaux. Pharmacies. Etablissements de bains, piscines, hammams, thalassothérapie, balnéothérapie, spa. 
                      
-                     
-                        
                      
                   
                   
@@ -1206,8 +1073,6 @@
                         Pompes funèbres (entreprises de). 
                      
                      
-                        
-                     
                   
                   
                      
@@ -1219,15 +1084,11 @@
                         Entreprises d'arrosage, de balayage, de nettoyage et d'enlèvement des ordures ménagères. 
                      
                      
-                        
-                     
                   
                   
                      
                         Cabinets de toilette publics. 
                      
-                     
-                        
                      
                   
                   
@@ -1235,15 +1096,11 @@
                         Désinfection (entreprises de). 
                      
                      
-                        
-                     
                   
                   
                      
                         Equarrissage (entreprises d'). 
                      
-                     
-                        
                      
                   
                   
@@ -1272,23 +1129,17 @@
                         Entreprises de spectacles. 
                      
                      
-                        
-                     
                   
                   
                      
                         Musées et expositions. 
                      
                      
-                        
-                     
                   
                   
                      
                         Casinos et établissements de jeux. 
                      
-                     
-                        
                      
                   
                   
@@ -1333,8 +1184,6 @@
                         Syndicats d'initiative et offices de tourisme. 
                      
                      
-                        
-                     
                   
                   
                      
@@ -1354,15 +1203,11 @@
                         Fabrication de produits alimentaires destinés à la consommation immédiate. 
                      
                      
-                        
-                     
                   
                   
                      
                         Hôtels, cafés et restaurants. 
                      
-                     
-                        
                      
                   
                   
@@ -1518,8 +1363,6 @@
                         Entreprises de location de chaises, de moyens de locomotion. 
                      
                      
-                        
-                     
                   
                   
                      
@@ -1546,8 +1389,6 @@
                      
                         Espaces de présentation et d'exposition permanente dont l'activité est exclusive de toute vente au public, réservés aux producteurs, revendeurs ou prestataires de services. 
                      
-                     
-                        
                      
                   
                   
@@ -1580,8 +1421,6 @@
                      
                         Magasins de fleurs naturelles. 
                      
-                     
-                        
                      
                   
                   
