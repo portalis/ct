@@ -15845,7 +15845,7 @@
                               
                                  
                                     Section 2 : Pénibilité
-                                     (Article D4121-5)
+                                     (Articles D4121-5 à D4121-9)
                                  
                               
                            
@@ -17261,12 +17261,6 @@
                                            Sous-section 8 : Suivi des travailleurs et surveillance médicale
                                           
                                              
-                                                 Paragraphe 1 : Liste et fiche d'exposition
-                                                 (Articles R4412-40 à R4412-43)
-                                             
-                                          
-                                          
-                                             
                                                  Paragraphe 2 : Surveillance médicale
                                                 
                                                    
@@ -17278,12 +17272,6 @@
                                                    
                                                        Sous-paragraphe 2 : Dossier médical
                                                        (Articles R4412-54 à R4412-57)
-                                                   
-                                                
-                                                
-                                                   
-                                                       Sous-paragraphe 3 : Attestation d'exposition
-                                                       (Article R4412-58)
                                                    
                                                 
                                              
@@ -19230,7 +19218,7 @@
                               
                                  
                                     Section 1 : Missions.
-                                     (Articles R4612-1 à R4612-2)
+                                     (Articles R4612-1 à R4612-2-1)
                                  
                               
                               
@@ -19487,7 +19475,7 @@
                               
                               
                                  
-                                    Section 4 : Commission médico-technique.
+                                    Section 4 : Dispositions communes.
                                      (Articles D4622-74 à D4622-76)
                                  
                               
@@ -19543,7 +19531,7 @@
                                     
                                        
                                           Sous-section 3 : Participation aux organes de surveillance  et de consultation.
-                                           (Articles R4623-18 à R4623-19)
+                                           (Articles R4623-16 à R4623-19)
                                        
                                     
                                     
@@ -20545,7 +20533,7 @@
                                     
                                        
                                           Sous-section 2 : Calcul et versement de l'allocation
-                                           (Articles R5122-11 à R5122-15)
+                                           (Articles R5122-11 à R5122-17)
                                        
                                     
                                     
@@ -21204,12 +21192,6 @@
                                     
                                     
                                        
-                                          Sous-section 2 : Prime de reclassement
-                                           (Articles D5213-15 à D5213-21)
-                                       
-                                    
-                                    
-                                       
                                           Sous-section 3 : Réentraînement au travail
                                            (Articles R5213-22 à R5213-26)
                                        
@@ -21475,7 +21457,7 @@
                                           
                                              
                                                 Paragraphe 2 : Directeur général
-                                                 (Articles R5223-18 à R5223-24)
+                                                 (Articles R5223-18 à R5223-23)
                                              
                                           
                                           
@@ -23872,7 +23854,7 @@
                         
                            
                               Chapitre II : Déroulement des opérations de contrôle
-                               (Articles R6362-1 à R6362-8)
+                               (Articles R6362-1 à R6362-9)
                            
                         
                         
@@ -25992,7 +25974,6 @@
                         
                            
                               Section 6 : Aide publique aux marins privés d'emploi.
-                               (Article R742-38)
                            
                         
                         
