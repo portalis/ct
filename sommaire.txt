@@ -1262,8 +1262,66 @@ Chapitre II : Protection de la main-d'oeuvre nationale.
 Titre V : TRAVAILLEURS PRIVES D'EMPLOI
 
 
+Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+
+
+SECTION 1 : DISPOSITIONS GENERALES.
+ (Article L351-2)
+
+
+
+
+SECTION 2 : DISPOSITIONS FINANCIERES.
+ (Articles L351-12 à L351-15)
+
+
+
+
+SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.
+ (Article L351-17)
+
+
+
+
+SECTION 4 : DISPOSITIONS DIVERSES.
+ (Articles L351-18 à L351-21)
+
+
+
+
+
+
+SECTION 1 : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI.
+ (Article L351-3)
+
+
+
+
+Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+
+
+SECTION 1 : DISPOSITIONS GENERALES
+ (Article L351-7)
+
+
+
+
+
+
+Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES
+ (Article L351-8)
+
+
+
+
 Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance des travailleurs privés d'emploi.
- (Articles L352-1 à L352-2)
+ (Articles L352-1 à L352-5)
+
+
+
+
+Chapitre II : REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES D'EMPLOI.
+ (Article L352-4)
 
 
 
@@ -1303,6 +1361,12 @@ SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN
 
 Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.
  (Articles L364-1 à L364-4)
+
+
+
+
+Chapitre V : Travailleurs privés d'emploi.
+ (Articles L365-1 à L365-2)
 
 
 
@@ -1498,23 +1562,17 @@ TRAVAILLEURS PRIVES D'EMPLOI
 
 
 GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
- (Articles L351-1 à L351-21)
+ (Articles L351-19 à L351-20)
 
 
-ALLOCATION D'AIDE PUBLIQUE .
- (Articles L351-9 à L351-8)
-
-
-
-
-ALLOCATION D'ASSURANCE .
- (Articles L351-10 à L351-17)
+DISPOSITIONS GENERALES
+ (Articles L351-1 à L351-6-2)
 
 
 
 
 DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
- (Articles L351-18 à L351-20)
+ (Article L351-16)
 
 
 
@@ -1522,23 +1580,7 @@ DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
 
 
 REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .
- (Articles L352-3 à L352-5)
-
-
-
-
-
-
-TRAVAILLEURS PRIVES D'EMPLOIS
-
-
-GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
-
-
-DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
- (Article L351-19)
-
-
+ (Article L352-3)
 
 
 
@@ -1881,107 +1923,79 @@ CONFLITS DU TRAVAIL
 CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
 
 
+ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES
+ (Article L511-1)
+
+
+
+
 ATTRIBUTION ET INSTITUTION DES CONSEILS DE PRUD'HOMMES .
- (Articles L511-1 à L511-5)
+ (Article L511-3)
 
 
 
 
-ORGANISATION DES CONSEILS DE PRUD'HOMMES .
- (Articles L512-1 à L512-7)
+ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.
+ (Articles L512-2 à L512-12)
 
 
 
 
-ELECTION DES PRUD'HOMMES
-
-
-ELECTORAT .
- (Articles L513-1 à L513-3-1)
+ORGANISATION ET FONCTIONNEMMENT DES CONSEILS DE PRUD'HOMMES.
+ (Article L512-13)
 
 
 
 
-ELIGIBILITE .
- (Articles L513-4 à L513-5)
+ELECTION DES CONSEILLERS PRUD'HOMMES
+
+
+ELIGIBILITE.
+ (Article L513-2)
 
 
 
 
-SCRUTIN, INSTALLATION DES PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES .
- (Articles L513-6 à L513-9)
+ETABLISSEMENT DES LISTES ELECTORALES.
+ (Article L513-3)
 
 
 
 
-SCRUTIN, INSTALLATION DES PRUDHOMMES
-
-
-ELECTIONS COMPLEMENTAIRES.
- (Article L513-10)
-
-
+SCRUTIN, INSTALLATION DES CONSEILLERS PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES.
+ (Articles L513-4 à L513-9)
 
 
 
 
 
 
-DISCIPLINE DES CONSEILS DE PRUD'HOMMES .
- (Articles L514-1 à L514-14)
+STATUT DES CONSEILLERS PRUD'HOMMES
+ (Articles L514-1 à L514-7)
 
 
 
 
-BUREAU DE CONCILIATION, BUREAU DE JUGEMENT .
- (Articles L515-1 à L515-2)
+BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE
+ (Articles L515-1 à L515-3)
 
 
 
 
-PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES .
- (Article L516-1)
+DEPENSES DES CONSEILS DE PRUD'HOMMES
+ (Article L51-10-2)
 
 
 
 
-COMPETENCE DES CONSEILS DE PRUD'HOMMES ET VOIES DE RECOURS CONTRE LEURS DECISIONS .
- (Article L517-1)
-
-
-
-
-RECUSATION .
- (Article L518-1)
-
-
-
-
-EMOLUMENTS, INDEMNITES, DROITS ALLOUES AUX SECRETAIRES, HUISSIERS ET TEMOINS .
- (Article L519-1)
-
-
-
-
-DEPENSES DES CONSEILS DU PRUD'HOMMES .
- (Articles L51-10-1 à L51-10-3)
-
-
-
-
-DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE .
+DISPOSITIONS APPLICABLES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE
  (Article L51-11-1)
 
 
 
 
-
-
-CONFLITS INDIVIDUELS - CONSEILS DE PRUD OMMES
-
-
-BUREAU DE CONCILIATION, BUREAU DE JUGEMENT .
- (Article L515-3)
+DISPOSITIONS FINALES
+ (Article L51-12-1)
 
 
 
@@ -2068,6 +2082,92 @@ CONFLITS COLLECTIFS .
 Livre V : Conflits du travail
 
 
+Titre Ier : Conflits individuels - Conseils de prud'hommes
+
+
+Chapitre Ier : Attributions et institution des conseils de prud'hommes.
+ (Article L511-2)
+
+
+
+
+Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
+ (Articles L512-1 à L512-14)
+
+
+
+
+Chapitre III : Election des conseillers prud'hommes
+
+
+Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
+ (Article L513-5)
+
+
+
+
+
+
+Chapitre IV : Statut des conseillers prud'hommes.
+ (Articles L514-4 à L514-13)
+
+
+
+
+Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
+ (Articles L515-2 à L515-4)
+
+
+
+
+Chapitre VI : Procédure devant les conseils de prud'hommes.
+ (Article L516-1)
+
+
+
+
+Chapitre VIII : Récusation.
+ (Article L518-1)
+
+
+
+
+Chapitre X : Dépenses des conseils de prud'hommes.
+ (Article L51-10-1)
+
+
+
+
+
+
+Titre Ier : Conflits individuels
+
+
+Conseils de prud'hommes
+
+
+Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
+ (Article L512-6)
+
+
+
+
+Chapitre IV : Statut des conseillers prud'hommes.
+ (Articles L514-5 à L514-10)
+
+
+
+
+Chapitre VI : Procédure devant les conseils de prud'hommes.
+ (Article L516-2)
+
+
+
+
+
+
+
+
 Titre II : Conflits collectifs
 
 
@@ -2106,6 +2206,27 @@ TITRE III : PENALITES
 
 CHAPITRE Ier : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
  (Article L526-4)
+
+
+
+
+
+
+
+
+CONFLITS DE TRAVAIL
+
+
+CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
+
+
+ELECTION DES CONSEILLERS PRUD'HOMMES
+
+
+ELECTORAT.
+ (Article L513-1)
+
+
 
 
 
@@ -2772,6 +2893,12 @@ Section 3 : Cumuls d'emplois et travail clandestin.
 
 
 
+Chapitre III : Garantie de ressources des travailleurs privés d'emploi.
+ (Article L833-1)
+
+
+
+
 
 
 Titre VIII : Pénalités
@@ -2795,12 +2922,6 @@ PLACEMENT ET EMPLOI
 
 DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
  (Articles L831-1 à L831-2)
-
-
-
-
-GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
- (Article L833-1)
 
 
 
@@ -3221,7 +3342,7 @@ Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conc
 
 
 Chapitre Ier : Etablissement du contrat.
- (Articles R111-3 à R111-5)
+ (Articles R111-1 à R111-5)
 
 
 
@@ -3241,17 +3362,6 @@ Chapitre III : Compétence.
 
 
 Titre Ier : CONTRAT D'APPRENTISSAGE
-
-
-Chapitre Ier : DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972
-
-
-SECTION 1 : ETABLISSEMENT DU CONTRAT .
- (Article R111-2)
-
-
-
-
 
 
 Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
@@ -5557,12 +5667,6 @@ Section 1 : Compétence.
 
 
 
-Section 4 : L'appel.
- (Article R517-7)
-
-
-
-
 
 
 
@@ -5618,7 +5722,7 @@ Section 2 : Ouverture des voies de recours.
 
 
 Section 4 : L'appel.
- (Articles R517-8 à R517-9)
+ (Articles R517-7 à R517-9)
 
 
 
@@ -5993,7 +6097,7 @@ Section 3 : Salaires.
 
 
 Section 4 : Règlement des litiges.
- (Article R721-10)
+ (Articles R721-10 à R721-11)
 
 
 
@@ -6031,22 +6135,6 @@ Section 2 : Coupe du velours de coton, teinture, blanchiment et apprêts des ét
 
 Chapitre III : Règlements de comptes entre les maîtres d'atelier et les négociants.
  (Articles R723-1 à R723-8)
-
-
-
-
-
-
-Titre II : Industries de transformation
-
-
-Chapitre Ier : Travailleurs à domicile
-
-
-Section 4 : Règlement des litiges.
- (Article R721-11)
-
-
 
 
 

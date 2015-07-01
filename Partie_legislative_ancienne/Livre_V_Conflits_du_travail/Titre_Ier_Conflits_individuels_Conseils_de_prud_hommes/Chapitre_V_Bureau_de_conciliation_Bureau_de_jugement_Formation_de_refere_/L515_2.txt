@@ -1,0 +1,8 @@
+Le bureau de jugement se compose d'un nombre égal d'employeurs et de
+salariés, y compris le président ou le vice-président siégeant
+alternativement. Ce nombre est au moins de deux employeurs et de deux
+salariés.
+
+Le bureau de conciliation et la formation de référé se composent d'un
+conseiller prud'homme employeur et d'un conseiller prud'homme salarié
+*parité*.
