@@ -325,8 +325,8 @@ def getCommitMsg(d):
 def unidec(ustr):
     return unidecode.unidecode(ustr.replace(u'°', u'o'))
 
-def nextDate(curDate):
-    return next(d for d in sorted(dates.keys()) if d > curDate)
+# def nextDate(curDate):
+#     return next(d for d in sorted(dates.keys()) if d > curDate)
 
 def configRepo(repo):
     configWriter = repo.config_writer()
