@@ -20,7 +20,7 @@ import argparse
 import unittest
 import sys
 import textwrap
-
+import threading
 
 
 locale.setlocale(locale.LC_ALL, ('fr_FR', 'UTF-8'))
@@ -77,6 +77,9 @@ reDayMonth = re.compile(sreDayMonth)
 reYear = re.compile(sreYear)
 
 class DatePicker(dict):
+    def __init__():
+        self.lock = threading.Lock()
+
     def pickDate(self, histLine):
         dayMonths = reDayMonth.findall(histLine)
         years = reYear.findall(histLine)
@@ -260,6 +263,23 @@ class Section:
         else:
             return None
 
+class SessionThread(threading.Thread):
+    def __init__(self, section, rootPath, datePicker):
+        self.section = section
+        self.rootPath = rootPath
+        self.datePicker = datePicker
+
+    def run():
+        try:
+            self.section.write(self.rootPath)
+            with self.datePicker.lock as lock:
+                self.section.pickDates(self.datePicker)
+        except Exception as e :
+            print e
+            print self.section.url
+        sys.stdout.write('.')
+        sys.stdout.flush()
+
 def getUrlTree(url):
     return lxml.html.fromstring(
         urllib2.urlopen(
@@ -308,18 +328,24 @@ def writeCode(curDate, datePicker, rootPath):
     urlSection = tocTree.xpath(
         '//div[@id="content_left"]/descendant::a')[0].get('href')
     section = Section(baseUrl + urlSection)
+    threads = []
     while section is not None:
-        try:
-            section.write(rootPath)
-            section.pickDates(datePicker)
-        except Exception as e :
-            print e
-            print section.url
-            break
+        thread = SectionThread(section, rootPath, datePicker)
+        threads.append(thread)
+        thread.run()
+        # try:
+        #     section.write(rootPath)
+        #     section.pickDates(datePicker)
+        # except Exception as e :
+        #     print e
+        #     print section.url
+        #     break
+        # sys.stdout.write('.')
+        # sys.stdout.flush()
         section = section.getNextSection()
-        sys.stdout.write('.')
-        sys.stdout.flush()
     print("")
+    for thread in threads:
+        thread.join()
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
         datePicker.write(f)
     commitCode(curDate, datePicker)
