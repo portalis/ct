@@ -97,7 +97,7 @@ Section 3 : Formation et résolution du contrat.
 
 
 Chapitre VIII : Dispositions financières.
- (Articles L118-2 à L118-3-1)
+ (Articles L118-1 à L118-5)
 
 
 
@@ -231,6 +231,12 @@ Section 3 : Conséquences de la rupture du contrat.
 
 Section 4 : Règles particulières aux personnes intéressées par le service national, aux jeunes gens astreints aux obligations imposées par le service préparatoire et aux hommes rappelés au service national.
  (Articles L122-18 à L122-24)
+
+
+
+
+Section 4-1 : Règles particulières aux salariés candidats ou élus à l'Assemblée nationale ou au Sénat.
+ (Articles L122-24-1 à L122-24-3)
 
 
 
@@ -524,7 +530,7 @@ FORMATION ET RESOLUTION DU CONTRAT D'APPRENTISSAGE .
 
 
 DISPOSITIONS FINANCIERES .
- (Article L118-1)
+ (Article L118-6)
 
 
 
@@ -3151,7 +3157,7 @@ LA COUR SUPERIEURE D'ARBITRAGE
 
 
 ORGANISATION .
- (Articles R525-1 à R525-9)
+ (Articles R525-1 à R525-8)
 
 
 
@@ -3308,7 +3314,7 @@ Chapitre IX : DISPOSITIONS DIVERSES
 
 
 A - DISPOSITIONS FINANCIERES.
- (Article R119-1)
+ (Articles R119-1 à R119-5)
 
 
 
@@ -3385,7 +3391,7 @@ Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.
 
 
 Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
- (Article R119-28)
+ (Article R119-27)
 
 
 
@@ -4373,23 +4379,6 @@ AGREMENT DE L'EMPLOYEUR .
 
 DUREE DE L'APPRENTISSAGE .
  (Article R117-8)
-
-
-
-
-
-
-DISPOSITIONS FINANCIERES .
- (Articles R119-2 à R119-5)
-
-
-
-
-MESURES PROVISOIRES D'ADAPTATION EN MATIERE D'APPRENTISSAGE
-
-
-DISPOSITIONS TRANSITOIRES RELATIVES AUX EXONERATIONS DE LA TAXE  D'APPRENTISSAGE .
- (Article R119-27)
 
 
 
