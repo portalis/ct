@@ -799,7 +799,7 @@ SECTION 1 : DISPOSITIONS GENERALES.
 
 
 Section 2 : Dispositions particulières à la journée du 1er mai.
- (Articles L222-5 à L222-8)
+ (Articles L222-5 à L222-9)
 
 
 
@@ -807,6 +807,12 @@ Section 2 : Dispositions particulières à la journée du 1er mai.
 
 
 Chapitre III : Congés annuels
+
+
+Section 1 : Droit au congé.
+ (Article L223-1)
+
+
 
 
 Section 2 : Durée du congé.
@@ -1051,7 +1057,6 @@ CONGES ANNUELS
 
 
 DUREE DU CONGE *PAYE*.
- (Article L223-13)
 
 
 
@@ -1076,6 +1081,22 @@ HYGIENE ET SECURITE .
 
 HYGIENE .
  (Article L232-3)
+
+
+
+
+
+
+
+
+Livre II : REGLEMENT DU TRAVAIL
+
+
+Titre II : CONGES
+
+
+Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.
+ (Article L226-1)
 
 
 
@@ -2562,7 +2583,7 @@ Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
 
 
 Chapitre II : Employés de maison.
- (Article L772-1)
+ (Articles L772-1 à L772-3)
 
 
 
@@ -2766,19 +2787,13 @@ PLACEMENT .
 
 
 CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .
- (Articles L771-2 à L771-6)
-
-
-
-
-EMPLOYES DE MAISON .
- (Article L772-2)
+ (Articles L771-4 à L771-6)
 
 
 
 
 ASSISTANTES MATERNELLES.
- (Articles L773-2 à L773-6)
+ (Article L773-6)
 
 
 
@@ -4070,6 +4085,29 @@ Section 5 : Mesures d'application.
 
 
 
+Section 6 : Procédures de contrôle des appareils, machines, éléments de machines, protecteurs de machines, dispositifs, équipements et produits de protection
+
+
+Sous-section 1 : Dispositions générales.
+ (Articles R233-49 à R233-51)
+
+
+
+
+Sous-section 4 : Prescriptions applicables aux matériels en service ou usagés.
+ (Articles R233-70 à R233-76)
+
+
+
+
+Sous-section 5 : Dispositions communes.
+ (Articles R233-78 à R233-80)
+
+
+
+
+
+
 
 
 Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
@@ -4197,6 +4235,107 @@ Chapitre II : HYGIENE SECTION 4 : SIEGES.
 
 Chapitre II : HYGIENE SECTION 5 : COUCHAGE.
  (Articles R232-34 à R232-37)
+
+
+
+
+
+
+Titre III : SECURITE
+
+
+Chapitre III : SECURITE
+
+
+SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION
+
+
+SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE.
+ (Article R233-52)
+
+
+HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL.
+ (Articles R233-53 à R233-55)
+
+
+
+
+VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE.
+ (Articles R233-56 à R233-58)
+
+
+
+
+DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.
+ (Articles R233-59 à R233-66)
+
+
+
+
+DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL
+
+
+VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.
+ (Article R233-62)
+
+
+
+
+
+
+
+
+SOUS-SECTION 3 : PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE.
+ (Articles R233-68 à R233-69)
+
+
+
+
+SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES.
+ (Articles R233-75 à R233-77)
+
+
+
+
+SOUS-SECTION 5 : DISPOSITIONS COMMUNES *PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE ET PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES*.
+ (Article R233-81)
+
+
+
+
+SOUS-SECTION 6 : DISPOSITIONS DIVERSES.
+ (Article R233-82)
+
+
+
+
+
+
+SECTION 6 :PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENT DE MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION
+
+
+SOUS-SECTION 2 : PROCEDURE DE CONTROLE PREALABLE
+
+
+DISPOSITIONS COMMUNES AUX DEUX PROCEDURES SUSVISEES *HOMOLOGATION PAR LE MINISTRE CHARGE DU TRAVAIL ET VISA D'EXAMEN TECHNIQUE PAR UN ORGANISME DESIGNE*.
+ (Article R233-67)
+
+
+
+
+
+
+
+
+SECTION 6 : PROCEDURES DE CONTROLE DES APPAREILS, MACHINES, ELEMENTS MACHINES, PROTECTEURS DE MACHINES, DISPOSITIFS, EQUIPEMENTS ET PRODUITS DE PROTECTION
+
+
+SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES
+ (Article R233-72)
+
+
+
+
 
 
 
@@ -4837,7 +4976,7 @@ SECURITE
 
 
 MESURES D'APPLICATION .
- (Articles R233-46 à R233-49)
+ (Article R233-46)
 
 
 
@@ -4869,13 +5008,7 @@ MESURES D'APPLICATION.
 
 
 MEDECINE DU TRAVAIL
- (Article R241-13)
-
-
-SERVICE MEDICAL DU TRAVAIL .
- (Article R241-11)
-
-
+ (Article R241-1)
 
 
 
@@ -5594,6 +5727,12 @@ Section 5 : Le conseiller rapporteur.
 
 Section 6 : Le jugement.
  (Article R516-28)
+
+
+
+
+Section 7 : Le référé prud'homal.
+ (Articles R516-30 à R516-35)
 
 
 
@@ -6925,100 +7064,6 @@ Titre III : Hygiène et sécurité
 
 Chapitre III : Sécurité.
  (Articles D233-1 à D233-9)
-
-
-
-
-
-
-Titre IV : Médecine du travail
-
-
-Section 1 : Organisation et fonctionnement des services médicaux du travail.
- (Articles D241-1 à D241-9)
-
-
-
-
-Section 2 : Médecine du travail.
- (Articles D241-10 à D241-13)
-
-
-
-
-Section 3 : Examens médicaux
-
-
-Visites d'embauchage.
- (Article D241-14)
-
-
-
-
-Visites périodiques.
- (Article D241-15)
-
-
-
-
-Visites de reprise.
- (Article D241-16)
-
-
-
-
-Fiches et dossiers médicaux.
- (Article D241-17)
-
-
-
-
-Examens complémentaires.
- (Article D241-18)
-
-
-
-
-Temps passé aux examens et frais de transport
- (Article D241-19)
-
-
-
-
-Déclarations de maladie.
- (Article D241-20)
-
-
-
-
-
-
-Section 4 : Surveillance de l'hygiène des entreprises.
- (Articles D241-21 à D241-23)
-
-
-
-
-Section 5 : Infirmiers, infirmières et secouristes.
- (Articles D241-24 à D241-27)
-
-
-
-
-Section 6 : Locaux et matériel.
- (Article D241-28)
-
-
-
-
-Section 7 : Dispositions particulières.
- (Articles D241-29 à D241-30)
-
-
-
-
-Section 8 : Dispositions générales.
- (Article D241-31)
 
 
 
