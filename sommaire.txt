@@ -1503,7 +1503,7 @@ CONTROLE DE L'EMPLOI .
 
 
 FONDS NATIONAL DE L'EMPLOI .
- (Articles L322-1 à L322-3)
+ (Articles L322-1 à L322-4)
 
 
 
@@ -3091,12 +3091,6 @@ ETABLISSEMENT DES LISTES ELECTORALES .
 
 
 
-SCRUTIN, INSTALLATION DES PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES.
- (Articles R513-8 à R513-15)
-
-
-
-
 
 
 BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DU REFERE.
@@ -3206,22 +3200,6 @@ HUISSIERS DE JUSTICE .
 
 TEMOINS .
  (Article R519-11)
-
-
-
-
-
-
-
-
-CONFLITS INDIVIDUELS - CONSEIL DE PRUDHOMMES
-
-
-ELECTION DES PRUDHOMMES
-
-
-SCRUTIN, INSTALLATION DES PRUDHOMMES, ELECTIONS COMPLEMENTAIRES.
- (Article R513-13)
 
 
 
@@ -3711,6 +3689,22 @@ E - AMENAGEMENTS AU BENEFICE DES PERSONNES HANDICAPEES DES DISPOSITIONS RELATIVE
 
 
 
+DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS AVANT LE 1ER JUILLET 1972
+
+
+Chapitre VII : DU CONTRAT D'APPRENTISSAGE
+
+
+PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.
+ (Article R117-1)
+
+
+
+
+
+
+
+
 
 
 Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
@@ -4061,6 +4055,12 @@ Paragraphe 2 : Dérogations à la durée maximale hebdomadaire absolue
  (Articles R212-9 à R212-10)
 
 
+
+
+
+
+B - Dispositions concernant la procédure d'autorisation des heures supplémentaires.
+ (Articles R212-11 à R212-11-2)
 
 
 
@@ -4581,12 +4581,6 @@ CONTROLE DES CENTRES DE FORMATION D'APPRENTIS .
 CONTRAT D'APPRENTISSAGE
 
 
-AGREMENT DE L'EMPLOYEUR .
- (Article R117-1)
-
-
-
-
 DUREE DE L'APPRENTISSAGE .
  (Article R117-8)
 
@@ -4794,6 +4788,17 @@ SOUS-SECTION 8 : APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.3
 
 
 
+Chapitre IV : Cumuls d'emploi et travail clandestin
+
+
+Section 2 : Travail clandestin.
+ (Article R324-1)
+
+
+
+
+
+
 
 
 Titre IV : MAIN-D'OEUVRE ETRANGERE
@@ -4910,7 +4915,7 @@ Section 2 : Dispositions régissant l'emploi de certaines catégories de travail
 
 
 Section 3 : Cumuls d'emploi et travail clandestin.
- (Articles R362-3 à R362-4)
+ (Articles R362-3 à R362-5)
 
 
 
@@ -5381,7 +5386,7 @@ CONTROLE DE L'EMPLOI .
 
 
 FONDS NATIONAL DE L'EMPLOI .
- (Articles R322-21 à R322-26)
+ (Articles R322-1 à R322-26)
 
 
 CONVENTIONS DE COOPERATION
@@ -7241,6 +7246,17 @@ Chapitre II : Protection de la main-d'oeuvre nationale.
 Titre V : Travailleurs privés d'emploi
 
 
+Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi
+
+
+Section 2 : PRIVATION PARTIELLE D'EMPLOI.
+ (Article D351-3)
+
+
+
+
+
+
 Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.
  (Articles D352-1 à D352-10)
 
@@ -7821,6 +7837,12 @@ Chapitre IV : Salaire
 
 Section 1 : Salaire minimum de croissance.
  (Article D814-1)
+
+
+
+
+Section 2 : Règles particulières à la répartition des pourboires.
+ (Article D814-4)
 
 
 
