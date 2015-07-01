@@ -329,24 +329,24 @@ def writeCode(curDate, datePicker, rootPath):
     urlSection = tocTree.xpath(
         '//div[@id="content_left"]/descendant::a')[0].get('href')
     section = Section(baseUrl + urlSection)
-    #    threads = []
+    threads = []
     while section is not None:
-        # thread = SectionThread(section, rootPath, datePicker)
-        # threads.append(thread)
-        # thread.start()
-        try:
-            section.write(rootPath)
-            section.pickDates(datePicker)
-        except Exception as e :
-            print e
-            print section.url
-            break
-        sys.stdout.write('.')
-        sys.stdout.flush()
+        thread = SectionThread(section, rootPath, datePicker)
+        threads.append(thread)
+        thread.start()
+        # try:
+        #     section.write(rootPath)
+        #     section.pickDates(datePicker)
+        # except Exception as e :
+        #     print e
+        #     print section.url
+        #     break
+        # sys.stdout.write('.')
+        # sys.stdout.flush()
         section = section.getNextSection()
     print("")
-    # for thread in threads:
-    #     thread.join()
+    for thread in threads:
+        thread.join()
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
         datePicker.write(f)
     commitCode(curDate, datePicker)
