@@ -313,6 +313,7 @@ def writeCode(curDate, datePicker, rootPath):
         section.pickDates(datePicker)
         section = section.getNextSection()
         sys.stdout.write('.')
+        sys.stdout.flush()
     print("")
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
         datePicker.write(f)
