@@ -178,6 +178,12 @@ Chapitre VIII : Dispositions financières.
 
 
 
+Chapitre IX : Dispositions diverses.
+ (Article L119-3)
+
+
+
+
 
 
 Titre II : Contrat de travail
@@ -485,41 +491,11 @@ CONTRAT DE TRAVAIL .
  (Articles L120-1 à L121-1)
 
 
-REGLES PROPRES AU CONTRAT DE TRAVAIL .
- (Articles L122-1 à L122-3)
-
-
-RESILIATION DU CONTRAT DE TRAVAIL A DUREE INDETERMINEE .
- (Articles L122-5 à L122-10)
-
-
-
-
-(REGLES PARTICULIERES AUX FEMMES EN COUCHES)
+REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)
 
 
 PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .
  (Article L122-25-2)
-
-
-
-
-
-
-(REGLES PARTICULIERES AUX FEMMES EN COUCHES ET AUX MERES ADOPTIVES)
- (Article L122-28)
-
-
-PROTECTION DE LA MATERNITE ET EDUCATION DES ENFANTS .
- (Articles L122-26 à L122-31)
-
-
-
-
-
-
-REGLEMENT INTERIEUR .
- (Articles L122-33 à L122-42)
 
 
 
@@ -964,6 +940,17 @@ HEURES SUPPLEMENTAIRES .
 
 DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
  (Article L212-13)
+
+
+
+
+
+
+DUREE
+
+
+HEURES SUPPLEMENTAIRES .
+ (Article L212-5-1)
 
 
 
@@ -2219,7 +2206,7 @@ Chapitre II : Marins.
 
 
 Chapitre III : Personnel des entreprises de manutention des ports.
- (Article L743-1)
+ (Articles L743-1 à L743-2)
 
 
 
@@ -4427,7 +4414,6 @@ Section 2 : Travailleurs handicapés
 
 
 Sous-section 1 : Dispositions générales.
- (Articles R323-24 à R323-33)
 
 
 
@@ -4961,6 +4947,17 @@ SOUS-SECTION 4 : MUTILES DE GUERRE.
 
 
 
+SECTION 2 : TRAVAILLEURS HANDICAPES
+
+
+SOUS-SECTION 1 : DISPOSITIONS GENERALES.
+ (Article R323-32)
+
+
+
+
+
+
 
 
 Chapitre Ier : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
@@ -5075,7 +5072,6 @@ REGIME DE REDEVANCES .
 
 
 TRAVAILLEURS HANDICAPES .
- (Article R323-32)
 
 
 READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET  REENTRAINEMENT AU TRAVAIL .
@@ -6808,14 +6804,20 @@ Chapitre III : Dispositions régissant l'emploi de certaines catégories de trav
 Section 2 : Travailleurs handicapés
 
 
+Sous-section 1 : Dispositions générales.
+ (Articles D323-3-1 à D323-3-16)
+
+
+
+
 Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.
- (Articles D323-5 à D323-8)
+ (Articles D323-4 à D323-10)
 
 
 
 
 Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés.
- (Articles D323-12 à D323-16)
+ (Articles D323-11 à D323-16)
 
 
 
@@ -6943,19 +6945,7 @@ SECTION 2 : TRAVAILLEURS HANDICAPES
 
 
 SOUS-SECTION 2 : READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
- (Articles D323-4 à D323-10)
-
-
-
-
-SOUS-SECTION 2 : REEDAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
- (Article D323-7)
-
-
-
-
-SOUS-SECTION 3 : PRIORITE D'EMPLOI ET DE PLACEMENT DES TRAVAILLEURS HANDICAPES.
- (Articles D323-11 à D323-15)
+ (Article D323-6)
 
 
 

@@ -8,8 +8,8 @@ des délégués du personnel.
 Ce registre indique pour chaque personne concernée [*mentions
 obligatoires*] :
 
-1. Les nom, prénoms, nationalité, date de naissance, sexe adresse,
-emploi et qualification ;
+1. Les nom, prénoms, nationalité, date de naissance, sexe, emploi et
+qualification ;
 
 2. Les dates d'entrée et de sortie de l'établissement ;
 
