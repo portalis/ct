@@ -1541,12 +1541,6 @@ TRAVAIL CLANDESTIN .
 PLACEMENT ET EMPLOI
 
 
-AGENCE NATIONALE POUR L'EMPLOI *ANPE* .
- (Articles L330-2 à L330-9)
-
-
-
-
 DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 
@@ -1988,12 +1982,6 @@ DEPENSES DES CONSEILS DE PRUD'HOMMES
 
 
 
-DISPOSITIONS APPLICABLES AUX DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE
- (Article L51-11-1)
-
-
-
-
 DISPOSITIONS FINALES
  (Article L51-12-1)
 
@@ -2160,6 +2148,12 @@ Chapitre IV : Statut des conseillers prud'hommes.
 
 Chapitre VI : Procédure devant les conseils de prud'hommes.
  (Article L516-2)
+
+
+
+
+Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+ (Article L51-11-1)
 
 
 
@@ -3543,6 +3537,41 @@ Section 3 : Dispositions spéciales à certaines entreprises de travail temporai
 
 
 
+Section 4 : Règles applicables à la garantie financière exigée des entreprises de travail temporaire et à la substitution de l'utilisateur à l'entreprise de travail temporaire en cas de défaillance de celle-ci
+
+
+Paragraphe 1 : Dispositions générales.
+ (Articles R124-7 à R124-13)
+
+
+
+
+Paragraphe 2 : Dispositions particulières aux différents modes de garantie.
+ (Articles R124-14 à R124-16)
+
+
+
+
+Paragraphe 3 : Mise en oeuvre de la garantie.
+ (Articles R124-17 à R124-21)
+
+
+
+
+Paragraphe 4 : Substitution de l'utilisateur à l'entrepreneur de travail temporaire en cas de  défaillance de celui-ci.
+ (Articles R124-22 à R124-25)
+
+
+
+
+Paragraphe 5 : Cessation de la garantie.
+ (Articles R124-26 à R124-27)
+
+
+
+
+
+
 
 
 Chapitre V : Marchandage.
@@ -4317,12 +4346,6 @@ CENTRES DE FORMATION D' APPRENTIS
 CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS
 
 
-ORGANISATION DES CENTRES .
- (Article R116-6)
-
-
-
-
 FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
  (Articles R116-11 à R116-12)
 
@@ -4398,12 +4421,6 @@ DECLARATIONS ET JUSTIFICATIONS A FOURNIR A L'AUTORITE ADMINISTRATIVE .
 
 INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .
  (Article R124-4)
-
-
-
-
-REGLES APPLICABLES A LA SUBSTITUTION DE L'UTILISATEUR A  L'ENTREPRENEUR DE TRAVAIL TEMPORAIRE EN CAS DE DEFAILLANCE DE  CELUI-CI .
- (Articles R124-7 à R124-14)
 
 
 
@@ -4877,6 +4894,12 @@ Livre III : PLACEMENT
 Titre Ier : PLACEMENT
 
 
+Chapitre Ier : SERVICE PUBLIC DE L'EMPLOI.
+ (Articles R311-1 à R311-3)
+
+
+
+
 Chapitre II : PLACEMENT PRIVE
 
 
@@ -4884,28 +4907,6 @@ SECTION 3 : DISPOSITIONS COMMUNES.
  (Article R312-13)
 
 
-
-
-
-
-
-
-
-
-PLACEMENT
-
-
-SERVICE PUBLIC DE L'EMPLOI .
- (Article R311-1)
-
-
-
-
-PLACEMENT PRIVE
-
-
-PLACEMENT GRATUIT .
- (Article R312-2)
 
 
 
@@ -5245,7 +5246,7 @@ AIDES A LA MOBILITE GEOGRAPHIQUE
 
 
 PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION .
- (Articles R322-11 à R322-14)
+ (Articles R322-11 à R322-14-1)
 
 
 
@@ -5382,8 +5383,8 @@ APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MI
 PLACEMENT ET EMPLOI
 
 
-AGENCE NATIONALE POUR L'EMPLOI *ANPE* .
- (Articles R330-1 à R330-12)
+AGENCE NATIONALE POUR L'EMPLOI.
+ (Articles R330-1 à R330-14)
 
 
 
@@ -5519,6 +5520,12 @@ Section 1 : Organisation et fonctionnement de la juridiction.
 
 
 
+Section 2 : Organisation et fonctionnement du secrétariat-greffe.
+ (Article R512-35)
+
+
+
+
 
 
 
@@ -5538,7 +5545,13 @@ Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
 
 
 Section 1 : Organisation et fonctionnement de la juridiction.
- (Articles R512-4 à R512-14)
+ (Articles R512-1 à R512-14)
+
+
+
+
+Section 2 : Organisation et fonctionnement du secrétariat-greffe.
+ (Articles R512-18 à R512-34)
 
 
 
@@ -5630,6 +5643,23 @@ Section 5 : Le pourvoi en cassation.
 
 Chapitre VIII : Récusations.
  (Articles R518-1 à R518-2)
+
+
+
+
+Chapitre IX : Emoluments, indemnités et droits alloués aux huissiers et témoins
+
+
+Section 1 : Huissiers de justice.
+ (Article R519-1)
+
+
+
+
+Section 2 : Témoins.
+ (Article R519-2)
+
+
 
 
 
@@ -6431,6 +6461,12 @@ Titre III : Placement et emploi
 
 Chapitre Ier : Dispositions particulières à la main-d'oeuvre étrangère.
  (Articles R831-1 à R831-2)
+
+
+
+
+Chapitre III : Garantie de ressources des travailleurs sans emploi.
+ (Articles R833-1 à R833-7)
 
 
 
