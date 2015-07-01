@@ -2198,7 +2198,7 @@ Section 2 : Grève dans les services publics.
 
 
 Chapitre IV : Médiation.
- (Articles L524-2 à L524-8)
+ (Articles L524-2 à L524-7)
 
 
 
@@ -6556,12 +6556,6 @@ CONCILIATION .
 
 
 
-MEDIATION .
- (Articles R742-33 à R742-35)
-
-
-
-
 
 
 
@@ -7336,6 +7330,22 @@ Chapitre VII : Amélioration des conditions de travail.
 
 
 
+Livre V : Conflits du travail
+
+
+Titre II : Conflits collectifs
+
+
+Chapitre IV : Médiation.
+ (Articles D524-1 à D524-4)
+
+
+
+
+
+
+
+
 CONFLITS DU TRAVAIL
 
 
@@ -7471,6 +7481,17 @@ Paragraphe 2 : Salaires.
 
 Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.
  (Articles D742-3 à D742-11)
+
+
+
+
+Section 3 : Règlement des conflits collectifs de travail
+
+
+Paragraphe 2 : Médiation.
+ (Articles D742-12 à D742-15)
+
+
 
 
 
