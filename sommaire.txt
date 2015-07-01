@@ -3763,7 +3763,7 @@ Section 4 : Cautionnement.
 
 
 Chapitre III : CONVENTIONS COLLECTIVES
- (Article R153-3)
+ (Articles R153-1 à R153-3)
 
 
 
@@ -4074,7 +4074,7 @@ Sous-section 4 : Moyens de lutte contre l'incendie.
 
 
 Section 4 : Dispositions diverses.
- (Articles R233-42 à R233-44)
+ (Articles R233-42 à R233-43)
 
 
 
@@ -4918,6 +4918,17 @@ Section 3 : Cumuls d'emploi et travail clandestin.
 
 
 
+Chapitre IV : MAIN D'OEUVRE ETRANGERE
+
+
+PARAGRAPHE 1 : DISPOSITIONS SPECIALES A LA MAIN D'OEUVRE ETRANGERE
+ (Article R364-1)
+
+
+
+
+
+
 Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
 
@@ -5371,6 +5382,22 @@ PARAGRAPHE 1 : DISPOSITIONS GENERALES.
 
 
 
+Titre VI : PENALITES
+
+
+Chapitre II : EMPLOI
+
+
+SECTION 1 : CONTROLE DE L'EMPLOI
+ (Article R362-1)
+
+
+
+
+
+
+
+
 
 
 EMPLOI
@@ -5458,6 +5485,12 @@ TRAVAIL PROTEGE
 
 EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS .
  (Article R323-59)
+
+
+
+
+PARAGRAPHE 1 : EMPLOIS A MI-TEMPS ET EMPLOIS LEGERS.
+ (Articles R323-59-1 à R323-59-3)
 
 
 
@@ -5626,22 +5659,6 @@ GARANTIES DE RESSOURCES
 
 ALLOCATION POUR PERTE D'EMPLOI .
  (Articles R351-38 à R351-61)
-
-
-
-
-
-
-
-
-PENALITES
-
-
-EMPLOI
-
-
-CONTROLE DE L'EMPLOI .
- (Article R362-1)
 
 
 
@@ -6038,7 +6055,7 @@ Chapitre Ier : Services de contrôle
 
 
 Chapitre II : OBLIGATIONS DES EMPLOYEURS
- (Article R632-2)
+ (Articles R632-1 à R632-2)
 
 
 
