@@ -1891,7 +1891,7 @@ REGIME DES ENTREPRISES NON SOUMISES AU REGIME DE PARTICIPATION  DES TRAVAILLEURS
 
 
 PLANS D'EPARGNE D'ENTREPRISE .
- (Article L443-6)
+ (Articles L443-5 à L443-6)
 
 
 
@@ -4191,7 +4191,41 @@ Sous-section 2 : De la formation à la sécurité de certaines catégories de sa
 
 
 Sous-section 4 : De l'organisation et du contrôle.
- (Article R231-44)
+ (Articles R231-44 à R231-45)
+
+
+
+
+
+
+Section 5 : Substances et préparations dangereuses pour les travailleurs
+
+
+Sous-section 1 : Réglementation des substances et préparations dangereuses pour les travailleurs.
+ (Articles R231-46 à R231-50)
+
+
+
+
+SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.
+ (Articles R231-51 à R231-62)
+
+
+
+
+Sous-section 3 : Dispositions diverses.
+ (Articles R231-63 à R231-65)
+
+
+
+
+
+
+SECTION 5 : SUBSTANCES ET PREPARATIONS DANGEREUSES POUR LES LES TRAVAILLEURS
+
+
+SOUS-SECTION 2 : DECLARATION DES SUBSTANCES ET PREPARATIONS.
+ (Article R231-53)
 
 
 
@@ -4885,6 +4919,55 @@ Chapitre II : Protection de la main-d'oeuvre nationale.
 
 
 
+Titre V : Travailleurs privés d'emploi
+
+
+Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi
+
+
+Section 1 : Privation totale d'emploi
+
+
+SOUS-SECTION 2 : CONTROLE.
+ (Article R351-7)
+
+
+
+
+
+
+
+
+Chapitre II : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+
+
+SECTION 1 : PRIVATION TOTALE D'EMPLOI
+
+
+SOUS-SECTION 2 : CONTROLE.
+ (Articles R351-9 à R351-10)
+
+
+
+
+SOUS-SECTION 3 : OBLIGATIONS DES EMPLOYEURS.
+ (Articles R351-11 à R351-13)
+
+
+
+
+SOUS-SECTION 4 : DISPOSITIONS DIVERSES.
+ (Articles R351-15 à R351-17)
+
+
+
+
+
+
+
+
+
+
 Titre VI : Pénalités
 
 
@@ -4929,6 +5012,12 @@ Paragraphe 2 : Protection de la main-d'oeuvre nationale
  (Article R364-2)
 
 
+
+
+
+
+Chapitre V : Travailleurs privés d'emploi.
+ (Article R365-1)
 
 
 
@@ -5590,41 +5679,41 @@ DISPOSITIONS FINANCIERES ET COMPTABLES .
 TRAVAILLEURS PRIVES D'EMPLOI
 
 
-GARANTIES DE RESSOURCES
-
-
-ALLOCATION D'AIDE PUBLIQUE
+GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
 
 
 PRIVATION TOTALE D'EMPLOI
 
 
-REGIME GENERAL .
- (Articles R351-1 à R351-14)
+CONDITIONS D'OUVERTURE DU DROIT AUX PRESTATIONS.
+ (Articles R351-1 à R351-4)
 
 
 
 
-PROCEDURE D'ADMISSION ET DE CONTROLE .
- (Articles R351-15 à R351-25)
+CONTROLE.
+ (Articles R351-5 à R351-8)
 
 
 
 
-
-
-PRIVATION PARTIELLE D'EMPLOI .
- (Articles R351-26 à R351-31)
-
+OBLIGATIONS DES EMPLOYEURS.
+ (Article R351-14)
 
 
 
 
 
-ALLOCATION D'ASSURANCE .
- (Articles R351-32 à R351-37)
+
+PRIVATION PARTIELLE D'EMPLOI.
+ (Articles R351-18 à R351-21)
 
 
+
+
+
+
+GARANTIES DE RESSOURCES
 
 
 ALLOCATION POUR PERTE D'EMPLOI .
@@ -5647,12 +5736,6 @@ CONTROLE DE L'EMPLOI .
  (Article R362-1)
 
 
-
-
-
-
-TRAVAILLEURS PRIVES D'EMPLOI .
- (Article R365-1)
 
 
 
@@ -6232,12 +6315,6 @@ Section 6 : Aide publique aux marins privés d'emploi.
 Chapitre III : Personnels des entreprises de manutention des ports
 
 
-Section 1 : Aide publique aux dockers occasionnels privés d'emploi.
- (Article R743-1)
-
-
-
-
 Section 2 : Participation des salariés des entreprises de manutention des ports maritimes aux fruits de l'expansion.
  (Articles R743-2 à R743-5)
 
@@ -6330,12 +6407,6 @@ Paragraphe 2 : Carte d'identité de journaliste professionnel honoraire
 
 
 Chapitre II : Artistes, auteurs, compositeurs, gens de lettres
-
-
-Section 1 : Aide aux travailleurs privés d'emploi.
- (Article R762-1)
-
-
 
 
 Section 2 : Artistes du spectacle
@@ -7249,6 +7320,12 @@ Titre V : Travailleurs privés d'emploi
 Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi
 
 
+Section 1 : Privation totale d'emploi.
+ (Articles D351-1 à D351-2)
+
+
+
+
 Section 2 : PRIVATION PARTIELLE D'EMPLOI.
  (Article D351-3)
 
@@ -7259,12 +7336,6 @@ Section 2 : PRIVATION PARTIELLE D'EMPLOI.
 
 Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.
  (Articles D352-1 à D352-10)
-
-
-
-
-Chapitre III : Caisses d'assurance chômage.
- (Articles D353-1 à D353-12)
 
 
 
@@ -7298,17 +7369,6 @@ TRAVAIL PROTEGE .
  (Articles D323-17 à D323-24)
 
 
-
-
-
-
-
-
-TRAVAILLEURS PRIVES D'EMPLOI
-
-
-GARANTIES DE RESSOURCES.
- (Article D351-8)
 
 
 
@@ -7357,17 +7417,6 @@ DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 TRAVAILLEURS ETRANGERS .
  (Articles D341-1 à D341-3)
-
-
-
-
-
-
-TRAVAILLEURS PRIVES D'EMPLOI
-
-
-GARANTIES DE RESSOURCES .
- (Articles D351-1 à D351-7)
 
 
 
@@ -8012,7 +8061,7 @@ INSTITUTIONS DE LA FORMATION PROFESSIONNELLE
 
 
 ATTRIBUTIONS, COMPOSITION, MODALITES DE FONCTIONNEMENT DES  COMITES REGIONAUX DE LA FORMATION PROFESSIONNELLE, DE LA PROMOTION  SOCIALE ET DE L'EMPLOI .
- (Articles D910-1 à D910-5)
+ (Articles D910-1 à D910-6)
 
 
 
