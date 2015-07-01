@@ -280,13 +280,13 @@ def writeDates():
                     ' : ' +
                     u', '.join(dates[k]) + '\n')
 
-def readDates():
-    ldates = {}
-    with io.open(os.path.join(rootPath, "dates.txt"), 'r') as f:
-        for l in f.readlines():
-            d = datetime.strptime(l[:8], '%Y%m%d').date()
-            ldates[d] = set(l[11:].rstrip('\n').split(u', '))
-    return ldates
+# def readDates():
+#     ldates = {}
+#     with io.open(os.path.join(rootPath, "dates.txt"), 'r') as f:
+#         for l in f.readlines():
+#             d = datetime.strptime(l[:8], '%Y%m%d').date()
+#             ldates[d] = set(l[11:].rstrip('\n').split(u', '))
+#     return ldates
 
 def writeToc(tocTree):
     with io.open(os.path.join(rootPath, "sommaire.txt"), 'w') as f:
@@ -325,16 +325,13 @@ def writeCode(curDate, datePicker, rootPath):
     commitCode(curDate, datePicker)
 
 
-def getCommitMsg(d):
-    return unidec(
-            d.strftime('%Y-%m-%d ') + u', '.join(dates.setdefault(d, set())))
+# def getCommitMsg(d):
+#     return unidec(
+#             d.strftime('%Y-%m-%d ') + u', '.join(dates.setdefault(d, set())))
 #unidecode writes 'deg' for '°'
 
 def unidec(ustr):
     return unidecode.unidecode(ustr.replace(u'°', u'o'))
-
-# def nextDate(curDate):
-#     return next(d for d in sorted(dates.keys()) if d > curDate)
 
 def configRepo(repo):
     configWriter = repo.config_writer()
