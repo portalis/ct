@@ -309,8 +309,13 @@ def writeCode(curDate, datePicker, rootPath):
         '//div[@id="content_left"]/descendant::a')[0].get('href')
     section = Section(baseUrl + urlSection)
     while section is not None:
-        section.write(rootPath)
-        section.pickDates(datePicker)
+        try:
+            section.write(rootPath)
+            section.pickDates(datePicker)
+        except Exception as e :
+            print e
+            print section.url
+            break
         section = section.getNextSection()
         sys.stdout.write('.')
         sys.stdout.flush()
