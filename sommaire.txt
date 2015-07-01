@@ -45,7 +45,7 @@ Chapitre III : PAIEMENT DU SALAIRE
 
 
 Section 2 : Privilèges et garanties de la créance de salaire.
- (Article L143-8)
+ (Articles L143-7 à L143-8)
 
 
 
@@ -91,6 +91,17 @@ SECTION 2 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
 
 
 
+Titre VI : Pénalités.
+
+
+Chapitre IV : Médecine du travail.
+ (Article L264-1)
+
+
+
+
+
+
 
 
 REGLEMENTATION DU TRAVAIL
@@ -106,6 +117,17 @@ DISPOSITIONS GENERALES.
  (Article L212-2)
 
 
+
+
+
+
+
+
+CONGES ANNUELS
+
+
+DUREE DU CONGE .
+ (Article L223-4)
 
 
 
@@ -252,6 +274,12 @@ Chapitre II : Délégués mineurs
 Section 1
 
 
+Paragraphe 3 : Elections
+ (Article L712-11)
+
+
+
+
 Paragraphe 4 : Dispositions spéciales.
  (Article L712-32)
 
@@ -271,12 +299,6 @@ Industries extractives
 
 
 Chapitre II : Délégués mineurs
-
-
-Section 1 : Elections.
- (Article L712-11)
-
-
 
 
 Section 2 : Délégués permanents de la surface.
@@ -310,6 +332,23 @@ Section 6 : Hygiène et sécurité.
 
 
 
+
+
+
+
+Titre IV : Transports et télécommunications
+
+
+Chapitre II : Marins.
+ (Articles L742-6 à L742-7)
+
+
+
+
+
+
+Titre V : Voyageurs, représentants et placiers.
+ (Article L751-15)
 
 
 
@@ -350,6 +389,12 @@ Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
 Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
 
 
+Chapitre Ier : Catégories particulières de travailleurs.
+ (Article L781-1)
+
+
+
+
 Chapitre III : Halles centrales de Paris.
  (Article L783-8)
 
@@ -382,12 +427,6 @@ EMPLOYES DE MAISON .
 
 
 DISPOSITIONS RELATIVES A CERTAINES CATEGORIES DE TRAVAILLEURS ET D'ENTREPRISES
-
-
-CATEGORIES PARTICULIERES DE TRAVAILLEURS .
- (Article L781-1)
-
-
 
 
 

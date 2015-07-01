@@ -217,7 +217,7 @@ class Section:
         self.tree = lxml.html.document_fromstring(
             urllib2.urlopen(
                 urllib2.Request(url, None, header)).read())
-        print lxml.etree.dump(self.tree)
+
 
     def __string__(self):
         return self.url
