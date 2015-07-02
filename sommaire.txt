@@ -3694,6 +3694,12 @@ Chapitre VII : Règles particulières au contrôle et à la répartition des pou
 Titre V : Pénalités
 
 
+Chapitre Ier : Contrat d'apprentissage et statut de l'apprenti.
+ (Articles R151-1 à R151-5)
+
+
+
+
 Chapitre II : Contrat de travail
 
 
@@ -7065,7 +7071,7 @@ DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972
 
 
 Chapitre VII : SALAIRE DE L'APPRENTI .
- (Article D117-2)
+ (Articles D117-1 à D117-3)
 
 
 
@@ -7166,27 +7172,6 @@ Chapitre III : PAIEMENT DU SALAIRE
 
 SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
  (Articles D143-1 à D143-2)
-
-
-
-
-
-
-
-
-
-
-CONVENTIONS RELATIVES AU TRAVAIL
-
-
-CONTRAT D'APPRENTISSAGE
-
-
-DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972
-
-
-SALAIRE DE L'APPRENTI .
- (Articles D117-1 à D117-3)
 
 
 
@@ -8120,7 +8105,7 @@ APPRENTISSAGE
 
 
 DISPOSITIONS FINANCIERES .
- (Articles D811-52 à D811-54)
+ (Article D811-52)
 
 
 
