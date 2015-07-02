@@ -1434,7 +1434,7 @@ SECTION 1 : DISPOSITIONS GENERALES
 
 
 Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES
- (Article L351-8)
+ (Articles L351-9 à L351-8)
 
 
 
@@ -7678,22 +7678,6 @@ TRAVAILLEURS ETRANGERS .
 
 
 
-LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
-
-
-INTERESSEMENT ET PARTICIPATION .
-
-
-PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .
- (Articles D442-2 à D442-3)
-
-
-
-
-
-
-
-
 Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
 
 
@@ -7735,7 +7719,7 @@ Titre IV : Intéressement et participation
 
 
 Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises.
- (Article D442-1)
+ (Articles D442-1 à D442-3)
 
 
 
