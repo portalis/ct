@@ -843,6 +843,12 @@ Paragraphe 2 : Travail à temps partiel.
 
 
 
+PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
+ (Article L212-4-8)
+
+
+
+
 
 
 SECTION 3 : HEURES SUPPLEMENTAIRES.
@@ -996,7 +1002,7 @@ Titre III : Hygiène, sécurité et conditions de travail
 
 
 Chapitre Ier : Dispositions générales.
- (Articles L231-1-2 à L231-5-1)
+ (Articles L231-1-2 à L231-9)
 
 
 
@@ -1021,6 +1027,12 @@ Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
 
 Chapitre V : Dispositions spéciales applicables aux opérations de construction dans l'intérêt de l'hygiène et de la sécurité du travail.
  (Articles L235-1 à L235-8)
+
+
+
+
+Chapitre VI : COMITES D'HYGIENE, DE SECURITE ET DES CONDITIONS DE TRAVAIL
+ (Article L236-11)
 
 
 
@@ -1120,7 +1132,7 @@ DUREE DU CONGE .
 
 
 HYGIENE ET SECURITE .
- (Articles L231-1 à L231-9)
+ (Articles L231-1 à L231-4)
 
 
 
