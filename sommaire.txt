@@ -3582,13 +3582,19 @@ Chapitre IV : Travail temporaire
 
 
 Section 1 : Déclarations et justifications à fournir à l'autorité administrative.
- (Articles R124-1 à R124-3)
+ (Articles R124-1 à R124-2)
+
+
+
+
+Section 2 : Informations à fournir en application des articles L. 124-11 et L. 124-12.
+ (Article R124-4)
 
 
 
 
 Section 3 : Dispositions spéciales à certaines entreprises de travail temporaire et dispositions transitoires.
- (Articles R124-5 à R124-6)
+ (Article R124-5)
 
 
 
@@ -3785,6 +3791,12 @@ Paragraphe 3 : Règles particulières à la protection de la maternité et à l'
  (Article R152-3)
 
 
+
+
+
+
+Section 2 : Travail temporaire.
+ (Articles R152-5 à R152-6-1)
 
 
 
@@ -4605,22 +4617,6 @@ INSPECTION DE L'APPRENTISSAGE .
 
 
 
-CONTRAT DE TRAVAIL
-
-
-TRAVAIL TEMPORAIRE
-
-
-INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .
- (Article R124-4)
-
-
-
-
-
-
-
-
 (LOUAGE DE SERVICE)
 
 
@@ -4691,22 +4687,6 @@ SAISIE-ARRET ET CESSION DES REMUNERATIONS DUES PAR UN EMPLOYEUR .
 
 PROCEDURE DE CESSION ET DE SAISIE ARRET .
  (Articles R145-2 à R145-21)
-
-
-
-
-
-
-
-
-PENALITES
-
-
-CONTRAT DE TRAVAIL
-
-
-TRAVAIL TEMPORAIRE .
- (Articles R152-5 à R152-6)
 
 
 
