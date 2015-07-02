@@ -6,7 +6,9 @@ prendre lors de ces opérations.
 
 Cette notice doit également comporter les plans et schémas nécessaires
 pour l'entretien et les vérifications techniques de la machine ou de
-l'appareil.
+l'appareil. Pour les machines et appareils portatifs pour emploi à la
+main, la notice doit en outre mentionner la nature et les
+caractéristiques des accessoires qui peuvent leur être adaptés.
 
 Tous ces documents doivent être rédigés en français [*langue
 obligatoire*].
