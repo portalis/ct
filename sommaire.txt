@@ -3484,6 +3484,23 @@ Section 3 : Protection de la maternité et éducation des enfants.
 
 
 
+Section 4 : Règlement intérieur, protection des salariés et droit disciplinaire
+
+
+Sous-section 1 : Règlement intérieur.
+ (Articles R122-12 à R122-16)
+
+
+
+
+Sous-section 2 : Protection des salariés et droit disciplinaire.
+ (Articles R122-17 à R122-19)
+
+
+
+
+
+
 
 
 Chapitre IV : Travail temporaire
@@ -3697,6 +3714,12 @@ Paragraphe 2 : Règles particulières aux personnes intéressées par le service
 
 Paragraphe 3 : Règles particulières à la protection de la maternité et à l'éducation des enfants
  (Article R152-3)
+
+
+
+
+Paragraphe 4 : Règlement intérieur
+ (Article R152-4)
 
 
 
@@ -4517,38 +4540,6 @@ DUREE DE L'APPRENTISSAGE .
 
 INSPECTION DE L'APPRENTISSAGE .
  (Article R119-48)
-
-
-
-
-
-
-
-
-(LOUAGE DE SERVICE)
-
-
-CONTRAT DE TRAVAIL
-
-
-REGLEMENT INTERIEUR .
- (Articles R122-13 à R122-16)
-
-
-
-
-
-
-
-
-(LOUAGE SE SERVICE)
-
-
-CONTRAT DE TRAVAIL
-
-
-REGLEMENT INTERIEUR .
- (Article R122-17)
 
 
 
