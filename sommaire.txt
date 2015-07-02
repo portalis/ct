@@ -6757,7 +6757,7 @@ Sous-section 1 : Actions de formation organisées à l'initiative de l'administr
 
 
 Sous-section 2 : Cycles de formation, stages ou autres actions offerts ou agréés par l'administration en vue de la préparation aux concours administratifs.
- (Articles R970-14 à R970-16)
+ (Articles R970-14 à R970-17)
 
 
 
@@ -6781,7 +6781,19 @@ Sous-section 1 : Actions de formation organisées à l'initiative de l'administr
 
 
 Sous-section 2 : Participation des agents non titulaires aux cycles ou stages offerts ou agréés par l'administration en vue de la préparation aux concours administratifs et aux examens professionnels.
- (Articles R970-27 à R970-28)
+ (Articles R970-27 à R970-29)
+
+
+
+
+Sous-section 3 : Actions choisies par les agents non titulaires en vue de leur formation personnelle.
+ (Articles R970-30 à R970-34)
+
+
+
+
+Sous-section 4 : Participation des agents ayant quitté l'administration à des stages de formation professionnelle continue.
+ (Articles R970-35 à R970-37)
 
 
 
@@ -6860,29 +6872,6 @@ DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU  FINANCEMENT DE LA FOR
 
 CONTROLE DE LA PARTICIPATION DES EMPLOYEURS .
  (Articles R950-19 à R950-21)
-
-
-
-
-
-
-MODALITES D'APPLICATION DE L'ARTICLE L970-3
-
-
-PARTICIPATION DES AGENTS NON TITULAIRES AUX CYCLES OU STAGES  OFFERTS OU AGREES PAR L'ADMINISTRATION EN VUE DE LA PREPARATION AUX  CONCOURS ADMINISTRATIFS ET AUX EXAMENS PROFESSIONNELS .
- (Article R970-29)
-
-
-
-
-ACTIONS CHOISIES PAR LES AGENTS NON TITULAIRES EN VUE DE LEUR  FORMATION PERSONNELLE .
- (Articles R970-30 à R970-34)
-
-
-
-
-PARTICIPATION DES AGENTS NON TITULAIRES EXERCANT A PLEIN TEMPS  DES FONCTIONS PERMANENTES AUX STAGES DE CONVERSION OU DE PROMOTION  PROFESSIONNELLE .
- (Articles R970-35 à R970-37)
 
 
 
