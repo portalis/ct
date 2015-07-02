@@ -3587,6 +3587,23 @@ Chapitre V : Exécution de la convention.
 
 
 
+Chapitre VI : Commission nationale de la négociation collective
+
+
+Section 1 : Composition de la commission nationale de la négociation collective.
+ (Articles R136-1 à R136-8)
+
+
+
+
+Section 2 : Composition de la sous-commission des conventions et accords et de la sous-commission des salaires.
+ (Articles R136-9 à R136-11)
+
+
+
+
+
+
 
 
 Titre IV : Salaire
@@ -3679,7 +3696,7 @@ Chapitre V : Saisie-arrêt et cession des rémunérations dues par un employeur
 
 
 Section 2 : Procédure de cession et de saisie-arrêt.
- (Articles R145-3 à R145-19)
+ (Articles R145-2 à R145-21)
 
 
 
@@ -4542,12 +4559,6 @@ EXECUTION DE LA CONVENTION COLLECTIVE .
 
 
 
-COMMISSION SUPERIEURE DES CONVENTIONS COLLECTIVES .
- (Articles R136-1 à R136-13)
-
-
-
-
 
 
 SALAIRE
@@ -4558,7 +4569,7 @@ SAISIE-ARRET ET CESSION DES REMUNERATIONS DUES PAR UN EMPLOYEUR .
 
 
 PROCEDURE DE CESSION ET DE SAISIE ARRET .
- (Articles R145-2 à R145-21)
+ (Article R145-2)
 
 
 
@@ -4975,30 +4986,94 @@ Chapitre Ier : Statut juridique des syndicats.
 
 
 
+Chapitre II : Exercice du droit syndical dans les entreprises
+
+
+Section 3 : Délégués syndicaux.
+ (Articles R412-1 à R412-6)
+
+
+
+
+
+
+
+
+Titre II : Les délégués du personnel
+
+
+Chapitre III : Composition et élections.
+ (Articles R423-1 à R423-4)
+
+
+
+
+Chapitre V : Licenciement des délégués du personnel.
+ (Article R425-1)
+
+
+
+
 
 
 Titre III : Les comités d'entreprise
 
 
-Chapitre II : ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL
+Chapitre II : Attributions et pouvoirs
 
 
-SECTION 2 : INSTITUTIONS SOCIALES D'ENTREPRISES.
- (Article R432-3)
+Section 1 : Personnalité civile.
+ (Article R432-1)
 
 
 
 
-SECTION 5 : FINANCEMENT DES ACTIVITES SOCIALES ET CULTURELLES.
- (Articles R432-13 à R432-17)
+Section 2 : Institutions sociales d'entreprises.
+ (Articles R432-2 à R432-3)
 
 
+
+
+Section 3 : Gestion des activités sociales et culturelles.
+ (Articles R432-4 à R432-7)
+
+
+
+
+Section 4 : Comités interentreprises.
+ (Articles R432-8 à R432-10)
+
+
+
+
+Section 5 : Financement des activités sociales et culturelles.
+ (Articles R432-13 à R432-16)
+
+
+
+
+
+
+Chapitre III : Composition et élections.
+ (Articles R433-1 à R433-4)
 
 
 
 
 Chapitre IV : Fonctionnement.
- (Article R434-1)
+ (Articles R434-1 à R434-2)
+
+
+
+
+Chapitre V : Comités d'établissement et comité central d'entreprise.
+ (Article R435-1)
+
+
+
+
+Chapitre VI : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés.
+ (Articles R436-1 à R436-10)
 
 
 
@@ -5011,6 +5086,12 @@ Chapitre VII : Amélioration des conditions de travail.
 
 Chapitre VIII : Bilan social.
  (Article R438-1)
+
+
+
+
+Chapitre IX : Comité de groupe.
+ (Articles R439-1 à R439-2)
 
 
 
@@ -6012,57 +6093,6 @@ Section 2 : Exécution des sentences arbitrales et des accords intervenus au cou
 LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
 
 
-LES SYNDICATS PROFESSIONNELS
-
-
-EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .
- (Articles R412-1 à R412-3)
-
-
-
-
-
-
-LES DELEGUES DU PERSONNEL .
- (Articles R420-1 à R420-8)
-
-
-
-
-LES COMITES D'ENTREPRISE
-
-
-ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL
-
-
-PERSONNALITE CIVILE .
- (Article R432-1)
-
-
-
-
-COMITES INTERENTREPRISES .
- (Articles R432-9 à R432-11)
-
-
-
-
-
-
-COMPOSITION ET ELECTIONS .
- (Articles R433-1 à R433-6)
-
-
-
-
-CONDITIONS DE LICENCIEMENT DES MEMBRES DES COMITES D'ENTREPRISE  ET DES DELEGUES DU PERSONNEL .
- (Articles R436-1 à R436-7)
-
-
-
-
-
-
 INTERESSEMENT ET PARTICIPATION
 
 
@@ -6087,48 +6117,6 @@ MODALITES DE CALCUL DE LA RESERVE SPECIALE .
  (Article R442-2)
 
 
-
-
-
-
-
-
-
-
-
-
-Livre IV : LES GROUPEMENTS, LA REPRESENTATION, LA PARTICIPATION ET L'INTERESSEMENT DES SALARIES
-
-
-Titre III : LES COMITES D'ENTREPRISE
-
-
-Chapitre II : ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL
-
-
-SECTION 3 : GESTION DES ACTIVITES SOCIALES ET CULTURELLES.
- (Article R432-8)
-
-
-
-
-
-
-
-
-
-
-Livre IV : LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA PARTICIPATION ET L'INTERESSEMENT DES SALAIRES
-
-
-Titre III : LES COMITES D'ENTREPRISE
-
-
-Chapitre II : ATTRIBUTIONS ET POUVOIRS DANS LE DOMAINE SOCIAL
-
-
-SECTION 5 : FINANCEMENT DES ACTIVITES SOCIALES ET CULTURELLES.
- (Article R432-12)
 
 
 
@@ -6392,6 +6380,7 @@ PARAGRAPHE 3 : ARBITRAGE .
 
 
 SECTION 4 : CONTROLE .
+ (Article R742-37)
 
 
 
@@ -7229,17 +7218,6 @@ Chapitre IV : Travail temporaire.
 
 
 
-Titre III : Conventions collectives de travail
-
-
-Chapitre IV : Conventions collectives dans les entreprises publiques.
- (Article D134-1)
-
-
-
-
-
-
 Titre IV : Salaire
 
 
@@ -7583,28 +7561,6 @@ TRAVAILLEURS ETRANGERS .
 LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
 
 
-LES SYNDICATS PROFESSIONNELS
-
-
-EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .
- (Article D412-1)
-
-
-
-
-
-
-LES COMITES D'ENTREPRISE
-
-
-COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE .
- (Articles D435-1 à D435-2)
-
-
-
-
-
-
 INTERESSEMENT ET PARTICIPATION .
 
 
@@ -7621,11 +7577,34 @@ PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .
 Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
 
 
+Titre Ier : Les syndicats professionnels
+
+
+Chapitre II : Exercice du droit syndical dans les entreprises.
+ (Article D412-1)
+
+
+
+
+
+
 Titre III : Les comités d'entreprise
+
+
+Chapitre V : Comité d'établissement et comité central d'entreprise.
+ (Articles D435-1 à D435-2)
+
+
 
 
 Chapitre VII : Amélioration des conditions de travail.
  (Articles D437-1 à D437-4)
+
+
+
+
+Chapitre IX : Comité de groupe.
+ (Article D439-1)
 
 
 
