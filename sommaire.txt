@@ -1938,34 +1938,40 @@ Chapitre Ier : DISPOSITIONS COMMUNES RELATIVES AU DROIT D'EXPRESSION DES SALARIE
 
 
 
-Titre VII : PENALITES
-
-
-Chapitre Ier : LES SYNDICATS PROFESSIONNELS
-
-
-SECTION 1 : STATUT JURIDIQUE DES SYNDICATS.
- (Article L471-1)
+Titre VII : FONDS SALARIAUX
+ (Articles L471-1 à L471-3)
 
 
 
 
-SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES.
- (Articles L471-2 à L471-3)
+Titre VIII : Pénalités
+
+
+Chapitre Ier : Les syndicats professionnels
+
+
+Section 1 : Statut juridique des syndicats.
+ (Article L481-1)
+
+
+
+
+Section 2 : Exercice du droit syndical dans les entreprises et marques syndicales
+ (Articles L481-2 à L481-3)
 
 
 
 
 
 
-Chapitre II : LES DELEGUES DU PERSONNEL.
- (Article L472-1)
+Chapitre II : Les délégués du personnel.
+ (Article L482-1)
 
 
 
 
-Chapitre III : LES COMITES D'ENTREPRISE
- (Articles L473-1 à L473-2)
+Chapitre III : Les comités d'entreprise.
+ (Articles L483-1 à L483-2)
 
 
 
@@ -3028,6 +3034,18 @@ Titre V : PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSION
 
 Titre V :DE LA PARTICIPATION DES EMPLOYEURS AU FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.
  (Article L950-4)
+
+
+
+
+Titre VI : AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION    PROFESSIONNELLE
+ (Articles L960-2 à L960-6)
+
+
+
+
+Chapitre VI : AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION     PROFESSIONNELLE
+ (Article L960-3)
 
 
 
@@ -6810,6 +6828,17 @@ Chapitre III : Garantie de ressources des travailleurs sans emploi.
 
 
 
+Titre V : Conflits du travail
+
+
+Chapitre Ier : Conflits individuels - Conseils de prud'hommes.
+ (Articles R851-1 à R851-3)
+
+
+
+
+
+
 Titre VIII : Pénalités
 
 
@@ -6827,22 +6856,6 @@ Chapitre II : Réglementation du travail
 
 Chapitre III : Placement et emploi
  (Article R883-1)
-
-
-
-
-
-
-
-
-DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
-
-
-CONFLITS DU TRAVAIL
-
-
-EMOLUMENTS, INDEMNITES, DROITS ALLOUES AUX GREFFIERS EN CHEF, HUISSIERS ET TEMOINS.
- (Article R851-1)
 
 
 
