@@ -3001,7 +3001,7 @@ Chapitre II : De la protection sociale des stagiaires de la formation profession
 
 
 Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collectivités locales.
- (Articles L970-1 à L970-4)
+ (Articles L970-1 à L970-5)
 
 
 
@@ -3034,20 +3034,8 @@ Chapitre II : Dispositions pénales.
 FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION  PERMANENTE .
 
 
-DISPOSITIONS RELATIVES A LA PROMOTION INDIVIDUELLE ET AUX CONGES DE FORMATION .
- (Article L900-3)
-
-
-
-
 CONVENTIONS DE FORMATION PROFESSIONNELLE .
  (Article L920-3)
-
-
-
-
-DISPOSITIONS RELATIVES AUX AGENTS DE L'ETAT ET AUX AGENTS DES  COLLECTIVITES LOCALES .
- (Article L970-5)
 
 
 
@@ -7090,6 +7078,17 @@ Titre IV.
 
 
 
+Titre V : Modalités d'application des articles L. 950-1 à L. 950-10
+
+
+SECTION 6 : DES ENGAGEMENTS DE DEVELOPPEMENT DE LA FORMATION.
+ (Articles R950-23 à R950-30)
+
+
+
+
+
+
 Titre VI : Des aides financières accordées aux stagiaires de formation professionnelle et de leur protection sociale
 
 
@@ -7128,7 +7127,7 @@ Paragraphe 3 : Dispositions communes.
 
 
 Chapitre II : De la protection sociale des stagiaires de la formation professionnelle.
- (Article R962-3)
+ (Articles R962-2 à R962-3)
 
 
 
