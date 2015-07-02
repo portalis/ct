@@ -763,6 +763,23 @@ Section 1 : Dispositions générales.
 
 
 
+Section 2 : Travail à temps choisi
+
+
+Paragraphe 1 : Horaires individualisés.
+ (Article L212-4-1)
+
+
+
+
+Paragraphe 2 : Travail à temps partiel.
+ (Articles L212-4-2 à L212-4-7)
+
+
+
+
+
+
 SECTION 3 : HEURES SUPPLEMENTAIRES.
  (Articles L212-5 à L212-8)
 
@@ -1038,17 +1055,6 @@ DUREE DU TRAVAIL
 
 DISPOSITIONS GENERALES.
  (Article L212-4)
-
-
-
-
-AMENAGEMENT DU TEMPS DE TRAVAIL .
-
-
-TRAVAIL A TEMPS PARTIEL.
- (Articles L212-4-2 à L212-4-5)
-
-
 
 
 
@@ -1691,7 +1697,19 @@ Chapitre III : Marques syndicales.
 
 
 
+Titre II : Les délégués du personnel
+ (Article L420-9)
+
+
+
+
 Titre III : Les comités d'entreprise
+
+
+Chapitre III : Composition et élections.
+ (Article L433-4)
+
+
 
 
 Chapitre IV : Fonctionnement.
@@ -2962,7 +2980,7 @@ Titre II : Des conventions de formation professionnelle.
 
 
 Titre IV : De l'aide de l'Etat.
- (Articles L940-1 à L940-4)
+ (Articles L940-1 à L940-5)
 
 
 
