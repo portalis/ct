@@ -3067,13 +3067,13 @@ Paragraphe 2 : De l'organisation des centres.
 
 
 Paragraphe 3 : Du fonctionnement pédagogique des centres.
- (Articles R116-13 à R116-14)
+ (Articles R116-12 à R116-14)
 
 
 
 
 Paragraphe 4 : De l'organisation financière des centres.
- (Article R116-15)
+ (Articles R116-15 à R116-17)
 
 
 
@@ -3081,13 +3081,13 @@ Paragraphe 4 : De l'organisation financière des centres.
 
 
 Section 2 : De la conclusion et du renouvellement des conventions.
- (Articles R116-21 à R116-23)
+ (Articles R116-18 à R116-23)
 
 
 
 
 Section 3 : Des conventions-cadre d'apprentissage.
- (Article R116-25)
+ (Articles R116-24 à R116-25)
 
 
 
@@ -3099,7 +3099,24 @@ Section 4 : Du personnel des centres de formation d'apprentis.
 
 
 Section 5 : Du contrôle des centres de formation d'apprentis.
- (Article R116-34)
+ (Articles R116-33 à R116-36)
+
+
+
+
+
+
+Chapitre VI : CENTRES DE FORMATION D'APPRENTIS
+
+
+SECTION 2 : CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS
+ (Article R116-20)
+
+
+
+
+SECTION 4 : PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS
+ (Articles R116-27 à R116-29)
 
 
 
@@ -3145,7 +3162,7 @@ Chapitre IX : DISPOSITIONS DIVERSES
 
 
 A - DISPOSITIONS FINANCIERES.
- (Articles R119-1 à R119-5)
+ (Articles R119-1 à R119-3)
 
 
 
@@ -3198,41 +3215,6 @@ E - Aménagements au bénéfice des personnes handicapées des dispositions rela
 
 
 B - Mesures provisoires d'adaptation en matière d'apprentissage
-
-
-Section 1 : Des accords provisoires
-
-
-Paragraphe 1 : Dispositions générales.
- (Articles R119-6 à R119-11)
-
-
-
-
-Paragraphe 3 : Des accords de transformation et des avenants d'adaptation.
- (Articles R119-15 à R119-21)
-
-
-
-
-Paragraphe 4 : Dispositions relatives au personnel.
- (Article R119-25)
-
-
-
-
-Section 2 : Dispositions transitoires relatives à l'agrément des employeurs.
- (Article R119-26)
-
-
-
-
-Section 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
- (Article R119-27)
-
-
-
-
 
 
 C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin, et de la Moselle.
@@ -3406,6 +3388,27 @@ Chapitre VII : DU CONTRAT D'APPRENTISSAGE
 
 PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR.
  (Article R117-1)
+
+
+
+
+
+
+
+
+DISPOSITIONS PARTICULIERES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972
+
+
+Chapitre IX : DISPOSITIONS DIVERSES
+
+
+D - INSPECTION DE L'APPRENTISSAGE
+
+
+DISPOSITIONS GENERALES
+ (Article R119-48)
+
+
 
 
 
@@ -4494,39 +4497,9 @@ CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS
 
 
 FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
- (Articles R116-11 à R116-12)
+ (Article R116-11)
 
 
-
-
-ORGANISATION FINANCIERE DES CENTRES .
- (Articles R116-16 à R116-17)
-
-
-
-
-
-
-CONCLUSION ET RENOUVELLEMENT DES CONVENTIONS .
- (Articles R116-18 à R116-22)
-
-
-
-
-CONVENTIONS-CADRE D' APPRENTISSAGE .
- (Article R116-24)
-
-
-
-
-PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .
- (Articles R116-27 à R116-31)
-
-
-
-
-CONTROLE DES CENTRES DE FORMATION D'APPRENTIS .
- (Articles R116-33 à R116-36)
 
 
 
@@ -4540,12 +4513,6 @@ DUREE DE L'APPRENTISSAGE .
  (Article R117-8)
 
 
-
-
-
-
-INSPECTION DE L'APPRENTISSAGE .
- (Article R119-48)
 
 
 
