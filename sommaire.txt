@@ -271,6 +271,45 @@ Section 5-1 : Règles particulières aux salariés victimes d'un accident du tra
 
 
 
+Section 6 : Règlement intérieur, protection des salariés et droit disciplinaire
+
+
+Sous-section 1 : Règlement intérieur
+ (Articles L122-33 à L122-39)
+
+
+
+
+Sous-section 2 : Protection des salariés et droit disciplinaire.
+ (Articles L122-40 à L122-44)
+
+
+
+
+
+
+SECTION 6 : REGLEMENT INTERIEUR
+
+
+SOUS-SECTION 1 : REGLEMENT INTERIEUR.
+ (Article L122-35)
+
+
+
+
+
+
+SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE
+
+
+SOUS-SECTION 2 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE.
+ (Articles L122-41 à L122-45)
+
+
+
+
+
+
 
 
 Chapitre IV : Travail temporaire
@@ -458,6 +497,12 @@ Chapitre Ier : Contrat d'apprentissage.
 
 
 Chapitre II : Contrat de travail
+
+
+SECTION 1 : LOUAGE DE SERVICES - REGLEMENT INTERIEUR.
+ (Article L152-1)
+
+
 
 
 Section 2 : Travail temporaire.
@@ -688,22 +733,6 @@ PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
 
 PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE .
  (Article L143-11-7)
-
-
-
-
-
-
-
-
-PENALITES
-
-
-CONTRAT DE TRAVAIL
-
-
-LOUAGE DE SERVICES - REGLEMENT INTERIEUR .
- (Article L152-1)
 
 
 
@@ -1535,7 +1564,7 @@ EMPLOI
 
 
 CONTROLE DE L'EMPLOI .
- (Articles L321-2 à L321-12)
+ (Article L321-12)
 
 
 
@@ -1765,40 +1794,34 @@ Chapitre III : Plans d'épargne d'entreprise.
 
 
 
-Titre VI : PENALITES
+Titre VII : PENALITES
 
 
 Chapitre Ier : LES SYNDICATS PROFESSIONNELS
 
 
-SECTION 1 : STATUT JURIDIQUE DES SYNDICATS
- (Article L461-1)
+SECTION 1 : STATUT JURIDIQUE DES SYNDICATS.
+ (Article L471-1)
 
 
 
 
-SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES
- (Articles L461-2 à L461-3)
+SECTION 2 : EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES ET MARQUES SYNDICALES.
+ (Articles L471-2 à L471-3)
 
 
 
 
 
 
-Chapitre II : LES DELEGUES DU PERSONNEL
- (Article L462-1)
+Chapitre II : LES DELEGUES DU PERSONNEL.
+ (Article L472-1)
 
 
 
 
 Chapitre III : LES COMITES D'ENTREPRISE
- (Article L463-1)
-
-
-
-
-Chapitre III : COMITE D'ENTREPRISE
- (Article L463-2)
+ (Articles L473-1 à L473-2)
 
 
 
