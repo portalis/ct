@@ -7629,6 +7629,17 @@ Chapitre Ier : Contrôle de l'emploi.
 
 
 
+Chapitre II : Fonds national de l'emploi.
+
+
+Section 3 : Chômage partiel.
+ (Articles D322-11 à D322-16)
+
+
+
+
+
+
 Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
 
 
@@ -7750,18 +7761,23 @@ FONDS NATIONAL DE L'EMPLOI - PRIME DE MOBILITE DES JEUNES .
 
 
 
-FONDS NATIONAL DE L'EMPLOI - CHOMAGE PARTIEL .
- (Articles D322-11 à D322-16)
-
-
-
-
 
 
 Livre III : EMPLOI
 
 
 Titre II : EMPLOI
+
+
+Chapitre II : FONDS NATIONAL DE L'EMPLOI *FNE*
+
+
+SECTION 3 : CHOMAGE PARTIEL.
+ (Article D322-13)
+
+
+
+
 
 
 Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
