@@ -3884,6 +3884,18 @@ C - Dispositions communes.
 
 
 
+Section 3 : Travail par équipes successives selon un cycle continu.
+ (Article R212-13)
+
+
+
+
+Section 4 : Dispositions relatives aux femmes.
+ (Article R212-14)
+
+
+
+
 
 
 Chapitre III : Travail de nuit.
@@ -3902,6 +3914,12 @@ Chapitre Ier : Repos hebdomadaire
 
 Section 1 : Dispositions générales.
  (Articles R221-1 à R221-13)
+
+
+
+
+Section 2 : Equipes de suppléance.
+ (Articles R221-14 à R221-17)
 
 
 
@@ -4871,22 +4889,6 @@ REGLEMENTATION DU TRAVAIL
 
 AGENCE NATIONALE POUR L'AMELIORATION DES CONDITIONS DE TRAVAIL .
  (Articles R200-6 à R200-23)
-
-
-
-
-CONDITIONS DU TRAVAIL
-
-
-DUREE DU TRAVAIL
-
-
-DISPOSITIONS RELATIVES AUX FEMMES .
- (Article R212-13)
-
-
-
-
 
 
 
@@ -7314,6 +7316,12 @@ Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.
 
 
 
+Section 4 : Durée quotidienne du travail.
+ (Articles D212-13 à D212-17)
+
+
+
+
 
 
 
@@ -7565,7 +7573,7 @@ INTERESSEMENT ET PARTICIPATION .
 
 
 PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES .
- (Articles D442-1 à D442-3)
+ (Articles D442-2 à D442-3)
 
 
 
@@ -7605,6 +7613,17 @@ Chapitre VII : Amélioration des conditions de travail.
 
 Chapitre IX : Comité de groupe.
  (Article D439-1)
+
+
+
+
+
+
+Titre IV : Intéressement et participation
+
+
+Chapitre II : Participation des salariés aux fruits de l'expansion des entreprises.
+ (Article D442-1)
 
 
 
