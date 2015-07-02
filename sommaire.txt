@@ -1784,7 +1784,7 @@ Chapitre Ier : Champ d'application.
 
 
 Chapitre II : ATTRIBUTIONS ET POUVOIRS.
- (Articles L422-1 à L422-4)
+ (Articles L422-1 à L422-5)
 
 
 
@@ -1825,7 +1825,7 @@ Chapitre Ier : Champ d'application
 
 
 Chapitre II : Attributions et pouvoirs.
- (Articles L432-1 à L432-9)
+ (Articles L432-1 à L432-10)
 
 
 
@@ -5270,7 +5270,7 @@ Section 4 : Comités interentreprises.
 
 
 Section 5 : Financement des activités sociales et culturelles.
- (Articles R432-13 à R432-16)
+ (Articles R432-11 à R432-16)
 
 
 
