@@ -1002,7 +1002,7 @@ Titre III : Hygiène, sécurité et conditions de travail
 
 
 Chapitre Ier : Dispositions générales.
- (Articles L231-1-2 à L231-9)
+ (Articles L231-1-1 à L231-9)
 
 
 
@@ -1032,7 +1032,7 @@ Chapitre V : Dispositions spéciales applicables aux opérations de construction
 
 
 Chapitre VI : COMITES D'HYGIENE, DE SECURITE ET DES CONDITIONS DE TRAVAIL
- (Article L236-11)
+ (Articles L236-1 à L236-12)
 
 
 
@@ -1044,7 +1044,7 @@ Titre III : HYGIENE ET SECURITE .
 
 
 Chapitre Ier : DISPOSITIONS GENERALES
- (Article L231-7)
+ (Articles L231-1 à L231-7)
 
 
 
@@ -1132,7 +1132,7 @@ DUREE DU CONGE .
 
 
 HYGIENE ET SECURITE .
- (Articles L231-1 à L231-4)
+ (Article L231-4)
 
 
 
@@ -2712,17 +2712,6 @@ Section 2 : Artistes, auteurs, compositeurs, gens de lettres, artistes du specta
 
 
 DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
-
-
-TRANSPORTS ET TELECOMMUNICATIONS
-
-
-MARINS .
- (Article L742-5)
-
-
-
-
 
 
 ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES
