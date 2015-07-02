@@ -4754,7 +4754,7 @@ Section 1 : Conventions de coopération
 
 
 B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
- (Article R322-6)
+ (Articles R322-6 à R322-6-1)
 
 
 
