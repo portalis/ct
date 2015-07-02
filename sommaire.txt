@@ -188,6 +188,12 @@ Section 2 : Conditions du contrat.
 
 
 
+Section 3 : Formation et résolution du contrat
+ (Articles L117-16 à L117-17)
+
+
+
+
 
 
 Chapitre VII bis : Du statut de l'apprenti.
@@ -566,12 +572,6 @@ DEFINITION ET REGIME JURIDIQUE DU CONTRAT D'APPRENTISSAGE .
 
 CONDITIONS DU CONTRAT D'APPRENTISSAGE .
  (Articles L117-5 à L117-10)
-
-
-
-
-FORMATION ET RESOLUTION DU CONTRAT D'APPRENTISSAGE .
- (Articles L117-16 à L117-17)
 
 
 
@@ -1979,20 +1979,8 @@ ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES
 
 
 
-ATTRIBUTION ET INSTITUTION DES CONSEILS DE PRUD'HOMMES .
- (Article L511-3)
-
-
-
-
 ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.
- (Articles L512-2 à L512-12)
-
-
-
-
-ORGANISATION ET FONCTIONNEMMENT DES CONSEILS DE PRUD'HOMMES.
- (Article L512-13)
+ (Articles L512-2 à L512-11)
 
 
 
@@ -2012,16 +2000,10 @@ ETABLISSEMENT DES LISTES ELECTORALES.
 
 
 
-SCRUTIN, INSTALLATION DES CONSEILLERS PRUD'HOMMES, ELECTIONS COMPLEMENTAIRES.
- (Articles L513-4 à L513-9)
-
-
-
-
 
 
 STATUT DES CONSEILLERS PRUD'HOMMES
- (Articles L514-1 à L514-7)
+ (Articles L514-2 à L514-3)
 
 
 
@@ -2034,12 +2016,6 @@ BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE
 
 DEPENSES DES CONSEILS DE PRUD'HOMMES
  (Article L51-10-2)
-
-
-
-
-DISPOSITIONS FINALES
- (Article L51-12-1)
 
 
 
@@ -2130,7 +2106,7 @@ Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 
 Chapitre Ier : Attributions et institution des conseils de prud'hommes.
- (Article L511-2)
+ (Articles L511-2 à L511-3)
 
 
 
@@ -2145,7 +2121,7 @@ Chapitre III : Election des conseillers prud'hommes
 
 
 Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
- (Article L513-5)
+ (Articles L513-5 à L513-9)
 
 
 
@@ -2153,7 +2129,7 @@ Section 2 : Scrutin, installation des conseillers prud'hommes, élections compl�
 
 
 Chapitre IV : Statut des conseillers prud'hommes.
- (Articles L514-4 à L514-13)
+ (Articles L514-1 à L514-15)
 
 
 
@@ -2165,7 +2141,7 @@ Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référ�
 
 
 Chapitre VI : Procédure devant les conseils de prud'hommes.
- (Article L516-1)
+ (Articles L516-1 à L516-4)
 
 
 
@@ -2190,14 +2166,42 @@ Titre Ier : Conflits individuels
 Conseils de prud'hommes
 
 
+Chapitre Ier : Attributions et institution des conseils de prud'hommes.
+ (Article L511-4)
+
+
+
+
 Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
- (Article L512-6)
+ (Article L512-13)
+
+
+
+
+Chapitre III : Election des conseillers prud'hommes
+
+
+Section 1 : Electorat, éligibilité et établissement des listes électorales
+
+
+Paragraphe 1 : Electorat.
+ (Article L513-1)
+
+
+
+
+
+
+Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
+ (Articles L513-4 à L513-10)
+
+
 
 
 
 
 Chapitre IV : Statut des conseillers prud'hommes.
- (Articles L514-5 à L514-10)
+ (Articles L514-5 à L514-14)
 
 
 
@@ -2260,21 +2264,11 @@ CHAPITRE Ier : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
 
 
 
+Chapitre Ier : Conflits individuels
 
 
-
-
-CONFLITS DE TRAVAIL
-
-
-CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-
-
-ELECTION DES CONSEILLERS PRUD'HOMMES
-
-
-ELECTORAT.
- (Article L513-1)
+Conseils de prud'hommes
+ (Article L531-1)
 
 
 
@@ -2475,12 +2469,6 @@ Section 5 : Dispositions spéciales à l'agriculture.
 
 Section 6 : Hygiène et sécurité.
  (Articles L721-22 à L721-23)
-
-
-
-
-Section 1: Règlements de comptes entre les maîtres d'atelier et les négociants.
- (Articles L723-1 à L723-2)
 
 
 
@@ -2811,7 +2799,7 @@ PLACEMENT .
 
 
 CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .
- (Articles L771-4 à L771-6)
+ (Article L771-4)
 
 
 
@@ -6239,12 +6227,6 @@ Section 2 : Coupe du velours de coton, teinture, blanchiment et apprêts des ét
  (Articles R722-9 à R722-11)
 
 
-
-
-
-
-Chapitre III : Règlements de comptes entre les maîtres d'atelier et les négociants.
- (Articles R723-1 à R723-8)
 
 
 
