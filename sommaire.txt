@@ -214,13 +214,19 @@ Titre II : Contrat de travail
 
 
 Chapitre Ier : Dispositions générales.
- (Articles L121-2 à L121-6)
+ (Articles L121-1 à L121-5)
 
 
 
 
 Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
  (Article L122-30)
+
+
+SECTION 1 : CONTRAT A DUREE DETERMINEE.
+ (Articles L122-3 à L122-3-15)
+
+
 
 
 Section 2 : Résiliation du contrat de travail à durée indéterminée
@@ -563,13 +569,7 @@ FORMATION ET RESOLUTION DU CONTRAT D'APPRENTISSAGE .
 
 
 CONTRAT DE TRAVAIL .
- (Articles L120-1 à L121-1)
-
-
-DISPOSITIONS GENERALES.
- (Article L121-5)
-
-
+ (Article L120-1)
 
 
 LOUAGE D'INDUSTRIE OU MARCHE D'OUVRAGE .
@@ -1249,7 +1249,7 @@ Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
 
 
 Section 1 : Travailleurs étrangers
- (Articles L341-2 à L341-6)
+ (Articles L341-2 à L341-6-1)
 
 
 (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -1271,7 +1271,7 @@ Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 
 SECTION 1 : TRAVAILLEURS ETRANGERS.
- (Articles L341-6-1 à L341-8)
+ (Articles L341-7 à L341-8)
 
 
 
