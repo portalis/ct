@@ -3541,7 +3541,7 @@ Chapitre IV : Travail temporaire
 
 
 Section 1 : Déclarations et justifications à fournir à l'autorité administrative.
- (Article R124-2)
+ (Articles R124-1 à R124-3)
 
 
 
@@ -4556,12 +4556,6 @@ CONTRAT DE TRAVAIL
 
 
 TRAVAIL TEMPORAIRE
-
-
-DECLARATIONS ET JUSTIFICATIONS A FOURNIR A L'AUTORITE ADMINISTRATIVE .
- (Article R124-3)
-
-
 
 
 INFORMATIONS A FOURNIR EN APPLICATION DES ARTICLES L. 124-11 ET L. 124-12 .
