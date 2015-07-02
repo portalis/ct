@@ -247,6 +247,12 @@ Section 5 : Protection de la maternité et éducation des enfants.
 
 
 
+Section 5-1 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.
+ (Articles L122-32-1 à L122-32-11)
+
+
+
+
 
 
 Chapitre IV : Travail temporaire
@@ -1588,6 +1594,12 @@ DISPOSITIONS GENERALES
 
 DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS .
  (Article L351-16)
+
+
+
+
+CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.
+ (Article L351-22)
 
 
 
@@ -5519,7 +5531,7 @@ LABELS .
 
 
 
-PRETS D'HONNEUR .
+SUBVENTION D'INSTALLATION.
  (Article R323-73)
 
 
@@ -7160,7 +7172,7 @@ Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés
 
 
 Sous-section 4 : Travail protégé.
- (Articles D323-25 à D323-25-2)
+ (Articles D323-19 à D323-25-2)
 
 
 
@@ -7229,6 +7241,12 @@ Section 2 : PRIVATION PARTIELLE D'EMPLOI.
 
 
 
+Section 5 : Création d'entreprises par les salariés privés d'emploi.
+ (Articles D351-4 à D351-8)
+
+
+
+
 
 
 Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.
@@ -7263,7 +7281,7 @@ TRAVAILLEURS HANDICAPES
 
 
 TRAVAIL PROTEGE .
- (Articles D323-17 à D323-24)
+ (Articles D323-18 à D323-20)
 
 
 
