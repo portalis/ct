@@ -1,16 +1,12 @@
-/R/La nature et les modalités de gestion des droits reconnus aux
-salariés sur les sommes définies à l'article L. 442-2 ci-dessus sont
-fixées par accord entre les parties intéressées dans les conditions
-prévues à l'article L. 442-11/R/DECR.0808 19-09-1974 : Les conditions
-dans lesquelles les salariés, sont informés de l'application des
-dispositions du présent chapitre ainsi que la nature et les modalités
-de gestion des droits reconnus aux salariés sur les sommes définies à
-l'article L. 442-2 ci-dessus sont déterminées par voie d'accord entre
-les parties intéressées conclu dans les conditions prévues à l'article
-L. 442-11.
+Les conditions dans lesquelles les salariés, sont informés de
+l'application des dispositions du présent chapitre ainsi que la nature
+et les modalités de gestion des droits reconnus aux salariés sur les
+sommes définies à l'article L. 442-2 ci-dessus sont déterminées par
+voie d'accord entre les parties intéressées conclu dans les conditions
+prévues à l'article L. 442-11.
 
-Pour être applicables, ces accords doivent avoir fait l'objet d'une
-déclaration de conformité par l'autorité administrative// .
+Pour être applicables, ces accords doivent [*obligation*] avoir fait
+l'objet d'une déclaration de conformité par l'autorité administrative.
 
 Ces accords peuvent prévoir :
 
@@ -21,6 +17,10 @@ préalable effectué par l'entreprise elle-même dans les conditions
 fixées par l'article 217-1 de la loi n. 66-537 du 24 juillet 1966 sur
 les sociétés commerciales, modifiées par l'ordonnance n. 67-695 du 17
 août 1967 ;
+
+1. bis La souscription d'actions émises par des sociétés créées dans
+les conditions prévues à l'article 11 de la loi n° 84-578 du 9 juillet
+1984 sur le développement de l'initiative économique ;
 
 2. L'affectation des sommes constituant la réserve spéciale prévue à
 l'article L. 442-2 ci-dessus à un fonds que l'entreprise doit
@@ -46,5 +46,5 @@ complémentaires de l'entreprise et les versements opérés
 volontairement par les salariés.
 
 Les entreprises sont autorisées à payer directement aux salariés les
-sommes leur revenant lorsque celles-ci n'atteignent pas /R/20 F par
-personne/R/DECR.0808 19-09-1974 : un montant fixé par décret// .
+sommes leur revenant lorsque celles-ci n'atteignent pas un montant
+fixé par décret.
