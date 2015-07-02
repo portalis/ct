@@ -1070,7 +1070,7 @@ Chapitre V : Dispositions spéciales applicables aux opérations de construction
 
 
 Chapitre VI : COMITES D'HYGIENE, DE SECURITE ET DES CONDITIONS DE TRAVAIL
- (Articles L236-1 à L236-12)
+ (Articles L236-1 à L236-13)
 
 
 
@@ -1708,7 +1708,7 @@ Section 1 : Dispositions générales.
 
 
 SECTION 2 : SECTIONS SYNDICALES.
- (Articles L412-5 à L412-9)
+ (Articles L412-5 à L412-10)
 
 
 
@@ -1751,7 +1751,7 @@ Chapitre II : ATTRIBUTIONS ET POUVOIRS.
 
 
 Chapitre III : Composition et élections.
- (Articles L423-2 à L423-18)
+ (Articles L423-1 à L423-18)
 
 
 
@@ -1792,13 +1792,13 @@ Chapitre II : Attributions et pouvoirs.
 
 
 Chapitre III : Composition et élections.
- (Articles L433-2 à L433-14)
+ (Articles L433-1 à L433-14)
 
 
 
 
 Chapitre IV : Fonctionnement.
- (Articles L434-3 à L434-12)
+ (Articles L434-1 à L434-12)
 
 
 
@@ -2272,7 +2272,7 @@ Section 1 : L'arbitre.
 
 
 Section 2 : La Cour supérieure d'arbitrage.
- (Articles L525-5 à L525-8)
+ (Articles L525-5 à L525-9)
 
 
 
