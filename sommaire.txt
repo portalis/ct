@@ -231,6 +231,12 @@ Chapitre IX : Dispositions diverses.
 Titre II : Contrat de travail
 
 
+Chapitre préliminaire.
+ (Article L120-1)
+
+
+
+
 Chapitre Ier : Dispositions générales.
  (Articles L121-1 à L121-5)
 
@@ -279,6 +285,29 @@ Section 5 : Protection de la maternité et éducation des enfants.
 
 Section 5-1 : Règles particulières aux salariés victimes d'un accident du travail ou d'une maladie professionnelle.
  (Articles L122-32-1 à L122-32-11)
+
+
+
+
+Section 5-2 : Congé pour la création d'entreprise, congé sabbatique
+
+
+Sous-section 1 : Dispositions spécifiques au congé pour la création d'entreprise.
+ (Articles L122-32-12 à L122-32-16)
+
+
+
+
+Sous-section 2 : Dispositions spécifiques au congé sabbatique.
+ (Articles L122-32-17 à L122-32-21)
+
+
+
+
+Sous-section 3 : Dispositions communes au congé pour la création d'entreprise et au congé sabbatique.
+ (Articles L122-32-22 à L122-32-28)
+
+
 
 
 
@@ -738,7 +767,6 @@ CONDITIONS DU CONTRAT D'APPRENTISSAGE .
 
 
 CONTRAT DE TRAVAIL .
- (Article L120-1)
 
 
 TRAVAIL TEMPORAIRE .
@@ -2676,7 +2704,7 @@ Section 2 : Dispositions spéciales aux personnes employées par des particulier
 
 
 Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.
- (Articles L773-10 à L773-15)
+ (Articles L773-10 à L773-16)
 
 
 
