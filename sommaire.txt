@@ -277,19 +277,19 @@ Section 1 : Règles générales.
 
 
 Section 2 : Règles spéciales en matière de relations de travail.
- (Articles L124-8 à L124-9)
+ (Articles L124-4 à L124-9)
 
 
 
 
 Section 3 : Règles de contrôle.
- (Articles L124-10 à L124-13)
+ (Articles L124-10 à L124-13-1)
 
 
 
 
 Section 4 : Dispositions diverses.
- (Articles L124-14 à L124-19)
+ (Articles L124-14 à L124-20)
 
 
 
@@ -454,6 +454,12 @@ Chapitre Ier : Contrat d'apprentissage.
 Chapitre II : Contrat de travail
 
 
+Section 2 : Travail temporaire.
+ (Articles L152-2-1 à L152-2-2)
+
+
+
+
 Section 4 : Cautionnement.
  (Article L152-4)
 
@@ -519,6 +525,12 @@ Titre 5 : PENALITES
 Chapitre 2 : CONTRAT DE TRAVAIL
 
 
+SECTION 2 : TRAVAIL TEMPORAIRE.
+ (Article L152-2)
+
+
+
+
 SECTION 3 : MARCHANDAGE
  (Article L152-3)
 
@@ -579,17 +591,16 @@ LOUAGE D'INDUSTRIE OU MARCHE D'OUVRAGE .
 
 
 TRAVAIL TEMPORAIRE .
- (Articles L124-2 à L124-15)
+
+
+REGLES GENERALES.
+ (Articles L124-2 à L124-3)
+
+
 
 
 REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL .
- (Articles L124-4 à L124-7)
-
-
-
-
-REGLES DE CONTROLE .
- (Articles L124-11 à L124-12)
+ (Articles L124-4-1 à L124-7)
 
 
 
@@ -693,12 +704,6 @@ CONTRAT DE TRAVAIL
 
 LOUAGE DE SERVICES - REGLEMENT INTERIEUR .
  (Article L152-1)
-
-
-
-
-TRAVAIL TEMPORAIRE .
- (Article L152-2)
 
 
 
@@ -1671,7 +1676,7 @@ Chapitre II : Exercice du droit syndical dans les entreprises
 
 
 Section 1 : Dispositions générales.
- (Article L412-2)
+ (Articles L412-2 à L412-3)
 
 
 
@@ -6925,6 +6930,12 @@ Titre II : CONTRAT DE TRAVAIL
 Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
 
 
+Section 1 : CONTRAT DE TRAVAIL A DUREE DETERMINEE.
+ (Articles D121-1 à D121-5)
+
+
+
+
 Section 2 : Résiliation du contrat de travail à durée indéterminée.
  (Articles D122-1 à D122-16)
 
@@ -6934,7 +6945,7 @@ Section 2 : Résiliation du contrat de travail à durée indéterminée.
 
 
 Chapitre IV : Travail temporaire.
- (Article D124-2)
+ (Articles D124-1 à D124-3)
 
 
 
@@ -7034,17 +7045,6 @@ SALAIRE DE L'APPRENTI .
 
 
 
-CONTRAT DE TRAVAIL
-
-
-TRAVAIL TEMPORAIRE .
- (Article D124-1)
-
-
-
-
-
-
 
 
 Livre II : Réglementation du travail
@@ -7064,6 +7064,12 @@ Chapitre II : DUREE DU TRAVAIL
 
 SECTION 1 : RECUPERATION DES HEURES PERDUES.
  (Articles D212-1 à D212-4)
+
+
+
+
+SECTION 2 : TRAVAIL A TEMPS CHOISI.
+ (Articles D212-4-1 à D212-4-2)
 
 
 
