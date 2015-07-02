@@ -2657,6 +2657,12 @@ Chapitre III : Halles centrales de Paris.
 
 
 
+Chapitre IV : Dispositions relatives au conjoint salarié du chef d'entreprise.
+ (Article L784-1)
+
+
+
+
 
 
 Titre IX : Pénalités
@@ -6362,7 +6368,6 @@ PARAGRAPHE 3 : ARBITRAGE .
 
 
 SECTION 4 : CONTROLE .
- (Article R742-37)
 
 
 
@@ -7022,7 +7027,7 @@ Section 2 : Résiliation du contrat de travail à durée indéterminée.
 
 
 Chapitre IV : Travail temporaire.
- (Articles D124-1 à D124-3)
+ (Articles D124-1 à D124-4)
 
 
 
