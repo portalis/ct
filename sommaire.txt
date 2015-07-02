@@ -1388,65 +1388,55 @@ Titre V : TRAVAILLEURS PRIVES D'EMPLOI
 
 
 Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+ (Articles L351-1 à L351-2)
 
 
-SECTION 1 : DISPOSITIONS GENERALES.
- (Article L351-2)
+Section 1 : Régime d'assurance
+ (Articles L351-3 à L351-8)
 
 
 
 
-SECTION 2 : DISPOSITIONS FINANCIERES.
+Section 2 : Régime de solidarité.
+ (Articles L351-9 à L351-11)
+
+
+
+
+Section 3 : Régimes particuliers.
  (Articles L351-12 à L351-15)
 
 
 
 
-SECTION 3 : DISPOSITIONS PARTICULIERES A CERTAINES CATEGORIES DE TRAVAILLEURS.
- (Articles L351-16 à L351-17)
+Section 4 : Maintien des droits au revenu de remplacement
+ (Articles L351-16 à L351-20)
 
 
 
 
-SECTION 4 : DISPOSITIONS DIVERSES.
- (Articles L351-18 à L351-21)
+Section 5 : Institutions gestionnaires.
+ (Articles L351-21 à L351-22)
 
 
 
 
-
-
-SECTION 1 : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI.
- (Article L351-3)
-
-
-
-
-Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
-
-
-SECTION 1 : DISPOSITIONS GENERALES
- (Articles L351-5 à L351-7)
+Section 6 : Dispositions diverses.
+ (Articles L351-23 à L351-25)
 
 
 
 
 
 
-Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : DISPOSITIONS GENERALES
- (Articles L351-9 à L351-8)
+Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 2 : REGIME DE SOLIDARITE *BENEFICIAIRES*.
+ (Article L351-10)
 
 
 
 
 Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance des travailleurs privés d'emploi.
  (Articles L352-1 à L352-5)
-
-
-
-
-Chapitre II : REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES D'EMPLOI.
- (Article L352-4)
 
 
 
@@ -1628,7 +1618,7 @@ EMPLOI
 
 
 FONDS NATIONAL DE L'EMPLOI .
- (Articles L322-1 à L322-4)
+ (Article L322-1)
 
 
 
@@ -1649,35 +1639,6 @@ DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 TRAVAILLEURS ETRANGERS .
  (Article L341-4)
-
-
-
-
-
-
-TRAVAILLEURS PRIVES D'EMPLOI
-
-
-GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI .
- (Articles L351-19 à L351-20)
-
-
-DISPOSITIONS GENERALES
- (Articles L351-1 à L351-6-2)
-
-
-
-
-CREATIONS D'ENTREPRISES PAR LES SALARIES PRIVES D'EMPLOI.
- (Article L351-22)
-
-
-
-
-
-
-REGIME DES ACCORDS CONCLUS ENTRE EMPLOYEURS ET TRAVAILLEURS ET  RELATIFS AUX ALLOCATIONS D'ASSURANCE DES TRAVAILLEURS PRIVES  D'EMPLOI .
- (Article L352-3)
 
 
 
@@ -4781,7 +4742,7 @@ Section 1 : Conventions de coopération
 
 
 B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
- (Articles R322-6 à R322-7)
+ (Article R322-6)
 
 
 
@@ -5487,6 +5448,12 @@ SECTION 1 : CONVENTIONS DE COOPERATION
 
 A : CONVENTIONS DE FORMATION.
  (Articles R322-2 à R322-5)
+
+
+
+
+B : CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS D'ALLOCATION SPECIALE.
+ (Article R322-7)
 
 
 
