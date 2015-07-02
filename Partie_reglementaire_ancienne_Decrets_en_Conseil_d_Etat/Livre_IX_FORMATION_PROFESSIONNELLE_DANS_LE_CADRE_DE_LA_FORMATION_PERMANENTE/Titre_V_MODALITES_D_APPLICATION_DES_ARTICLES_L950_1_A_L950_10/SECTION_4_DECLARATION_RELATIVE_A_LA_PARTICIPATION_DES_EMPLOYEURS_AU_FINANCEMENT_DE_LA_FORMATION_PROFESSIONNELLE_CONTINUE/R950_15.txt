@@ -1,5 +1,6 @@
-La déclaration visée à l'article L. 950-7 doit indiquer [*mentions
-obligatoires*], outre la désignation et l'adresse du déclarant :
+La déclaration visée à l'article L. 950-7 [*du montant de la
+participation*] doit indiquer [*mentions obligatoires*], outre la
+désignation et l'adresse du déclarant :
 
 1° Le montant des salaires payés tels qu'ils sont définis à l'article
 R. 950-2 ;
@@ -30,7 +31,9 @@ l'entreprise, en application de conventions ;
 
 Rémunérations versées aux stagiaires par l'entreprise ;
 
-Versements effectués au titre de fonds d'assurance formation [*FAF*] ;
+Versements effectués au titre de fonds d'assurance formation [*FAF*]
+et versements à un organisme paritaire agréé en application de
+l'article L. 950-2-3 ;
 
 Versements effectués dans les conditions prévues par l'article L.
 950-2 (3°) ;
@@ -56,14 +59,13 @@ de l'année, financée en tout ou partie au moyen de la participation de
 l'employeur, ainsi que le nombre d'heures de formation reçues par eux,
 selon qu'elles ont ou non donné lieu au maintien d'une rémunération ;
 
-11/ La répartition de ces stagiaires ;
+11° La répartition de ces stagiaires ;
 
 Par sexe ;
 
 Par catégorie d'emploi ;
 
-Par type de stages au sens de /R/l'article L. 940-2/R/loi 0754 :
-l'article L. 900-2// ;
+Par type de stages au sens de l'article L. 900-2 ;
 
 Selon qu'ils ont bénéficié d'une formation dans l'entreprise elle-même
 ou en application des conventions conclues avec des organismes de
