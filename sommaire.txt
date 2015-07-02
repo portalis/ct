@@ -3763,6 +3763,12 @@ SECTION 1 : MODE DU PAIEMENT DU SALAIRE .
 Chapitre V : Saisie-arrêt et cession des rémunérations dues par un employeur
 
 
+SECTION 1 : REGLES GENERALES.
+ (Article R145-1)
+
+
+
+
 Section 2 : Procédure de cession et de saisie-arrêt.
  (Articles R145-2 à R145-21)
 
@@ -4635,17 +4641,6 @@ EXTENSION DES CONVENTIONS COLLECTIVES .
 
 
 
-SALAIRE
-
-
-SAISIE-ARRET ET CESSION DES REMUNERATIONS DUES PAR UN EMPLOYEUR .
- (Article R145-1)
-
-
-
-
-
-
 
 
 Livre III : Placement et emploi
@@ -4996,22 +4991,6 @@ SOUS-SECTION I - MACHINES ET APPAREILS.
  (Article R233-83)
 
 
-
-
-
-
-
-
-
-
-HYGIENE
-
-
-LOCAUX AFFECTES AU TRAVAIL
-
-
-ECLAIRAGE.
- (Article R232-6)
 
 
 
@@ -5707,7 +5686,7 @@ Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
 
 
 Section 1 : Organisation et fonctionnement de la juridiction.
- (Articles R512-3 à R512-8)
+ (Articles R512-3 à R512-9)
 
 
 
