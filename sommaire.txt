@@ -4144,7 +4144,7 @@ Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
 
 
 Section 1 : Hygiène.
- (Articles R234-3 à R234-4)
+ (Articles R234-3 à R234-4-1)
 
 
 
@@ -4250,6 +4250,12 @@ SECTION 5 : COUCHAGE .
 
 SECTION 6 : MESURES D'APPLICATION
  (Articles R232-42 à R232-45)
+
+
+
+
+SECTION 7 : DISPOSITIONS PARTICULIERES AUX ETABLISSEMENTS AGRICOLES.
+ (Articles R232-46 à R232-51)
 
 
 
