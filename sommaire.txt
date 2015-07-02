@@ -2154,12 +2154,6 @@ Chapitre VI : Procédure devant les conseils de prud'hommes.
 
 
 
-Chapitre XI : Dispositions applicables aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
- (Article L51-11-1)
-
-
-
-
 
 
 
@@ -5613,12 +5607,6 @@ Titre Ier : Conflits individuels
 Conseils de prud'hommes
 
 
-Chapitre XI : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
- (Article R51-11-1)
-
-
-
-
 Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
 
 
@@ -5928,6 +5916,12 @@ Section 1 : Compétence.
 
 Section 2 : Ouverture des voies de recours.
  (Articles R517-3 à R517-5)
+
+
+
+
+Section 3 : L'opposition.
+ (Article R517-6)
 
 
 
