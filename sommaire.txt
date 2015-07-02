@@ -96,6 +96,12 @@ Section 3 : Formation et résolution du contrat.
 
 
 
+Chapitre VII bis : Du statut de l'apprenti.
+ (Article L117 BIS-3)
+
+
+
+
 Chapitre VIII : Dispositions financières.
  (Articles L118-1 à L118-6)
 
@@ -552,12 +558,6 @@ FORMATION ET RESOLUTION DU CONTRAT D'APPRENTISSAGE .
 
 
 
-STATUT DE L'APPRENTI .
- (Article L117 BIS-3)
-
-
-
-
 
 
 
@@ -753,7 +753,13 @@ Chapitre II : Durée du travail
 
 
 Section 1 : Dispositions générales.
- (Articles L212-2-1 à L212-3)
+ (Articles L212-1 à L212-2)
+
+
+
+
+SECTION 3 : HEURES SUPPLEMENTAIRES.
+ (Articles L212-5 à L212-8)
 
 
 
@@ -765,7 +771,7 @@ SECTION 4 : DISPOSITIONS RELATIVES AUX FEMMES .
 
 
 SECTION 5 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
- (Article L212-14)
+ (Articles L212-13 à L212-14)
 
 
 
@@ -801,7 +807,7 @@ Titre II : Repos et congés
 
 
 Chapitre Ier : Repos hebdomadaire.
- (Articles L221-2 à L221-27)
+ (Articles L221-1 à L221-27)
 
 
 
@@ -833,13 +839,13 @@ Section 1 : Droit au congé.
 
 
 Section 2 : Durée du congé.
- (Articles L223-4 à L223-10)
+ (Articles L223-2 à L223-7-1)
 
 
 
 
 Section 3 : Indemnités de congé.
- (Articles L223-12 à L223-14)
+ (Articles L223-11 à L223-15)
 
 
 
@@ -881,7 +887,7 @@ Titre II : REPOS
 
 
 Chapitre Ier : REPOS HEBDOMADAIRE.
- (Article L221-10)
+ (Articles L221-5-1 à L221-10)
 
 
 
@@ -906,7 +912,7 @@ Chapitre III : CONGES ANNUELS
 
 
 SECTION 2 : DUREE DU CONGE *PAYE*.
- (Articles L223-2 à L223-6)
+ (Article L223-6)
 
 
 
@@ -1026,7 +1032,7 @@ DUREE DU TRAVAIL
 
 
 DISPOSITIONS GENERALES.
- (Articles L212-1 à L212-4)
+ (Article L212-4)
 
 
 
@@ -1043,24 +1049,7 @@ TRAVAIL A TEMPS PARTIEL.
 
 
 HEURES SUPPLEMENTAIRES .
- (Articles L212-5 à L212-7)
-
-
-
-
-DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
- (Article L212-13)
-
-
-
-
-
-
-DUREE
-
-
-HEURES SUPPLEMENTAIRES .
- (Article L212-5-1)
+ (Article L212-7)
 
 
 
@@ -1070,7 +1059,7 @@ HEURES SUPPLEMENTAIRES .
 
 
 REPOS HEBDOMADAIRE .
- (Articles L221-1 à L221-21)
+ (Article L221-21)
 
 
 
@@ -1079,18 +1068,13 @@ CONGES ANNUELS
 
 
 DUREE DU CONGE *PAYE*.
+ (Article L223-3)
 
 
 
 
 DUREE DU CONGE .
- (Articles L223-3 à L223-8)
-
-
-
-
-INDEMNITES DE CONGE.
- (Articles L223-11 à L223-15)
+ (Articles L223-7 à L223-8)
 
 
 
@@ -2764,17 +2748,6 @@ SALAIRES .
  (Articles L721-10 à L721-16)
 
 
-
-
-
-
-
-
-BATIMENTS ET TRAVAUX PUBLICS
-
-
-INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
- (Article L731-7)
 
 
 
