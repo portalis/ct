@@ -4061,6 +4061,12 @@ Section 2 : Equipes de suppléance.
 
 
 
+Section 3 : Régime particulier du personnel des entreprises de navigation intérieure.
+ (Articles R221-18 à R221-22)
+
+
+
+
 
 
 Chapitre II : Jours fériés.
@@ -5903,7 +5909,7 @@ Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 
 Chapitre Ier : Attributions et institution des conseils de prud'hommes.
- (Articles R511-1 à R511-3)
+ (Articles R511-1 à R511-4-8)
 
 
 
