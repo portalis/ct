@@ -4642,6 +4642,35 @@ Section 2 : Placement payant.
 Titre II : Emploi
 
 
+Chapitre II : Fonds national de l'emploi.
+ (Articles R322-1 à R322-1-1)
+
+
+Section 1 : Conventions de coopération
+
+
+B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
+ (Articles R322-6 à R322-7)
+
+
+
+
+C : Consultation.
+ (Articles R322-9 à R322-10)
+
+
+
+
+
+
+Section 2 : Dispositions générales.
+ (Articles R322-11 à R322-14)
+
+
+
+
+
+
 Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
 
 
@@ -5280,7 +5309,13 @@ SECTION 1 : CONVENTIONS DE COOPERATION
 
 
 A : CONVENTIONS DE FORMATION.
- (Article R322-2)
+ (Articles R322-2 à R322-5)
+
+
+
+
+C : CONSULTATION.
+ (Article R322-8)
 
 
 
@@ -5402,36 +5437,6 @@ EMPLOI
 
 CONTROLE DE L'EMPLOI .
  (Article R321-10)
-
-
-
-
-FONDS NATIONAL DE L'EMPLOI .
- (Articles R322-1 à R322-26)
-
-
-AIDES A LA MOBILITE GEOGRAPHIQUE
- (Articles R322-19 à R322-20)
-
-
-PRIME DE TRANSFERT ET INDEMNITE DE REINSTALLATION .
- (Articles R322-11 à R322-14-1)
-
-
-
-
-AUTRES AIDES A LA MOBILITE .
- (Articles R322-15 à R322-18)
-
-
-
-
-
-
-
-
-PRIME DE MOBILITE DES JEUNES .
- (Articles R322-27 à R322-32)
 
 
 
@@ -5562,12 +5567,6 @@ APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MI
 
 
 PLACEMENT ET EMPLOI
-
-
-AGENCE NATIONALE POUR L'EMPLOI.
- (Articles R330-1 à R330-14)
-
-
 
 
 MAIN-DOEUVRE ETRANGERES
