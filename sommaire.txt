@@ -799,7 +799,7 @@ Chapitre II : JOURS FERIES
 
 
 SECTION 1 : DISPOSITIONS GENERALES.
- (Article L222-4)
+ (Articles L222-1 à L222-4)
 
 
 
@@ -879,7 +879,7 @@ Chapitre II : JOURS FERIES
 
 
 SECTION 1 : DISPOSITIONS GENERALES.
- (Articles L222-1 à L222-3)
+ (Articles L222-2 à L222-3)
 
 
 
@@ -1258,7 +1258,7 @@ Section 1 : Travailleurs étrangers
 
 
 (en vigueur jusqu'au 1er janvier 2007 au plus tard)
- (Articles L341-1 à L341-3)
+ (Articles L341-1 à L341-6-3)
 
 
 
@@ -1276,7 +1276,7 @@ Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 
 SECTION 1 : TRAVAILLEURS ETRANGERS.
- (Articles L341-7 à L341-8)
+ (Articles L341-6-1 à L341-8)
 
 
 
@@ -1287,12 +1287,6 @@ SECTION 2 : OFFICE NATIONAL D'IMMIGRATION *ONI*.
 
 
 
-
-
-
-
-Chapitre II : Protection de la main-d'oeuvre nationale.
- (Articles L342-1 à L342-7)
 
 
 
@@ -1569,7 +1563,7 @@ PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES .
 
 
 TRAVAIL CLANDESTIN .
- (Articles L324-11 à L324-14)
+ (Article L324-11)
 
 
 
