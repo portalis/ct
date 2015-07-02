@@ -5192,7 +5192,7 @@ Paragraphe 3 : Modalités de répartition de la réserve spéciale.
 
 
 Paragraphe 4 : Modalités de gestion de la réserve spéciale.
- (Articles R442-7 à R442-14)
+ (Articles R442-7 à R442-15)
 
 
 
@@ -6035,7 +6035,7 @@ MODALITES DE CALCUL DE LA RESERVE SPECIALE .
 
 
 MODALITES DE GESTION DE LA RESERVE SPECIALE .
- (Articles R442-11 à R442-15)
+ (Article R442-11)
 
 
 
