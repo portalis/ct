@@ -3570,8 +3570,20 @@ Chapitre VI : Cautionnements.
 Titre III : Conventions collectives de travail
 
 
+Chapitre II : Nature et validité de la convention.
+ (Articles R132-1 à R132-2)
+
+
+
+
+Chapitre III : Extension des conventions collectives
+ (Articles R133-1 à R133-2)
+
+
+
+
 Chapitre V : Exécution de la convention.
- (Article R135-2)
+ (Article R135-1)
 
 
 
@@ -4548,20 +4560,8 @@ DUREE DE L'APPRENTISSAGE .
 CONVENTIONS COLLECTIVES DE TRAVAIL
 
 
-NATURE ET VALIDITE DE LA CONVENTION COLLECTIVE .
- (Articles R132-1 à R132-2)
-
-
-
-
 EXTENSION DES CONVENTIONS COLLECTIVES .
- (Articles R133-1 à R133-3)
-
-
-
-
-EXECUTION DE LA CONVENTION COLLECTIVE .
- (Article R135-1)
+ (Article R133-3)
 
 
 
