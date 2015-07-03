@@ -2,7 +2,7 @@ Les salariés sous contrat à durée indéterminée, les travailleurs à
 domicile et les travailleurs handicapés employés dans des entreprises,
 des ateliers protégés ou des centres de distribution de travail à
 domicile sont pris en compte intégralement dans l'effectif de
-l'entreprise [*calcul*].
+l'entreprise [*base de calcul*].
 
 Les salariés sous contrat à durée déterminée, les salariés sous
 contrat de travail intermittent, les travailleurs mis à la disposition

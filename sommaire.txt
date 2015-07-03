@@ -141,7 +141,7 @@ SECTION 1 : DEFINITION ET REGIME JURIDIQUE *DU CONTRAT D'APPRENTISSAGE*.
 
 
 SECTION 2 : CONDITIONS DU CONTRAT D'APPRENTISSAGE .
- (Articles L117-3 à L117-9)
+ (Articles L117-7 à L117-9)
 
 
 
@@ -247,7 +247,7 @@ Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
 
 
 SECTION 1 : CONTRAT A DUREE DETERMINEE.
- (Articles L122-1 à L122-3-16)
+ (Articles L122-1 à L122-3-15)
 
 
 
@@ -651,7 +651,7 @@ Sous-section 2 : Règlement intérieur.
 
 
 Section 2 : Travail temporaire.
- (Articles L152-2-1 à L152-2-2)
+ (Articles L152-2 à L152-2-2)
 
 
 
@@ -730,18 +730,13 @@ CHAPITRE 6 : DES CENTRES DE FORMATION D'APPRENTIS.
 
 
 
+CHAPITRE 7 : DU CONTRAT D'APPRENTISSAGE
 
 
+SECTION 2 : CONDITIONS DU CONTRAT D'APPRENTISSAGE .
+ (Article L117-3)
 
 
-Titre 5 : PENALITES
-
-
-Chapitre 2 : CONTRAT DE TRAVAIL
-
-
-SECTION 2 : TRAVAIL TEMPORAIRE.
- (Article L152-2)
 
 
 
@@ -817,7 +812,18 @@ Paragraphe 2 : Travail à temps partiel.
 
 
 PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
- (Article L212-4-8)
+
+
+
+
+Paragraphe 3 : Travail intermittent.
+ (Articles L212-4-9 à L212-4-11)
+
+
+
+
+Paragraphe 4 : Encouragement à la pratique du sport.
+ (Article L212-4-12)
 
 
 
@@ -1089,6 +1095,17 @@ CHAPITRE 2 : DUREE DU TRAVAIL
 
 SECTION 1 : DISPOSITIONS GENERALES.
  (Article L212-2)
+
+
+
+
+SECTION 2 : TRAVAIL A TEMPS CHOISI
+
+
+PARAGRAPHE 3 : TRAVAIL INTERMITTENT.
+ (Article L212-4-8)
+
+
 
 
 
@@ -1445,17 +1462,6 @@ Chapitre Ier : CONTROLE DE L'EMPLOI.
 
 
 
-Chapitre II : FONDS NATIONAL DE L'EMPLOI
-
-
-SECTION 1 : FONDS NATIONAL DE L'EMPLOI
- (Article L322-4)
-
-
-
-
-
-
 Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
 
 
@@ -1596,13 +1602,13 @@ Chapitre II : Exercice du droit syndical dans les entreprises
 
 
 Section 1 : Dispositions générales.
- (Articles L412-1 à L412-4)
+ (Articles L412-1 à L412-5)
 
 
 
 
 SECTION 2 : SECTIONS SYNDICALES.
- (Articles L412-5 à L412-10)
+ (Articles L412-6 à L412-10)
 
 
 
@@ -7462,7 +7468,7 @@ Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
 
 
 Section 1 : Travailleurs étrangers.
- (Article D341-2)
+ (Articles D341-1 à D341-2)
 
 
 
@@ -7484,7 +7490,7 @@ Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 
 SECTION 1 : TRAVAILLEURS ETRANGERS.
- (Articles D341-1 à D341-3)
+ (Article D341-3)
 
 
 
