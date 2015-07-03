@@ -3604,7 +3604,7 @@ Sous-section 1 : Principes de classement des substances et des préparations dan
 
 
 Sous-section 2 : Déclaration des substances et préparations.
- (Articles R231-52 à R231-52-17)
+ (Articles R231-52 à R231-52-18)
 
 
 
@@ -4706,7 +4706,7 @@ A - Conventions de formation et conventions d'aide à la mobilité.
 
 
 
-B - Conventions d'allocation temporaire dégressive, conventions d'allocations spéciales et conventions d'aide au passage à mi-temps.
+B - Conventions d'allocation temporaire dégressive, conventions d'allocations spéciales et conventions d'aide au passage à temps partiel
  (Articles R322-6 à R322-7-1)
 
 
@@ -4989,7 +4989,7 @@ Sous-section 4 : Conditions d'ouverture, de renouvellement et de maintien des dr
 
 
 Sous-section 5 : Aide à la création d'entreprise
- (Articles R351-41 à R351-49)
+ (Articles R351-41 à R351-47)
 
 
 
@@ -7165,12 +7165,6 @@ Section 1 : Privation totale d'emploi.
 
 Section 2 : PRIVATION PARTIELLE D'EMPLOI.
  (Article D351-3)
-
-
-
-
-Section 5 : Création d'entreprises par les salariés privés d'emploi.
- (Articles D351-4 à D351-8)
 
 
 
