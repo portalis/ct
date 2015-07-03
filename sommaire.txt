@@ -4906,7 +4906,7 @@ Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 
 SECTION 1 : TRAVAILLEURS ETRANGERS.
- (Articles R341-1 à R341-3)
+ (Article R341-3)
 
 
 
@@ -4980,7 +4980,7 @@ Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère
 
 
 Section 1 : Travailleurs étrangers.
- (Articles R341-2 à R341-7-2)
+ (Articles R341-1 à R341-7-2)
 
 
 
@@ -6771,12 +6771,6 @@ Sous-section 3 : Documents médicaux.
 
 
 Titre III : Placement et emploi
-
-
-Chapitre Ier : Dispositions particulières à la main-d'oeuvre étrangère.
- (Articles R831-1 à R831-2)
-
-
 
 
 Chapitre III : Garantie de ressources des travailleurs sans emploi.
