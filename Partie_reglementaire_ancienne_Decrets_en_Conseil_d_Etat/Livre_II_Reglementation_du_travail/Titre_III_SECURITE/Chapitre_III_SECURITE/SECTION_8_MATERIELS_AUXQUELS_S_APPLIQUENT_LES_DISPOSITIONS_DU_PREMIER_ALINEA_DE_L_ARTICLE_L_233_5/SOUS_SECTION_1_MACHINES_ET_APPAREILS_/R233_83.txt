@@ -1,7 +1,8 @@
 Les machines et appareils auxquels s'appliquent les dispositions du
 premier alinéa de l'article L. 233-5 sont les machines et appareils
-[*mécaniques*] mus par une source d'énergie autre que la force humaine
-qui entrent dans l'une des catégories suivantes :
+[*mécaniques*] mus, à l'exception de la catégorie 10° ci-après, par
+une source d'énergie autre que la force humaine qui entrent dans l'une
+des catégories suivantes :
 
 1. Matériels pour l'industrie textile.
 
@@ -131,7 +132,11 @@ emploi à la main ;
 Outils et machines-outils pneumatiques ou à moteur incorporé autre
 qu'électrique pour emploi à la main.
 
-10. Autres matériels.
+10. Appareils de radiographie industrielle utilisant le rayonnement
+gamma à l'exclusion des appareils spécialement conçus pour se
+déplacer, de façon autonome ou non, dans des conduits tubulaires.
+
+11. Autres matériels.
 
 Centrifugeuses et essoreuses centrifuges.
 
