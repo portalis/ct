@@ -646,12 +646,6 @@ Section 1 : Salaire.
 
 
 
-Section 2 : Retenues sur le salaire.
- (Article L154-2)
-
-
-
-
 Section 3 : Economat.
  (Article L154-3)
 
@@ -4507,13 +4501,19 @@ Paragraphe 1 : Dispositions générales
 
 
 
-Paragraphe 2 : Heures supplémentaires.
+Paragraphe 2 : Travail à temps partiel
+ (Article R261-3-1)
+
+
+
+
+Paragraphe 3 : Heures supplémentaires.
  (Article R261-4)
 
 
 
 
-Paragraphe 3 : Dispositions relatives aux femmes et aux jeunes travailleurs.
+Paragraphe 4 : Dispositions relatives aux femmes et aux jeunes travailleurs
  (Articles R261-5 à R261-6)
 
 
@@ -4661,7 +4661,12 @@ Titre II : Emploi
 
 
 Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
- (Article R320-1)
+
+
+Section 2 : Relevé mensuel des contrats de travail
+ (Article R320-1-1)
+
+
 
 
 

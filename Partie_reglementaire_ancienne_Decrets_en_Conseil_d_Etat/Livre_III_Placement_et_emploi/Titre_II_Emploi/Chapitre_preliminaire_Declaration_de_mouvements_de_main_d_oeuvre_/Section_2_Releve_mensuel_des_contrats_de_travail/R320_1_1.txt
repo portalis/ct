@@ -31,7 +31,7 @@ huit heures suivant l'embauche en informer le service de l'agence dont
 il relève [*délai*].
 
 Cette information est transmise par un document fourni au demandeur
-par l'Agence nationale pour l'emploi au demandeur d'emploi qui est
-tenu de le remettre à son nouvel employeur. La date d'embauche doit
-être mentionnée sur ce document, cette mention est certifiée exacte
-par l'employeur.
+par l'Agence nationale pour l'emploi [*ANPE*] au demandeur d'emploi
+qui est tenu de le remettre à son nouvel employeur. La date d'embauche
+doit être mentionnée sur ce document, cette mention est certifiée
+exacte par l'employeur.
