@@ -1924,7 +1924,7 @@ Section 1 : Conditions de travail.
 
 
 Section 2 : Hygiène et sécurité - Services médicaux.
- (Articles L711-5 à L711-11)
+ (Articles L711-5 à L711-12)
 
 
 
@@ -1971,32 +1971,6 @@ Section 2 : Délégués permanents de la surface.
 
 Section 3 : Dispositions communes.
  (Article L712-34)
-
-
-
-
-
-
-
-
-Titre Ier : Energie
-
-
-Industries extractives
-
-
-Chapitre Ier : Mines et carrières
-
-
-Section 2 : Hygiène et sécurité
-
-
-Services médicaux.
- (Article L711-12)
-
-
-
-
 
 
 
