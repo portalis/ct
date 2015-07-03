@@ -2371,7 +2371,7 @@ Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collec
 
 
 Titre VIII : Des formations professionnelles en alternance.
- (Articles L980-1 à L980-16)
+ (Articles L980-1 à L980-13)
 
 
 
@@ -3562,7 +3562,7 @@ Sous-section 1 : Machines mobiles agricoles ou forestières.
 
 
 Sous-section 2 : Chariots de manutention automoteurs.
- (Articles R233-124 à R233-138)
+ (Articles R233-124 à R233-139)
 
 
 
@@ -3621,6 +3621,12 @@ Sous-section 1 : Eclairage.
 
 Sous-section 2 : Aération, assainissement.
  (Articles R235-6 à R235-10)
+
+
+
+
+Sous-section 3 : Insonorisation.
+ (Article R235-11)
 
 
 
@@ -4019,7 +4025,7 @@ Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
 
 
 Chapitre Ier : Licenciement pour motif économique.
- (Articles R321-1 à R321-8)
+ (Articles R321-1 à R321-9)
 
 
 
@@ -4051,7 +4057,13 @@ C : Consultation.
 
 
 
-Section 2 : Dispositions générales.
+Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dans le cadre des accords sur l'emploi
+ (Articles R322-10-1 à R322-10-4)
+
+
+
+
+Section 3 : Dispositions générales.
  (Articles R322-11 à R322-14)
 
 
@@ -6040,7 +6052,7 @@ Section 1 : CONTRAT DE TRAVAIL A DUREE DETERMINEE.
 
 
 Section 2 : Résiliation du contrat de travail à durée indéterminée.
- (Articles D122-1 à D122-16)
+ (Articles D122-1 à D122-21)
 
 
 
@@ -6209,7 +6221,7 @@ Chapitre Ier : Contrôle de l'emploi.
 
 
 Chapitre II : Fonds national de l'emploi.
- (Articles D322-1 à D322-6)
+ (Articles D322-1 à D322-7)
 
 
 Section 3 : Chômage partiel.
@@ -6943,6 +6955,17 @@ Section 2 : Attributions, composition et fonctionnement des comités départemen
 
 Section 3 : Composition du comité départemental de la formation professionnelle, de la la promotion sociale et de l'emploi de la ville de Paris.
  (Articles D910-22 à D910-24)
+
+
+
+
+
+
+Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
+
+
+Chapitre II : Des droits collectifs des salariés
+ (Articles D932-1 à D932-2)
 
 
 
