@@ -4188,13 +4188,30 @@ Section 1 : Composition et fonctionnement.
 
 
 Section 2 : Formation des représentants du personnel aux comités d'hygiène, de sécurité et des conditions de travail.
+
+
+Sous-section 1 : Dispositions communes à tous les établissements
  (Articles R236-15 à R236-22)
+
+
+
+
+Sous-section 2 : Dispositions particulières aux établissements de moins de 300 salariés
+ (Articles R236-22-1 à R236-22-2)
+
+
 
 
 
 
 Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
  (Articles R236-23 à R236-39)
+
+
+
+
+Section 4 : Agrément des experts auxquels le comité d'hygiène, de sécurité et des conditions de travail peut faire appel
+ (Articles R236-40 à R236-42)
 
 
 
@@ -4927,7 +4944,7 @@ Section 1 : Privation totale d'emploi
 
 
 Sous-section 1 : Régime d'assurance.
- (Articles R351-1 à R351-5)
+ (Articles R351-1 à R351-5-3)
 
 
 
@@ -6508,36 +6525,13 @@ Chapitre II : Aide de l'Etat au remplacement de certains salariés en formation
 Titre V : De la participation des employeurs au développement de la formation professionnelle continue
 
 
-Section 7 : Des conditions d'agrément et de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés
- (Articles R952-1 à R952-5)
-
-
-
-
-Section 8 : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non salariées au développement de la formation professionnelle continue
- (Articles R953-1 à R953-7)
-
-
-
-
-Section 9 : De la participation des chefs d'exploitation ou d'entreprises agricoles au développement de la formation professionnelle continue
- (Articles R953-10 à R953-12)
-
-
-
-
-
-
-Titre V : Modalités d'application des articles L. 950-1 à L. 950-10
-
-
 Section 1 : Champ d'application de la participation des employeurs au développement de la formation professionnelle continue.
  (Articles R950-1 à R950-2)
 
 
 
 
-Section 2 : Dépenses consacrées par les employeurs au développement de la formation professionnelle continue.
+Section 2 : Dépenses consacrées par les employeurs au développement de la formation professionnelle continue
  (Article R950-3)
 
 
@@ -6567,14 +6561,38 @@ Section 3 : Consultation du comité d'entreprise.
 
 
 
-Section 4 : Déclaration relative à la participation des employeurs au développement de la formation professionnelle continue.
+Section 4 : Déclaration relative à la participation au développement de la formation professionnelle continue des employeurs occupant au minimum dix salariés
  (Articles R950-19 à R950-22)
 
 
 
 
-Section 5 : Des engagements de développement de la formation.
- (Articles R950-23 à R950-30)
+Section 5 : Déclaration relative à la participation au développement de la formation professionnelle continue des employeurs occupant moins de dix salariés
+ (Articles R950-23 à R950-24)
+
+
+
+
+Section 6 : Des engagements de développement de la formation.
+ (Articles R950-25 à R950-32)
+
+
+
+
+Section 7 : Des conditions d'agrément et de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés
+ (Articles R952-1 à R952-5)
+
+
+
+
+Section 8 : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non salariées au développement de la formation professionnelle continue
+ (Articles R953-1 à R953-7)
+
+
+
+
+Section 9 : De la participation des chefs d'exploitation ou d'entreprises agricoles au développement de la formation professionnelle continue
+ (Articles R953-10 à R953-12)
 
 
 
@@ -7396,24 +7414,13 @@ Paragraphe 2 : Médiation.
 
 
 Chapitre III : Personnels des entreprises de manutention des ports : congés payés.
- (Articles D743-2 à D743-8)
+ (Articles D743-1 à D743-8)
 
 
 
 
 Chapitre IV : Personnel des établissements portuaires : repos compensateur en matière d'heures supplémentaires de travail.
  (Articles D744-1 à D744-3)
-
-
-
-
-
-
-Titre III : Transports et télécommunications
-
-
-Chapitre III : Personnels des entreprises de manutention des ports : congés payés.
- (Articles D743-1 à D743-7)
 
 
 

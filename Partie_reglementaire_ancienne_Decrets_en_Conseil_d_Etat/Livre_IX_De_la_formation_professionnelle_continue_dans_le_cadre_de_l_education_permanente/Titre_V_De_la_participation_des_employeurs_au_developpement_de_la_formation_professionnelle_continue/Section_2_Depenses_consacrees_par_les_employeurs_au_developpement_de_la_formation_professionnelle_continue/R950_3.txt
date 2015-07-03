@@ -1,7 +1,7 @@
-Les dépenses mentionnées au 1 du deuxième alinéa de l'article L. 951-1
-[*financement des actions de formation*] sont les dépenses acquittées
-au cours de l'année de paiement des salaires servant de base au calcul
-de la participation ou dues au titre de cette année.
+Les dépenses mentionnées au 1° du deuxième alinéa de l'article L.
+951-1 [*financement des actions de formation*] sont les dépenses
+acquittées au cours de l'année de paiement des salaires servant de
+base au calcul de la participation ou dues au titre de cette année.
 
 Les dépenses mentionnées aux 2°, 3°, 4° et 5° du deuxième alinéa de
 l'article L. 951-1 et à l'article L. 951-3 sont prises en compte pour
@@ -21,7 +21,7 @@ antérieurement à la cession, à la cessation de l'entreprise ou au
 décès.
 
 Les dépenses mentionnées au premier alinéa ci-dessus sont déterminées
-selon les modalités définies aux articles R. 950-4 à R. 950-17 ci-
+selon les modalités définies aux articles R. 950-4 à R.  950-17 ci-
 après ; elles doivent concerner le financement d'action de formation
 professionnelle continue ou de bilan de compétences du type de celles
 qui sont définies à l'article L. 900-2, à l'exclusion des dépenses
