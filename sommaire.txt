@@ -280,7 +280,7 @@ Sous-section 1 : Règlement intérieur
 
 
 Sous-section 2 : Protection des salariés et droit disciplinaire.
- (Articles L122-40 à L122-45)
+ (Articles L122-40 à L122-48)
 
 
 
@@ -2027,7 +2027,7 @@ Titre IV : Transports et télécommunications
 
 
 Chapitre II : Marins.
- (Articles L742-1 à L742-7)
+ (Articles L742-1 à L742-8)
 
 
 
@@ -2949,7 +2949,7 @@ Section 1 : Déclarations et justifications à fournir à l'autorité administra
 
 
 Section 2 : Informations à fournir en application des articles L. 124-11 et L. 124-12.
- (Article R124-4)
+ (Articles R124-4 à R124-4-1)
 
 
 
@@ -3333,7 +3333,7 @@ Titre Ier : Conditions du travail
 
 
 Chapitre Ier : Age d'admission.
- (Articles R211-1 à R211-12)
+ (Articles R211-1 à R211-13)
 
 
 
@@ -3476,6 +3476,12 @@ Section 1 : Congé de formation de cadres et d'animateurs pour la jeunesse.
 
 Section 3 : Congé mutualiste.
  (Articles R225-11 à R225-13)
+
+
+
+
+Section 4 : Congé de représentation
+ (Articles R225-14 à R225-21)
 
 
 
@@ -3982,6 +3988,69 @@ Section 2 : Formation des représentants du personnel aux comités d'hygiène, d
 
 Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
  (Articles R236-23 à R236-39)
+
+
+
+
+
+
+Chapitre VII : Prescriptions particulières d'hygiène et de sécurité applicables aux travaux effectués dans un établissement par une entreprise extérieure
+
+
+Section 1 : Dispositions générales
+ (Articles R237-1 à R237-4)
+
+
+
+
+Section 2 : Mesures de prévention préalables à l'exécution d'une opération
+ (Articles R237-5 à R237-11)
+
+
+
+
+Section 3 : Mesures de prévention pendant l'exécution des opérations
+
+
+Sous-section 1 : Sécurité des salariés
+ (Articles R237-12 à R237-15)
+
+
+
+
+Sous-section 2 : Locaux et installations à l'usage des salariés des entreprises extérieures
+ (Article R237-16)
+
+
+
+
+Sous-section 3 : Surveillance médicale des salariés
+ (Articles R237-17 à R237-21)
+
+
+
+
+
+
+Section 4 : Rôle des institutions représentatives du personnel
+
+
+Sous-section 1 : Dispositions communes
+ (Articles R237-22 à R237-25)
+
+
+
+
+Sous-section 2 : Dispositions particulières concernant le comité d'hygiène, de sécurité et des conditions de travail de l'entreprise utilisatrice
+ (Articles R237-26 à R237-27)
+
+
+
+
+Sous-section 3 : Dispositions particulières concernant le comité d'hygiène, de sécurité et des conditions de travail de l'entreprise extérieure
+ (Article R237-28)
+
+
 
 
 
@@ -5794,6 +5863,40 @@ Paragraphe 3 : Placement.
 
 
 
+Chapitre III : Mannequins
+
+
+Section 1 : Règles applicables au contrat de travail liant le mannequin à l'agence et au contrat de mise à disposition conclu entre l'agence de mannequins et l'utilisateur
+ (Articles R763-1 à R763-3)
+
+
+
+
+Section 2 : Règles applicables à la garantie financière exigée des agences de mannequins et à la substitution de l'utilisateur à l'agence de mannequins en cas de défaillance de celle-ci
+
+
+Sous-section 1 : Garantie financière exigée des agences de mannequins
+ (Articles R763-4 à R763-18)
+
+
+
+
+Sous-section 2 : Substitution de l'utilisateur à l'agence de mannequins en cas de défaillance de celle-ci
+ (Articles R763-19 à R763-22)
+
+
+
+
+
+
+Section 3 : Règles applicables à la licence d'agence de mannequins
+ (Articles R763-23 à R763-32)
+
+
+
+
+
+
 
 
 Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison
@@ -6080,6 +6183,12 @@ Chapitre III : Placement et emploi
 Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente
 
 
+Titre préliminaire
+ (Articles R900-1 à R900-8)
+
+
+
+
 Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.
  (Articles R910-1 à R910-15)
 
@@ -6144,13 +6253,13 @@ Section 1 : Dispositions communes.
 
 
 
-Section 2 : Dispositions spéciales au congé de l'article L. 931-14.
+Section 2 : Dispositions spéciales au congé de l'article L. 931-29
  (Articles R931-13 à R931-19)
 
 
 
 
-Section 3 : Dispositions spéciales aux priorités prévues au troisième alinéa de l'article L. 931-8.
+Section 3 : Dispositions spéciales aux priorités prévues au troisième alinéa de l'article L. 931-8-2
  (Articles R931-20 à R931-22)
 
 
@@ -6158,6 +6267,12 @@ Section 3 : Dispositions spéciales aux priorités prévues au troisième aliné
 
 Section 4 : Dispositions spéciales aux priorités prévues au 3e alinéa de l'article L. 931-17
  (Articles R931-23 à R931-26)
+
+
+
+
+Section 5 : Dispositions spéciales relatives au congé de bilan de compétences
+ (Articles R931-27 à R931-33)
 
 
 
@@ -6210,7 +6325,25 @@ Section 1 : Champ d'application de la participation des employeurs au développe
 
 
 Section 2 : Dépenses consacrées par les employeurs au développement de la formation professionnelle continue.
- (Articles R950-3 à R950-17)
+ (Article R950-3)
+
+
+Paragraphe 1 : Actions de formation
+ (Articles R950-4 à R950-13)
+
+
+
+
+Paragraphe 2 : Bilans de compétences
+ (Articles R950-13-1 à R950-13-2)
+
+
+
+
+Paragraphe 3 : Dispositions diverses
+ (Articles R950-14 à R950-17)
+
+
 
 
 
@@ -6447,7 +6580,7 @@ Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 
 Chapitre VII : Salaire de l'apprenti.
- (Articles D117-1 à D117-4)
+ (Articles D117-1 à D117-5)
 
 
 
@@ -6581,13 +6714,19 @@ SECTION 2 : TRAVAIL A TEMPS CHOISI.
 
 
 Section 3 : Repos compensateur en matière d'heures supplémentaires de travail.
- (Articles D212-5 à D212-12)
+ (Articles D212-5 à D212-11)
 
 
 
 
 Section 4 : Durée quotidienne du travail.
- (Articles D212-13 à D212-17)
+ (Articles D212-12 à D212-16)
+
+
+
+
+Section 5 : Contrôle de la durée du travail
+ (Articles D212-17 à D212-24)
 
 
 
