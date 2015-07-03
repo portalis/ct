@@ -3905,6 +3905,12 @@ Restauration.
 
 
 
+Section 3 : Règles de sécurité
+ (Article R235-3-5)
+
+
+
+
 
 
 Chapitre VI : Comités d'hygiène, de sécurité et des conditions de travail
@@ -4506,7 +4512,7 @@ Chapitre IV : Cumuls d'emploi et travail clandestin
 
 
 Section 2 : Travail clandestin.
- (Article R324-1)
+ (Articles R324-1 à R324-7)
 
 
 
@@ -4670,7 +4676,7 @@ Section 2 : Dispositions régissant l'emploi de certaines catégories de travail
 
 
 Section 3 : Cumuls d'emploi et travail clandestin.
- (Articles R362-3 à R362-5)
+ (Articles R362-4 à R362-5)
 
 
 
