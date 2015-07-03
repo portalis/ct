@@ -6334,7 +6334,7 @@ Sous-section 4 : Participation des agents ayant quitté l'administration à des 
 
 
 Titre VIII : Modalités d'application des articles L. 980-1 à L. 980-5.
- (Articles R980-1 à R980-8)
+ (Articles R980-1-1 à R980-8)
 
 
 
@@ -7183,7 +7183,7 @@ Titre V : De la participation des employeurs au financement de la formation prof
 
 
 Titre VIII : Des formations professionnelles en alternance.
- (Articles D980-3 à D980-11)
+ (Articles D980-1 à D980-11)
 
 
 
