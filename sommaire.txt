@@ -1074,13 +1074,61 @@ Section 3 : Chômage partiel.
 Chapitre III : Dispositions régissant l'emploi de certaines catégories de travailleurs
 
 
+Section 1 : Obligation d'emploi des travailleurs handicapés, des mutilés de guerre et assimilés.
+ (Articles L323-1 à L323-8-8)
+
+
+
+
 Section 2 : Dispositions propres aux travailleurs handicapés
 
 
+Sous-section 1 : Dispositions générales
+ (Articles L323-9 à L323-14)
+
+
+
+
+Sous-section 2 : Réadaptation - Rééducation - Formation professionnelle et réentraînement au travail.
+ (Articles L323-15 à L323-18)
+
+
+
+
 Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés en milieu ordinaire de travail.
- (Articles L323-19 à L323-28)
+ (Article L323-21)
 
 
+
+
+Sous-section 4 : Travail protégé
+ (Articles L323-29 à L323-33)
+
+
+
+
+Sous-section 5 : Dispositions d'exécution.
+ (Article L323-34)
+
+
+
+
+
+
+Section 3 : Commission départementale des travailleurs handicapés, des mutilés de guerre et assimilés.
+ (Article L323-35)
+
+
+
+
+Section 4 : Handicapés sociaux.
+ (Article L323-35 bis)
+
+
+
+
+Section 5 : Emploi obligatoire des pères de famille.
+ (Articles L323-36 à L323-39)
 
 
 
@@ -1276,76 +1324,6 @@ Livre III : EMPLOI
 
 
 Titre II : EMPLOI
-
-
-Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
-
-
-SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE ET ASSIMILES.
- (Articles L323-1 à L323-8)
-
-
-
-
-SECTION 2 : TRAVAILLEURS HANDICAPES
-
-
-SOUS-SECTION 1 : DISPOSITIONS GENERALES.
- (Articles L323-9 à L323-13)
-
-
-
-
-SOUS-SECTION 2 : DISPOSITIONS GENERALES.
- (Article L323-14)
-
-
-
-
-SOUS-SECTION 2 : READAPTATION - REEDUCATION - FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL.
- (Articles L323-15 à L323-18)
-
-
-
-
-SOUS-SECTION 3 : PRIORITE D'EMPLOI ET DE PLACEMENT DES HANDICAPES.
- (Article L323-21)
-
-
-
-
-SOUS-SECTION 4 : TRAVAIL PROTEGE.
- (Articles L323-29 à L323-33)
-
-
-
-
-SOUS-SECTION 5 : COMMISSION DEPARTEMENTALE DES HANDICAPES.
- (Article L323-34)
-
-
-
-
-SOUS-SECTION 6 : DISPOSITIONS D'EXECUTION.
- (Article L323-35)
-
-
-
-
-
-
-SECTION 2 bis : HANDICAPES SOCIAUX.
- (Article L323-35 bis)
-
-
-
-
-SECTION 3 : EMPLOI OBLIGATOIRE DES PERES DE FAMILLE.
- (Articles L323-36 à L323-39)
-
-
-
-
 
 
 Chapitre IV : TRAVAIL CLANDESTIN
@@ -4760,12 +4738,6 @@ SOUS-SECTION 3 : REGIMES PARTICULIERS.
 
 
 
-SOUS-SECTION 4 : CONDITIONS D'OUVERTURE, DE RENOUVELLEMENT ET DE MAINTIEN DES DROITS AU REVENU DE REMPLACEMENT.
- (Articles R351-35 à R351-36)
-
-
-
-
 
 
 
@@ -6822,7 +6794,7 @@ Titre Ier : Placement
 
 
 Chapitre Ier : Service public du placement.
- (Articles D311-1 à D311-4)
+ (Articles D311-1 à D311-5)
 
 
 
