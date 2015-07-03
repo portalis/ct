@@ -328,17 +328,6 @@ Sous-section 2 : Protection des salariés et droit disciplinaire.
 
 
 
-SECTION 6 : REGLEMENT INTERIEUR
-
-
-SOUS-SECTION 1 : REGLEMENT INTERIEUR.
- (Article L122-35)
-
-
-
-
-
-
 SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE
 
 
@@ -2649,7 +2638,7 @@ Titre III : Placement et emploi
 
 
 Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
- (Article L831-3)
+ (Article L831-2)
 
 
 
@@ -2692,16 +2681,11 @@ Chapitre II : Réglementation du travail.
 
 
 
-DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
+LIVRE VIII : DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM TITRE III : PLACEMENT ET EMPLOI
 
 
-PLACEMENT ET EMPLOI
-
-
-DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
- (Articles L831-1 à L831-2)
-
-
+CHAPITRE Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
+ (Article L831-1)
 
 
 
