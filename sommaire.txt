@@ -3459,6 +3459,12 @@ Chapitre VI : Cautionnements.
 
 
 
+Chapitre VII : Groupements d'employeurs.
+ (Articles R127-1 à R127-7)
+
+
+
+
 
 
 Titre III : Conventions collectives de travail
@@ -3671,6 +3677,12 @@ Section 4 : Cautionnement.
 
 
 
+Section 5 : Groupements d'employeurs
+ (Articles R152-9 à R152-10)
+
+
+
+
 
 
 Chapitre III : CONVENTIONS COLLECTIVES
@@ -3862,13 +3874,19 @@ Section 3 : Chambres d'allaitement.
 
 
 
+Chapitre V : Congés non rémunérés
 
 
-Titre II : CONGES
-
-
-Chapitre V : CONGES NON REMUNERES.
+Section 1 : Congé de formation de cadres et d'animateurs pour la jeunesse.
  (Articles R225-1 à R225-10)
+
+
+
+
+Section 3 : Congé mutualiste.
+ (Articles R225-11 à R225-13)
+
+
 
 
 
@@ -4973,7 +4991,7 @@ Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère
 
 
 Section 1 : Travailleurs étrangers.
- (Articles R341-2 à R341-8)
+ (Articles R341-2 à R341-7-2)
 
 
 
@@ -5110,18 +5128,13 @@ Section 3 : Cumuls d'emploi et travail clandestin.
 
 
 
-Chapitre IV : MAIN D'OEUVRE ETRANGERE
+Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
 
-PARAGRAPHE 1 : DISPOSITIONS SPECIALES A LA MAIN D'OEUVRE ETRANGERE
+Paragraphe 1 : Dispositions spéciales à la main-d'oeuvre étrangère
  (Article R364-1)
 
 
-
-
-
-
-Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
 
 Paragraphe 2 : Protection de la main-d'oeuvre nationale
@@ -5198,7 +5211,7 @@ Titre II : Les délégués du personnel
 
 
 Chapitre II : Attributions et pouvoirs.
- (Articles R422-1 à R422-2)
+ (Articles R422-1 à R422-3)
 
 
 
@@ -7234,7 +7247,7 @@ Section 2 : Résiliation du contrat de travail à durée indéterminée.
 
 
 Chapitre IV : Travail temporaire.
- (Articles D124-1 à D124-4)
+ (Articles D124-1 à D124-5)
 
 
 
@@ -7293,7 +7306,7 @@ Chapitre III : PAIEMENT DU SALAIRE
 
 
 SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DE SALAIRE .
- (Articles D143-1 à D143-2)
+ (Articles D143-1 à D143-4)
 
 
 
@@ -7430,7 +7443,7 @@ Sous-section 3 : Priorité d'emploi et de placement des travailleurs handicapés
 
 
 Sous-section 4 : Travail protégé.
- (Articles D323-17 à D323-25-2)
+ (Articles D323-17 à D323-25-5)
 
 
 
@@ -7555,17 +7568,6 @@ Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAI
 
 SECTION 1 : EMPLOI OBLIGATOIRE DES MUTILES DE GUERRE.
  (Articles D323-1 à D323-3)
-
-
-
-
-SECTION 2 : TRAVAILLEURS HANDICAPES
-
-
-SOUS-SECTION 4 : TRAVAIL PROTEGE.
- (Articles D323-25-3 à D323-25-5)
-
-
 
 
 
@@ -7703,6 +7705,12 @@ Chapitre II : Inspection médicale du travail.
  (Article D612-1)
 
 
+
+
+
+
+Titre II : Obligations des employeurs.
+ (Articles D620-1 à D620-3)
 
 
 
