@@ -325,7 +325,7 @@ Section 4 : Dispositions diverses.
 
 
 Chapitre V : Marchandage.
- (Articles L125-1 à L125-3)
+ (Articles L125-1 à L125-4)
 
 
 
@@ -542,22 +542,6 @@ Chapitre VII : Règles particulières au contrôle et à la répartition des pou
 
 Chapitre VIII : Economats.
  (Articles L148-1 à L148-3)
-
-
-
-
-
-
-Titre IV : SALAIRES
-
-
-Chapitre III : PAIEMENT DU SALAIRE
-
-
-SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE.
- (Article L143-11-1)
-
-
 
 
 
@@ -835,7 +819,7 @@ Section 4 : Caisse de congés payés.
 
 
 Chapitre IV : Repos des femmes en couches et des femmes allaitant leurs enfants.
- (Articles L224-1 à L224-5)
+ (Articles L224-1 à L224-6)
 
 
 
@@ -5557,7 +5541,7 @@ Section 4 : Carte d'identité professionnelle
 
 
 Paragraphe 1 : Carte d'identité de journaliste professionnel.
- (Articles R761-3 à R761-17)
+ (Articles R761-3 à R761-18)
 
 
 
@@ -5698,27 +5682,6 @@ Chapitre VII : Concierges et employés d'immeubles à usage d'habitation, employ
 
 Chapitre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises (Halles de Paris)
  (Article R798-1)
-
-
-
-
-
-
-
-
-DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
-
-
-JOURNALISTES PROFESSIONNELS
-
-
-CARTE D'IDENTITE PROFESSIONNELLE
-
-
-CARTE D'IDENTITE DE JOURNALISTE PROFESSIONNEL .
- (Article R761-18)
-
-
 
 
 
