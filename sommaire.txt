@@ -2303,7 +2303,7 @@ Chapitre II : Réglementation du travail.
 
 
 Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
- (Articles L900-1 à L900-4)
+ (Articles L900-1 à L900-5)
 
 
 Titre Ier : Des institutions de la formation professionnelle.
@@ -2312,8 +2312,19 @@ Titre Ier : Des institutions de la formation professionnelle.
 
 
 
-Titre II : Des conventions de formation professionnelle.
+Titre II : Des conventions et des contrats de formation professionnelle
+
+
+Chapitre Ier : Des conventions de formation professionnelle.
  (Articles L920-1 à L920-12)
+
+
+
+
+Chapitre II : Des contrats de formation professionnelle.
+ (Article L920-13)
+
+
 
 
 
@@ -2342,7 +2353,7 @@ Titre IV : De l'aide de l'Etat.
 
 
 Titre V : De la participation des employeurs au développement de la formation professionnelle continue.
- (Articles L950-1 à L950-10)
+ (Articles L950-1 à L950-8)
 
 
 
@@ -2371,22 +2382,71 @@ Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collec
 
 
 Titre VIII : Des formations professionnelles en alternance.
- (Articles L980-1 à L980-13)
+ (Articles L980-1 à L980-17)
 
 
 
 
-Titre IX : Dispositions diverses et dispositions pénales
+Titre IX : Contrôle de la formation professionnelle continue
 
 
-Chapitre Ier : Dispositions diverses.
+Dispositions diverses
+
+
+Dispositions pénales
+
+
+Chapitre Ier : Du contrôle de la formation professionnelle continue
+ (Articles L991-5 à L991-9)
+
+
+
+
+Chapitre II : Dispositions diverses.
+ (Articles L992-2 à L992-8)
+
+
+
+
+Chapitre III : Dispositions pénales.
+ (Article L993-1)
+
+
+
+
+
+
+
+
+
+
+Titre IX : Contr&lt;CB&gt;le de la formation professionnelle continue
+
+
+Dispositions diverses
+
+
+Dispositions pénales
+
+
+Chapitre Ier : Du contr&lt;CB&gt;le de la formation professionnelle continue.
  (Articles L991-1 à L991-8)
 
 
 
 
-Chapitre II : Dispositions pénales.
- (Articles L992-1 à L992-2)
+Chapitre II : Dispositions diverses.
+ (Article L992-1)
+
+
+
+
+Chapitre III : Dispositions pénales.
+ (Article L993-2)
+
+
+
+
 
 
 
@@ -6003,7 +6063,7 @@ Sous-section 4 : Participation des agents ayant quitté l'administration à des 
 
 
 Titre VIII : Modalités d'application des articles L. 980-1 à L. 980-5.
- (Articles R980-1 à R980-4)
+ (Articles R980-1 à R980-8)
 
 
 
