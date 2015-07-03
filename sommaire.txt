@@ -2737,10 +2737,10 @@ Titre Ier : CONTRAT D'APPRENTISSAGE
 Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 
-Chapitre VI : Des centres de formation d'apprentis
+Chapitre VI : Des centres de formation d'apprentis et des sections d'apprentissage
 
 
-Section 1 : Des conventions portant création de centres de formation d'apprentis
+Section 1 : Des conventions portant création de centres de formation d'apprentis et des sections d'apprentissage
 
 
 Paragraphe 1 : Dispositions générales.
@@ -2749,19 +2749,19 @@ Paragraphe 1 : Dispositions générales.
 
 
 
-Paragraphe 2 : De l'organisation des centres.
- (Articles R116-3 à R116-8)
+Paragraphe 2 : De l'organisation des centres et des sections d'apprentissage.
+ (Articles R116-6 à R116-7)
 
 
 
 
-Paragraphe 3 : Du fonctionnement pédagogique des centres.
- (Articles R116-9 à R116-14-1)
+Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'apprentissage.
+ (Articles R116-11 à R116-12)
 
 
 
 
-Paragraphe 4 : De l'organisation financière des centres.
+Paragraphe 4 : De l'organisation financière des centres et des sections d'apprentissage.
  (Articles R116-15 à R116-17)
 
 
@@ -2770,7 +2770,7 @@ Paragraphe 4 : De l'organisation financière des centres.
 
 
 Section 2 : De la conclusion et du renouvellement des conventions.
- (Articles R116-18 à R116-23)
+ (Articles R116-18 à R116-20)
 
 
 
@@ -2781,14 +2781,8 @@ Section 3 : Des conventions-cadre d'apprentissage.
 
 
 
-Section 4 : Du personnel des centres de formation d'apprentis.
- (Articles R116-26 à R116-32)
-
-
-
-
-Section 5 : Du contrôle des centres de formation d'apprentis.
- (Articles R116-33 à R116-36)
+Section 4 : Du personnel des centres de formation d'apprentis
+ (Article R116-30)
 
 
 
@@ -2805,7 +2799,7 @@ Paragraphe 1 : De la déclaration de l'employeur relative à l'organisation de l
 
 
 Paragraphe 2 : De la durée de l'apprentissage.
- (Articles R117-6 à R117-8)
+ (Articles R117-6 à R117-7-3)
 
 
 
@@ -2829,18 +2823,6 @@ Paragraphe 4 : Du contenu des contrats d'apprentissage.
 
 Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.
  (Articles R117-13 à R117-16)
-
-
-
-
-Paragraphe 6 : Cas de l'apprenti employé par un ascendant.
- (Article R117-18)
-
-
-
-
-Paragraphe 7 : Constatation de l'aptitude de l'apprenti.
- (Articles R117-19 à R117-20)
 
 
 
@@ -2908,7 +2890,7 @@ Dispositions générales.
 
 
 E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
- (Articles R119-75 à R119-77)
+ (Article R119-75)
 
 
 
@@ -2920,6 +2902,58 @@ E - Aménagements au bénéfice des personnes handicapées des dispositions rela
 
 
 Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+
+
+Chapitre V : Généralités
+ (Article R115-1)
+
+
+
+
+Chapitre VI : Des centres de formation d'apprentis et des sections d'apprentissage
+
+
+Section 1 : Des conventions portant création de centres de formation d'apprentis et des sections d'apprentissage
+
+
+Paragraphe 2 : De l'organisation des centres et des sections d'apprentissage.
+ (Articles R116-3 à R116-8)
+
+
+
+
+Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'apprentissage.
+ (Articles R116-9 à R116-14-1)
+
+
+
+
+
+
+Section 2 : De la conclusion et du renouvellement des conventions.
+ (Articles R116-19 à R116-23)
+
+
+
+
+Section 4 : Du personnel des centres de formation d'apprentis
+ (Articles R116-26 à R116-32)
+
+
+
+
+Section 4 bis : Du personnel des sections d'apprentissage
+ (Article R116-32-1)
+
+
+
+
+Section 5 : Du contrôle des centres de formation d'apprentis et des sections d'apprentissage.
+ (Articles R116-33 à R116-36)
+
+
+
+
 
 
 Chapitre VII : Du contrat d'apprentissage
@@ -2944,7 +2978,13 @@ Paragraphe 4 : Du contenu des contrats d'apprentissage.
 
 
 Paragraphe 6 : Cas de l'apprenti employé par un ascendant.
- (Article R117-17)
+ (Articles R117-17 à R117-18)
+
+
+
+
+Paragraphe 7 : Constatation de l'aptitude de l'apprenti.
+ (Articles R117-19 à R117-20)
 
 
 
@@ -2970,7 +3010,7 @@ D - Inspection de l'apprentissage
 
 
 Dispositions générales.
- (Articles R119-53 à R119-60)
+ (Articles R119-50 à R119-60)
 
 
 
@@ -4443,6 +4483,12 @@ Section 7 : Voies et réseaux divers
 
 
 
+Section 8 : Collège interentreprises de sécurité, de santé et des conditions de travail
+ (Articles R238-46 à R238-56)
+
+
+
+
 
 
 
@@ -4752,7 +4798,7 @@ Section 5 : Congés non rémunérés.
 
 
 Chapitre III : Hygiène et sécurité
- (Articles R263-1 à R263-2)
+ (Articles R263-1 à R263-3)
 
 
 
@@ -5381,6 +5427,87 @@ Chapitre IX : Comité de groupe.
 Titre IV : Intéressement et participation
 
 
+Chapitre Ier : Intéressement des salariés à l'entreprise
+ (Articles R441-1 à R441-4)
+
+
+
+
+Chapitre II : Participation des salariés aux résultats de l'entreprise
+
+
+Section 1 : Régime obligatoire dans les entreprises de cinquante salariés et plus
+
+
+Paragraphe 1 : Entreprises tenues de constituer une réserve spéciale de participation
+ (Article R442-1)
+
+
+
+
+Paragraphe 2 : Calcul de la réserve spéciale
+ (Articles R442-2 à R442-5)
+
+
+
+
+Paragraphe 3 : Répartition de la réserve spéciale
+ (Article R442-6)
+
+
+
+
+Paragraphe 4 : Gestion de la réserve spéciale de participation
+ (Articles R442-7 à R442-17)
+
+
+
+
+
+
+Section 2 : Information des salariés
+ (Articles R442-18 à R442-20)
+
+
+
+
+Section 3 : Dispositions diverses
+ (Articles R442-21 à R442-26)
+
+
+
+
+Section 4 : Dispositions particulières aux sociétés coopératives ouvrières de production
+ (Articles R442-27 à R442-30)
+
+
+
+
+
+
+Chapitre III : Plans d'épargne d'entreprise
+ (Articles R443-1 à R443-11)
+
+
+
+
+Chapitre IV : Dispositions communes
+
+
+Section 1 : Dispositions générales
+ (Articles R444-1-1 à R444-1-2)
+
+
+
+
+Section 2 : Conseil supérieur de la participation
+ (Articles R444-2-1 à R444-2-6)
+
+
+
+
+
+
 
 
 Titre V : Education ouvrière et formation syndicale
@@ -5433,12 +5560,6 @@ Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
 
 Section 1 : Organisation et fonctionnement de la juridiction.
  (Article R512-1-1)
-
-
-
-
-Section 2 : Organisation et fonctionnement du secrétariat-greffe.
- (Article R512-35)
 
 
 
@@ -5523,7 +5644,7 @@ Section 1 : Organisation et fonctionnement de la juridiction.
 
 
 Section 2 : Organisation et fonctionnement du secrétariat-greffe.
- (Articles R512-18 à R512-34)
+ (Articles R512-18 à R512-35)
 
 
 
@@ -6536,6 +6657,12 @@ Sous-section 3 : Documents médicaux.
 Titre III : Placement et emploi
 
 
+Chapitre Ier : Dispositions relatives aux contrats d'accès à l'emploi
+ (Articles R831-1 à R831-9)
+
+
+
+
 Chapitre II : Travail clandestin.
  (Article R832-1)
 
@@ -6858,6 +6985,12 @@ Paragraphe 2 : Dispositions communes aux organismes collecteurs paritaires agré
 
 Paragraphe 3 : Dispositions relatives aux fonds d'assurance formation
  (Articles R964-2 à R964-15)
+
+
+
+
+Paragraphe 4 : Dispositions relatives aux organismes de mutualisation agréés
+ (Articles R964-16-1 à R964-16-5)
 
 
 
@@ -7662,6 +7795,12 @@ Titre Ier : Conventions relatives au travail
 
 Chapitre Ier : Apprentissage
  (Article D811)
+
+
+
+
+Chapitre III : Conventions collectives
+ (Articles D813-1 à D813-2)
 
 
 
