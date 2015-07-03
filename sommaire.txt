@@ -115,7 +115,7 @@ Chapitre VIII : Dispositions financières.
 
 
 Chapitre IX : Dispositions diverses.
- (Articles L119-1 à L119-5)
+ (Articles L119-4 à L119-5)
 
 
 
@@ -169,7 +169,7 @@ Chapitre VIII : Dispositions financières.
 
 
 Chapitre IX : Dispositions diverses.
- (Article L119-3)
+ (Articles L119-1 à L119-3)
 
 
 
@@ -2145,7 +2145,7 @@ Section 2 : Dispositions spéciales aux personnes employées par des particulier
 
 
 Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.
- (Articles L773-10 à L773-16)
+ (Articles L773-10 à L773-17)
 
 
 
@@ -2540,7 +2540,7 @@ Dispositions pénales
 
 
 Chapitre Ier : Du contrôle de la formation professionnelle continue
- (Articles L991-5 à L991-9)
+ (Articles L991-4 à L991-9)
 
 
 
@@ -3136,7 +3136,7 @@ Chapitre III : Paiement du salaire
 
 
 Section 1 : Mode de paiement du salaire.
- (Articles R143-1 à R143-2)
+ (Articles R143-1 à R143-3)
 
 
 
@@ -5978,6 +5978,12 @@ Sous-section 3 : Documents médicaux.
 
 
 Titre III : Placement et emploi
+
+
+Chapitre II : Travail clandestin.
+ (Article R832-1)
+
+
 
 
 Chapitre III : Garantie de ressources des travailleurs sans emploi.
