@@ -343,7 +343,7 @@ Chapitre VI : Cautionnements.
 
 
 Chapitre VII : GROUPEMENTS D'EMPLOYEURS.
- (Articles L127-1 à L127-8)
+ (Articles L127-1 à L127-9)
 
 
 
@@ -878,6 +878,12 @@ Section 4 : Congé de représentation
 
 
 
+Section 5 : Congé de solidarité internationale
+ (Articles L225-9 à L225-14)
+
+
+
+
 
 
 Chapitre VI : Congés pour événements familiaux.
@@ -1040,7 +1046,7 @@ Section 1 : Organismes qui concourent au service public du placement.
 
 
 Section 2 : Diffusion et publicité des offres et demandes d'emploi
- (Article L311-4)
+ (Articles L311-4 à L311-4-2)
 
 
 
@@ -1368,7 +1374,7 @@ Chapitre IV : Main-d'oeuvre étrangère
 
 
 (en vigueur jusqu'au 1er janvier 2007 au plus tard)
- (Article L364-7)
+ (Articles L364-7 à L364-11)
 
 
 
@@ -1964,7 +1970,7 @@ Titre III : Pénalités
 
 
 Chapitre Ier : Services de contrôle.
- (Articles L631-1 à L631-3)
+ (Articles L631-1 à L631-4)
 
 
 
@@ -2461,7 +2467,7 @@ Livre IX : De la formation professionnelle continue dans le cadre de l'éducatio
 
 
 Titre Ier : Des institutions de la formation professionnelle.
- (Articles L910-1 à L910-2)
+ (Articles L910-1 à L910-3)
 
 
 
