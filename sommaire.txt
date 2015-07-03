@@ -4969,47 +4969,72 @@ Chapitre Ier : Garanties de ressources des travailleurs privés d'emploi
 Section 1 : Privation totale d'emploi
 
 
-SOUS-SECTION 2 : CONTROLE.
- (Article R351-7)
+Sous-section 1 : Régime d'assurance.
+ (Articles R351-1 à R351-5)
+
+
+
+
+Sous-section 2 : Régime de solidarité.
+ (Articles R351-6 à R351-19)
+
+
+
+
+Sous-section 3 : Régimes particuliers.
+ (Articles R351-20 à R351-24)
+
+
+
+
+Sous-section 4 : Conditions d'ouverture, de renouvellement et de maintien des droits au revenu de remplacement.
+ (Articles R351-25 à R351-40)
+
+
+
+
+Sous-section 5 : Aide à la création d'entreprise
+ (Articles R351-41 à R351-49)
 
 
 
 
 
 
-
-
-Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 1 : PRIVATION TOTALE D'EMPLOI
-
-
-SOUS-SECTION 1 : CONDITIONS D'OUVERTURE DU DROIT AUX PRESTATIONS.
- (Article R351-2)
+Section 2 : Privation partielle d'emploi.
+ (Article R351-52)
 
 
 
 
 
 
-Chapitre II : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
+Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
 
 
 SECTION 1 : PRIVATION TOTALE D'EMPLOI
 
 
-SOUS-SECTION 2 : CONTROLE.
- (Articles R351-9 à R351-10)
+SOUS-SECTION 2 : REGIME DE SOLIDARITE.
+ (Articles R351-13 à R351-14)
 
 
 
 
-SOUS-SECTION 3 : OBLIGATIONS DES EMPLOYEURS.
- (Articles R351-11 à R351-13)
+SOUS-SECTION 3 : REGIMES PARTICULIERS.
+ (Article R351-22)
 
 
 
 
-SOUS-SECTION 4 : DISPOSITIONS DIVERSES.
- (Article R351-15)
+SOUS-SECTION 4 : CONDITIONS D'OUVERTURE, DE RENOUVELLEMENT ET DE MAINTIEN DES DROITS AU REVENU DE REMPLACEMENT.
+ (Articles R351-26 à R351-36)
+
+
+
+
+SOUS-SECTION 5 : AIDE A LA CREATION D'ENTREPRISE.
+ (Articles R351-43 à R351-45)
 
 
 
@@ -5746,42 +5771,8 @@ TRAVAILLEURS PRIVES D'EMPLOI
 GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
 
 
-PRIVATION TOTALE D'EMPLOI
-
-
-CONDITIONS D'OUVERTURE DU DROIT AUX PRESTATIONS.
- (Articles R351-1 à R351-4)
-
-
-
-
-CONTROLE.
- (Articles R351-5 à R351-8)
-
-
-
-
-OBLIGATIONS DES EMPLOYEURS.
- (Article R351-14)
-
-
-
-
-
-
 PRIVATION PARTIELLE D'EMPLOI.
- (Articles R351-18 à R351-21)
-
-
-
-
-
-
-GARANTIES DE RESSOURCES
-
-
-ALLOCATION POUR PERTE D'EMPLOI .
- (Articles R351-38 à R351-61)
+ (Articles R351-50 à R351-53)
 
 
 
