@@ -492,7 +492,7 @@ SECTION 1 : MODE DE PAIEMENT DU SALAIRE .
 
 
 Section 2 : Privilèges et garanties de la créance de salaire.
- (Articles L143-6 à L143-13-1)
+ (Articles L143-6 à L143-13-2)
 
 
 
@@ -1154,7 +1154,7 @@ Section 1 : Travailleurs étrangers
 
 
 (en vigueur jusqu'au 1er janvier 2007 au plus tard)
- (Articles L341-1 à L341-6-3)
+ (Articles L341-1 à L341-7-2)
 
 
 
@@ -1262,7 +1262,7 @@ SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN
 
 
 Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale.
- (Articles L364-1 à L364-4)
+ (Articles L364-1 à L364-5)
 
 
 
@@ -3544,6 +3544,12 @@ Sous-section 1 : Machines mobiles agricoles ou forestières.
 
 
 
+Sous-section 2 : Chariots de manutention automoteurs.
+ (Articles R233-124 à R233-138)
+
+
+
+
 
 
 
@@ -5687,6 +5693,12 @@ Chapitre III : Garantie de ressources des travailleurs sans emploi.
 
 
 
+Chapitre IV : Agence nationale pour l'emploi.
+ (Articles R834-1 à R834-2)
+
+
+
+
 
 
 Titre V : Conflits du travail
@@ -6086,7 +6098,7 @@ Rémunération mensuelle minimale
 
 
 Section 2 : Dispositions spéciales à certains salariés dont la rémunération est, de manière habituelle, constituée pour partie par la fourniture de la nourriture ou du logement.
- (Articles D141-7 à D141-9)
+ (Article D141-9)
 
 
 
@@ -6410,7 +6422,7 @@ Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 
 Chapitre IV : Statut des conseillers prud'hommes.
- (Articles D514-5 à D514-6)
+ (Articles D514-4 à D514-7)
 
 
 
@@ -6430,7 +6442,7 @@ Conseils de prud'hommes
 
 
 Chapitre IV : Statut des conseillers prud'hommes.
- (Articles D514-1 à D514-4)
+ (Articles D514-1 à D514-3)
 
 
 
