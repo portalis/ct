@@ -1160,7 +1160,7 @@ Chapitre II : Fonds national de l'emploi
 
 
 Section 1 : Fonds national de l'emploi.
- (Articles L322-2 à L322-6)
+ (Articles L322-1 à L322-6)
 
 
 
@@ -1429,6 +1429,17 @@ Chapitre Ier : CONTROLE DE L'EMPLOI.
 
 
 
+Chapitre II : FONDS NATIONAL DE L'EMPLOI
+
+
+SECTION 1 : FONDS NATIONAL DE L'EMPLOI
+ (Article L322-4)
+
+
+
+
+
+
 Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
 
 
@@ -1508,17 +1519,6 @@ SECTION 2 : TRAVAIL CLANDESTIN.
 
 
 
-
-
-
-
-
-
-EMPLOI
-
-
-FONDS NATIONAL DE L'EMPLOI .
- (Article L322-1)
 
 
 
@@ -4524,7 +4524,7 @@ Titre II : Emploi
 
 
 Chapitre II : Fonds national de l'emploi.
- (Articles R322-1 à R322-1-1)
+ (Article R322-1-1)
 
 
 Section 1 : Conventions de coopération
@@ -5256,6 +5256,7 @@ SECTION 2 : DISPOSITIONS SPECIALES.
 
 
 Chapitre II : FONDS NATIONAL DE L'EMPLOI
+ (Article R322-1)
 
 
 SECTION 1 : CONVENTIONS DE COOPERATION
