@@ -955,6 +955,17 @@ Titre VI : Pénalités.
 Chapitre Ier : Conditions du travail
 
 
+Emploi des enfants dans les spectacles et professions ambulantes
+
+
+Emploi des enfants comme mannequins dans la publicité et la mode
+ (Article L261-3)
+
+
+
+
+
+
 Emploi des enfants dans les spectacles et professions ambulantes; emploi des enfants comme mannequins dans la publicité et la mode.
  (Articles L261-1 à L261-6)
 
@@ -1210,7 +1221,6 @@ Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
 
 Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
- (Article L341-9-1)
 
 
 Section 1 : Travailleurs étrangers
@@ -2239,7 +2249,6 @@ Chapitre III : Bâtiment et travaux publics.
 
 
 Chapitre V : Voyageurs, représentants et placiers.
- (Article L795-1)
 
 
 
@@ -2564,7 +2573,7 @@ Dispositions pénales
 
 
 Chapitre Ier : Du contrôle de la formation professionnelle continue
- (Articles L991-4 à L991-9)
+ (Articles L991-3 à L991-9)
 
 
 
@@ -4663,6 +4672,12 @@ Titre II : Emploi
 Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
 
 
+Section 1 : Déclaration préalable à l'embauche
+ (Articles R320-1 à R320-5)
+
+
+
+
 Section 2 : Relevé mensuel des contrats de travail
  (Article R320-1-1)
 
@@ -5014,7 +5029,7 @@ Chapitre II : Emploi
 
 
 Section 1 : Déclaration des mouvements de main-d'oeuvre et licenciements pour motif économique.
- (Article R362-1)
+ (Articles R362-1 à R362-1-1)
 
 
 
@@ -6003,6 +6018,12 @@ Section 5 : Contrôle.
 
 Section 6 : Aide publique aux marins privés d'emploi.
  (Article R742-38)
+
+
+
+
+Section 7 : Contrôle de l'embauche des marins
+ (Article R742-39)
 
 
 
