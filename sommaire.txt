@@ -5356,17 +5356,6 @@ III - Dépouillement des votes.
 
 
 
-Chapitre VI : Procédure devant les conseils de prud'hommes
-
-
-Section 6 : Le jugement.
- (Article R516-26)
-
-
-
-
-
-
 
 
 
@@ -5535,7 +5524,7 @@ Section 5 : Le conseiller rapporteur.
 
 
 Section 6 : Le jugement.
- (Articles R516-26-1 à R516-29)
+ (Articles R516-26 à R516-29)
 
 
 
