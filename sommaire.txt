@@ -3812,7 +3812,7 @@ Section 2 : Formation des représentants du personnel aux comités d'hygiène, d
 
 
 Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
- (Articles R236-23 à R236-31)
+ (Articles R236-23 à R236-39)
 
 
 
@@ -6196,7 +6196,7 @@ Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
 
 
 Section 1 : CONTRAT DE TRAVAIL A DUREE DETERMINEE.
- (Articles D121-1 à D121-4)
+ (Articles D121-1 à D121-3)
 
 
 
