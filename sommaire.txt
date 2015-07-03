@@ -383,6 +383,12 @@ Chapitre VII : GROUPEMENTS D'EMPLOYEURS.
 
 
 
+Chapitre VIII : Associations intermédiaires.
+ (Article L128)
+
+
+
+
 
 
 Titre III : Conventions et accords collectifs de travail
@@ -1219,13 +1225,8 @@ Section 1 : Fonds national de l'emploi.
 
 
 
-PRIME DE MOBILITE DES JEUNES
-
-
-SECTION 3 : CHOMAGE PARTIEL.
+Section 3 : Chômage partiel.
  (Article L322-11)
-
-
 
 
 
@@ -1261,7 +1262,7 @@ Section 1 : Cumuls d'emplois.
 
 
 Section 2 : Travail clandestin.
- (Articles L324-12 à L324-15)
+ (Articles L324-9 à L324-15)
 
 
 
@@ -1540,7 +1541,7 @@ Chapitre IV : TRAVAIL CLANDESTIN
 
 
 SECTION 2 : TRAVAIL CLANDESTIN.
- (Articles L324-9 à L324-11)
+ (Article L324-10)
 
 
 
@@ -4574,6 +4575,18 @@ Section 2 : Placement payant.
 Titre II : Emploi
 
 
+Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
+ (Article R320-1)
+
+
+
+
+Chapitre Ier : Licenciement pour motif économique.
+ (Articles R321-1 à R321-8)
+
+
+
+
 Chapitre II : Fonds national de l'emploi.
  (Article R322-1-1)
 
@@ -4588,7 +4601,7 @@ B - Conventions d'allocation temporaire dégressive et conventions d'allocation 
 
 
 C : Consultation.
- (Article R322-9)
+ (Articles R322-8 à R322-10)
 
 
 
@@ -4980,6 +4993,12 @@ Section 2 : Placement privé
 Chapitre II : Emploi
 
 
+Section 1 : Déclaration des mouvements de main-d'oeuvre et licenciements pour motif économique.
+ (Article R362-1)
+
+
+
+
 Section 2 : Dispositions régissant l'emploi de certaines catégories de travailleurs : les travailleurs handicapés
  (Article R362-2)
 
@@ -5324,23 +5343,6 @@ Livre III : EMPLOI
 Titre II : EMPLOI
 
 
-Chapitre Ier : CONTROLE DE L'EMPLOI
-
-
-SECTION 1 : DISPOSITIONS GENERALES.
- (Articles R321-1 à R321-7)
-
-
-
-
-SECTION 2 : DISPOSITIONS SPECIALES.
- (Articles R321-8 à R321-11)
-
-
-
-
-
-
 Chapitre II : FONDS NATIONAL DE L'EMPLOI
  (Article R322-1)
 
@@ -5356,12 +5358,6 @@ A : CONVENTIONS DE FORMATION.
 
 B : CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS D'ALLOCATION SPECIALE.
  (Article R322-7)
-
-
-
-
-C : CONSULTATION.
- (Articles R322-8 à R322-10)
 
 
 
@@ -5460,22 +5456,6 @@ PARAGRAPHE 1 : DISPOSITIONS GENERALES.
 
 
 
-Titre VI : PENALITES
-
-
-Chapitre II : EMPLOI
-
-
-SECTION 1 : CONTROLE DE L'EMPLOI
- (Article R362-1)
-
-
-
-
-
-
-
-
 
 
 Livre V : Conflits du travail
@@ -5512,6 +5492,12 @@ Section 1 : Electorat, éligibilité et établissement des listes électorales
 
 Paragraphe 1 : Electorat.
  (Articles R513-9 à R513-10)
+
+
+
+
+Paragraphe 3 : Etablissement des listes électorales.
+ (Articles R513-11 à R513-30)
 
 
 
@@ -5613,29 +5599,7 @@ Paragraphe 1 : Electorat.
 
 
 Paragraphe 3 : Etablissement des listes électorales.
- (Articles R513-21 à R513-28)
-
-
-
-
-
-
-SECTION 1 : ELECTORAT
-
-
-PARAGRAPHE 1 : ELECTORAT.
- (Article R513-2)
-
-
-
-
-
-
-SECTION 1 : ETABLISSEMENT DES LISTES ELECTORALES
-
-
-PARAGRAPHE 3 : ETABLISSEMENT DES LISTES ELECTORALES.
- (Articles R513-11 à R513-30)
+ (Articles R513-12 à R513-28)
 
 
 
@@ -6027,6 +5991,23 @@ Chapitre Ier : Mines et carrières
 
 Section 1 : Conditions de travail.
  (Articles R711-1 à R711-5)
+
+
+
+
+Section 2 : Hygiène et sécurité
+
+
+Paragraphe 1 : Application des articles L. 231-8 et L. 231-9.
+ (Articles R711-6 à R711-8)
+
+
+
+
+Paragraphe 2 : Comité d'hygiène, de sécurité et des conditions de travail.
+ (Articles R711-9 à R711-13)
+
+
 
 
 
@@ -6470,48 +6451,6 @@ Chapitre VIII : Dispositions relatives à certaines catégories de travailleurs 
 DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
 
 
-ENERGIE - INDUSTRIES EXTRACTIVES
-
-
-MINES ET CARRIERES
-
-
-HYGIENE ET SECURITE
-
-
-COMITES D'HYGIENE ET DE SECURITE.
- (Articles R711-6 à R711-11)
-
-
-
-
-
-
-
-
-
-
-ENERGIE - INDUSTRIES EXCTRACTIVES
-
-
-MINES ET CARRIERES
-
-
-HYGIENE ET SECURITE
-
-
-COMITES D'HYGIENE ET DE SECURITE.
- (Article R711-7)
-
-
-
-
-
-
-
-
-
-
 BATIMENT ET TRAVAUX PUBLICS
 
 
@@ -6753,7 +6692,7 @@ Section 1 : Champ d'application de la participation des employeurs au développe
 
 
 Section 2 : Dépenses consacrées par les employeurs au développement de la formation professionnelle continue.
- (Articles R950-4 à R950-17)
+ (Articles R950-3 à R950-17)
 
 
 
@@ -6765,7 +6704,7 @@ Section 3 : Consultation du comité d'entreprise.
 
 
 Section 4 : Déclaration relative à la participation des employeurs au développement de la formation professionnelle continue.
- (Articles R950-20 à R950-22)
+ (Articles R950-19 à R950-22)
 
 
 
@@ -6900,12 +6839,6 @@ PARAGRAPHE 1 : REMUNERATIONS VERSEES AUX STAGIAIRES.
 
 
 
-Chapitre IV : FONDS D'ASSURANCE FORMATION ET ORGANISMES PARITAIRES    AGREES EN APPLICATION DE L'ARTICLE L. 950-2-3
- (Article R964-15)
-
-
-
-
 
 
 Titre VI : DE LA PROTECTION SOCIALE DES STAGIAIRES DE LA FORMATION PROFESSIONNELLE
@@ -7001,44 +6934,6 @@ Section 1 : Application des dispositions des articles L. 930-1 à L. 930-2 et L.
 
 Section 2 : Remboursement des frais de transport exposés par les stagiaires.
  (Articles R990-4 à R990-8)
-
-
-
-
-
-
-
-
-Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
-
-
-Titre V : MODALITES D'APPLICATION DES ARTICLES L. 950-1 A L. 950-10
-
-
-SECTION 2 : DEPENSES CONSACREES PAR LES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
- (Article R950-9)
-
-
-
-
-
-
-
-
-Livre IX : FORMATION PROFESSIONNELLE DANS LE CADRE DE LA FORMATION PERMANENTE
-
-
-Titre V : MODALITES D'APPLICATION DES ARTICLES L950-1 A L950-10
-
-
-SECTION 2 : DEPENSES CONSACREES PAR LES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
- (Article R950-3)
-
-
-
-
-SECTION 4 : DECLARATION RELATIVE A LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
- (Article R950-19)
 
 
 
@@ -7268,12 +7163,19 @@ Chapitre Ier : Contrôle de l'emploi.
 
 
 Chapitre II : Fonds national de l'emploi.
+ (Articles D322-1 à D322-6)
 
 
 Section 3 : Chômage partiel.
  (Articles D322-11 à D322-16)
 
 
+
+
+
+
+Chapitre II : Fonds national de l'emploi *FNE*.
+ (Articles D322-2 à D322-4)
 
 
 
