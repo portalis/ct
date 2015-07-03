@@ -3148,6 +3148,12 @@ Paragraphe 1 : De l'agrément de l'employeur.
 
 
 
+Paragraphe 2 : De la durée de l'apprentissage.
+ (Article R117-8)
+
+
+
+
 Paragraphe 4 : Du contenu des contrats d'apprentissage.
  (Articles R117-11 à R117-12)
 
@@ -3303,6 +3309,12 @@ PARAGRAPHE 3 : FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
 
 
 
+PARAGRAPHE 3 : DU FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
+ (Article R116-11)
+
+
+
+
 
 
 SECTION 4 : DU PERSONNEL DES CENTRES DE FORMATION D'APPRENTIS .
@@ -3323,7 +3335,7 @@ PARAGRAPHE 1 : DE L'AGREMENT DE L'EMPLOYEUR .
 
 
 PARAGRAPHE 2 : DE LA DUREE DE L'APPRENTISSAGE .
- (Articles R117-6 à R117-7)
+ (Articles R117-6 à R117-7-1)
 
 
 
@@ -4601,48 +4613,6 @@ Chapitre V : Service social du travail
 
 
 
-CONVENTIONS RELATIVES AU TRAVAIL
-
-
-CONTRAT D'APPRENTISSAGE
-
-
-DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*
-
-
-CENTRES DE FORMATION D' APPRENTIS
-
-
-CONVENTIONS PORTANT CREATION DE CENTRES DE FORMATION D'APPRENTIS
-
-
-FONCTIONNEMENT PEDAGOGIQUE DES CENTRES .
- (Article R116-11)
-
-
-
-
-
-
-
-
-CONTRAT D'APPRENTISSAGE
-
-
-DUREE DE L'APPRENTISSAGE .
- (Article R117-8)
-
-
-
-
-
-
-
-
-
-
-
-
 Livre III : Placement et emploi
 
 
@@ -5261,7 +5231,7 @@ Paragraphe 1 : Entreprises tenues de constituer une réserve spéciale de partic
 
 
 Paragraphe 2 : Modalités de calcul de la réserve spéciale.
- (Articles R442-3 à R442-5)
+ (Articles R442-2 à R442-5)
 
 
 
@@ -6176,32 +6146,6 @@ Section 1 : Conciliation
 
 Section 2 : Exécution des sentences arbitrales et des accords intervenus au cours de procédures de conciliation ou de médiation.
  (Article R532-2)
-
-
-
-
-
-
-
-
-
-
-LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
-
-
-INTERESSEMENT ET PARTICIPATION
-
-
-PARTICIPATION DES SALARIES AUX FRUITS DE L'EXPANSION DES  ENTREPRISES
-
-
-RESERVE SPECIALE DE PARTICIPATION DES TRAVAILLEURS
-
-
-MODALITES DE CALCUL DE LA RESERVE SPECIALE .
- (Article R442-2)
-
-
 
 
 
@@ -7657,7 +7601,7 @@ Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
 
 
 Section 1 : Travailleurs étrangers.
- (Articles D341-2 à D341-4)
+ (Article D341-2)
 
 
 
@@ -7666,6 +7610,22 @@ Section 1 : Travailleurs étrangers.
 
 Chapitre II : Protection de la main-d'oeuvre nationale.
  (Articles D342-1 à D342-13)
+
+
+
+
+
+
+Titre IV : MAIN-D'OEUVRE ETRANGERE
+
+
+Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
+
+
+SECTION 1 : TRAVAILLEURS ETRANGERS.
+ (Articles D341-1 à D341-3)
+
+
 
 
 
@@ -7743,22 +7703,6 @@ SOUS-SECTION 4 : TRAVAIL PROTEGE.
 
 
 
-
-
-
-
-
-
-
-
-PLACEMENT ET EMPLOI
-
-
-DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
-
-
-TRAVAILLEURS ETRANGERS .
- (Articles D341-1 à D341-3)
 
 
 
@@ -8222,7 +8166,7 @@ Section 3 : Des attributions des chambres de commerce et d'industrie, des chambr
 
 
 Section 4 : Dispositions financières.
- (Articles D811-53 à D811-60)
+ (Articles D811-52 à D811-60)
 
 
 
@@ -8321,27 +8265,6 @@ Titre VII : Dispositions particulières à certaines professions
 
 Chapitre Ier : Journalistes professionnels.
  (Article D871-1)
-
-
-
-
-
-
-
-
-DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM*
-
-
-CONVENTIONS RELATIVES AU TRAVAIL
-
-
-APPRENTISSAGE
-
-
-DISPOSITIONS FINANCIERES .
- (Article D811-52)
-
-
 
 
 
