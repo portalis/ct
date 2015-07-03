@@ -4871,7 +4871,7 @@ Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE
 
 
 SECTION 1 : TRAVAILLEURS ETRANGERS.
- (Article R341-7)
+ (Articles R341-1 à R341-3)
 
 
 
@@ -4936,12 +4936,6 @@ PARAGRAPHE 5 : DISPOSITIONS FINANCIERES ET COMPTABLES.
 
 
 
-Chapitre Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE SECTION 1 : TRAVAILLEURS ETRANGERS
- (Article R341-5)
-
-
-
-
 
 
 Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale
@@ -4951,7 +4945,7 @@ Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère
 
 
 Section 1 : Travailleurs étrangers.
- (Articles R341-6 à R341-7-2)
+ (Articles R341-2 à R341-8)
 
 
 
@@ -5736,28 +5730,6 @@ APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MI
 
 
 PLACEMENT ET EMPLOI
-
-
-MAIN-DOEUVRE ETRANGERES
-
-
-TRAVAILLEURS ETRANGERS .
- (Article R341-1)
-
-
-
-
-
-
-MAIN-DOEUVRE ETRANGERE
-
-
-TRAVAILLEURS ETRANGERS .
- (Articles R341-2 à R341-8)
-
-
-
-
 
 
 TRAVAILLEURS PRIVES D'EMPLOI
