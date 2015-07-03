@@ -867,6 +867,12 @@ Section 3 : Congé mutualiste.
 
 
 
+Section 4 : Congé de représentation
+ (Article L225-8)
+
+
+
+
 
 
 Chapitre VI : Congés pour événements familiaux.
@@ -5940,6 +5946,12 @@ Section 3 : Dispositions spéciales aux priorités prévues au troisième aliné
 
 
 
+Section 4 : Dispositions spéciales aux priorités prévues au 3e alinéa de l'article L. 931-17
+ (Articles R931-23 à R931-26)
+
+
+
+
 
 
 
@@ -5977,14 +5989,8 @@ Section 4 : Déclaration relative à la participation des employeurs au dévelop
 
 
 
-SECTION 6 : DES ENGAGEMENTS DE DEVELOPPEMENT DE LA FORMATION.
- (Articles R950-26 à R950-33)
-
-
-
-
-Section 5 : Du contrôle et des recours en matière de formation professionnelle.
- (Articles R950-23 à R950-25)
+Section 5 : Des engagements de développement de la formation.
+ (Articles R950-23 à R950-30)
 
 
 
@@ -6159,17 +6165,28 @@ Titre VIII : Modalités d'application des articles L. 980-1 à L. 980-5.
 
 
 
-Titre IX : Dispositions particulières aux départements d'outre-mer
+Titre IX : Dispositions relatives au contrôle de la formation professionnelle continue et dispositions particulières aux départements d'outre-mer
+
+
+Chapitre Ier : Du contrôle de la formation professionnelle continue
+ (Articles R991-1 à R991-8)
+
+
+
+
+Chapitre II : Dispositions particulières aux départements d'outre-mer
 
 
 Section 1 : Application des dispositions des articles L. 930-1 à L. 930-2 et L. 950-1 à L. 950-10.
- (Articles R990-1 à R990-3)
+ (Articles R992-1 à R992-3)
 
 
 
 
 Section 2 : Remboursement des frais de transport exposés par les stagiaires.
- (Articles R990-4 à R990-8)
+ (Articles R992-4 à R992-8)
+
+
 
 
 
@@ -6214,7 +6231,7 @@ Section 1 : CONTRAT DE TRAVAIL A DUREE DETERMINEE.
 
 
 Section 2 : Résiliation du contrat de travail à durée indéterminée.
- (Articles D122-1 à D122-21)
+ (Articles D122-1 à D122-24)
 
 
 
