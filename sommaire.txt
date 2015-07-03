@@ -6401,39 +6401,62 @@ Chapitre II : Marins.
 Section 1 : Conventions relatives au travail.
 
 
-PARAGRAPHE 1 : CONVENTIONS COLLECTIVES DE TRAVAIL .
- (Articles R742-1 à R742-8)
+Paragraphe 1 : Conventions et accords collectifs de travail.
+ (Articles R742-1 à R742-6)
 
 
 
 
 
 
-SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL
+Section 2 : Comités d'hygiène, de sécurité et des conditions de travail des entreprises d'armement maritime
 
 
-PARAGRAPHE 1 : CONCILIATION .
- (Articles R742-10 à R742-22)
-
-
-
-
-PARAGRAPHE 2 : MEDIATION .
- (Articles R742-23 à R742-31)
+Sous-section 1 : Entreprises occupant au moins cinquante salariés.
+ (Articles R742-8-1 à R742-8-10)
 
 
 
 
-PARAGRAPHE 3 : ARBITRAGE .
- (Article R742-36)
+Sous-section 2 : Entreprises occupant moins de cinquante salariés.
+ (Article R742-8-11)
+
+
+
+
+Sous-section 3 : Dispositions diverses.
+ (Articles R742-8-12 à R742-8-13)
 
 
 
 
 
 
-SECTION 4 : CONTROLE .
- (Article R742-37)
+Section 4 : Règlements des conflits collectifs du travail
+
+
+Paragraphe 1 : Conciliation.
+ (Articles R742-7 à R742-18)
+
+
+
+
+Paragraphe 2 : Médiation.
+ (Articles R742-19 à R742-20)
+
+
+
+
+Paragraphe 3 : Arbitrage.
+ (Article R742-21)
+
+
+
+
+
+
+Section 5 : Contrôle.
+ (Article R742-22)
 
 
 
@@ -6460,33 +6483,6 @@ Section 3 : Amélioration des conditions de travail
 
 Paragraphe 1 : Commission paritaire spéciale.
  (Articles R743-6 à R743-12)
-
-
-
-
-
-
-
-
-
-
-SECTION 3 : TRANSPORTS ET TELECOMMUNICATIONS
-
-
-Chapitre II : MARINS
-
-
-SECTION 3 : REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL
-
-
-PARAGRAPHE 1 : CONCILIATION .
- (Article R742-12)
-
-
-
-
-PARAGRAPHE 2 : MEDIATION .
- (Article R742-32)
 
 
 
@@ -6724,27 +6720,6 @@ BATIMENT ET TRAVAUX PUBLICS
 
 INDEMNISATION DES TRAVAILLEURS DU BATIMENT ET DES TRAVAUX PUBLICS  PRIVES D'EMPLOI PAR SUITE D'INTEMPERIES .
  (Article R731-20)
-
-
-
-
-
-
-TRANSPORTS ET TELECOMMUNICATIONS
-
-
-MARINS
-
-
-REGLEMENTS DES CONFLITS COLLECTIFS DU TRAVAIL
-
-
-CONCILIATION .
- (Article R742-9)
-
-
-
-
 
 
 
