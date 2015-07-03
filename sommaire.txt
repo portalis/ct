@@ -115,18 +115,7 @@ Chapitre VIII : Dispositions financières.
 
 
 Chapitre IX : Dispositions diverses.
- (Articles L119-2 à L119-5)
-
-
-
-
-
-
-DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER JUILLET 1972 *DATE*
-
-
-Chapitre IX : DISPOSITIONS DIVERSES.
- (Article L119-1)
+ (Articles L119-1 à L119-5)
 
 
 
@@ -1288,27 +1277,6 @@ Chapitre V : Travailleurs privés d'emploi.
 
 
 
-Livre III : EMPLOI
-
-
-Titre II : EMPLOI
-
-
-Chapitre IV : TRAVAIL CLANDESTIN
-
-
-SECTION 2 : TRAVAIL CLANDESTIN.
- (Article L324-10)
-
-
-
-
-
-
-
-
-
-
 Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
 
 
@@ -2285,7 +2253,7 @@ Titre III : Placement et emploi
 
 
 Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
- (Article L831-2)
+ (Articles L831-1 à L831-2)
 
 
 
@@ -2328,17 +2296,6 @@ Chapitre II : Réglementation du travail.
 
 
 
-LIVRE VIII : DISPOSITIONS SPECIALES AUX DEPARTEMENTS D'OUTRE-MER *DOM TITRE III : PLACEMENT ET EMPLOI
-
-
-CHAPITRE Ier : DISPOSITIONS SPECIALES A LA MAIN-D'OEUVRE ETRANGERE .
- (Article L831-1)
-
-
-
-
-
-
 Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
  (Articles L900-1 à L900-4)
 
@@ -2365,18 +2322,7 @@ Chapitre Ier : De la promotion individuelle et du congé de formation.
 
 
 Chapitre II : Des droits collectifs des salariés.
- (Articles L932-1 à L932-5)
-
-
-
-
-
-
-Titre III : DES DROITS COLLECTIFS DES SALARIES EN MATIERE DE FORMATION
-
-
-Chapitre II : DES DROITS COLLECTIFS DES SALARIES.
- (Article L932-6)
+ (Articles L932-1 à L932-7)
 
 
 
