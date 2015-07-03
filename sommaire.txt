@@ -2729,8 +2729,8 @@ Section 5 : Du contrôle des centres de formation d'apprentis.
 Chapitre VII : Du contrat d'apprentissage
 
 
-Paragraphe 1 : De l'agrément des entreprises
- (Articles R117-1 à R117-5-3)
+Paragraphe 1 : De la déclaration de l'employeur relative à l'organisation de l'apprentissage
+ (Articles R117-2 à R117-5-3)
 
 
 
@@ -2856,6 +2856,12 @@ Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conc
 Chapitre VII : Du contrat d'apprentissage
 
 
+Paragraphe 1 : De la déclaration de l'employeur relative à l'organisation de l'apprentissage
+ (Articles R117-1 à R117-5-2)
+
+
+
+
 Paragraphe 2 : De la durée de l'apprentissage.
  (Articles R117-7 à R117-8-1)
 
@@ -2895,7 +2901,7 @@ D - Inspection de l'apprentissage
 
 
 Dispositions générales.
- (Articles R119-56 à R119-60)
+ (Articles R119-53 à R119-60)
 
 
 
@@ -3050,7 +3056,7 @@ Chapitre VI : Cautionnements.
 
 
 Chapitre VII : Groupements d'employeurs.
- (Articles R127-1 à R127-7)
+ (Articles R127-1 à R127-8)
 
 
 
@@ -3450,7 +3456,7 @@ Section 1 : Dispositions générales.
 
 
 
-Section 2 : Equipes de suppléance.
+Section 2 : Equipes de suppléances - Organisation du travail de façon continue pour raisons économiques
  (Articles R221-14 à R221-17)
 
 
@@ -3647,7 +3653,43 @@ Sous-section 8 : Mesures d'application.
 
 
 
-Section 6 : Manutention des charges
+Section 6 : Prévention du risque biologique
+ (Article R231-60)
+
+
+Sous-section 1 : Définitions
+ (Articles R231-61 à R231-61-1)
+
+
+
+
+Sous-section 2 : Règles générales d'évaluation et de prévention du risque biologique
+ (Articles R231-62 à R231-62-3)
+
+
+
+
+Sous-section 3 : Formation et information
+ (Articles R231-63 à R231-63-4)
+
+
+
+
+Sous-section 4 : Dispositions particulières à certaines activités
+ (Articles R231-64 à R231-64-1)
+
+
+
+
+Sous-section 5 : Surveillance médicale spéciale
+ (Articles R231-65 à R231-65-3)
+
+
+
+
+
+
+Section 7 : Manutention des charges
  (Articles R231-66 à R231-72)
 
 
@@ -4350,18 +4392,24 @@ Section 4 : Des personnels des services médicaux du travail.
 
 
 Sous-section 1 : Des médecins du travail.
- (Articles R241-29 à R241-34)
+ (Articles R241-30 à R241-34)
 
 
 
 
-Sous-section 2 : Des infirmiers, infirmières et secrétaires médicaux.
+Sous-section 2 : Des internes en médecine du travail
+ (Articles R241-34-1 à R241-34-3)
+
+
+
+
+Sous-section 3 : Des infirmiers, infirmières et secrétaires médicaux.
  (Articles R241-35 à R241-38)
 
 
 
 
-Sous-section 3 : Des secouristes.
+Sous-section 4 : Des secouristes.
  (Articles R241-39 à R241-40)
 
 
@@ -6499,7 +6547,7 @@ Chapitre Ier : De la promotion individuelle et du congé de formation
 
 
 Section 1 : Dispositions communes.
- (Articles R931-1 à R931-12)
+ (Articles R931-1 à R931-11)
 
 
 
