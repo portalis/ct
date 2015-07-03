@@ -1781,12 +1781,6 @@ Chapitre VI : Conditions de licenciement des représentants du personnel
 
 
 
-Chapitre VII : Amélioration des conditions de travail.
- (Articles L437-1 à L437-4)
-
-
-
-
 Chapitre VIII : Bilan social.
  (Articles L438-1 à L438-10)
 
@@ -4032,12 +4026,6 @@ Titre III : Hygiène et sécurité
 Chapitre Ier : Dispositions générales
 
 
-Section 1 : Comités d'hygiène et de sécurité.
- (Articles R231-1 à R231-11-1)
-
-
-
-
 Section 2 : Mises en demeure de l'inspection du travail.
  (Articles R231-12 à R231-13)
 
@@ -4062,7 +4050,7 @@ Sous-section 2 : Commission nationale d'hygiène et de sécurité du travail en 
 
 
 Section 4 : Formation à la sécurité.
- (Articles R231-33 à R231-34)
+ (Articles R231-32 à R231-34)
 
 
 Sous-section 1 : Dispositions générales.
@@ -4073,6 +4061,12 @@ Sous-section 1 : Dispositions générales.
 
 Sous-section 2 : De la formation à la sécurité de certaines catégories de salariés.
  (Articles R231-38 à R231-39)
+
+
+
+
+Sous-section 3 : Des actions particulières de formation à la sécurité.
+ (Articles R231-40 à R231-43)
 
 
 
@@ -4378,6 +4372,12 @@ Chapitre II : HYGIENE SECTION 4 : SIEGES.
 
 Chapitre II : HYGIENE SECTION 5 : COUCHAGE.
  (Articles R232-34 à R232-37)
+
+
+
+
+Chapitre II : HYGIENE SECTION 6 : MESURES D'APPLICATION.
+ (Article R232-43)
 
 
 
@@ -4689,6 +4689,12 @@ Sous-section 2 : Préorientation des travailleurs handicapés.
 
 Sous-section 4 : Education, rééducation professionnelle et réentraînement au travail.
  (Article R323-36)
+
+
+
+
+SOUS-SECTION 2 : READAPTATION, REEDUCATION, FORMATION PROFESSIONNELLE ET REENTRAINEMENT AU TRAVAIL .
+ (Article R323-40)
 
 
 
@@ -5186,12 +5192,6 @@ Chapitre V : Comités d'établissement et comité central d'entreprise.
 
 Chapitre VI : Licenciement des représentants du personnel, des représentants syndicaux et des salariés assimilés.
  (Articles R436-1 à R436-10)
-
-
-
-
-Chapitre VII : Amélioration des conditions de travail.
- (Article R437-1)
 
 
 
