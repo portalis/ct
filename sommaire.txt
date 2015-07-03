@@ -3661,6 +3661,96 @@ Sous-section 3 : Dispositions diverses.
 
 
 
+Chapitre II : Hygiène
+
+
+Section 1 : Hygiène des locaux affectés au travail et de leurs annexes
+
+
+Sous-section 2 : Installations sanitaires
+ (Articles R232-2 à R232-2-7)
+
+
+
+
+Sous-section 3 : Postes de distribution de boissons
+ (Article R232-3)
+
+
+
+
+Sous-section 4 : Confort du poste de travail
+ (Article R232-4)
+
+
+
+
+
+
+Section 2 : Ambiances des lieux de travail
+
+
+Sous-section 1 : Aération, assainissement
+ (Articles R232-5-1 à R232-5-14)
+
+
+
+
+Sous-section 2 : Ambiance thermique.
+ (Article R232-6)
+
+
+
+
+Sous-section 3 : Eclairage.
+ (Articles R232-7 à R232-7-10)
+
+
+
+
+
+
+Section 3 : Restauration
+
+
+Hébergement
+
+
+Sous-section 1 : Repas.
+ (Articles R232-10 à R232-10-1)
+
+
+
+
+Sous-section 2 : Hébergement.
+ (Articles R232-11-3 à R232-11-5)
+
+
+
+
+
+
+
+
+Section 4 : Mesures d'application
+
+
+Sous-section 1 : Dispositions particulières aux établissements agricoles.
+ (Articles R232-12 à R232-12-9)
+
+
+
+
+Sous-section 2 : Dispositions générales.
+ (Article R232-13)
+
+
+
+
+
+
+
+
 Chapitre III : Sécurité
 
 
@@ -3733,7 +3823,7 @@ Sous-section 4 : Prescriptions applicables aux matériels en service ou usagés.
 
 
 Sous-section 5 : Dispositions communes.
- (Articles R233-78 à R233-80)
+ (Articles R233-78 à R233-81-1)
 
 
 
@@ -3841,25 +3931,7 @@ SECTION 1 : LOCAUX AFFECTES AU TRAVAIL
 
 
 SOUS-SECTION 1 : AERATION, ASSAINISSEMENT.
- (Articles R232-1 à R232-4)
-
-
-
-
-SOUS-SECTION 2 : CHAUFFAGE.
- (Article R232-5)
-
-
-
-
-SOUS-SECTION 3 : ECLAIRAGE.
- (Articles R232-6 à R232-6-10)
-
-
-
-
-SOUS-SECTION 4 : PROTECTION CONTRE LES INTEMPERIES.
- (Articles R232-7 à R232-8)
+ (Article R232-1)
 
 
 
@@ -3870,60 +3942,6 @@ SOUS-SECTION 5 : INSONORISATION.
 
 
 
-SOUS-SECTION 6 : NETTOYAGE.
- (Articles R232-10 à R232-11)
-
-
-
-
-
-
-SECTION 2 : REPAS, BOISSONS.
- (Articles R232-16 à R232-21)
-
-
-
-
-SECTION 3 : INSTALLATIONS SANITAIRES.
- (Articles R232-22 à R232-28)
-
-
-
-
-SECTION 4 : SIEGES.
- (Article R232-29)
-
-
-
-
-SECTION 5 : COUCHAGE .
- (Articles R232-31 à R232-41)
-
-
-
-
-SECTION 6 : MESURES D'APPLICATION
- (Articles R232-42 à R232-45)
-
-
-
-
-SECTION 7 : DISPOSITIONS PARTICULIERES AUX ETABLISSEMENTS AGRICOLES.
- (Articles R232-46 à R232-51)
-
-
-
-
-
-
-Chapitre II : HYGIENE SECTION 4 : SIEGES.
- (Article R232-30)
-
-
-
-
-Chapitre II : HYGIENE SECTION 5 : COUCHAGE.
- (Articles R232-34 à R232-37)
 
 
 
@@ -3982,12 +4000,6 @@ SOUS-SECTION 3 : PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS A
 
 SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES.
  (Articles R233-75 à R233-77)
-
-
-
-
-SOUS-SECTION 5 : DISPOSITIONS COMMUNES *PROCEDURE RELATIVE AUX MATERIELS NEUFS ET PRODUITS NON SOUMIS AU CONTROLE PREALABLE ET PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES*.
- (Article R233-81)
 
 
 
