@@ -1022,7 +1022,7 @@ Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
 
 
 Chapitre Ier : Licenciement pour motif économique.
- (Articles L321-1 à L321-13)
+ (Articles L321-1 à L321-15)
 
 
 
@@ -1032,6 +1032,12 @@ Chapitre II : Fonds national de l'emploi
 
 Section 1 : Fonds national de l'emploi.
  (Articles L322-1 à L322-6)
+
+
+
+
+Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dans le cadre des accords sur l'emploi.
+ (Article L322-7)
 
 
 
