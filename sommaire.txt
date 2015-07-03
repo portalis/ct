@@ -4145,6 +4145,12 @@ Section 2 : Formation des représentants du personnel aux comités d'hygiène, d
 
 
 
+Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
+ (Articles R236-23 à R236-31)
+
+
+
+
 
 
 
@@ -4359,6 +4365,171 @@ SOUS-SECTION 4 : PRESCRIPTIONS APPLICABLES AUX MATERIELS EN SERVICE OU USAGES
  (Article R233-72)
 
 
+
+
+
+
+
+
+
+
+Titre IV : Médecine du travail
+
+
+Chapitre Ier : Dispositions de droit commun.
+ (Article R241-1)
+
+
+SECTION 1 : DES SERVICES MEDICAUX DU TRAVAIL D'ENTREPRISE OU D'ETABLISSEMENT
+
+
+SOUS-SECTION 1 : DISPOSITIONS GENERALES.
+ (Articles R241-2 à R241-3)
+
+
+
+
+SOUS-SECTION 2 : SERVICES MEDICAUX DU TRAVAIL INTERETABLISSEMENTS D'ENTREPRISE.
+ (Articles R241-4 à R241-5)
+
+
+
+
+SOUS-SECTION 3 : DECLARATION DE CREATION
+
+
+AGREMENT DES SERVICES MEDICAUX - CONTROLE.
+ (Articles R241-6 à R241-8)
+
+
+
+
+
+
+
+
+SECTION 1 : LES SERVICES MEDICAUX DU TRAVAIL D'ENTREPRISE OU D'ETABLISSEMENT
+
+
+SOUS-SECTION 3 : DECLARATION DE CREATION
+
+
+AGREMENT DES SERVICES MEDICAUX - CONTROLE.
+ (Article R241-9)
+
+
+
+
+
+
+
+
+Section 2 : Des services médicaux du travail interentreprises.
+
+
+Sous-section 1 : Organisation et fonctionnement.
+ (Articles R241-10 à R241-20)
+
+
+
+
+Sous-section 2 : Approbation des décisions fixant la compétence géographique ou professionnelle et agrément des secteurs médicaux - Contrôle.
+ (Articles R241-21 à R241-25)
+
+
+
+
+
+
+Section 3 : Dispositions diverses.
+ (Articles R241-26 à R241-28)
+
+
+
+
+Section 4 : Des personnels des services médicaux du travail.
+
+
+Sous-section 1 : Des médecins du travail.
+ (Articles R241-29 à R241-34)
+
+
+
+
+Sous-section 2 : Des infirmiers, infirmières et secrétaires médicaux.
+ (Articles R241-35 à R241-38)
+
+
+
+
+Sous-section 3 : Des secouristes.
+ (Articles R241-39 à R241-40)
+
+
+
+
+
+
+Section 5 : Des missions des services médicaux du travail.
+ (Article R241-41)
+
+
+Sous-section 1 : Action sur le milieu du travail.
+ (Articles R241-42 à R241-47)
+
+
+
+
+Sous-section 2 : Examens médicaux.
+ (Articles R241-48 à R241-55)
+
+
+
+
+Sous-section 3 : Documents médicaux.     
+ (Articles R241-56 à R241-58)
+
+
+
+
+
+
+
+
+Chapitre II : Dispositions applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers
+
+
+Section 1 : Organisation et fonctionnement du service de médecine du travail.
+ (Articles R242-1 à R242-10)
+
+
+
+
+Section 2 : Missions du médecin du travail
+
+
+Sous-section 1 : Action sur le milieu de travail.
+ (Articles R242-11 à R242-14)
+
+
+
+
+Sous-section 2 : Examens médicaux.
+ (Articles R242-15 à R242-21)
+
+
+
+
+Sous-section 3 : Documents médicaux.
+ (Articles R242-22 à R242-23)
+
+
+
+
+
+
+Section 3 : Dispositions transitoires.
+ (Article R242-24)
 
 
 
@@ -4923,12 +5094,6 @@ SOUS-SECTION I - MACHINES ET APPAREILS.
 
 
 
-
-
-
-
-MEDECINE DU TRAVAIL
- (Article R241-1)
 
 
 
