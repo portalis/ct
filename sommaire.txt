@@ -1145,7 +1145,7 @@ Titre Ier : Placement
 
 
 Chapitre préliminaire.
- (Article L310-1)
+ (Articles L310-1 à L310-2)
 
 
 
@@ -1154,7 +1154,37 @@ Chapitre Ier : Service public du placement
 
 
 Section 1 : Organismes qui concourent au service public du placement.
- (Article L311-3)
+ (Articles L311-1 à L311-2)
+
+
+
+
+Section 2 : Diffusion et publicité des offres et demandes d'emploi
+ (Article L311-4)
+
+
+
+
+Section 3 : Inscription sur la liste des demandeurs d'emploi
+ (Article L311-6)
+
+
+
+
+Section 4 : Agence nationale pour l'emploi.
+ (Articles L311-7 à L311-8)
+
+
+
+
+Section 5 : Rôle des collectivités territoriales
+ (Articles L311-9 à L311-11)
+
+
+
+
+Section 6 : Dispositions diverses.
+ (Article L311-12)
 
 
 
@@ -1251,21 +1281,10 @@ Section 2 : Travail clandestin.
 
 
 
-Titre III : AGENCE NATIONALE POUR L'EMPLOI
+Titre III : Conseil supérieur de l'égalité professionnelle entre les femmes et les hommes
 
 
-Chapitre Ier : AGENCE NATIONALE POUR L'EMPLOI.
- (Article L330-1)
-
-
-
-
-
-
-Titre III : AGENCE NATIONALE POUR L'EMPLOI - CONSEIL SUPERIEUR DE L'EGALITE PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES
-
-
-Chapitre II : CONSEIL SUPERIEUR DE L'EGALITE PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES.
+Chapitre II : Conseil supérieur de l'égalité professionnelle entre les femmes et les hommes.
  (Article L330-2)
 
 
@@ -1430,16 +1449,10 @@ Titre Ier : PLACEMENT
 
 
 Chapitre Ier : SERVICE PUBLIC DU PLACEMENT.
- (Articles L311-1 à L311-5)
 
 
-
-
-Chapitre II : PLACEMENT PRIVE
-
-
-SECTION 2 : PLACEMENT PAYANT.
- (Article L312-11)
+SECTION 3 : INSCRIPTION SUR LA LISTE DES DEMANDEURS D'EMPLOI.
+ (Article L311-5)
 
 
 
@@ -2412,7 +2425,7 @@ Paragraphe 2 : Rémunération.
 
 
 Paragraphe 3 : Placement.
- (Articles L762-4 à L762-12)
+ (Articles L762-3 à L762-12)
 
 
 
@@ -2558,27 +2571,6 @@ Section 1 : Journalistes professionnels.
 
 Section 2 : Artistes, auteurs, compositeurs, gens de lettres, artistes du spectacle.
  (Article L796-2)
-
-
-
-
-
-
-
-
-
-
-DISPOSITIONS PARTICULIERES A CERTAINES PROFESSIONS
-
-
-ARTISTES, AUTEURS, COMPOSITEURS, GENS DE LETTRES
-
-
-ARTISTES DE SPECTACLE
-
-
-PLACEMENT .
- (Article L762-3)
 
 
 
