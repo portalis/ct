@@ -2403,6 +2403,12 @@ Section 1 : Rémunération mensuelle minimale
 
 
 
+Section 2 : Contrats d'accès à l'emploi
+ (Article L832-2)
+
+
+
+
 Section 3 : Cumuls d'emplois et travail clandestin.
  (Article L832-3)
 
@@ -3045,7 +3051,7 @@ Section 1 : Déclarations et justifications à fournir à l'autorité administra
 
 
 
-Section 2 : Informations à fournir en application des articles L. 124-11 et L. 124-12.
+Section 2 : Informations à fournir en application de l'article L. 124-11
  (Articles R124-4 à R124-4-1)
 
 
@@ -3327,7 +3333,7 @@ Paragraphe 4 : Règlement intérieur
 
 
 Section 2 : Travail temporaire.
- (Article R152-5)
+ (Articles R152-5 à R152-6-1)
 
 
 
@@ -6679,8 +6685,8 @@ Section 6 : Des engagements de développement de la formation.
 
 
 
-Section 7 : Des conditions d'agrément et de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés
- (Articles R952-1 à R952-5)
+Section 7 : Des conditions de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés
+ (Articles R952-3 à R952-5)
 
 
 
@@ -6759,35 +6765,23 @@ B - Dispositions diverses.
 
 
 
-Chapitre IV : Fonds d'assurance-formation et organismes paritaires agréés en application de l'article L. 950-2-3
+Chapitre IV : Organismes collecteurs des fonds de la formation professionnelle continue
 
 
-Paragraphe 1 : Dispositions communes.
- (Articles R964-1 à R964-10)
-
-
-
-
-Paragraphe 2 : Dispositions propres aux fonds d'assurance-formation de salariés.
- (Articles R964-11 à R964-18)
+Paragraphe 1 : Agrément des organismes collecteurs paritaires
+ (Articles R964-1 à R964-1-6)
 
 
 
 
-Paragraphe 3 : Dispositions propres aux fonds d'assurance-formation des non-salariés.
- (Articles R964-19 à R964-20)
+Paragraphe 2 : Dispositions communes aux organismes collecteurs paritaires agréés
+ (Articles R964-1-7 à R964-1-13)
 
 
 
 
-Paragraphe 4 : Dispositions relatives à l'agrément prévu à l'article L. 950-2-3.
- (Articles R964-21 à R964-23)
-
-
-
-
-Paragraphe 5 : Règles applicables aux organismes paritaires agréés.
- (Articles R964-24 à R964-28)
+Paragraphe 3 : Dispositions relatives aux fonds d'assurance formation
+ (Articles R964-2 à R964-15)
 
 
 
