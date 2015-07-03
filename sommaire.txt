@@ -348,6 +348,12 @@ Chapitre VIII : Associations intermédiaires.
 
 
 
+Chapitre IX : Services aux personnes
+ (Article L129-1)
+
+
+
+
 
 
 Titre III : Conventions et accords collectifs de travail
@@ -1055,7 +1061,7 @@ Titre II : Emploi
 
 
 Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
- (Article L320-1)
+ (Articles L320 à L320-1)
 
 
 
@@ -1192,6 +1198,7 @@ Titre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
 
 
 Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
+ (Article L341-9-1)
 
 
 Section 1 : Travailleurs étrangers
@@ -1279,7 +1286,7 @@ Titre VI : PENALITES
 
 
 Chapitre Ier : PLACEMENT
- (Article L361-1)
+ (Articles L361-1 à L361-2)
 
 
 
@@ -1299,7 +1306,7 @@ Travailleurs handicapés.
 
 
 SECTION 2 : CUMUL D'EMPLOI ET TRAVAIL CLANDESTIN
- (Article L362-3)
+ (Articles L362-3 à L362-6)
 
 
 
@@ -2357,6 +2364,22 @@ Titre Ier : Des institutions de la formation professionnelle.
 
 
 
+(en vigueur jusqu'à la date de publication du décret d'application prévu au 4e alinéa de l'art. L910-1)
+
+
+Titre V : De la participation des employeurs au développement de la formation professionnelle continue
+
+
+Chapitre III : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non-salariées
+ (Article L953-2)
+
+
+
+
+
+
+
+
 Titre II : Des conventions et des contrats de formation professionnelle
 
 
@@ -2387,13 +2410,19 @@ Section 1 : Congé de formation : dispositions communes
 
 
 Section 2 : Congé de formation : dispositions particulières aux personnes qui ont été titulaires de contrats à durée déterminée.
- (Articles L931-13 à L931-20)
+ (Articles L931-13 à L931-20-1)
 
 
 
 
-Section 3 : Autres congés
- (Articles L931-21 à L931-22)
+Section 3 : Congé de bilan de compétences
+ (Articles L931-21 à L931-27)
+
+
+
+
+Section 4 : Autres congés
+ (Articles L931-28 à L931-29)
 
 
 
@@ -2401,7 +2430,18 @@ Section 3 : Autres congés
 
 
 Chapitre II : Des droits collectifs des salariés.
- (Articles L932-1 à L932-7)
+
+
+
+
+Chapitre II : Du plan de formation de l'entreprise
+ (Article L932-1)
+
+
+
+
+Chapitre III : Des droits collectifs des salariés.
+ (Articles L933-1 à L933-6)
 
 
 
@@ -2426,7 +2466,25 @@ Chapitre II : De l'aide de l'Etat au remplacement de certains salariés en forma
 
 
 Titre V : De la participation des employeurs au développement de la formation professionnelle continue.
- (Articles L950-1 à L950-8)
+ (Article L950-1)
+
+
+Chapitre Ier : De la participation des employeurs occupant au minimum dix salariés
+ (Articles L951-1 à L951-13)
+
+
+
+
+Chapitre II : De la participation des employeurs occupant moins de dix salariés
+ (Articles L952-1 à L952-5)
+
+
+
+
+Chapitre III : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non-salariées
+ (Articles L953-1 à L953-3)
+
+
 
 
 
@@ -2455,7 +2513,19 @@ Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collec
 
 
 Titre VIII : Des formations professionnelles en alternance.
- (Articles L980-1 à L980-17)
+ (Articles L980-1 à L980-2)
+
+
+Chapitre Ier : Contrats d'insertion en alternance
+ (Articles L981-1 à L981-12)
+
+
+
+
+Chapitre II : Stages de formation professionnelle organisés avec le concours de l'Etat
+ (Articles L982-1 à L982-5)
+
+
 
 
 
@@ -5916,8 +5986,48 @@ Titre Ier : Coordination de la politique de formation professionnelle et de prom
 
 
 
-Titre II : Mesures d'application des articles L. 920-4, L. 920-5, L. 920-12.
- (Articles R920-1 à R920-8)
+Titre II : Des conventions et des contrats de formation professionnelle
+
+
+Chapitre Ier : Déclaration préalable et bilan pédagogique et financier.
+ (Articles R921-1 à R921-7)
+
+
+
+
+Chapitre II : Règlement intérieur des organismes de formation applicable aux stagiaires
+
+
+Section 1 : Elaboration du règlement intérieur
+ (Articles R922-1 à R922-2)
+
+
+
+
+Section 2 : Règlement intérieur et droit disciplinaire
+ (Articles R922-3 à R922-7)
+
+
+
+
+Section 3 : Règlement intérieur et représentation des stagiaires
+ (Articles R922-8 à R922-12)
+
+
+
+
+
+
+Chapitre III : Obligations comptables des dispensateurs de formation de droit privé
+ (Articles R923-1 à R923-3)
+
+
+
+
+Chapitre IV : Injonction, mise en demeure et sanctions
+ (Articles R924-1 à R924-2)
+
+
 
 
 
