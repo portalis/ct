@@ -2725,8 +2725,8 @@ Section 5 : Du contrôle des centres de formation d'apprentis.
 Chapitre VII : Du contrat d'apprentissage
 
 
-Paragraphe 1 : De l'agrément de l'employeur.
- (Articles R117-1 à R117-5-1)
+Paragraphe 1 : De l'agrément des entreprises
+ (Articles R117-1 à R117-5-3)
 
 
 
@@ -2749,7 +2749,7 @@ Certificat médical.
 
 
 Paragraphe 4 : Du contenu des contrats d'apprentissage.
- (Articles R117-11 à R117-12)
+ (Article R117-11)
 
 
 
@@ -2859,7 +2859,7 @@ Paragraphe 2 : De la durée de l'apprentissage.
 
 
 Paragraphe 4 : Du contenu des contrats d'apprentissage.
- (Article R117-10)
+ (Articles R117-10 à R117-12)
 
 
 
@@ -2891,7 +2891,7 @@ D - Inspection de l'apprentissage
 
 
 Dispositions générales.
- (Articles R119-57 à R119-60)
+ (Articles R119-56 à R119-60)
 
 
 
