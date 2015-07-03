@@ -328,17 +328,6 @@ Sous-section 2 : Protection des salariés et droit disciplinaire.
 
 
 
-SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE
-
-
-SOUS-SECTION 2 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE.
- (Article L122-41)
-
-
-
-
-
-
 
 
 Chapitre III : Egalité professionnelle entre les femmes et les hommes.
@@ -959,6 +948,12 @@ Section 3 : Congé mutualiste.
 
 
 
+Chapitre VI : Congés pour événements familiaux.
+ (Article L226-1)
+
+
+
+
 
 
 Titre II : REPOS
@@ -1122,22 +1117,6 @@ SECTION 3 : HEURES SUPPLEMENTAIRES.
 
 
 
-Livre II : REGLEMENT DU TRAVAIL
-
-
-Titre II : CONGES
-
-
-Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.
- (Article L226-1)
-
-
-
-
-
-
-
-
 Livre III : Placement et emploi
 
 
@@ -1217,6 +1196,18 @@ Section 3 : Dispositions communes
 
 
 Titre II : Emploi
+
+
+Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
+ (Article L320-1)
+
+
+
+
+Chapitre Ier : Licenciement pour motif économique.
+ (Articles L321-2 à L321-10)
+
+
 
 
 Chapitre II : Fonds national de l'emploi
@@ -1393,6 +1384,12 @@ Chapitre II : Régime des accords conclus entre employeurs et travailleurs et re
 
 
 
+Chapitre III : Dispositions particulières.
+ (Article L353-1)
+
+
+
+
 
 
 Titre VI : PENALITES
@@ -1470,7 +1467,7 @@ Titre II : EMPLOI
 
 
 Chapitre Ier : CONTROLE DE L'EMPLOI.
- (Articles L321-1 à L321-12)
+ (Articles L321-5 à L321-12)
 
 
 
@@ -1837,52 +1834,6 @@ Chapitre VI : Droit d'expression des salariés.
 CONFLITS DU TRAVAIL
 
 
-CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-
-
-ATTRIBUTIONS ET INSTITUTION DES CONSEILS DE PRUD'HOMMES
- (Article L511-1)
-
-
-
-
-ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.
- (Articles L512-2 à L512-11)
-
-
-
-
-ELECTION DES CONSEILLERS PRUD'HOMMES
-
-
-ELIGIBILITE.
- (Article L513-2)
-
-
-
-
-
-
-STATUT DES CONSEILLERS PRUD'HOMMES
- (Article L514-3)
-
-
-
-
-BUREAU DE CONCILIATION - BUREAU DE JUGEMENT - FORMATION DE REFERE
- (Articles L515-1 à L515-3)
-
-
-
-
-DEPENSES DES CONSEILS DE PRUD'HOMMES
- (Article L51-10-2)
-
-
-
-
-
-
 CONFLITS COLLECTIFS
 
 
@@ -1937,13 +1888,13 @@ Chapitre IV : Statut des conseillers prud'hommes.
 
 
 Chapitre V : Bureau de conciliation - Bureau de jugement - Formation de référé.
- (Articles L515-2 à L515-4)
+ (Articles L515-1 à L515-4)
 
 
 
 
 Chapitre VI : Procédure devant les conseils de prud'hommes.
- (Articles L516-1 à L516-4)
+ (Articles L516-1 à L516-5)
 
 
 
@@ -1955,7 +1906,7 @@ Chapitre VIII : Récusation.
 
 
 Chapitre X : Dépenses des conseils de prud'hommes.
- (Article L51-10-1)
+ (Articles L51-10-1 à L51-10-2)
 
 
 
@@ -1969,13 +1920,13 @@ Conseils de prud'hommes
 
 
 Chapitre Ier : Attributions et institution des conseils de prud'hommes.
- (Article L511-4)
+ (Articles L511-1 à L511-4)
 
 
 
 
 Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
- (Article L512-13)
+ (Articles L512-2 à L512-13)
 
 
 
@@ -1988,6 +1939,18 @@ Section 1 : Electorat, éligibilité et établissement des listes électorales
 
 Paragraphe 1 : Electorat.
  (Article L513-1)
+
+
+
+
+Paragraphe 2 : Eligibilité.
+ (Article L513-2)
+
+
+
+
+Paragraphe 3 : Etablissement des listes électorales.
+ (Article L513-3)
 
 
 
@@ -2113,32 +2076,6 @@ Conseils de prud'hommes
 
 Chapitre II : Conflits collectifs
  (Article L532-1)
-
-
-
-
-
-
-
-
-LIVRE 5 : CONFLITS DU TRAVAIL
-
-
-TITRE 1 : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
-
-
-CHAPITRE 3 : ELECTION DES CONSEILLERS PRUD'HOMMES
-
-
-SECTION 1
-
-
-PARAGRAPHE 3 : ETABLISSEMENT DES LISTES ELECTORALES.
- (Article L513-3)
-
-
-
-
 
 
 

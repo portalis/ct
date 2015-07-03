@@ -47,8 +47,9 @@ Par dérogation aux dispositions qui les assujettissent au secret
 professionnel, les organismes ou caisses de sécurité sociale ainsi que
 les caisses de la mutualité sociale agricole communiquent aux services
 du ministère du travail, aux seules fins d'information des employeurs
-sur les élections prud'homales à venir, les listes et adresses des
-entreprises ou établissements employant un ou plusieurs salariés.
+et des maires sur les élections prud'homale à venir, les listes et
+adresses des entreprises ou établissements employant un ou plusieurs
+salariés.
 
 La commission nationale informatique et libertés est chargée de
 contrôler l'exploitation des listes établies sur documents
