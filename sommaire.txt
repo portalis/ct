@@ -549,12 +549,6 @@ Section 2 : Privilèges et garanties de la créance de salaire.
 
 
 
-SECTION 2 : PRIVILEGES ET GARANTIES DE LA CREANCE DU SALAIRE .
- (Article L143-11-7)
-
-
-
-
 Section 3 : Prescription de l'action en paiement du salaire.
  (Article L143-14)
 
@@ -1145,7 +1139,7 @@ Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
 
 
 Chapitre Ier : Licenciement pour motif économique.
- (Articles L321-1 à L321-12)
+ (Articles L321-1 à L321-13)
 
 
 
@@ -1303,12 +1297,6 @@ Section 6 : Dispositions diverses.
  (Articles L351-23 à L351-25)
 
 
-
-
-
-
-Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI SECTION 2 : REGIME DE SOLIDARITE *BENEFICIAIRES*.
- (Article L351-10)
 
 
 
@@ -1493,7 +1481,7 @@ Titre 6 : PENALITES
 
 
 Chapitre 4 : MAIN-D'OEUVRE ETRANGERE ET PROTECTION DE LA MAIN-D'OEUVRE NATIONALE
- (Articles L364-2 à L364-3)
+ (Article L364-3)
 
 
 
@@ -1760,27 +1748,6 @@ Chapitre VI : Droit d'expression des salariés.
 
 
 
-CONFLITS DU TRAVAIL
-
-
-CONFLITS COLLECTIFS
-
-
-LA GREVE .
-
-
-GREVE DANS LES SERVICES PUBLICS .
- (Article L521-2)
-
-
-
-
-
-
-
-
-
-
 Livre V : Conflits du travail
 
 
@@ -1923,7 +1890,7 @@ Section 1 : Dispositions générales.
 
 
 Section 2 : Grève dans les services publics.
- (Articles L521-3 à L521-6)
+ (Articles L521-2 à L521-6)
 
 
 
@@ -2633,7 +2600,7 @@ Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collec
 
 
 Titre VIII : Des formations professionnelles en alternance.
- (Articles L980-1 à L980-13)
+ (Articles L980-1 à L980-16)
 
 
 
@@ -5637,7 +5604,7 @@ Section 5 : Le conseiller rapporteur.
 
 
 Section 6 : Le jugement.
- (Articles R516-27 à R516-29)
+ (Articles R516-26-1 à R516-29)
 
 
 
@@ -5656,6 +5623,12 @@ Section 8 : L'exécution des jugements.
 
 Section 9 : Dispositions générales et diverses.
  (Articles R516-38 à R516-44)
+
+
+
+
+Section 10 : Dispositions particulières relatives aux litiges en matière de licenciements pour motif économique.
+ (Articles R516-45 à R516-48)
 
 
 
@@ -7305,7 +7278,7 @@ Chapitre IV : Statut des conseillers prud'hommes.
 
 
 Chapitre X : Dépenses des conseils de prud'hommes.
- (Articles D51-10-1 à D51-10-9)
+ (Articles D51-10-2 à D51-10-9)
 
 
 
@@ -7331,7 +7304,7 @@ Chapitre VII : COMPETENCE DES CONSEILS DE PRUD'HOMMES
 
 
 Chapitre X : Dépenses des conseils de prud'hommes.
- (Article D51-10-6)
+ (Articles D51-10-1 à D51-10-6)
 
 
 
