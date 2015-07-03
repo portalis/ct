@@ -212,7 +212,7 @@ SECTION 1 : CONTRAT A DUREE DETERMINEE.
 
 
 Section 2 : Résiliation du contrat de travail à durée indéterminée
- (Articles L122-4 à L122-14-11)
+ (Articles L122-4 à L122-14-13)
 
 
 
@@ -912,17 +912,6 @@ Chapitre VI : COMITES D'HYGIENE, DE SECURITE ET DES CONDITIONS DE TRAVAIL
 
 
 
-Titre III : SECURITE
-
-
-Chapitre III : SECURITE.
- (Article L233-5)
-
-
-
-
-
-
 Titre IV : Médecine du travail.
  (Articles L241-1 à L241-11)
 
@@ -1000,7 +989,7 @@ Section 2 : Diffusion et publicité des offres et demandes d'emploi
 
 
 Section 3 : Inscription sur la liste des demandeurs d'emploi
- (Article L311-6)
+ (Articles L311-5 à L311-6)
 
 
 
@@ -1275,27 +1264,6 @@ Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nation
 
 Chapitre V : Travailleurs privés d'emploi.
  (Articles L365-1 à L365-2)
-
-
-
-
-
-
-
-
-Livre III : PLACEMENT
-
-
-Titre Ier : PLACEMENT
-
-
-Chapitre Ier : SERVICE PUBLIC DU PLACEMENT.
-
-
-SECTION 3 : INSCRIPTION SUR LA LISTE DES DEMANDEURS D'EMPLOI.
- (Article L311-5)
-
-
 
 
 
@@ -2557,12 +2525,6 @@ CONVENTIONS DE FORMATION PROFESSIONNELLE .
 
 
 Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMANENTE
-
-
-Titre V : DE LA PARTICIPATION DES EMPLOYEURS AU DEVELOPPEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE.
- (Article L950-2)
-
-
 
 
 Titre VI : AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION    PROFESSIONNELLE
@@ -4778,12 +4740,6 @@ Chapitre Ier : GARANTIE DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
 
 
 SECTION 1 : PRIVATION TOTALE D'EMPLOI
-
-
-SOUS-SECTION 2 : REGIME DE SOLIDARITE.
- (Article R351-13)
-
-
 
 
 SOUS-SECTION 3 : REGIMES PARTICULIERS.
