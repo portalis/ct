@@ -812,7 +812,7 @@ PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
 
 
 Paragraphe 3 : Travail intermittent.
- (Articles L212-4-9 à L212-4-11)
+ (Articles L212-4-8 à L212-4-11)
 
 
 
@@ -826,18 +826,12 @@ Paragraphe 4 : Encouragement à la pratique du sport.
 
 
 SECTION 3 : HEURES SUPPLEMENTAIRES.
- (Articles L212-5-1 à L212-8-5)
+ (Articles L212-5 à L212-9)
 
 
 
 
-SECTION 4 : DISPOSITIONS RELATIVES AUX FEMMES .
- (Articles L212-9 à L212-12)
-
-
-
-
-SECTION 5 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
+Section 4 : Dispositions relatives aux jeunes travailleurs.
  (Articles L212-13 à L212-14)
 
 
@@ -962,28 +956,6 @@ Chapitre VI : Congés pour événements familiaux.
 
 
 
-Titre II : REPOS
-
-
-Chapitre Ier : REPOS HEBDOMADAIRE.
- (Articles L221-5-1 à L221-10)
-
-
-
-
-Chapitre II : JOURS FERIES
-
-
-SECTION 1 : DISPOSITIONS GENERALES.
- (Articles L222-2 à L222-3)
-
-
-
-
-
-
-
-
 Titre III : Hygiène, sécurité et conditions de travail
 
 
@@ -1077,44 +1049,6 @@ Chapitre IV : Médecine du travail.
 
 Chapitre V : Service social du travail.
  (Article L265-1)
-
-
-
-
-
-
-
-
-LIVRE 2 : REGLEMENTATION DU TRAVAIL
-
-
-TITRE 1 : CONDITIONS DU TRAVAIL
-
-
-CHAPITRE 2 : DUREE DU TRAVAIL
-
-
-SECTION 1 : DISPOSITIONS GENERALES.
- (Article L212-2)
-
-
-
-
-SECTION 2 : TRAVAIL A TEMPS CHOISI
-
-
-PARAGRAPHE 3 : TRAVAIL INTERMITTENT.
- (Article L212-4-8)
-
-
-
-
-
-
-SECTION 3 : HEURES SUPPLEMENTAIRES.
- (Articles L212-5 à L212-8)
-
-
 
 
 
@@ -4595,7 +4529,7 @@ Section 1 : Conventions de coopération
 
 
 B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
- (Articles R322-6 à R322-6-1)
+ (Articles R322-6 à R322-7)
 
 
 
@@ -4941,7 +4875,7 @@ SECTION 1 : PRIVATION TOTALE D'EMPLOI
 
 
 SOUS-SECTION 2 : REGIME DE SOLIDARITE.
- (Articles R351-13 à R351-14)
+ (Article R351-13)
 
 
 
@@ -4954,12 +4888,6 @@ SOUS-SECTION 3 : REGIMES PARTICULIERS.
 
 SOUS-SECTION 4 : CONDITIONS D'OUVERTURE, DE RENOUVELLEMENT ET DE MAINTIEN DES DROITS AU REVENU DE REMPLACEMENT.
  (Articles R351-35 à R351-36)
-
-
-
-
-SOUS-SECTION 5 : AIDE A LA CREATION D'ENTREPRISE.
- (Articles R351-43 à R351-45)
 
 
 
@@ -5356,12 +5284,6 @@ A : CONVENTIONS DE FORMATION.
 
 
 
-B : CONVENTIONS D'ALLOCATION TEMPORAIRE DEGRESSIVE ET CONVENTIONS D'ALLOCATION SPECIALE.
- (Article R322-7)
-
-
-
-
 
 
 
@@ -5471,7 +5393,7 @@ Chapitre II : Organisation et fonctionnement des conseils de prud'hommes
 
 
 Section 1 : Organisation et fonctionnement de la juridiction.
- (Articles R512-3 à R512-9)
+ (Articles R512-1-1 à R512-9)
 
 
 
@@ -7312,17 +7234,6 @@ Livre III : EMPLOI
 
 
 Titre II : EMPLOI
-
-
-Chapitre II : FONDS NATIONAL DE L'EMPLOI *FNE*
-
-
-SECTION 3 : CHOMAGE PARTIEL.
- (Article D322-13)
-
-
-
-
 
 
 Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
