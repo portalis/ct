@@ -662,8 +662,19 @@ Section 1 : Dispositions générales.
 
 
 
+Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes - Emploi des enfants comme mannequins dans la publicité et la mode.
+ (Articles L211-7 à L211-14)
+
+
+
+
 Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes.
- (Articles L211-6 à L211-14)
+
+
+Emploi des enfants comme mannequins dans la publicité et la mode.
+ (Article L211-6)
+
+
 
 
 
@@ -2061,7 +2072,7 @@ Paragraphe 3 : Placement.
 
 
 Chapitre III : Mannequins.
- (Articles L763-1 à L763-2)
+ (Articles L763-1 à L763-12)
 
 
 
@@ -2197,6 +2208,12 @@ Section 1 : Journalistes professionnels.
 
 Section 2 : Artistes, auteurs, compositeurs, gens de lettres, artistes du spectacle.
  (Article L796-2)
+
+
+
+
+Section 3 : Mannequins.
+ (Article L796-3)
 
 
 
@@ -3469,7 +3486,7 @@ Sous-section 1 : Repas.
 
 
 Sous-section 2 : Hébergement.
- (Articles R232-11 à R232-11-5)
+ (Articles R232-11 à R232-11-6)
 
 
 
@@ -3621,6 +3638,12 @@ Sous-section 1 : Machines et appareils.
 
 
 
+Sous-section 2 : Protecteurs de machine, dispositifs, équipements et produits de protection.
+ (Article R233-83-1)
+
+
+
+
 
 
 SECTION 8 : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.
@@ -3640,6 +3663,12 @@ Sous-section 1 : Machines mobiles agricoles ou forestières.
 
 Sous-section 2 : Chariots de manutention automoteurs.
  (Articles R233-124 à R233-139)
+
+
+
+
+Sous-section 4 : Appareils et machines d'extraction, de terrassement, d'excavation ou de forage du sol.
+ (Articles R233-151 à R233-152)
 
 
 
