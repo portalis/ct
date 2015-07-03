@@ -1205,7 +1205,7 @@ Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
 
 
 Chapitre Ier : Licenciement pour motif économique.
- (Articles L321-2 à L321-10)
+ (Articles L321-1 à L321-12)
 
 
 
@@ -1464,12 +1464,6 @@ Livre III : EMPLOI
 
 
 Titre II : EMPLOI
-
-
-Chapitre Ier : CONTROLE DE L'EMPLOI.
- (Articles L321-5 à L321-12)
-
-
 
 
 Chapitre III : DISPOSITIONS REGISSANT L'EMPLOI DE CERTAINES CATEGORIES DE TRAVAILLEURS
@@ -4285,13 +4279,8 @@ SOUS-SECTION 2 : SERVICES MEDICAUX DU TRAVAIL INTERETABLISSEMENTS D'ENTREPRISE.
 
 
 
-SOUS-SECTION 3 : DECLARATION DE CREATION
-
-
-AGREMENT DES SERVICES MEDICAUX - CONTROLE.
- (Articles R241-6 à R241-8)
-
-
+SOUS-SECTION 3 : AGREMENT ET CONTROLE DES SERVICES MEDICAUX.
+ (Articles R241-7 à R241-8)
 
 
 
@@ -4301,13 +4290,8 @@ AGREMENT DES SERVICES MEDICAUX - CONTROLE.
 SECTION 1 : LES SERVICES MEDICAUX DU TRAVAIL D'ENTREPRISE OU D'ETABLISSEMENT
 
 
-SOUS-SECTION 3 : DECLARATION DE CREATION
-
-
-AGREMENT DES SERVICES MEDICAUX - CONTROLE.
+SOUS-SECTION 3 :AGREMENT ET CONTROLE DES SERVICES MEDICAUX
  (Article R241-9)
-
-
 
 
 
@@ -4365,7 +4349,7 @@ Section 5 : Des missions des services médicaux du travail.
 
 
 Sous-section 1 : Action sur le milieu du travail.
- (Articles R241-42 à R241-47)
+ (Articles R241-41-1 à R241-47)
 
 
 
@@ -4377,7 +4361,13 @@ Sous-section 2 : Examens médicaux.
 
 
 Sous-section 3 : Documents médicaux.     
- (Articles R241-56 à R241-58)
+ (Articles R241-56 à R241-57)
+
+
+
+
+Sous-section 4 : Recherches, études, enquêtes.
+ (Article R241-58)
 
 
 
