@@ -1056,7 +1056,7 @@ Titre III : Hygiène, sécurité et conditions de travail
 
 
 Chapitre Ier : Dispositions générales.
- (Articles L231-1-1 à L231-9)
+ (Articles L231-1 à L231-9)
 
 
 
@@ -1098,7 +1098,7 @@ Titre III : HYGIENE ET SECURITE .
 
 
 Chapitre Ier : DISPOSITIONS GENERALES
- (Articles L231-1 à L231-7)
+ (Article L231-7)
 
 
 
@@ -1619,7 +1619,7 @@ Chapitre IV : TRAVAIL CLANDESTIN
 
 
 SECTION 2 : TRAVAIL CLANDESTIN.
- (Articles L324-9 à L324-10)
+ (Articles L324-9 à L324-11)
 
 
 
@@ -1635,12 +1635,6 @@ EMPLOI
 
 FONDS NATIONAL DE L'EMPLOI .
  (Article L322-1)
-
-
-
-
-TRAVAIL CLANDESTIN .
- (Article L324-11)
 
 
 
@@ -1804,13 +1798,7 @@ Chapitre IV : Fonctionnement.
 
 
 Chapitre V : Comités d'établissements et comité central d'entreprise.
- (Articles L435-1 à L435-5)
-
-
-
-
-Chapitre V : COMITE D'ETABLISSEMENT ET COMITE CENTRAL D'ENTREPRISE.
- (Article L435-6)
+ (Articles L435-1 à L435-6)
 
 
 
@@ -2651,12 +2639,6 @@ Section 3 : Dispositions spéciales aux personnes employées par des personnes m
 
 
 
-TITRE VII : ASSISTANTES MATERNELLES.
- (Article L773-2)
-
-
-
-
 Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
 
 
@@ -2777,23 +2759,6 @@ PLACEMENT .
 
 CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .
  (Article L771-4)
-
-
-
-
-ASSISTANTES MATERNELLES.
- (Article L773-6)
-
-
-
-
-ASSISTANCES MATERNELLES
-
-
-DISPOSITIONS SPECIALES AUX PERSONNES EMPLOYEES PAR DES PERSONNES MORALES DE DROIT PRIVE.
- (Article L773-11)
-
-
 
 
 
@@ -2991,7 +2956,7 @@ Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collec
 
 
 Titre VIII : Des formations professionnelles en alternance.
- (Articles L980-1 à L980-12)
+ (Articles L980-1 à L980-13)
 
 
 
@@ -3067,7 +3032,7 @@ Titre VI : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIO
 
 
 Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE.
- (Articles L961-2 à L961-3)
+ (Article L961-2)
 
 
 
