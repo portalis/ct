@@ -528,8 +528,8 @@ Chapitre IV : Retenues sur le salaire.
 
 
 
-Chapitre V : Saisie-arrêt et cession de rémunérations dues par un employeur.
- (Articles L145-1 à L145-6)
+Chapitre V : Saisie et cession de rémunérations dues par un employeur.
+ (Articles L145-1 à L145-13)
 
 
 
@@ -6597,7 +6597,7 @@ Titre II : Emploi
 
 
 Chapitre Ier : Contrôle de l'emploi.
- (Articles D321-1 à D321-7)
+ (Articles D321-1 à D321-8)
 
 
 
