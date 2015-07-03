@@ -3530,11 +3530,33 @@ Sous-section 3 : Dispositions diverses.
 Chapitre II : Hygiène
 
 
-Section 1 : Hygiène des locaux affectés au travail et de leurs annexes
+Section 2 : Ambiances des lieux de travail
 
 
-Sous-section 1 : Nettoyage.
- (Article R232-1)
+Sous-section 3 : Eclairage.
+ (Article R232-7-1)
+
+
+
+
+Sous-section 4 : Prévention des risques dus au bruit.
+ (Article R232-8-7)
+
+
+
+
+
+
+
+
+Chapitre II : Hygiène - aménagement des lieux de travail - prévention des incendies
+
+
+Section 1 : Aménagement et hygiène des lieux de travail
+
+
+Sous-section 1 : Dispositions générales relatives à l'aménagement des lieux de travail
+ (Article R232-1-14)
 
 
 
@@ -3551,7 +3573,7 @@ Sous-section 3 : Postes de distribution de boissons
 
 
 
-Sous-section 4 : Confort du poste de travail
+Sous-section 4 : Confort du poste de travail - sièges
  (Article R232-4)
 
 
@@ -3568,7 +3590,7 @@ Sous-section 1 : Aération, assainissement
 
 
 
-Sous-section 2 : Ambiance thermique.
+Sous-section 2 : Ambiance thermique
  (Article R232-6)
 
 
@@ -3580,13 +3602,13 @@ Sous-section 3 : Eclairage.
 
 
 
-Sous-section 4 : Prévention des risques dus au bruit.
- (Articles R232-8 à R232-8-7)
+Sous-section 4 : Prévention des risques dus au bruit
+ (Articles R232-8 à R232-8-6)
 
 
 
 
-Sous-section 5 : Ambiances particulières.
+Sous-section 5 : Ambiances particulières
  (Article R232-9)
 
 
@@ -3594,19 +3616,16 @@ Sous-section 5 : Ambiances particulières.
 
 
 
-Section 3 : Restauration
+Section 3 : Restauration - hébergement
 
 
-Hébergement
-
-
-Sous-section 1 : Repas.
+Sous-section 1 : Repas
  (Articles R232-10 à R232-10-1)
 
 
 
 
-Sous-section 2 : Hébergement.
+Sous-section 2 : Hébergement
  (Articles R232-11 à R232-11-6)
 
 
@@ -3614,19 +3633,52 @@ Sous-section 2 : Hébergement.
 
 
 
+Section 4 : Prévention des incendies - évacuation
 
 
-Section 4 : Mesures d'application
-
-
-Sous-section 1 : Dispositions particulières aux établissements agricoles.
- (Articles R232-12 à R232-12-9)
+Sous-section 1 : Dispositions générales
+ (Articles R232-12 à R232-12-1)
 
 
 
 
-Sous-section 2 : Dispositions générales.
- (Article R232-13)
+Sous-section 2 : Dégagements
+ (Articles R232-12-2 à R232-12-7)
+
+
+
+
+Sous-section 3 : Chauffage des locaux
+ (Articles R232-12-8 à R232-12-12)
+
+
+
+
+Sous-section 4 : Emploi des matières inflammables
+ (Articles R232-12-13 à R232-12-16)
+
+
+
+
+Sous-section 5 : Moyens de prévention et de lutte contre l'incendie
+ (Articles R232-12-17 à R232-12-22)
+
+
+
+
+
+
+Section 5 : Mesures d'application
+
+
+Sous-section 1 : Dispositions particulières aux établissements agricoles
+ (Articles R232-13 à R232-13-9)
+
+
+
+
+Sous-section 2 : Dispositions générales
+ (Article R232-14)
 
 
 
@@ -3646,35 +3698,6 @@ Section 1 : Objets pesants.
 
 Section 2 : Machines et appareils dangereux.
  (Articles R233-2 à R233-13)
-
-
-
-
-Section 3 : Prévention des incendies
-
-
-Sous-section 1 : Classements des matières inflammables.
- (Articles R233-14 à R233-16)
-
-
-
-
-Sous-section 2 : Eclairage et chauffage des locaux.
- (Articles R233-17 à R233-22)
-
-
-
-
-Sous-section 3 : Issues et dégagements.
- (Articles R233-23 à R233-37)
-
-
-
-
-Sous-section 4 : Moyens de lutte contre l'incendie.
- (Articles R233-38 à R233-41)
-
-
 
 
 
@@ -4891,7 +4914,7 @@ Paragraphe 1 : Electorat.
 
 
 Paragraphe 3 : Etablissement des listes électorales.
- (Articles R513-11 à R513-30)
+ (Articles R513-11 à R513-17)
 
 
 
@@ -4917,12 +4940,6 @@ Paragraphe 4 : Vote
 
 I - Opérations de vote.
  (Articles R513-56 à R513-73)
-
-
-
-
-II - Vote par correspondance.
- (Articles R513-79 à R513-89)
 
 
 
@@ -4993,7 +5010,7 @@ Paragraphe 1 : Electorat.
 
 
 Paragraphe 3 : Etablissement des listes électorales.
- (Articles R513-12 à R513-28)
+ (Articles R513-12 à R513-30)
 
 
 
@@ -5034,13 +5051,13 @@ I - Opérations de vote.
 
 
 II - Vote par correspondance.
- (Articles R513-77 à R513-88)
+ (Articles R513-77 à R513-89)
 
 
 
 
 III - Dépouillement des votes.
- (Articles R513-90 à R513-107)
+ (Articles R513-90 à R513-107-1)
 
 
 
@@ -5304,18 +5321,7 @@ Titre III : Pénalités
 
 
 Chapitre Ier : Conflits individuels - Conseils de prud'hommes.
- (Article R531-2)
-
-
-
-
-Chapitre Ier : Conflits individuels
-
-
-Conseils de prud'hommes.
- (Article R531-1)
-
-
+ (Articles R531-1 à R531-2)
 
 
 
@@ -6107,6 +6113,23 @@ Chapitre Ier : Dispositions relatives aux titulaires d'un livret d'épargne inst
 
 Chapitre II : Aide de l'Etat au remplacement de certains salariés en formation
  (Articles R942-1 à R942-8)
+
+
+
+
+
+
+Titre V : De la participation des employeurs au développement de la formation professionnelle continue
+
+
+Section 8 : De la participation des travailleurs indépendants, des membres des professions libérales et des professions non salariées au développement de la formation professionnelle continue
+ (Articles R953-1 à R953-7)
+
+
+
+
+Section 9 : De la participation des chefs d'exploitation ou d'entreprises agricoles au développement de la formation professionnelle continue
+ (Articles R953-10 à R953-12)
 
 
 
