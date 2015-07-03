@@ -147,7 +147,7 @@ SECTION 2 : CONDITIONS DU CONTRAT D'APPRENTISSAGE .
 
 
 SECTION 2 : CONDITIONS DU CONTRAT
- (Article L117-10)
+ (Articles L117-5 à L117-10)
 
 
 
@@ -195,7 +195,7 @@ Section 1 : Définition et régime juridique.
 
 
 Section 2 : Conditions du contrat.
- (Articles L117-6 à L117-11)
+ (Articles L117-6 à L117-11-1)
 
 
 
@@ -247,7 +247,7 @@ Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
 
 
 SECTION 1 : CONTRAT A DUREE DETERMINEE.
- (Articles L122-3 à L122-3-15)
+ (Articles L122-1 à L122-3-16)
 
 
 
@@ -321,7 +321,7 @@ Sous-section 1 : Règlement intérieur
 
 
 Sous-section 2 : Protection des salariés et droit disciplinaire.
- (Articles L122-40 à L122-44)
+ (Articles L122-40 à L122-45)
 
 
 
@@ -343,7 +343,7 @@ SECTION 6 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE
 
 
 SOUS-SECTION 2 : PROTECTION DES SALARIES ET DROIT DISCIPLINAIRE.
- (Articles L122-41 à L122-45)
+ (Article L122-41)
 
 
 
@@ -362,7 +362,7 @@ Chapitre IV : Travail temporaire
 
 
 Section 1 : Règles générales.
- (Article L124-1)
+ (Articles L124-1 à L124-3)
 
 
 
@@ -388,13 +388,19 @@ Section 4 : Dispositions diverses.
 
 
 Chapitre V : Marchandage.
- (Articles L125-1 à L125-2)
+ (Articles L125-1 à L125-3)
 
 
 
 
 Chapitre VI : Cautionnements.
  (Articles L126-1 à L126-4)
+
+
+
+
+Chapitre VII : GROUPEMENTS D'EMPLOYEURS.
+ (Articles L127-1 à L127-7)
 
 
 
@@ -456,24 +462,13 @@ Chapitre III : Conventions et accords susceptibles d'être étendus et procédur
 
 
 Section 1 : Conventions et accords susceptibles d'être étendus.
- (Articles L133-1 à L133-6)
+ (Articles L133-1 à L133-7)
 
 
 
 
 Section 2 : Procédures d'extension et d'élargissement.
  (Articles L133-8 à L133-17)
-
-
-
-
-
-
-Chapitre III : CONVENTIONS ET ACCORDS SUSCEPTIBLES D'ETRE ETENDUS
-
-
-SECTION 1 : CONVENTIONS ET ACCORDS SUSCEPTIBLES D'ETRE ETENDUS.
- (Article L133-7)
 
 
 
@@ -672,8 +667,20 @@ Section 2 : Travail temporaire.
 
 
 
+Section 3 : Marchandage
+ (Article L152-3)
+
+
+
+
 Section 4 : Cautionnement.
  (Article L152-4)
+
+
+
+
+Section 5 : Groupements d'employeurs.
+ (Article L152-5)
 
 
 
@@ -729,7 +736,7 @@ CHAPITRE 5 : GENERALITES.
 
 
 CHAPITRE 6 : DES CENTRES DE FORMATION D'APPRENTIS.
- (Article L116-2)
+ (Articles L116-2 à L116-3)
 
 
 
@@ -748,67 +755,6 @@ SECTION 2 : TRAVAIL TEMPORAIRE.
  (Article L152-2)
 
 
-
-
-SECTION 3 : MARCHANDAGE
- (Article L152-3)
-
-
-
-
-
-
-
-
-
-
-CONVENTIONS RELATIVES AU TRAVAIL
-
-
-CONTRAT D'APPRENTISSAGE
-
-
-DISPOSITIONS APPLICABLES AUX CONTRATS CONCLUS A PARTIR DU 1ER  JUILLET 1972 *DATE*
-
-
-CENTRES DE FORMATION D'APPRENTIS .
- (Article L116-3)
-
-
-
-
-CONDITIONS DU CONTRAT D'APPRENTISSAGE .
- (Article L117-5)
-
-
-
-
-
-
-
-
-CONTRAT DE TRAVAIL .
-
-
-TRAVAIL TEMPORAIRE .
-
-
-REGLES GENERALES.
- (Articles L124-2 à L124-3)
-
-
-
-
-REGLES SPECIALES EN MATIERE DE RELATIONS DE TRAVAIL .
- (Articles L124-4-1 à L124-7)
-
-
-
-
-
-
-MARCHANDAGE .
- (Article L125-3)
 
 
 
@@ -970,7 +916,7 @@ Section 1 : Droit au congé.
 
 
 Section 2 : Durée du congé.
- (Articles L223-2 à L223-7-1)
+ (Articles L223-2 à L223-8)
 
 
 
@@ -1006,6 +952,12 @@ Section 1 : Congés de formation de cadres et d'animateurs pour la jeunesse.
 
 Section 2 : Congés d'éducation ouvrière.
  (Article L225-6)
+
+
+
+
+Section 3 : Congé mutualiste.
+ (Article L225-7)
 
 
 
@@ -1077,18 +1029,6 @@ Chapitre VI : COMITES D'HYGIENE, DE SECURITE ET DES CONDITIONS DE TRAVAIL
 
 
 
-Titre III : HYGIENE ET SECURITE .
- (Article L231-6)
-
-
-Chapitre Ier : DISPOSITIONS GENERALES
- (Article L231-7)
-
-
-
-
-
-
 Titre III : SECURITE
 
 
@@ -1149,28 +1089,6 @@ Chapitre V : Service social du travail.
 
 
 
-REGLEMENTATION DU TRAVAIL
-
-
-CONGES ANNUELS
-
-
-DUREE DU CONGE .
- (Article L223-8)
-
-
-
-
-
-
-HYGIENE ET SECURITE .
- (Article L231-4)
-
-
-
-
-
-
 Livre II : REGLEMENT DU TRAVAIL
 
 
@@ -1183,12 +1101,6 @@ Chapitre VI : CONGES POUR EVENEMENTS FAMILIAUX.
 
 
 
-
-
-
-
-REGLEMENTATION DU TRAVAIL HYGIENE ET SECURITE .
- (Article L231-3-1)
 
 
 
@@ -1668,7 +1580,7 @@ Chapitre II : Exercice du droit syndical dans les entreprises
 
 
 Section 1 : Dispositions générales.
- (Articles L412-2 à L412-4)
+ (Articles L412-1 à L412-4)
 
 
 
@@ -1919,22 +1831,6 @@ Chapitre III : Les comités d'entreprise.
 LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES
 
 
-LES SYNDICATS PROFESSIONNELS
-
-
-EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES
-
-
-DISPOSITIONS GENERALES .
- (Article L412-1)
-
-
-
-
-
-
-
-
 EDUCATION OUVRIERE ET FORMATION SYNDICALE
 
 
@@ -1981,16 +1877,10 @@ ELIGIBILITE.
 
 
 
-ETABLISSEMENT DES LISTES ELECTORALES.
- (Article L513-3)
-
-
-
-
 
 
 STATUT DES CONSEILLERS PRUD'HOMMES
- (Articles L514-2 à L514-3)
+ (Article L514-3)
 
 
 
@@ -2013,7 +1903,6 @@ CONFLITS COLLECTIFS
 
 
 LA GREVE .
- (Article L521-1)
 
 
 GREVE DANS LES SERVICES PUBLICS .
@@ -2130,7 +2019,7 @@ Section 2 : Scrutin, installation des conseillers prud'hommes, élections compl�
 
 
 Chapitre IV : Statut des conseillers prud'hommes.
- (Articles L514-5 à L514-14)
+ (Articles L514-2 à L514-14)
 
 
 
@@ -2149,6 +2038,12 @@ Titre II : Conflits collectifs
 
 
 Chapitre Ier : La grève
+
+
+Section 1 : Dispositions générales.
+ (Article L521-1)
+
+
 
 
 Section 2 : Grève dans les services publics.
@@ -2242,22 +2137,26 @@ Chapitre II : Conflits collectifs
 
 
 
-CONTROLE DE L'APPLICATION DE LA LEGISLATION ET DE LA REGLEMENTATION DU TRAVAIL
+LIVRE 5 : CONFLITS DU TRAVAIL
 
 
-SERVICES DE CONTROLE
+TITRE 1 : CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES
 
 
-INSPECTION DU TRAVAIL .
- (Articles L611-7 à L611-15)
+CHAPITRE 3 : ELECTION DES CONSEILLERS PRUD'HOMMES
+
+
+SECTION 1
+
+
+PARAGRAPHE 3 : ETABLISSEMENT DES LISTES ELECTORALES.
+ (Article L513-3)
 
 
 
 
 
 
-OBLIGATIONS DES EMPLOYEURS .
- (Articles L620-2 à L620-7)
 
 
 
@@ -2271,7 +2170,7 @@ Titre Ier : Services de contrôle
 
 
 Chapitre Ier : Inspection du travail.
- (Articles L611-1 à L611-13)
+ (Articles L611-1 à L611-15)
 
 
 
@@ -2285,7 +2184,7 @@ Chapitre II : Inspection médicale du travail.
 
 
 Titre II : Obligations des employeurs.
- (Articles L620-1 à L620-11)
+ (Articles L620-1 à L620-7)
 
 
 
@@ -2717,12 +2616,6 @@ PLACEMENT .
 
 
 
-CONCIERGES ET EMPLOYES D'IMMEUBLES A USAGE D'HABITATION .
- (Article L771-4)
-
-
-
-
 
 
 Livre VIII : Dispositions spéciales aux départements d'outre-mer
@@ -2925,7 +2818,7 @@ Titre IX : Dispositions diverses et dispositions pénales
 
 
 Chapitre Ier : Dispositions diverses.
- (Articles L991-2 à L991-8)
+ (Articles L991-1 à L991-8)
 
 
 
@@ -2955,12 +2848,6 @@ Livre IX : FORMATION PROFESSIONNELLE CONTINUE DANS LE CADRE DE L'EDUCATION PERMA
 
 
 Titre III : DES DROITS INDIVIDUELS ET DES DROITS COLLECTIFS DES    SALARIES EN MATIERE DE FORMATION
-
-
-Chapitre Ier : DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION
- (Article L931-2)
-
-
 
 
 Chapitre Ier : DE LA FORMATION INDIVIDUELLE ET DU CONGE DE FORMATION.
@@ -2999,17 +2886,6 @@ Chapitre Ier : DES AIDES FINANCIERES ACCORDEES AUX STAGIAIRES DE FORMATION PROFE
 
 
 
-Titre IX : DISPOSITIONS DIVERSES
-
-
-Chapitre Ier : DISPOSITIONS DIVERSES
- (Article L991-1)
-
-
-
-
-
-
 
 
 Livre IX : FORMATION PROFESSIONNELLE DANS LE CADRE DE L'EDUCATION    PERMANENTE
@@ -3019,7 +2895,7 @@ Titre III : DES DROITS INDIVIDUELS ET DES DROITS COLLECTIFS DES    SALARIES EN M
 
 
 Chapitre Ier : DE LA PROMOTION INDIVIDUELLE ET DU CONGE DE FORMATION
- (Articles L931-4 à L931-8)
+ (Articles L931-5 à L931-8)
 
 
 
