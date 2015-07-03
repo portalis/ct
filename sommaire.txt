@@ -4903,7 +4903,7 @@ Sous-section 5 : Aide à la création d'entreprise
 
 
 Section 2 : Privation partielle d'emploi.
- (Article R351-52)
+ (Articles R351-50 à R351-53)
 
 
 
@@ -5102,6 +5102,12 @@ Section 3 : Délégués syndicaux.
 Titre II : Les délégués du personnel
 
 
+Chapitre II : Attributions et pouvoirs.
+ (Articles R422-1 à R422-2)
+
+
+
+
 Chapitre III : Composition et élections.
  (Articles R423-1 à R423-4)
 
@@ -5148,6 +5154,12 @@ Section 4 : Comités interentreprises.
 
 Section 5 : Financement des activités sociales et culturelles.
  (Articles R432-11 à R432-16)
+
+
+
+
+Section 6 : Attributions économiques.
+ (Articles R432-17 à R432-18)
 
 
 
@@ -5626,27 +5638,6 @@ APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L.323-9 ET DE L'ARTI
 
 APPLICATION DES DISPOSITIONS DU DERNIER ALINEA DE L'ARTICLE L. 323-9 *POUR LA MISE OU LA REMISE AU TRAVAIL EN MILIEU ORDINAIRE DE PRODUCTION DES TRAVAILLEURS HANDICAPES* ET DE L'ARTICLE 29 DE LA LOI N. 75-534 DU 30 JUIN 1975.
  (Article R323-119)
-
-
-
-
-
-
-
-
-
-
-PLACEMENT ET EMPLOI
-
-
-TRAVAILLEURS PRIVES D'EMPLOI
-
-
-GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
-
-
-PRIVATION PARTIELLE D'EMPLOI.
- (Articles R351-50 à R351-53)
 
 
 
