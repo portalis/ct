@@ -3902,12 +3902,6 @@ Section 1 : Salaire minimum de croissance et rémunération mensuelle minimale g
 
 
 
-Section 2 : Prime de transport.
- (Article R154-2)
-
-
-
-
 Section 3 : Paiement du salaire
  (Article R154-3)
 
