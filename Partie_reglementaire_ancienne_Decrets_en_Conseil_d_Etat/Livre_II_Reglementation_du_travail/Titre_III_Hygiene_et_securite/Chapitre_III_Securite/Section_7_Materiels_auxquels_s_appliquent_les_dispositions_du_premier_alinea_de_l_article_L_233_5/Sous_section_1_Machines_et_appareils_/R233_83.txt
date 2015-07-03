@@ -63,7 +63,6 @@ pour le travail des viandes, poissons, légumes et fruits à des fins
 alimentaires.
 
 3. Matériels pour la préparation des matériaux et le génie civil.
-
 Machines et appareils à trier, cribler, laver, concasser, broyer,
 mélanger les terres, pierres, minerais et autres matières minérales
 solides ; machines et appareils à agglomérer, former ou mouler les
@@ -183,7 +182,18 @@ l) Les plates-formes élévatrices mobiles ;
 
 m) Les chariots à bras télescopiques.
 
-12. Autres matériels.
+12. Cabines de projection par pulvérisation, cabines et enceintes de
+séchage, cabines mixtes de projection et de séchage destinées à
+l'emploi de peintures liquides, de vernis, de poudres ou de fibres
+sèches, toxiques, nocifs, corrosifs, irritants, comburants ou
+inflammables, visés à l'article L. 231-6 du code du travail. Ces
+cabines et enceintes sont définies comme des espaces délimités par des
+parois horizontales et verticales distinctes des cloisons ou murs du
+local d'implantation, constituant un volume d'où les projections, les
+vapeurs et les aérosols de peinture ou de vernis ne peuvent sortir que
+par des dispositifs spécifiques de ventilation.
+
+13. Autres matériels.
 
 Centrifugeuses et essoreuses centrifuges.
 

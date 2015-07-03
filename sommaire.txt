@@ -3569,6 +3569,17 @@ Sous-section 2 : Chariots de manutention automoteurs.
 
 
 
+Section 9 : Règles techniques applicables à certains types ou catégories de matériels
+
+
+Sous-section 1 : Cabines de projection par pulvérisation, cabines et enceintes de séchage de peintures liquides, de vernis, de poudres ou de fibres sèches et cabines mixtes
+ (Articles R233-140 à R233-150)
+
+
+
+
+
+
 
 
 Chapitre IV : Dispositions particulières aux femmes et aux jeunes travailleurs.
@@ -6715,168 +6726,7 @@ Titre Ier : Conventions relatives au travail
 
 
 Chapitre Ier : Apprentissage
-
-
-Section 1 : Des centres de formation d'apprentis
-
-
-Paragraphe 1 : Des conventions portant création de centres de formation d'apprentis
-
-
-Dispositions générales.
- (Articles D811-1 à D811-3)
-
-
-
-
-De l'organisation des centres.
- (Articles D811-4 à D811-8)
-
-
-
-
-Du fonctionnement pédagogique des centres.
- (Articles D811-9 à D811-13)
-
-
-
-
-De l'organisation financière des centres.
- (Articles D811-14 à D811-16)
-
-
-
-
-
-
-Paragraphe 2 : De la conclusion et du renouvellement des conventions.
- (Articles D811-17 à D811-22)
-
-
-
-
-Paragraphe 3 : Du personnel des centres de formation d'apprentis.
- (Articles D811-23 à D811-27)
-
-
-
-
-Paragraphe 4 : Du contrôle des centres de formation d'apprentis.
- (Articles D811-28 à D811-31)
-
-
-
-
-
-
-Section 2 : Du contrat d'apprentissage
-
-
-De l'agrément de l'employeur.
- (Articles D811-32 à D811-36)
-
-
-
-
-De la durée de l'apprentissage.
- (Articles D811-37 à D811-39)
-
-
-
-
-Avis d'orientation
-
-
-Certificat médical.
- (Article D811-40)
-
-
-
-
-
-
-Du contenu des contrats d'apprentissage.
- (Articles D811-41 à D811-43)
-
-
-
-
-De l'enregistrement du contrat d'apprentissage.
- (Articles D811-44 à D811-46)
-
-
-
-
-Cas de l'apprenti employé par un ascendant.
- (Articles D811-47 à D811-48)
-
-
-
-
-Constatation de l'aptitude de l'apprenti.
- (Articles D811-49 à D811-50)
-
-
-
-
-
-
-Section 3 : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.
- (Article D811-51)
-
-
-
-
-Section 4 : Dispositions financières.
- (Articles D811-52 à D811-60)
-
-
-
-
-Section 5 : Dispositions provisoires
-
-
-Paragraphe 1 : Des accords provisoires
-
-
-Dispositions générales.
- (Articles D811-61 à D811-64)
-
-
-
-
-Des accords simples.
- (Articles D811-65 à D811-67)
-
-
-
-
-Des accords de transformation.
- (Articles D811-68 à D811-73)
-
-
-
-
-Dispositions relatives au personnel.
- (Articles D811-74 à D811-78)
-
-
-
-
-
-
-Paragraphe 2 : Dispositions transitoires relatives à l'agrément des employeurs.
- (Article D811-79)
-
-
-
-
-Paragraphe 3 : Dispositions transitoires relatives aux exonérations de la taxe d'apprentissage.
- (Article D811-80)
-
-
-
-
+ (Article D811)
 
 
 
