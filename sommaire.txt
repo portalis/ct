@@ -5214,6 +5214,12 @@ Section 6 : Attributions économiques.
 
 
 
+Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés
+ (Article R432-19)
+
+
+
+
 
 
 Chapitre III : Composition et élections.
@@ -6532,12 +6538,6 @@ Chapitre III : Obligations comptables des dispensateurs de formation de droit pr
 
 
 
-Chapitre IV : Injonction, mise en demeure et sanctions
- (Articles R924-1 à R924-2)
-
-
-
-
 
 
 Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
@@ -7092,8 +7092,8 @@ Chapitre II : Fonds national de l'emploi.
  (Articles D322-1 à D322-7)
 
 
-Section 3 : Chômage partiel.
- (Articles D322-11 à D322-16)
+Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
+ (Articles D322-11 à D322-22)
 
 
 
