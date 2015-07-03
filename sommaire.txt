@@ -825,7 +825,7 @@ PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
 
 
 SECTION 3 : HEURES SUPPLEMENTAIRES.
- (Articles L212-5 à L212-8)
+ (Articles L212-5-1 à L212-8-5)
 
 
 
@@ -1070,6 +1070,33 @@ Chapitre IV : Médecine du travail.
 
 Chapitre V : Service social du travail.
  (Article L265-1)
+
+
+
+
+
+
+
+
+LIVRE 2 : REGLEMENTATION DU TRAVAIL
+
+
+TITRE 1 : CONDITIONS DU TRAVAIL
+
+
+CHAPITRE 2 : DUREE DU TRAVAIL
+
+
+SECTION 1 : DISPOSITIONS GENERALES.
+ (Article L212-2)
+
+
+
+
+SECTION 3 : HEURES SUPPLEMENTAIRES.
+ (Articles L212-5 à L212-8)
+
+
 
 
 
