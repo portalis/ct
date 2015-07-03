@@ -2368,6 +2368,12 @@ Chapitre II : Réglementation du travail.
 
 
 
+Chapitre III : Dispositions spéciales à la main-d'oeuvre étrangère
+ (Article L883-1)
+
+
+
+
 
 
 
@@ -3802,20 +3808,43 @@ Sous-section 2 : Dispositions générales
 Chapitre III : Sécurité
 
 
-Section 2 : Machines et appareils dangereux.
- (Articles R233-2 à R233-13)
+Section 1 : Règles générales d'utilisation des équipements de travail et moyens de protection, y compris les équipements de protection individuelle
+ (Articles R233-1 à R233-1-3)
 
 
 
 
-Section 4 : Dispositions diverses.
- (Articles R233-42 à R233-43)
+Section 2 : Mesures d'organisation et conditions de mise en oeuvre des équipements de travail
+
+
+Sous-section 1 : Mesures générales
+ (Articles R233-2 à R233-8-1)
 
 
 
 
-Section 5 : Mesures d'application.
- (Articles R233-45 à R233-48)
+Sous-section 2 : Mesures particulières applicables à l'utilisation de certains équipements de travail ou à certaines situations de travail
+ (Articles R233-9 à R233-13)
+
+
+
+
+
+
+Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail
+ (Articles R233-14 à R233-31)
+
+
+
+
+Section 4 : Mesures d'organisation et conditions d'utilisation des équipements de protection individuelle
+ (Articles R233-42 à R233-44)
+
+
+
+
+Section 5 : Dispositions diverses et mesures d'application
+ (Articles R233-45 à R233-47)
 
 
 
@@ -3908,7 +3937,7 @@ Sous-section 10 : Organismes agréés prévus par les articles L. 233-5-2 et R. 
 
 
 
-Section 7 : Equipements de travail et moyens de protection soumis aux obligations définies au I de l'article L. 233-5
+Section 7 : Equipements de travail et moyens de protection soumis aux obligations de sécurité définies au I de l'article L. 233-5
 
 
 Sous-section 1 : Equipements de travail
@@ -3925,7 +3954,7 @@ Sous-section 2 : Moyens de protection
 
 
 
-Section 8 : Dispositions applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
+Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
 
 
 Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2, neufs ou considérés comme neufs
@@ -3952,8 +3981,8 @@ Sous-section 4 : Procédure de certification de conformité applicable aux struc
 
 
 
-Sous-section 5 : Procédure de certification applicable aux équipements de travail d'occasion visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection d'occasion visés aux 1° et 2° de l'article R. 233-83-2
- (Article R233-89)
+Sous-section 5 : Procédure de certification applicable et règles techniques de conception et de construction applicables aux équipements de travail d'occasion visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection d'occasion visés aux 1° et 2° de l'article R. 233-83-2
+ (Articles R233-89 à R233-89-4)
 
 
 
@@ -3966,7 +3995,7 @@ Sous-section 6 : Maintien en état de conformité
 
 
 
-Section 9 : Règles techniques applicables à certains types ou catégories de matériels
+Section 9 : Règles techniques de conception et de construction applicables à certains types ou catégories de matériels
 
 
 Sous-section 1 : Cabines de projection par pulvérisation, cabines et enceintes de séchage de peintures liquides, de vernis, de poudres ou de fibres sèches et cabines mixtes
@@ -3977,7 +4006,7 @@ Sous-section 1 : Cabines de projection par pulvérisation, cabines et enceintes 
 
 
 
-Section 10 : Equipements de protection individuelle
+Section 10 : Règles techniques de conception et de fabrication et procédures de certification de conformité applicables aux équipements de protection individuelle
 
 
 Sous-section 1 : Règles techniques applicables aux équipements de protection individuelle neufs ou considérés comme neufs
@@ -3992,7 +4021,7 @@ Sous-section 2 : Procédures de certification de conformité auxquelles sont sou
 
 
 
-Sous-section 3 : Dispositions applicables aux équipements de protection individuelle d'occasion
+Sous-section 3 : Règles techniques de conception et de fabrication et procédure de certification de conformité applicables aux équipements de protection individuelle d'occasion
  (Articles R233-155 à R233-156)
 
 
@@ -7636,10 +7665,13 @@ Titre 3 : Hygiène et sécurité
 Chapitre 3 : Sécurité
 
 
-Section 8 : Dispositions applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
+Section 8 : Règles techniques de conception et de construction et procédures de certification de conformité applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 faisant l'objet d'une des opérations mentionnées au II de l'article L. 233-5
 
 
 Sous-section 1 : Règles techniques applicables aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2, neufs ou considérés comme neufs
+
+
+Annexe 1 définissant les règles techniques de conception et de construction prévues par l'article R. 233-84
 
 
 1. Règles générales applicables aux machines neuves ou considérées comme neuves visées au 1 de l'article R. 233-83
@@ -7648,49 +7680,49 @@ Sous-section 1 : Règles techniques applicables aux équipements de travail vis�
 
 
 
-2. Règles techniques supplémentaires applicables à certaines catégories de machines neuves ou considérées comme neuves visées au 1° de l'article R. 233-83.
+2. Règles techniques supplémentaires applicables à certaines catégories de machines neuves ou considérées comme neuves visées au 1° de l'article R. 233-83
  (Article R233-84 annexe)
 
 
 
 
-3. Règles techniques de prévention des risques liés à la mobilité des machines.
+3. Règles techniques de prévention des risques liés à la mobilité des machines
  (Article R233-84 annexe)
 
 
 
 
-4. Règles techniques de prévention des risques liés au levage de charges par les machines, quelle que soit leur énergie motrice.
+4. Règles techniques de prévention des risques liés au levage de charges par les machines, quelle que soit leur énergie motrice
  (Article R233-84 annexe)
 
 
 
 
-5. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées exclusivement dans des travaux souterrains.
+5. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées exclusivement dans des travaux souterrains
  (Article R233-84 annexe)
 
 
 
 
-6. Règles techniques applicables aux chariots automoteurs de manutention à poste de conduite élevable neufs ou considérés comme neufs.
+6. Règles techniques applicables aux chariots automoteurs de manutention à poste de conduite élevable neufs ou considérés comme neufs
  (Article R233-84 annexe)
 
 
 
 
-7. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées en atmosphère explosible.
+7. Règles techniques applicables aux machines neuves ou considérées comme neuves destinées à être utilisées en atmosphère explosible
  (Article R233-84 annexe)
 
 
 
 
-8. Règles techniques applicables aux accessoires de levage, composants d'accessoires de levage, chaînes, câbles et sangles de levage à la longueur, neufs ou considérés comme neufs, respectivement visés aux 3°, 4° et 5° de l'article R. 233-83.
+8. Règles techniques applicables aux accessoires de levage, composants d'accessoires de levage, chaînes, câbles et sangles de levage à la longueur, neufs ou considérés comme neufs, respectivement visés aux 3°, 4° et 5° de l'article R. 233-83
  (Article R233-84 annexe)
 
 
 
 
-9. Règles techniques applicables aux structures de protection neuves ou considérées comme neuves visées aux 1° et 2° de l'article R. 233-83-2.
+9. Règles techniques applicables aux structures de protection neuves ou considérées comme neuves visées aux 1° et 2° de l'article R. 233-83-2
  (Article R233-84 annexe)
 
 
@@ -7700,32 +7732,34 @@ Sous-section 1 : Règles techniques applicables aux équipements de travail vis�
 
 
 
-Section 10 : Equipements de protection individuelle
+
+
+Section 10 : Règles techniques de conception et de fabrication et procédures de certification de conformité applicables aux équipements de protection individuelle
 
 
 Sous-section 1 : Règles techniques applicables aux équipements de protection individuelle neufs ou considérés comme neufs
+ (Article Annexe à l'article R233-151)
 
 
-0. Règle préliminaire.
+Annexe 2 définissant les règles techniques de conception et de fabrication prévues par l'article R. 233-151
+
+
+1. Règles générales applicables à tous les équipements de protection individuelle
  (Article R233-151 annexe)
 
 
 
 
-1. Règles générales applicables à tous les équipements de protection individuelle.
- (Article R233-151 annexe)
+2. Règles supplémentaires communes à plusieurs genres ou types d'équipements de protection individuelle
+ (Article Annexe à l'article R233-151)
 
 
 
 
-2. Règles supplémentaires communes à plusieurs genres ou types d'équipements de protection individuelle.
- (Article R233-151 annexe)
+3. Règles supplémentaires spécifiques aux risques à prévenir
+ (Article Annexe à l'article R233-151)
 
 
-
-
-3. Règles supplémentaires spécifiques aux risques à prévenir.
- (Article R233-151 annexe)
 
 
 
