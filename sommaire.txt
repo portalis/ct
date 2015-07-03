@@ -3535,6 +3535,17 @@ Sous-section 6 : Dispositions diverses.
 
 
 
+Section 7 : Matériels auxquels s'appliquent les dispositions du premier alinéa de l'article L. 233-5
+
+
+Sous-section 1 : Machines et appareils.
+ (Article R233-83)
+
+
+
+
+
+
 SECTION 8 : REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES AUX MACHINES ET APPAREILS MENTIONNES AU 3° DU DEUXIEME ALINEA DE L'ARTICLE L. 233-5.
  (Articles R233-84 à R233-107)
 
@@ -3646,27 +3657,6 @@ Section 2 : Formation des représentants du personnel aux comités d'hygiène, d
 
 Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
  (Articles R236-23 à R236-31)
-
-
-
-
-
-
-
-
-Titre III : SECURITE
-
-
-Chapitre III : SECURITE
-
-
-SECTION 8 : MATERIELS AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PREMIER ALINEA DE L'ARTICLE L. 233-5
-
-
-SOUS-SECTION 1 : MACHINES ET APPAREILS.
- (Article R233-83)
-
-
 
 
 
@@ -4048,13 +4038,7 @@ A - Conventions de formation et conventions d'aide à la mobilité.
 
 
 B - Conventions d'allocation temporaire dégressive, conventions d'allocations spéciales et conventions d'aide au passage à mi-temps.
- (Articles R322-7 à R322-7-1)
-
-
-
-
-B - Conventions d'allocation temporaire dégressive et conventions d'allocation spéciale.
- (Articles R322-6 à R322-6-1)
+ (Articles R322-6 à R322-7-1)
 
 
 
