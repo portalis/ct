@@ -1833,7 +1833,7 @@ Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
 Chapitre III : Election des conseillers prud'hommes
 
 
-Section 1 : Electorat, éligibilité et établissement des listes électorales
+Section 1 : Electorat, éligibilité et établissement des listes électorales et des listes de candidatures
 
 
 Paragraphe 1 : Electorat.
@@ -1854,10 +1854,16 @@ Paragraphe 3 : Etablissement des listes électorales.
 
 
 
+Paragraphe 4 : Etablissement des listes de candidatures
+ (Article L513-3-1)
+
+
+
+
 
 
 Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
- (Articles L513-4 à L513-10)
+ (Articles L513-4 à L513-11)
 
 
 
@@ -3704,6 +3710,12 @@ Section 4 : Congé de représentation
 
 
 Titre III : Hygiène et sécurité
+
+
+Chapitre préliminaire : Principes de prévention
+ (Article R230-1)
+
+
 
 
 Chapitre Ier : Dispositions générales
@@ -7355,7 +7367,7 @@ Section 2 : Résiliation du contrat de travail à durée indéterminée.
 
 
 Chapitre III : Egalité professionnelle entre les femmes et les hommes
- (Articles D123-1 à D123-5)
+ (Articles D123-1 à D123-11)
 
 
 
@@ -7489,6 +7501,12 @@ Section 4 : Durée quotidienne du travail.
 
 Section 5 : Contrôle de la durée du travail
  (Articles D212-17 à D212-24)
+
+
+
+
+Section 6 : Contingent d'heures supplémentaires
+ (Article D212-25)
 
 
 
@@ -7712,6 +7730,12 @@ Chapitre II : Exercice du droit syndical dans les entreprises.
 
 
 Titre III : Les comités d'entreprise
+
+
+Chapitre II : Attributions et pouvoirs
+ (Article D432-1)
+
+
 
 
 Chapitre V : Comité d'établissement et comité central d'entreprise.
