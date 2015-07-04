@@ -1421,7 +1421,7 @@ Section 2 : Travail dissimulé
 
 
 Chapitre IV : Main-d'oeuvre étrangère
- (Articles L364-3 à L364-10)
+ (Articles L364-6 à L364-9)
 
 
 (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -7360,7 +7360,7 @@ Titre Ier : Contrats d'apprentissage - Dispositions applicables aux contrats con
 
 
 Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
- (Articles D118-1 à D118-3)
+ (Articles D118-1 à D118-5)
 
 
 
@@ -7375,12 +7375,6 @@ Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 Chapitre VII : Salaire de l'apprenti.
  (Articles D117-1 à D117-5)
-
-
-
-
-Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
- (Article D118-4)
 
 
 
