@@ -509,7 +509,7 @@ Chapitre III : PAIEMENT DU SALAIRE
 
 
 SECTION 1 : MODE DE PAIEMENT DU SALAIRE .
- (Articles L143-1 à L143-5)
+ (Articles L143-1 à L143-4)
 
 
 
@@ -2387,7 +2387,7 @@ Livre VIII : Dispositions spéciales aux départements d'outre-mer
 
 
 Titre préliminaire.
- (Article L800-1)
+ (Articles L800-1 à L800-2)
 
 
 
@@ -2483,6 +2483,17 @@ Section 5 : Aide à la création d'entreprise
 
 Chapitre III : Garantie de ressources des travailleurs privés d'emploi.
  (Article L833-1)
+
+
+
+
+
+
+Titre V : Conflits du travail
+
+
+Chapitre II : Conflits collectifs
+ (Article L852)
 
 
 
