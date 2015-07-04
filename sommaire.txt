@@ -2798,138 +2798,6 @@ Titre Ier : CONTRAT D'APPRENTISSAGE
 Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 
-Chapitre VI : Des centres de formation d'apprentis et des sections d'apprentissage
-
-
-Section 1 : Des conventions portant création de centres de formation d'apprentis et des sections d'apprentissage
-
-
-Paragraphe 1 : Dispositions générales.
- (Articles R116-1 à R116-2)
-
-
-
-
-Paragraphe 2 : De l'organisation des centres et des sections d'apprentissage.
- (Articles R116-6 à R116-7)
-
-
-
-
-Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'apprentissage.
- (Article R116-11)
-
-
-
-
-Paragraphe 4 : De l'organisation financière des centres et des sections d'apprentissage.
- (Articles R116-16 à R116-17)
-
-
-
-
-
-
-Section 2 : De la conclusion et du renouvellement des conventions.
- (Articles R116-18 à R116-20)
-
-
-
-
-Section 3 : Des conventions-cadre d'apprentissage.
- (Articles R116-24 à R116-25)
-
-
-
-
-Section 4 : Du personnel des centres de formation d'apprentis
- (Article R116-30)
-
-
-
-
-
-
-Chapitre VII : Du contrat d'apprentissage
-
-
-Paragraphe 1 : De la déclaration de l'employeur relative à l'organisation de l'apprentissage
- (Articles R117-5 à R117-5-3)
-
-
-
-
-Paragraphe 2 : De la durée de l'apprentissage.
- (Articles R117-6 à R117-6-1)
-
-
-
-
-Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.
- (Article R117-16)
-
-
-
-
-Paragraphe 8 : Du titre de maître d'apprentissage confirmé
- (Article R117-24)
-
-
-
-
-
-
-Chapitre VII bis : Du statut de l'apprenti.
- (Article R117 bis 3)
-
-
-
-
-Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage.
- (Article R118-1)
-
-
-
-
-Chapitre IX : DISPOSITIONS DIVERSES
-
-
-A - DISPOSITIONS FINANCIERES.
- (Articles R119-1 à R119-5)
-
-
-
-
-B - Mesures provisoires d'adaptation en matière d'apprentissage
-
-
-Section 1 : Des accords provisoires
-
-
-Paragraphe 4 : Dispositions relatives au personnel.
- (Articles R119-22 à R119-24)
-
-
-
-
-
-
-Section 4 : Dispositions transitoires relatives aux examens de fin d'apprentissage.
- (Article R119-30)
-
-
-
-
-
-
-C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
- (Articles R119-33-1 à R119-41)
-
-
-
-
-
-
 
 
 
@@ -2949,6 +2817,12 @@ Chapitre VI : Des centres de formation d'apprentis et des sections d'apprentissa
 Section 1 : Des conventions portant création de centres de formation d'apprentis et des sections d'apprentissage
 
 
+Paragraphe 1 : Dispositions générales.
+ (Articles R116-1 à R116-2)
+
+
+
+
 Paragraphe 2 : De l'organisation des centres et des sections d'apprentissage.
  (Articles R116-3 à R116-8)
 
@@ -2962,7 +2836,7 @@ Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'appr
 
 
 Paragraphe 4 : De l'organisation financière des centres et des sections d'apprentissage
- (Article R116-15)
+ (Articles R116-15 à R116-17-1)
 
 
 
@@ -2970,7 +2844,13 @@ Paragraphe 4 : De l'organisation financière des centres et des sections d'appre
 
 
 Section 2 : De la conclusion et du renouvellement des conventions.
- (Articles R116-19 à R116-23)
+ (Articles R116-18 à R116-23)
+
+
+
+
+Section 3 : Des conventions-cadres de coopération
+ (Articles R116-24 à R116-25)
 
 
 
@@ -2999,13 +2879,13 @@ Chapitre VII : Du contrat d'apprentissage
 
 
 Paragraphe 1 : De la déclaration de l'employeur relative à l'organisation de l'apprentissage
- (Articles R117-1 à R117-5-2)
+ (Articles R117-1 à R117-5-3)
 
 
 
 
 Paragraphe 2 : De la durée de l'apprentissage.
- (Articles R117-7 à R117-8-1)
+ (Articles R117-6 à R117-8-1)
 
 
 
@@ -3023,7 +2903,7 @@ Paragraphe 4 : Du contenu des contrats d'apprentissage.
 
 
 Paragraphe 5 : De l'enregistrement du contrat d'apprentissage.
- (Articles R117-13 à R117-15)
+ (Articles R117-13 à R117-16)
 
 
 
@@ -3049,12 +2929,24 @@ Paragraphe 8 : Du titre de maître d'apprentissage confirmé
 
 
 Chapitre VII bis : Du statut de l'apprenti.
- (Articles R117 bis 1 à R117 bis 2)
+ (Articles R117 bis 1 à R117 bis 3)
+
+
+
+
+Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage
+ (Article R118-1)
 
 
 
 
 Chapitre IX : Dispositions diverses
+
+
+A - Dispositions financières.
+ (Articles R119-1 à R119-5)
+
+
 
 
 C - Mesures particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
