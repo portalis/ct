@@ -4448,7 +4448,7 @@ Sous-section 2 : Dispositions particulières aux établissements de moins de 300
 
 
 
-Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers.
+Section 3 : Dispositions particulières applicables aux établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière.
  (Articles R236-23 à R236-39)
 
 
@@ -4723,7 +4723,7 @@ Sous-section 4 : Recherches, études, enquêtes.
 
 
 
-Chapitre II : Dispositions applicables aux établissements mentionnés à l'article L. 792 du code de la santé publique et aux syndicats interhospitaliers
+Chapitre II : Dispositions applicables aux établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière
 
 
 Section 1 : Organisation et fonctionnement du service de médecine du travail.
@@ -6217,6 +6217,12 @@ Section 1 : Extension des accords professionnels
 
 Section 2 : Commission supérieure nationale du personnel des industries électriques et gazières
  (Articles R713-4 à R713-6)
+
+
+
+
+Section 3 : Mesures nécessaires à l'application du statut national du personnel
+ (Article R713-7)
 
 
 
