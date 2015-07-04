@@ -3329,13 +3329,7 @@ Section 2 : Emploi des enfants dans les spectacles et les professions ambulantes
 Chapitre II : Durée du travail
 
 
-Section 1 : Travail à temps partiel.
- (Article R212-1)
-
-
-
-
-Section 2 : Heures supplémentaires
+Section 1 : Heures supplémentaires
 
 
 A - Dispositions concernant les dérogations exceptionnelles à la durée du travail.
@@ -3370,13 +3364,13 @@ C - Dispositions communes.
 
 
 
-Section 3 : Travail par équipes successives selon un cycle continu.
+Section 2 : Travail par équipes successives selon un cycle continu.
  (Article R212-13)
 
 
 
 
-Section 4 : Dispositions relatives aux femmes.
+Section 3 : Dispositions relatives aux femmes.
  (Article R212-14)
 
 
@@ -4968,8 +4962,14 @@ Section 3 : Dispositions générales.
 
 
 
-Section 4 : Insertion des bénéficiaires du revenu minimum d'activité.
- (Articles R322-15 à R322-15-3)
+Section 4 : Contrats d'accompagnement dans l'emploi et contrats initiative emploi.
+ (Articles R322-16 à R322-16-3)
+
+
+
+
+Section 5 : Contrats d'avenir et contrats insertion-revenu minimum d'activité.
+ (Articles R322-17 à R322-17-13)
 
 
 
@@ -6183,23 +6183,6 @@ Section 6 : Hygiène et sécurité.
 
 
 
-Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, de blanchiment et apprêts des étoffes
-
-
-Section 1 : Tissage et bobinage.
- (Articles R722-1 à R722-8)
-
-
-
-
-Section 2 : Coupe du velours de coton, teinture, blanchiment et apprêts des étoffes
- (Articles R722-9 à R722-11)
-
-
-
-
-
-
 
 
 Titre III : Bâtiment et travaux publics
@@ -6474,12 +6457,6 @@ Chapitre II : Industries de transformation
 
 Section 1 : Travailleurs à domicile
  (Article R792-1)
-
-
-
-
-Section 2 : Moyens de constater les conventions relatives aux salaires en matière de tissage, bobinage, de coupe de velours, de coton, de teinture, blanchiment et apprêts des étoffes
- (Article R792-2)
 
 
 
@@ -6922,6 +6899,7 @@ Chapitre Ier : Dispositions relatives aux titulaires d'un livret d'épargne inst
 
 
 Chapitre II : Aide de l'Etat au remplacement de certains salariés en formation
+ (Article R942-2)
 
 
 
@@ -7485,7 +7463,7 @@ Chapitre Ier : Contrôle de l'emploi.
 
 
 Chapitre II : Fonds national de l'emploi.
- (Articles D322-1 à D322-10-8)
+ (Articles D322-1 à D322-10-11)
 
 
 Section 2 : Insertion des jeunes dans la vie sociale.
