@@ -3513,7 +3513,30 @@ Section 4 : Dispositions relatives aux femmes.
 
 
 Chapitre III : Travail de nuit.
- (Articles R213-1 à R213-3)
+
+
+Section 1 : Définition du travailleur de nuit
+ (Article R213-1)
+
+
+
+
+Section 2 : Dispositions concernant les dérogations à la durée maximale quotidienne du travail de nuit
+ (Articles R213-2 à R213-4)
+
+
+
+
+Section 3 : Dispositions concernant l'affectation de travailleurs à des postes de nuit
+ (Article R213-5)
+
+
+
+
+Section 4 : Surveillance médicale des travailleurs de nuit
+ (Articles R213-6 à R213-8)
+
+
 
 
 
@@ -4914,7 +4937,7 @@ Section 2 : Relevé mensuel des contrats de travail
 
 
 Chapitre Ier : Licenciement pour motif économique.
- (Articles R321-1 à R321-9)
+ (Articles R321-1 à R321-16)
 
 
 
@@ -4967,7 +4990,7 @@ Section 1 : Obligation d'emploi des travailleurs handicapés, des mutilés de gu
 
 
 Sous-section 1 : Exonération partielle de l'obligation d'emploi.
- (Articles R323-1 à R323-3)
+ (Articles R323-1 à R323-3-1)
 
 
 
@@ -5036,12 +5059,6 @@ Paragraphe 1 : Emplois à mi-temps et emplois légers.
 
 Paragraphe 2 : Etablissements spécialisés.
  (Articles R323-60 à R323-63)
-
-
-
-
-Paragraphe 3 : Labels.
- (Articles R323-64 à R323-72)
 
 
 
@@ -5400,6 +5417,17 @@ Section 6 : Attributions économiques.
 
 Section 7 : Rapport annuel d'information du comité d'entreprise dans les entreprises de moins de trois cents salariés
  (Article R432-19)
+
+
+
+
+Section 8 : Médiateur
+ (Articles R432-20 à R432-25)
+
+
+
+
+Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires
 
 
 
@@ -6882,6 +6910,12 @@ Section 4 : Dispositions spéciales aux priorités prévues au 3e alinéa de l'a
 
 Section 5 : Dispositions spéciales relatives au congé de bilan de compétences
  (Articles R931-27 à R931-33)
+
+
+
+
+Section 6 : Dispositions spéciales relatives au congé pour validation des acquis de l'expérience
+ (Articles R931-34 à R931-38)
 
 
 
