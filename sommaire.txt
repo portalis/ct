@@ -5893,7 +5893,7 @@ Section 1 : Compétence.
 
 
 Section 2 : Ouverture des voies de recours.
- (Articles R517-3 à R517-5)
+ (Articles R517-3 à R517-4)
 
 
 
@@ -7682,6 +7682,12 @@ Sous-section 4 : Travail protégé.
 
 Chapitre IV : Cumuls d'emplois et travail clandestin.
  (Articles D324-1 à D324-2)
+
+
+
+
+Chapitre V : Répression du travail illégal.
+ (Articles D325-1 à D325-2)
 
 
 
