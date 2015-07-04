@@ -364,7 +364,7 @@ Section 3 : Règles de contrôle.
 
 
 Section 4 : Dispositions diverses.
- (Articles L124-14 à L124-23)
+ (Articles L124-15 à L124-23)
 
 
 
@@ -396,13 +396,13 @@ Chapitre VIII : Associations à but non lucratif
 
 
 Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).
- (Article L129-2)
+ (Articles L129-2 à L129-3)
 
 
 
 
 Chapitre IX : Services aux personnes
- (Articles L129-1 à L129-3)
+ (Article L129-1)
 
 
 
@@ -538,22 +538,6 @@ Section 2 : Rémunération mensuelle minimale.
 
 Chapitre II : Heures supplémentaires - Prime de transport - Conversion de certains avantages en nature.
  (Articles L142-1 à L142-2)
-
-
-
-
-Chapitre II : Heures supplémentaires
-
-
-Prime de transport
-
-
-Conversion de certains avantages en nature.
- (Article L142-5)
-
-
-
-
 
 
 
@@ -1250,12 +1234,6 @@ Section 3 : Commission départementale des travailleurs handicapés, des mutilé
 
 
 
-Section 5 : Emploi obligatoire des pères de famille.
- (Articles L323-36 à L323-39)
-
-
-
-
 
 
 Chapitre IV : Cumuls d'emplois - Travail dissimulé
@@ -1384,7 +1362,7 @@ Chapitre II : Régime des accords conclus entre employeurs et travailleurs et re
 
 
 Chapitre III : Dispositions particulières.
- (Articles L353-1 à L353-3)
+ (Articles L353-2 à L353-3)
 
 
 
@@ -1515,7 +1493,7 @@ Titre II : Les délégués du personnel
 
 
 Chapitre Ier : Champ d'application.
- (Articles L421-1 à L421-3)
+ (Articles L421-1 à L421-2)
 
 
 
@@ -1556,7 +1534,7 @@ Titre III : Les comités d'entreprise
 
 
 Chapitre Ier : Champ d'application.
- (Articles L431-1 à L431-8)
+ (Articles L431-1 à L431-7)
 
 
 
@@ -1789,8 +1767,37 @@ Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.
 Chapitre III : Election des conseillers prud'hommes
 
 
+Section 1 : Electorat, éligibilité et établissement des listes électorales et des listes de candidatures
+
+
+Paragraphe 1 : Electorat.
+ (Article L513-1)
+
+
+
+
+Paragraphe 2 : Eligibilité.
+ (Article L513-2)
+
+
+
+
+Paragraphe 3 : Etablissement des listes électorales.
+ (Article L513-3)
+
+
+
+
+Paragraphe 4 : Etablissement des listes de candidatures
+ (Article L513-3-1)
+
+
+
+
+
+
 Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
- (Articles L513-4 à L513-9)
+ (Articles L513-4 à L513-11)
 
 
 
@@ -1837,52 +1844,6 @@ Conseils de prud'hommes
 
 Chapitre Ier : Attributions et institution des conseils de prud'hommes.
  (Article L511-1)
-
-
-
-
-Chapitre III : Election des conseillers prud'hommes
-
-
-Section 1 : Electorat, éligibilité et établissement des listes électorales et des listes de candidatures
-
-
-Paragraphe 1 : Electorat.
- (Article L513-1)
-
-
-
-
-Paragraphe 2 : Eligibilité.
- (Article L513-2)
-
-
-
-
-Paragraphe 3 : Etablissement des listes électorales.
- (Article L513-3)
-
-
-
-
-Paragraphe 4 : Etablissement des listes de candidatures
- (Article L513-3-1)
-
-
-
-
-
-
-Section 2 : Scrutin, installation des conseillers prud'hommes, élections complémentaires.
- (Articles L513-6 à L513-11)
-
-
-
-
-
-
-Chapitre IV : Statut des conseillers prud'hommes.
- (Article L514-2)
 
 
 
@@ -2005,7 +1966,7 @@ Chapitre II : Inspection médicale du travail.
 
 
 Titre II : Obligations des employeurs.
- (Articles L620-1 à L620-9)
+ (Articles L620-1 à L620-12)
 
 
 
@@ -2132,23 +2093,6 @@ Section 5 : Dispositions spéciales à l'agriculture.
 
 Section 6 : Hygiène et sécurité.
  (Articles L721-22 à L721-23)
-
-
-
-
-
-
-Chapitre II : Moyens de constater les conventions relatives aux salaires en matière de tissage, de bobinage, de coupe du velours de coton, de teinture, blanchiment et apprêts des étoffes
-
-
-Section 1 : Tissage et bobinage.
- (Articles L722-1 à L722-4)
-
-
-
-
-Section 2 : Coupe de velours de coton, teinture, blanchiment et apprêts des étoffes.
- (Articles L722-5 à L722-6)
 
 
 
@@ -2576,7 +2520,7 @@ Titre II : Des conventions et des contrats de formation professionnelle
 
 
 Chapitre Ier : Des conventions de formation professionnelle.
- (Articles L920-1 à L920-11)
+ (Articles L920-1 à L920-9)
 
 
 
@@ -2768,14 +2712,8 @@ Dispositions diverses
 Dispositions pénales
 
 
-Chapitre Ier : Du contrôle de la formation professionnelle continue.
- (Article L991-5)
-
-
-
-
 Chapitre II : Dispositions diverses.
- (Articles L992-4 à L992-8)
+ (Article L992-8)
 
 
 
