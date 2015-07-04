@@ -793,6 +793,12 @@ SECTION 2 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
 Titre II : Repos et congés
 
 
+Chapitre préliminaire : Repos quotidien
+ (Articles L220-1 à L220-2)
+
+
+
+
 Chapitre Ier : Repos hebdomadaire.
  (Articles L221-1 à L221-27)
 
@@ -7313,6 +7319,12 @@ Chapitre III : Congés annuels.
 
 
 
+Chapitre V : Congés non rémunérés
+ (Article D225-1)
+
+
+
+
 
 
 Titre III : Hygiène et sécurité
@@ -7581,7 +7593,7 @@ Chapitre VII : COMPETENCE DES CONSEILS DE PRUD'HOMMES
 
 
 Chapitre X : Dépenses des conseils de prud'hommes.
- (Articles D51-10-1 à D51-10-6)
+ (Article D51-10-1)
 
 
 
