@@ -4956,6 +4956,12 @@ Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dan
 
 
 
+Section 2 bis : Soutien à la création ou à la reprise, par contrat d'appui, d'une activité économique
+ (Article R322-10-5)
+
+
+
+
 Section 2 ter : Aides de l'Etat au développement de l'emploi et des compétences.
  (Articles R322-10-10 à R322-10-17)
 
@@ -6432,6 +6438,17 @@ Section 2 : Examens médicaux.
  (Articles R773-7 à R773-12)
 
 
+
+
+
+
+
+
+Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
+
+
+Chapitre III : Situation des personnes bénéficiaires du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique
+ (Articles R783-1 à R783-3)
 
 
 
