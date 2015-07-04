@@ -896,7 +896,7 @@ Chapitre préliminaire : Principes généraux de prévention
 
 
 Chapitre Ier : Dispositions générales.
- (Articles L231-1 à L231-13)
+ (Articles L231-1 à L231-14)
 
 
 
@@ -1654,21 +1654,21 @@ Section 2 : Régime facultatif dans les entreprises de moins de cinquante salari
 
 
 Section 3 : Dispositions diverses
- (Articles L442-16 à L442-17)
+ (Articles L442-16 à L442-18)
 
 
 
 
 
 
-Chapitre III : Plans d'épargne d'entreprise.
+Chapitre III : Plans d'épargne salariale.
  (Articles L443-1 à L443-9)
 
 
 
 
 Chapitre IV : Dispositions communes
- (Articles L444-1 à L444-9)
+ (Articles L444-1 à L444-12)
 
 
 
@@ -8393,7 +8393,7 @@ Titre IV : De l'aide de l'Etat.
 
 
 Titre V : De la participation des employeurs au financement de la formation professionnelle continue.
- (Article D950-5)
+ (Articles D950-5 à D950-8)
 
 
 
