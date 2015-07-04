@@ -2410,7 +2410,13 @@ Titre Ier : Conventions relatives au travail
 
 
 Chapitre Ier : Contrat d'apprentissage.
- (Article L811-1)
+ (Articles L811-1 à L811-2)
+
+
+
+
+Chapitre II : Contrat de travail
+ (Article L812-1)
 
 
 
@@ -2476,7 +2482,25 @@ Section 4 : Fonds pour l'emploi dans les départements d'outre-mer et la collect
 
 
 Section 5 : Aide à la création d'entreprise
- (Article L832-5)
+ (Articles L832-5 à L832-6)
+
+
+
+
+Section 6 : Aide à la création d'emploi
+ (Articles L832-7 à L832-8)
+
+
+
+
+Section 7 : Aide à la réinsertion professionnelle
+ (Article L832-9)
+
+
+
+
+Section 8 : Dispositions régissant l'emploi de certaines catégories de travailleurs
+ (Article L832-10)
 
 
 
@@ -7234,7 +7258,7 @@ Titre Ier : Contrats d'apprentissage - Dispositions applicables aux contrats con
 
 
 Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
- (Article D118-1)
+ (Articles D118-1 à D118-3)
 
 
 
