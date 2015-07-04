@@ -3853,6 +3853,35 @@ Sous-section 3 : Surveillance médicale renforcée
 
 
 
+Section 10 : Prévention du risque d'exposition au bruit
+
+
+Sous-section 1 : Dispositions générales.
+ (Articles R231-125 à R231-127)
+
+
+
+
+Sous-section 2 : Obligations de l'employeur.
+ (Articles R231-128 à R231-133)
+
+
+
+
+Sous-section 3 : Surveillance médicale renforcée.
+ (Article R231-134)
+
+
+
+
+Sous-section 4 : Dérogations.
+ (Article R231-135)
+
+
+
+
+
+
 
 
 Chapitre II : Hygiène - Aménagement des lieux de travail - Prévention des incendies et des explosions
@@ -3909,7 +3938,7 @@ Sous-section 3 : Eclairage.
 
 
 Sous-section 4 : Prévention des risques dus au bruit
- (Articles R232-8 à R232-8-7)
+ (Articles R232-8 à R232-8-6)
 
 
 
