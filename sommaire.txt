@@ -3122,8 +3122,8 @@ Section 1 : Dispositions générales.
 
 
 
-Section 2 : Dispositions particulières aux groupements d'employeurs ayant pour objet principal de mettre des remplaçants à la disposition des exploitants agricoles
- (Articles R127-9-1 à R127-9-8)
+Section 2 : Dispositions particulières aux groupements d'employeurs ayant pour objet principal de mettre des remplaçants à la disposition des exploitants agricoles et des chefs d'entreprise effectuant des travaux forestiers
+ (Articles R127-9-1 à R127-9-9)
 
 
 
@@ -6967,7 +6967,13 @@ Paragraphe 2 : Bilans de compétences
 
 
 
-Paragraphe 3 : Dispositions diverses
+Paragraphe 3 : Validation des acquis de l'expérience.
+ (Articles R950-13-3 à R950-13-4)
+
+
+
+
+Paragraphe 4 : Dispositions diverses
  (Articles R950-14 à R950-17)
 
 
@@ -7230,7 +7236,7 @@ Titre IX : Dispositions relatives au contrôle de la formation professionnelle c
 
 
 Chapitre Ier : Du contrôle de la formation professionnelle continue
- (Articles R991-1 à R991-8)
+ (Articles R991-1 à R991-10)
 
 
 
@@ -7718,7 +7724,7 @@ Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 
 Chapitre IV : Statut des conseillers prud'hommes.
- (Articles D514-4 à D514-7)
+ (Articles D514-2 à D514-7)
 
 
 
@@ -7738,7 +7744,7 @@ Conseils de prud'hommes
 
 
 Chapitre IV : Statut des conseillers prud'hommes.
- (Articles D514-1 à D514-3)
+ (Article D514-1)
 
 
 
