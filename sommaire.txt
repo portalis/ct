@@ -1422,7 +1422,7 @@ Chapitre V : Travailleurs privés d'emploi.
 
 
 
-Livre IV : Les groupements professionnels, la représentation, la participation et l'intéressement des salariés
+Livre IV : Les groupements professionnels, la représentation des salariés, l'intéressement, la participation et les plans d'épargne salariale
 
 
 Titre Ier : Les syndicats professionnels
@@ -1466,13 +1466,13 @@ Section 1 : Dispositions générales.
 
 
 
-SECTION 2 : SECTIONS SYNDICALES.
+Section 2 : Sections syndicales.
  (Articles L412-6 à L412-10)
 
 
 
 
-SECTION 3 : DELEGUES SYNDICAUX.
+Section 3 : Délégués syndicaux
  (Articles L412-11 à L412-21)
 
 
@@ -1503,7 +1503,7 @@ Chapitre Ier : Champ d'application.
 
 
 
-Chapitre II : ATTRIBUTIONS ET POUVOIRS.
+Chapitre II : Attributions et pouvoirs.
  (Articles L422-1 à L422-5)
 
 
@@ -1521,7 +1521,7 @@ Chapitre IV : Fonctionnement.
 
 
 
-Chapitre V : LICENCIEMENT DES DELEGUES DU PERSONNEL.
+Chapitre V : Licenciement des délégués du personnel.
  (Articles L425-1 à L425-3)
 
 
@@ -1538,13 +1538,13 @@ Chapitre VI : Dispositions générales.
 Titre III : Les comités d'entreprise
 
 
-Chapitre Ier : Champ d'application
+Chapitre Ier : Champ d'application.
  (Articles L431-1 à L431-8)
 
 
 
 
-Chapitre II : Attributions et pouvoirs.
+Chapitre II : Attributions et pouvoirs
  (Articles L432-1 à L432-10)
 
 
@@ -1623,22 +1623,11 @@ Section 5 : Dispositions communes
 
 
 
-Titre IV : Intéressement et participation
+Titre IV : Intéressement, participation et plans d'épargne salariale
 
 
 Chapitre Ier : Intéressement des salariés à l'entreprise.
- (Articles L441-1 à L441-8)
-
-
-
-
-Chapitre 2 : Participation des salariés aux résultats de l'entreprise
-
-
-Section 1 : Régime obligatoire dans les entreprises de cinquante salariés et plus
- (Article L442-1)
-
-
+ (Articles L441-1 à L441-7)
 
 
 
@@ -1647,7 +1636,7 @@ Chapitre II : Participation des salariés aux résultats de l'entreprise
 
 
 Section 1 : Régime obligatoire dans les entreprises de cinquante salariés et plus
- (Articles L442-2 à L442-14)
+ (Articles L442-1 à L442-14)
 
 
 
@@ -1667,19 +1656,13 @@ Section 3 : Dispositions diverses
 
 
 Chapitre III : Plans d'épargne d'entreprise.
- (Articles L443-2 à L443-9)
-
-
-
-
-Chapitre 3 : Plans d'épargne d'entreprise.
- (Article L443-1)
+ (Articles L443-1 à L443-9)
 
 
 
 
 Chapitre IV : Dispositions communes
- (Articles L444-1 à L444-3)
+ (Articles L444-1 à L444-7)
 
 
 
@@ -1720,7 +1703,7 @@ Chapitre II : Dispositions complémentaires relatives au droit d'expression des 
 
 
 
-Titre VII : FONDS SALARIAUX
+Titre VII : Fonds salariaux.
  (Articles L471-1 à L471-3)
 
 
@@ -3812,8 +3795,8 @@ Sous-section 5 : Contrôles du risque chimique sur les lieux de travail
 
 
 
-Sous-section 6 : Règles particulières de prévention du risque cancérogène
- (Articles R231-56 à R231-56-11)
+Sous-section 6 : Règles particulières de prévention à prendre contre les risques d'exposition aux agents cancérogènes, mutagènes ou toxiques pour la reproduction
+ (Articles R231-56 à R231-56-12)
 
 
 
@@ -3824,8 +3807,14 @@ Sous-section 7 : Dispositions d'urgence
 
 
 
-Sous-section 8 : Mesures d'application.
- (Articles R231-58 à R231-58-2)
+Sous-section 8 : Dispositions spécifiques à certains agents chimiques dangereux
+ (Articles R231-58 à R231-58-3)
+
+
+
+
+Sous-section 9 : Mesures d'application.
+ (Articles R231-59 à R231-59-2)
 
 
 
