@@ -576,12 +576,6 @@ Section 5 : Groupements d'employeurs.
 
 
 
-Section 6 : Corruption
- (Article L152-6)
-
-
-
-
 Section 7 : Violation des secrets de fabrique
  (Article L152-7)
 
@@ -3725,6 +3719,29 @@ Sous-section 6 : Organisation fonctionnelle de la radioprotection
 
 Sous-section 7 : Règles applicables dans des cas d'exposition professionnelles liées à la radioactivité naturelle
  (Articles R231-114 à R231-116)
+
+
+
+
+
+
+Section 9 : Prévention du risque d'exposition aux vibrations mécaniques
+
+
+Sous-section 1 : Dispositions générales
+ (Articles R231-117 à R231-119)
+
+
+
+
+Sous-section 2 : Obligations de l'employeur
+ (Articles R231-120 à R231-123)
+
+
+
+
+Sous-section 3 : Surveillance médicale renforcée
+ (Article R231-124)
 
 
 
