@@ -5171,7 +5171,7 @@ Section 4 : Contrats d'accompagnement dans l'emploi et contrats initiative emplo
 
 
 Section 5 : Contrats d'avenir et contrats insertion-revenu minimum d'activité.
- (Articles R322-17 à R322-17-15)
+ (Articles R322-17-1 à R322-17-15)
 
 
 
@@ -5398,7 +5398,7 @@ Sous-section 4 : Conditions d'ouverture, de renouvellement et de maintien des dr
 
 
 Sous-section 5 : Aide à la création d'entreprise
- (Articles R351-41 à R351-49)
+ (Articles R351-41 à R351-49-3)
 
 
 
