@@ -5122,22 +5122,11 @@ Sous-section 10 : Application des dispositions du dernier alinéa de l'article L
 
 
 
-Chapitre IV : Cumuls d'emploi et travail clandestin
-
-
-Section 2 : Travail clandestin.
- (Articles R324-1 à R324-7)
-
-
-
-
-
-
 Chapitre IV : Cumuls d'emploi et travail dissimulé
 
 
 Section 2 : Travail dissimulé.
- (Article R324-8)
+ (Articles R324-1 à R324-9)
 
 
 
@@ -5197,7 +5186,7 @@ Paragraphe 4 : Services administratifs.
 
 
 Paragraphe 5 : Dispositions financières et comptables.
- (Articles R341-25 à R341-35)
+ (Articles R341-25 à R341-41)
 
 
 
@@ -5248,7 +5237,7 @@ Sous-section 4 : Conditions d'ouverture, de renouvellement et de maintien des dr
 
 
 Sous-section 5 : Aide à la création d'entreprise
- (Articles R351-41 à R351-47)
+ (Articles R351-41 à R351-49)
 
 
 
