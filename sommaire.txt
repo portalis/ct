@@ -2174,18 +2174,7 @@ Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés
 
 
 Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
- (Article L771-1)
-
-
-
-
-
-
-Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistants maternels et assistants familiaux
-
-
-Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
- (Articles L771-2 à L771-9)
+ (Articles L771-1 à L771-9)
 
 
 
@@ -2237,8 +2226,8 @@ Section 6 : Dispositions applicables aux assistants familiaux employés par des 
 
 
 
-Chapitre IV : Educateurs et aides familiaux
- (Article L774-1)
+Chapitre IV : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs
+ (Articles L774-1 à L774-2)
 
 
 
@@ -2268,12 +2257,6 @@ Chapitre III : Situation des personnes bénéficiaires du contrat d'appui au pro
 
 Chapitre IV : Dispositions relatives au conjoint salarié du chef d'entreprise.
  (Article L784-1)
-
-
-
-
-Chapitre V : Sportifs professionnels
- (Articles L785-1 à L785-3)
 
 
 
