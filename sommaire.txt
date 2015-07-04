@@ -195,7 +195,18 @@ Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL
 
 
 SECTION 1 : CONTRAT A DUREE DETERMINEE.
+
+
+Sous-section 1 : Règles générales
  (Articles L122-1 à L122-3-17)
+
+
+
+
+Sous-section 2 : Le contrat vendanges
+ (Articles L122-3-18 à L122-3-20)
+
+
 
 
 
@@ -5300,7 +5311,7 @@ Sous-section 1 : Régime d'assurance.
 
 
 Sous-section 2 : Régime de solidarité.
- (Articles R351-6 à R351-19)
+ (Articles R351-6 à R351-19-1)
 
 
 
@@ -6616,6 +6627,12 @@ Livre VIII : Dispositions spéciales aux départements d'outre-mer
 
 
 Titre Ier : Conventions relatives au travail
+
+
+Chapitre Ier : Parrainage
+ (Articles R811-1 à R811-2)
+
+
 
 
 Chapitre IV : Salaires
@@ -8058,7 +8075,7 @@ Titre Ier : Conventions relatives au travail
 
 
 Chapitre Ier : Apprentissage
- (Article D811)
+ (Articles D811 à D811-1)
 
 
 
