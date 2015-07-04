@@ -109,7 +109,7 @@ Chapitre VII bis : Du statut de l'apprenti.
 
 
 Chapitre VIII : Dispositions financières.
- (Articles L118-1-1 à L118-7)
+ (Articles L118-1-1 à L118-3-2)
 
 
 
@@ -169,7 +169,7 @@ Chapitre VII bis : Du statut de l'apprenti.
 
 
 Chapitre VIII : Dispositions financières.
- (Articles L118-3-1 à L118-6)
+ (Articles L118-3-1 à L118-7)
 
 
 
@@ -2386,6 +2386,12 @@ Chapitre IV : Médecine du travail
 Titre III : Placement et emploi
 
 
+Chapitre préliminaire : Placement.
+ (Article L830-1)
+
+
+
+
 Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.
  (Articles L831-1 à L831-2)
 
@@ -2596,11 +2602,17 @@ Chapitre V : De la validation des acquis de l'expérience
 
 
 
-Titre IV : De l'aide de l'Etat
+Titre IV : De la contribution de l'Etat et des régions
 
 
 Chapitre Ier : De l'aide de l'Etat aux actions de formation professionnelle
- (Articles L941 à L941-5)
+ (Articles L941 à L941-3)
+
+
+
+
+Chapitre III : De la contribution des régions.
+ (Articles L943-1 à L943-2)
 
 
 
@@ -5058,6 +5070,12 @@ Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dan
 
 
 
+Section 2 ter : Aides de l'Etat au développement de l'emploi et des compétences.
+ (Articles R322-10-10 à R322-10-17)
+
+
+
+
 Section 3 : Dispositions générales.
  (Articles R322-11 à R322-14)
 
@@ -7018,7 +7036,6 @@ Chapitre Ier : Dispositions relatives aux titulaires d'un livret d'épargne inst
 
 
 Chapitre II : Aide de l'Etat au remplacement de certains salariés en formation
- (Articles R942-1 à R942-8)
 
 
 
