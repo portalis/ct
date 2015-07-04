@@ -5152,35 +5152,35 @@ Section 1 : Travailleurs étrangers.
 
 
 
-Section 2 : Office des migrations internationales
+Section 2 : Agence nationale de l'accueil des étrangers et des migrations
 
 
 Paragraphe 1 : Dispositions générales.
- (Articles R341-9 à R341-10)
+ (Article R341-9)
 
 
 
 
-Paragraphe 2 : Administration et direction.
- (Articles R341-11 à R341-15)
+Paragraphe 2 : Conseil d'administration.
+ (Articles R341-10 à R341-14)
 
 
 
 
-Paragraphe 3 : Attributions du conseil d'administration et du directeur.
- (Articles R341-16 à R341-20)
+Paragraphe 3 : Comité consultatif.
+ (Articles R341-15 à R341-16)
 
 
 
 
-Paragraphe 4 : Services administratifs.
- (Articles R341-21 à R341-24)
+Paragraphe 4 : Direction et administration.
+ (Articles R341-17 à R341-21)
 
 
 
 
 Paragraphe 5 : Dispositions financières et comptables.
- (Articles R341-25 à R341-41)
+ (Articles R341-22 à R341-35)
 
 
 
@@ -7981,8 +7981,8 @@ Chapitre Ier : Dispositions relatives aux contrats d'accès à l'emploi
 
 
 
-Chapitre II : Soutien à l'emploi des jeunes en entreprise
- (Article D832-1)
+Chapitre II : Soutien à l'emploi des jeunes diplômés
+ (Articles D832-1 à D832-8)
 
 
 
