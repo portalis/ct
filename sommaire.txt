@@ -4013,6 +4013,12 @@ Sous-section 5 : Autorisation de conduite pour l'utilisation de certains équipe
 
 
 
+Sous-section 6 : Mesures complémentaires relatives à l'exécution de travaux temporaires en hauteur et aux équipements de travail mis à disposition et utilisés à cette fin
+ (Articles R233-13-20 à R233-13-37)
+
+
+
+
 
 
 Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail
@@ -8191,6 +8197,12 @@ Chapitre II : Des droits collectifs des salariés
 
 
 
+Chapitre III : De l'allocation de formation
+ (Article D933-1)
+
+
+
+
 
 
 Titre IV : De l'aide de l'Etat.
@@ -8205,7 +8217,7 @@ Titre V : De la participation des employeurs au financement de la formation prof
 
 
 
-Titre VIII : Des formations professionnelles en alternance.
+Titre VIII : Des contrats et des périodes de professionnalisation
 
 
 Chapitre Ier : Contrats d'insertion en alternance
