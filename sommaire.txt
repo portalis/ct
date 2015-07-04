@@ -2745,17 +2745,17 @@ Titre Ier : CONTRAT D'APPRENTISSAGE
 Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 
+B - Dispositions relatives aux organismes collecteurs
+ (Articles R119-8 à R119-12)
+
+
+
+
 
 
 
 
 Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
-
-
-Chapitre V : Généralités
- (Article R115-1)
-
-
 
 
 Chapitre VI : Des centres de formation d'apprentis et des sections d'apprentissage
@@ -2891,7 +2891,7 @@ Chapitre IX : Dispositions diverses
 
 
 A - Dispositions financières.
- (Articles R119-1 à R119-6)
+ (Articles R119-2 à R119-7)
 
 
 
@@ -2921,6 +2921,21 @@ Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la
 
 E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
  (Articles R119-72 à R119-79)
+
+
+
+
+
+
+B - Mesures provisoires d'adaptation en matière d'apprentissage
+
+
+Section 1 : Des accords provisoires
+
+
+Paragraphe 1 : Dispositions générales.
+
+
 
 
 
@@ -4106,7 +4121,7 @@ Sous-section 7 : Procédure de certification applicable aux équipements de trav
 
 
 Sous-section 8 : Procédure de sauvegarde
- (Articles R233-78 à R233-79-1)
+ (Articles R233-78 à R233-79-2)
 
 
 
@@ -7365,7 +7380,7 @@ Chapitre VII : Du contrat d'apprentissage.
 
 
 Chapitre VIII : Dispositions financières
- (Articles D118 à D118-5)
+ (Articles D118 à D118-9)
 
 
 
@@ -7413,14 +7428,14 @@ Chapitre IV : Travail temporaire.
 Chapitre IX : Services aux personnes
 
 
-Section 1 : Chèque-service
- (Articles D129-1 à D129-6)
+Section 1 : Chèque emploi-service universel
+ (Articles D129-1 à D129-13)
 
 
 
 
-Section 2 : Conditions d'agrément des associations et des entreprises de services aux personnes
- (Articles D129-7 à D129-12)
+Section 3 : Agence nationale des services à la personne.
+ (Articles D129-16 à D129-29)
 
 
 
