@@ -2794,7 +2794,7 @@ Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'appr
 
 
 Paragraphe 4 : De l'organisation financière des centres et des sections d'apprentissage.
- (Articles R116-15 à R116-17)
+ (Articles R116-16 à R116-17)
 
 
 
@@ -2939,6 +2939,12 @@ Paragraphe 2 : De l'organisation des centres et des sections d'apprentissage.
 
 Paragraphe 3 : Du fonctionnement pédagogique des centres et des sections d'apprentissage.
  (Articles R116-9 à R116-14-1)
+
+
+
+
+Paragraphe 4 : De l'organisation financière des centres et des sections d'apprentissage
+ (Article R116-15)
 
 
 
@@ -6968,7 +6974,13 @@ Section 8 : De la participation des travailleurs indépendants, des membres des 
 
 
 Section 9 : De la participation des chefs d'exploitation ou d'entreprises agricoles au développement de la formation professionnelle continue
- (Articles R953-10 à R953-12)
+ (Articles R953-10 à R953-14)
+
+
+
+
+Section 10 : De la participation des travailleurs indépendants, des chefs d'entreprise de la pêche maritime et des chefs d'entreprise des cultures marines autres que ceux relevant de la section IX au développement de la formation professionnelle continue
+ (Articles R953-15 à R953-19)
 
 
 
@@ -7062,8 +7074,13 @@ Paragraphe 4 : Dispositions relatives aux organismes de mutualisation et au comp
 
 
 
-Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation
+Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation et au fonds national prévu à l'article L. 961-13
  (Articles R964-17-1 à R964-17-11)
+
+
+
+
+Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation
 
 
 
