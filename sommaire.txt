@@ -109,13 +109,13 @@ Chapitre VII bis : Du statut de l'apprenti.
 
 
 Chapitre VIII : Dispositions financières.
- (Articles L118-1 à L118-6)
+ (Articles L118-1-1 à L118-7)
 
 
 
 
 Chapitre IX : Dispositions diverses.
- (Articles L119-4 à L119-5)
+ (Articles L119-1-1 à L119-5)
 
 
 
@@ -163,7 +163,7 @@ Chapitre VII bis : Du statut de l'apprenti.
 
 
 Chapitre VIII : Dispositions financières.
- (Article L118-4)
+ (Articles L118-4 à L118-5)
 
 
 
@@ -355,7 +355,7 @@ Chapitre VIII : Associations intermédiaires.
 
 
 Chapitre IX : Services aux personnes
- (Article L129-1)
+ (Articles L129-1 à L129-3)
 
 
 
@@ -563,7 +563,7 @@ Chapitre VIII : Economats.
 Titre V : Pénalités
 
 
-Chapitre Ier : Contrat d'apprentissage.
+Chapitre Ier : Apprentissage.
  (Article L151-1)
 
 
@@ -2537,14 +2537,8 @@ Section 4 : Autres congés
 
 
 
-Chapitre II : Des droits collectifs des salariés.
- (Article L932-2)
-
-
-
-
 Chapitre II : Du plan de formation de l'entreprise
- (Article L932-1)
+ (Articles L932-1 à L932-2)
 
 
 
@@ -2585,7 +2579,7 @@ Chapitre Ier : De la participation des employeurs occupant au minimum dix salari
 
 
 Chapitre II : De la participation des employeurs occupant moins de dix salariés
- (Articles L952-1 à L952-5)
+ (Articles L952-1 à L952-6)
 
 
 
@@ -3177,6 +3171,12 @@ Section 2 : Dispositions particulières aux groupements d'employeurs ayant pour 
  (Articles R127-9-1 à R127-9-8)
 
 
+
+
+
+
+Chapitre IX : Services aux personnes
+ (Articles R129-1 à R129-5)
 
 
 
@@ -4551,7 +4551,7 @@ Section 4 : Des personnels des services médicaux du travail.
 
 
 Sous-section 1 : Des médecins du travail.
- (Articles R241-30 à R241-34)
+ (Articles R241-29 à R241-34)
 
 
 
@@ -7057,6 +7057,12 @@ Paragraphe 4 : Dispositions relatives aux organismes de mutualisation agréés
 
 
 
+Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation
+ (Articles R964-17-1 à R964-17-11)
+
+
+
+
 
 
 
@@ -7213,6 +7219,17 @@ Chapitre III : Egalité professionnelle entre les femmes et les hommes
 
 Chapitre IV : Travail temporaire.
  (Articles D124-1 à D124-2)
+
+
+
+
+Chapitre IX : Services aux personnes
+
+
+Section 1 : Chèque-service
+ (Articles D129-1 à D129-6)
+
+
 
 
 
@@ -7951,6 +7968,12 @@ Section 1 : Attributions, composition et fonctionnement des comités régionaux 
  (Articles D910-16 à D910-21)
 
 
+
+
+
+
+Chapitre III : Composition et modalités de fonctionnement de la Commission nationale des comptes de la formation professionnelle
+ (Articles D910-22 à D910-30)
 
 
 
