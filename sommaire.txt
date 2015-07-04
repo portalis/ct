@@ -411,7 +411,7 @@ Sous-section 2 : Négociation annuelle obligatoire.
 
 
 
-SECTION 4 : DISPOSITIONS PARTICULIERES AUX ENTREPRISES DE MOINS DE ONZE SALARIES.
+Section 4 : Dispositions particulières aux entreprises de moins de cinquante salariés
  (Article L132-30)
 
 
@@ -725,7 +725,7 @@ Chapitre II : Durée du travail
 
 
 Section 1 : Dispositions générales.
- (Articles L212-1 à L212-4)
+ (Articles L212-1 à L212-4 bis)
 
 
 
@@ -740,23 +740,19 @@ Paragraphe 1 : Horaires individualisés.
 
 
 Paragraphe 2 : Travail à temps partiel.
- (Articles L212-4-2 à L212-4-7)
-
-
-
-
-PARAGRAPHE 3 : ENCOURAGEMENT A LA PRATIQUE DU SPORT.
- (Article L212-4-8)
+ (Articles L212-4-2 à L212-4-11)
 
 
 
 
 Paragraphe 3 : Travail intermittent.
+ (Articles L212-4-12 à L212-4-15)
 
 
 
 
 Paragraphe 4 : Encouragement à la pratique du sport.
+ (Article L212-4-16)
 
 
 
@@ -764,13 +760,19 @@ Paragraphe 4 : Encouragement à la pratique du sport.
 
 
 SECTION 3 : HEURES SUPPLEMENTAIRES.
- (Articles L212-5 à L212-9)
+ (Articles L212-5 à L212-10)
 
 
 
 
 Section 4 : Dispositions relatives aux jeunes travailleurs.
  (Articles L212-13 à L212-14)
+
+
+
+
+Section 5 : Dispositions particulières relatives aux cadres
+ (Articles L212-15-1 à L212-15-4)
 
 
 
@@ -838,7 +840,7 @@ Section 1 : Droit au congé.
 
 
 Section 2 : Durée du congé.
- (Articles L223-2 à L223-8)
+ (Articles L223-2 à L223-9)
 
 
 
@@ -2601,7 +2603,7 @@ Section 4 : Autres congés
 
 
 Chapitre II : Du plan de formation de l'entreprise
- (Articles L932-1 à L932-2)
+ (Articles L932-1 à L932-3)
 
 
 
@@ -7400,7 +7402,7 @@ Titre II : Repos et congés
 
 
 Chapitre préliminaire : Repos quotidien
- (Articles D220-1 à D220-7)
+ (Articles D220-1 à D220-8)
 
 
 
