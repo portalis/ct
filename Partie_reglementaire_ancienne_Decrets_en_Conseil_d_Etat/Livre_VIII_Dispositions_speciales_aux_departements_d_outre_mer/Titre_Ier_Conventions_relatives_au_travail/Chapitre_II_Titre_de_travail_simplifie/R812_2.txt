@@ -16,7 +16,7 @@ demande comprend les mentions suivantes :
 condition d'effectif fixée au 2° alinéa de l'article L. 812-1 ;
 
 - l'autorisation de prélèvement automatique sur un numéro de compte
-bancaire ou postal.
+bancaire.
 
 Pour les particuliers employeurs, la demande comporte les mentions
 suivantes :
