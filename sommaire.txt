@@ -4956,8 +4956,19 @@ Section 2 : Notification par les employeurs des places vacantes.
 
 
 
-Section 3 : Inscription et radiation de la liste des demandeurs d'emploi.
+Section 3 : Tenues de la liste et accompagnement des demandeurs d'emploi
+
+
+Sous-section 1 : Inscription et radiation des demandeurs d'emploi.
  (Articles R311-3-1 à R311-3-10)
+
+
+
+
+Sous-section 2 : Accompagnement des demandeurs d'emploi.
+ (Articles R311-3-11 à R311-3-12)
+
+
 
 
 
@@ -5022,7 +5033,7 @@ Section 2 : Relevé mensuel des contrats de travail
 
 
 Chapitre Ier : Licenciement pour motif économique.
- (Articles R321-1 à R321-16)
+ (Articles R321-1 à R321-23)
 
 
 
@@ -7341,14 +7352,20 @@ Livre Ier : Conventions relatives au travail
 Titre Ier : Contrats d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 
+Chapitre VI : Des centres de formation d'apprentis.
+ (Article D116-1)
+
+
+
+
 Chapitre VII : Du contrat d'apprentissage.
  (Articles D117 à D117-5)
 
 
 
 
-Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
- (Articles D118-1 à D118-5)
+Chapitre VIII : Dispositions financières
+ (Articles D118 à D118-5)
 
 
 
@@ -7605,8 +7622,19 @@ Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
 
 
 
-Section 4 : Contrats insertion-revenu minimum d'activité.
+Section 4 : Contrats d'avenir et contrats insertion - revenu minimum d'activité
+
+
+Sous-section 1 : Contrats insertion - revenu minimum d'activité.
  (Articles D322-22-1 à D322-22-11)
+
+
+
+
+Sous-section 2 : Contrats d'avenir.
+ (Article D322-23)
+
+
 
 
 
