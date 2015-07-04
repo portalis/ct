@@ -38,97 +38,11 @@ Partie législative ancienne
 Livre Ier : Conventions relatives au travail
 
 
-Titre Ier : Contrat d'apprentissage
-
-
-Dispositions applicables aux contrats conclus avant le 1er juillet 1972
-
-
-Chapitre Ier : Etablissement du contrat.
- (Articles L111-1 à L111-10)
-
-
-
-
-Chapitre II : Devoirs des maîtres et des apprentis.
- (Articles L112-1 à L112-6)
-
-
-
-
-Chapitre III : Résiliation et expiration du contrat.
- (Articles L113-1 à L113-6)
-
-
-
-
-Chapitre IV : Apprentissage artisanal.
- (Article L114-1)
-
-
-
-
-
-
-Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
-
-
-Chapitre V : Généralités.
- (Articles L115-1 à L115-2)
-
-
-
-
-Chapitre VI : Des centres de formation d'apprentis.
- (Article L116-5)
-
-
-
-
-Chapitre VII : Du contrat d'apprentissage
-
-
-Section 2 : Conditions du contrat.
- (Articles L117-3 à L117-10)
-
-
-
-
-Section 3 : Formation et résolution du contrat.
- (Article L117-14)
-
-
-
-
-
-
-Chapitre VII bis : Du statut de l'apprenti.
- (Article L117 BIS-2)
-
-
-
-
-Chapitre VIII : Dispositions financières.
- (Articles L118-1-1 à L118-3-2)
-
-
-
-
-Chapitre IX : Dispositions diverses.
- (Articles L119-1-1 à L119-4)
-
-
-
-
-
-
-
-
 Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
 
 
 Chapitre V : Généralités.
- (Article L115-3)
+ (Articles L115-1 à L115-3)
 
 
 
@@ -149,7 +63,7 @@ Section 1 : Définition et régime juridique.
 
 
 Section 2 : Conditions du contrat.
- (Articles L117-5-1 à L117-11-1)
+ (Articles L117-3 à L117-11-1)
 
 
 
@@ -163,13 +77,13 @@ Section 3 : Formation et résolution du contrat
 
 
 Chapitre VII bis : Du statut de l'apprenti.
- (Articles L117 BIS-1 à L117 BIS-7)
+ (Articles L117 BIS-1 à L117 BIS-8)
 
 
 
 
 Chapitre VIII : Dispositions financières.
- (Articles L118-3-1 à L118-7)
+ (Articles L118-1 à L118-7)
 
 
 
@@ -408,13 +322,7 @@ Chapitre VIII : Associations à but non lucratif
 
 
 Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).
- (Articles L129-2 à L129-3)
-
-
-
-
-Chapitre IX : Services aux personnes
- (Article L129-1)
+ (Articles L129-1 à L129-3)
 
 
 
@@ -462,7 +370,7 @@ Sous-section 1 : Dispositions générales.
 
 
 
-Sous-section 2 : Négociation annuelle obligatoire.
+Sous-section 2 : Négociation obligatoire.
  (Articles L132-27 à L132-29)
 
 
@@ -1086,10 +994,10 @@ Chapitre préliminaire.
 
 
 
-Chapitre Ier : Service public du placement
+Chapitre Ier : Service public de l'emploi
 
 
-Section 1 : Organismes qui concourent au service public du placement.
+Section 1 : Organismes concourant au service public de l'emploi.
  (Articles L311-1 à L311-2)
 
 
@@ -1113,7 +1021,7 @@ Section 4 : Agence nationale pour l'emploi.
 
 
 
-Section 5 : Rôle des collectivités territoriales
+Section 5 : Rôle des collectivités territoriales, de leurs groupements et des maisons de l'emploi.
  (Articles L311-9 à L311-11)
 
 
@@ -1128,24 +1036,7 @@ Section 6 : Dispositions diverses.
 
 
 Chapitre II : Placement privé
-
-
-Section 1 : Placement gratuit.
- (Articles L312-1 à L312-6)
-
-
-
-
-Section 2 : Placement payant.
- (Articles L312-7 à L312-18)
-
-
-
-
-Section 3 : Dispositions communes
- (Articles L312-19 à L312-27)
-
-
+ (Articles L312-1 à L312-3)
 
 
 
@@ -1155,14 +1046,14 @@ Section 3 : Dispositions communes
 Titre II : Emploi
 
 
-Chapitre préliminaire : Déclaration de mouvements de main-d'oeuvre.
- (Articles L320 à L320-1)
+Chapitre préliminaire : Gestion de l'emploi et des compétences - Prévention des conséquences des mutations économiques.
+ (Articles L320 à L320-3)
 
 
 
 
 Chapitre Ier : Licenciement pour motif économique.
- (Articles L321-1 à L321-15)
+ (Articles L321-1 à L321-17)
 
 
 
@@ -1303,19 +1194,24 @@ Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
 
 
 Section 1 : Travailleurs étrangers
- (Articles L341-2 à L341-8)
+ (Articles L341-2 à L341-6-5)
 
 
 (en vigueur jusqu'au 1er janvier 2007 au plus tard)
- (Articles L341-1 à L341-7-2)
+ (Articles L341-1 à L341-8)
 
 
 
 
 
 
-Section 2 : Office des migrations internationales.
+Section 2 : Agence nationale de l'accueil des étrangers et des migrations
+
+
+(en vigueur jusqu'au 1er janvier 2007 au plus tard)
  (Articles L341-9 à L341-10)
+
+
 
 
 
@@ -1362,7 +1258,7 @@ Section 5 : Institutions gestionnaires.
 
 
 Section 6 : Dispositions diverses.
- (Articles L351-23 à L351-26)
+ (Articles L351-23 à L351-25)
 
 
 
@@ -1377,6 +1273,12 @@ Chapitre II : Régime des accords conclus entre employeurs et travailleurs et re
 
 Chapitre III : Dispositions particulières.
  (Articles L353-2 à L353-3)
+
+
+
+
+Chapitre IV : Aide au retour à l'emploi des travailleurs privés d'emploi
+ (Article L354-1)
 
 
 
@@ -1410,7 +1312,6 @@ Section 2 : Travail dissimulé
 
 
 Chapitre IV : Main-d'oeuvre étrangère
- (Articles L364-6 à L364-9)
 
 
 (en vigueur jusqu'au 1er janvier 2007 au plus tard)
@@ -2239,6 +2140,12 @@ Section 3 : Dispositions spéciales aux personnes employées par des personnes m
 
 
 
+Chapitre IV : Educateurs et aides familiaux
+ (Article L774-1)
+
+
+
+
 
 
 Titre VIII : Dispositions relatives à certaines catégories de travailleurs et d'entreprises
@@ -2438,7 +2345,7 @@ Section 6 : Aide à la création d'emploi
 
 
 Section 7 : Aide à la réinsertion professionnelle
- (Article L832-9)
+ (Articles L832-9 à L832-9-1)
 
 
 
@@ -2706,34 +2613,13 @@ Chapitre Ier : Du contrôle de la formation professionnelle continue
 
 
 Chapitre II : Dispositions diverses.
- (Articles L992-1 à L992-7)
+ (Articles L992-1 à L992-8)
 
 
 
 
 Chapitre III : Dispositions pénales.
  (Articles L993-1 à L993-5)
-
-
-
-
-
-
-Titre IX : Contrôle de la formation professionnelle continue
-
-
-Dispositions diverses
-
-
-Dispositions pénales
-
-
-Chapitre II : Dispositions diverses.
- (Article L992-8)
-
-
-
-
 
 
 
