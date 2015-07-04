@@ -2430,6 +2430,12 @@ Section 1 : Salaire minimum de croissance.
 Titre II : Réglementation du travail
 
 
+Chapitre IV : Médecine du travail
+ (Article L824-1)
+
+
+
+
 
 
 Titre III : Placement et emploi
@@ -5724,7 +5730,7 @@ Sous-section 1 : Scrutin
 
 
 Paragraphe 1 : Déclarations de candidature.
- (Articles R513-31 à R513-38)
+ (Articles R513-31 à R513-38-2)
 
 
 
@@ -5765,7 +5771,7 @@ III - Dépouillement des votes.
 
 
 Paragraphe 5 : Contentieux.
- (Articles R513-108 à R513-115)
+ (Articles R513-107-2 à R513-114)
 
 
 
@@ -5779,7 +5785,7 @@ Sous-section 2 : Installation des conseillers prud'hommes.
 
 
 Sous-section 3 : Elections complémentaires.
- (Articles R513-117 à R513-119)
+ (Articles R513-117 à R513-120)
 
 
 
