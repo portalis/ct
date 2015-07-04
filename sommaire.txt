@@ -1216,10 +1216,7 @@ Section 5 : Emploi obligatoire des pères de famille.
 
 
 
-Chapitre IV : Cumuls d'emplois
-
-
-Travail clandestin
+Chapitre IV : Cumuls d'emplois - Travail dissimulé
 
 
 Section 1 : Cumuls d'emplois.
@@ -1228,8 +1225,22 @@ Section 1 : Cumuls d'emplois.
 
 
 
-Section 2 : Travail clandestin.
+Section 2 : Travail dissimulé.
  (Articles L324-9 à L324-15)
+
+
+
+
+
+
+Chapitre IV : Cumuls d'emplois
+
+
+Travail dissimulé
+
+
+Section 2 : Travail dissimulé.
+ (Articles L324-11-2 à L324-14)
 
 
 
@@ -1367,7 +1378,7 @@ Section 1 : Dispositions régissant l'emploi de certaines catégories de travail
 
 
 
-Section 2 : Travail clandestin
+Section 2 : Travail dissimulé
  (Articles L362-3 à L362-6)
 
 
@@ -1858,12 +1869,6 @@ Section 2 : Scrutin, installation des conseillers prud'hommes, élections compl�
 
 Chapitre IV : Statut des conseillers prud'hommes.
  (Articles L514-2 à L514-14)
-
-
-
-
-Chapitre VI : Procédure devant les conseils de prud'hommes.
- (Article L516-2)
 
 
 
@@ -2450,7 +2455,7 @@ Section 2 : Contrats d'accès à l'emploi
 
 
 
-Section 3 : Cumuls d'emplois et travail clandestin.
+Section 3 : Travail dissimulé.
  (Article L832-3)
 
 
