@@ -5130,7 +5130,7 @@ Sous-section 1 : Exonération partielle de l'obligation d'emploi.
 
 
 
-Sous-section 2 : Procédure d'agrément des accords de branche, d'entreprise ou d'établissement.
+Sous-section 2 : Procédure d'agrément des accords de branche, de groupe, d'entreprise ou d'établissement.
  (Articles R323-4 à R323-7)
 
 
@@ -5196,12 +5196,6 @@ Paragraphe 4 : Subvention d'installation.
  (Article R323-73)
 
 
-
-
-
-
-Sous-section 7 : Commission départementale des travailleurs handicapés, des mutilés de guerre et assimilés.
- (Articles R323-74 à R323-78)
 
 
 
@@ -7440,6 +7434,12 @@ Section 4 : Aide financière.
 
 
 
+Section 5 : Agréments des associations et entreprises de services à la personne.
+ (Articles D129-35 à D129-37)
+
+
+
+
 
 
 
@@ -7579,6 +7579,12 @@ Chapitre III : Congés annuels.
 
 Chapitre V : Congés non rémunérés
  (Articles D225-1 à D225-2)
+
+
+
+
+Chapitre VII : Compte épargne-temps.
+ (Articles D227-1 à D227-2)
 
 
 
