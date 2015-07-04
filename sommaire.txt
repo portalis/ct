@@ -241,6 +241,18 @@ Section 4-2 : Règles particulières aux salariés devenus physiquement inaptes 
 
 
 
+Section 4-3 : Dispositions particulières aux personnes exerçant une activité dans la réserve opérationnelle
+ (Articles L122-24-5 à L122-24-8)
+
+
+
+
+Section 4-4 : Règles particulières aux personnes ayant souscrit un engagement à servir dans la réserve opérationnelle
+ (Articles L122-24-9 à L122-24-10)
+
+
+
+
 Section 5 : Protection de la maternité et éducation des enfants.
  (Articles L122-25 à L122-32)
 
@@ -880,6 +892,12 @@ Section 4 : Congé de représentation
 
 Section 5 : Congé de solidarité internationale
  (Articles L225-9 à L225-14)
+
+
+
+
+Section 6 : Congé d'accompagnement d'une personne en fin de vie
+ (Articles L225-15 à L225-19)
 
 
 
@@ -3983,10 +4001,28 @@ Sous-section 2 : Mesures particulières applicables à l'utilisation de certains
 
 
 
+Sous-section 3 : Mesures complémentaires applicables pour l'utilisation des équipements de travail servant au levage de charges
+ (Articles R233-13-1 à R233-13-15)
+
+
+
+
+Sous-section 4 : Mesures complémentaires applicables à l'utilisation des équipements de travail mobiles
+ (Articles R233-13-16 à R233-13-18)
+
+
+
+
+Sous-section 5 : Autorisation de conduite pour l'utilisation de certains équipements de travail mobiles et des équipements de travail servant au levage
+ (Article R233-13-19)
+
+
+
+
 
 
 Section 3 : Prescriptions techniques applicables pour l'utilisation des équipements de travail
- (Articles R233-14 à R233-31)
+ (Articles R233-14 à R233-41)
 
 
 
@@ -6645,6 +6681,12 @@ Sous-section 3 : Documents médicaux.
 Titre III : Placement et emploi
 
 
+Chapitre préliminaire : Dispositions particulières à la main-d'oeuvre étrangère à Saint-Pierre-et-Miquelon
+ (Articles R830-1 à R830-5)
+
+
+
+
 Chapitre Ier : Dispositions relatives aux contrats d'accès à l'emploi
  (Articles R831-1 à R831-9)
 
@@ -6705,6 +6747,12 @@ Titre V : Conflits du travail
 
 Chapitre Ier : Conflits individuels - Conseils de prud'hommes.
  (Articles R851-1 à R851-3)
+
+
+
+
+Chapitre II : Règlement des conflits collectifs
+ (Articles R852-1 à R852-9)
 
 
 
@@ -7130,6 +7178,17 @@ Partie réglementaire ancienne - Décrets simples
 Livre Ier : Conventions relatives au travail
 
 
+Titre Ier : Contrats d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+
+
+Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
+ (Article D118-1)
+
+
+
+
+
+
 Titre Ier : Contrats d'apprentissage
 
 
@@ -7143,7 +7202,7 @@ Chapitre VII : Salaire de l'apprenti.
 
 
 Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
- (Articles D118-1 à D118-4)
+ (Articles D118-2 à D118-4)
 
 
 

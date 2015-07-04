@@ -5,7 +5,12 @@ L. 118-7, à une indemnité compensatrice forfaitaire composée :
 a) D'un versement au titre de l'aide à l'embauche d'apprentis,
 intervenant à l'issue des deux premiers mois visés à l'article L.
 117-17 lorsque l'embauche est confirmée ; ce versement est effectué à
-l'employeur signataire du contrat d'apprentissage ;
+l'employeur si, à la conclusion du contrat, le jeune n'est titulaire
+d'aucun diplôme sanctionnant le second cycle de l'enseignement
+secondaire général, technologique ou professionnel, à l'exception du
+certificat d'aptitude professionnelle, du brevet d'études
+professionnelles ou d'un diplôme ou titre homologué de niveau
+équivalent ;
 
 b) D'une indemnité de soutien à l'effort de formation réalisé par
 l'employeur ; cette indemnité est attribuée sous la forme de
