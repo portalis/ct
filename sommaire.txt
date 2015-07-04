@@ -249,7 +249,7 @@ Sous-section 2 : Protection des salariés et droit disciplinaire.
 
 
 Section 7 : Discriminations
- (Articles L122-45 à L122-45-3)
+ (Articles L122-45 à L122-45-5)
 
 
 
@@ -664,7 +664,7 @@ Section 2 : Travail à temps choisi
 
 
 Paragraphe 1 : Horaires individualisés.
- (Article L212-4-1)
+ (Articles L212-4-1 à L212-4-1-1)
 
 
 
@@ -1136,7 +1136,7 @@ Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés
 
 
 Sous-section 4 : Travail protégé
- (Articles L323-29 à L323-32)
+ (Articles L323-30 à L323-32)
 
 
 
@@ -1145,12 +1145,6 @@ Sous-section 5 : Dispositions d'exécution.
  (Article L323-34)
 
 
-
-
-
-
-Section 3 : Commission départementale des travailleurs handicapés, des mutilés de guerre et assimilés.
- (Article L323-35)
 
 
 
@@ -2357,7 +2351,7 @@ Section 7 : Aide à la réinsertion professionnelle
 
 
 Section 8 : Dispositions régissant l'emploi de certaines catégories de travailleurs
- (Article L832-10)
+ (Article L832-11)
 
 
 
@@ -7309,6 +7303,22 @@ Section 1 : Chèque-service
 
 Section 2 : Conditions d'agrément des associations et des entreprises de services aux personnes
  (Articles D129-7 à D129-12)
+
+
+
+
+
+
+
+
+Titre III : Conventions et accords collectifs de travail
+
+
+Chapitre II : Nature et validité des conventions et accords collectifs de travail
+
+
+Section 1 : Dispositions communes.
+ (Articles D132-1 à D132-3)
 
 
 
