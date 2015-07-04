@@ -540,6 +540,7 @@
 20000209 : Décret n°2000-101 du 7 février 2000 - art. 1 JORF 9 février 2000
 20000210 : Décret n°2000-105 du 9 février 2000 - art. 1 JORF 10 février 2000
 20000211 : Loi n°2000-108 du 10 février 2000 - art. 45 JORF 11 février 2000
+20000222 : Décret n°2000-140 du 21 février 2000 - art. 4 JORF 22 février 2000
 20000401 : Ordonnance n°2000-285 du 30 mars 2000 - art. 5 (V) JORF 1er avril 2000
 20000622 : Rapport - art. 6 (V) JORF 22 juin 2000, Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 20000921 : Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000

@@ -2437,18 +2437,6 @@ Section 1 : Salaire minimum de croissance.
 Titre II : Réglementation du travail
 
 
-Chapitre Ier : Durée du travail.
- (Article L821-1)
-
-
-
-
-Chapitre II : Services médicaux du travail.
- (Articles L822-1 à L822-3)
-
-
-
-
 
 
 Titre III : Placement et emploi
@@ -4787,7 +4775,7 @@ Paragraphe 1 : Dispositions générales
 
 
 
-Paragraphe 2 : Travail à temps partiel
+Paragraphe 2 : Travail à temps partiel et travail intermittent
  (Article R261-3-1)
 
 
@@ -4801,6 +4789,12 @@ Paragraphe 3 : Heures supplémentaires.
 
 Paragraphe 4 : Dispositions relatives aux femmes et aux jeunes travailleurs
  (Articles R261-5 à R261-6)
+
+
+
+
+Paragraphe 5 : Dispositions relatives aux cadres
+ (Article R261-6-1)
 
 
 
