@@ -1079,7 +1079,7 @@ Section 1 : Fonds national de l'emploi.
 
 
 
-Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dans le cadre des accords sur l'emploi.
+Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi et à l'articulation de l'emploi et de la vie personnelle et familiale.
  (Article L322-7)
 
 
@@ -1101,6 +1101,12 @@ Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
  (Article L322-11)
 
 
+
+
+
+
+Chapitre II bis : Prime de retour à l'emploi
+ (Article L322-12)
 
 
 
@@ -1328,7 +1334,7 @@ Chapitre IV : Main-d'oeuvre étrangère
 
 
 Chapitre V : Travailleurs privés d'emploi.
- (Articles L365-1 à L365-2)
+ (Articles L365-1 à L365-3)
 
 
 
@@ -5107,7 +5113,13 @@ Section 4 : Contrats d'accompagnement dans l'emploi et contrats initiative emplo
 
 
 Section 5 : Contrats d'avenir et contrats insertion-revenu minimum d'activité.
- (Articles R322-17 à R322-17-13)
+ (Articles R322-17 à R322-17-15)
+
+
+
+
+Section 6 : Insertion par l'activité économique.
+ (Articles R322-18 à R322-18-2)
 
 
 
