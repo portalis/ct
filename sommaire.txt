@@ -7046,7 +7046,7 @@ Paragraphe 2 : Dispositions communes aux organismes collecteurs paritaires agré
 
 
 Paragraphe 3 : Dispositions relatives aux fonds d'assurance formation
- (Articles R964-2 à R964-15)
+ (Articles R964-2 à R964-15-3)
 
 
 
@@ -7187,6 +7187,12 @@ Chapitre VII : Salaire de l'apprenti.
 
 
 
+Chapitre VIII : Indemnité compensatrice forfaitaire versée aux employeurs d'apprentis
+ (Articles D118-1 à D118-4)
+
+
+
+
 
 
 
@@ -7228,6 +7234,12 @@ Chapitre IX : Services aux personnes
 
 Section 1 : Chèque-service
  (Articles D129-1 à D129-6)
+
+
+
+
+Section 2 : Conditions d'agrément des associations et des entreprises de services aux personnes
+ (Articles D129-7 à D129-12)
 
 
 
