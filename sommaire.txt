@@ -2236,11 +2236,11 @@ Section 3 : Mannequins.
 
 
 
-Livre VIII : Dispositions spéciales aux départements d'outre-mer
+Livre VIII : Dispositions spéciales à l'outre-mer
 
 
 Titre préliminaire.
- (Articles L800-1 à L800-2)
+ (Articles L800-1 à L800-7)
 
 
 
@@ -2280,6 +2280,12 @@ Section 1 : Salaire minimum de croissance.
 
 
 Titre II : Réglementation du travail
+
+
+Chapitre Ier : Durée du travail
+ (Article L821-1)
+
+
 
 
 Chapitre IV : Médecine du travail
@@ -2378,12 +2384,6 @@ Chapitre II : Conflits collectifs
 
 
 Titre VIII : Pénalités
-
-
-Chapitre II : Réglementation du travail.
- (Article L882-1)
-
-
 
 
 Chapitre III : Dispositions spéciales à la main-d'oeuvre étrangère
