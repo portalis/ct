@@ -7027,7 +7027,7 @@ Titre V : De la participation des employeurs au développement de la formation p
 
 
 Section 1 : Champ d'application de la participation des employeurs au développement de la formation professionnelle continue.
- (Articles R950-1 à R950-2)
+ (Article R950-1)
 
 
 
@@ -7055,7 +7055,7 @@ Paragraphe 3 : Validation des acquis de l'expérience.
 
 
 Paragraphe 4 : Dispositions diverses
- (Articles R950-14 à R950-17)
+ (Articles R950-14 à R950-16)
 
 
 
@@ -7086,7 +7086,7 @@ Section 6 : Des engagements de développement de la formation.
 
 
 
-Section 7 : Des conditions de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés
+Section 7 : Des conditions de fonctionnement des organismes collecteurs de la contribution des employeurs occupant moins de dix salariés au titre du quatrième alinéa de l'article L. 952-1
  (Articles R952-3 à R952-4)
 
 
@@ -7188,24 +7188,25 @@ Paragraphe 2 : Dispositions communes aux organismes collecteurs paritaires agré
 
 
 Paragraphe 3 : Dispositions relatives aux fonds d'assurance formation
- (Articles R964-2 à R964-15-3)
+ (Articles R964-2 à R964-15)
 
 
 
 
-Paragraphe 4 : Dispositions relatives aux organismes de mutualisation et au compte unique prévu à l'article 45 de la loi de finances rectificative pour 1986
- (Articles R964-16-1 à R964-16-9)
-
-
-
-
-Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation et au fonds national prévu à l'article L. 961-13
- (Articles R964-17-1 à R964-17-11)
+Paragraphe 4 : Dispositions relatives aux organismes paritaires agréés au titre des contrats ou des périodes de professionnalisation et du droit individuel à la formation
+ (Articles R964-16-1 à R964-16-6)
 
 
 
 
 Paragraphe 5 : Dispositions relatives aux organismes collecteurs paritaires agréés au titre du congé individuel de formation
+ (Articles R964-17-1 à R964-17-3)
+
+
+
+
+Paragraphe 6 : Dispositions relatives au fonds national prévu à l'article L. 961-13
+ (Articles R964-18-1 à R964-18-7)
 
 
 
