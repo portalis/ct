@@ -4775,6 +4775,12 @@ Section 3 : Travail de nuit.
 Chapitre II : Repos et congés
 
 
+Section préliminaire : Repos quotidien
+ (Article R262)
+
+
+
+
 Section 1 : Repos hebdomadaire.
  (Articles R262-1 à R262-2)
 
@@ -7311,6 +7317,12 @@ Section 5 : Contrôle de la durée du travail
 
 
 Titre II : Repos et congés
+
+
+Chapitre préliminaire : Repos quotidien
+ (Articles D220-1 à D220-7)
+
+
 
 
 Chapitre III : Congés annuels.
