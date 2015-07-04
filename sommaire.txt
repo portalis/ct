@@ -348,12 +348,6 @@ Chapitre VII : GROUPEMENTS D'EMPLOYEURS.
 
 
 
-Chapitre VIII : Associations intermédiaires.
- (Article L128)
-
-
-
-
 Chapitre IX : Services aux personnes
  (Articles L129-1 à L129-3)
 
@@ -1208,12 +1202,6 @@ Section 3 : Commission départementale des travailleurs handicapés, des mutilé
 
 
 
-Section 4 : Handicapés sociaux.
- (Article L323-35 bis)
-
-
-
-
 Section 5 : Emploi obligatoire des pères de famille.
  (Articles L323-36 à L323-39)
 
@@ -1348,7 +1336,7 @@ Chapitre II : Régime des accords conclus entre employeurs et travailleurs et re
 
 
 Chapitre III : Dispositions particulières.
- (Articles L353-1 à L353-2)
+ (Articles L353-1 à L353-3)
 
 
 
@@ -2520,7 +2508,7 @@ Chapitre III : Dispositions spéciales à la main-d'oeuvre étrangère
 
 
 Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
- (Articles L900-1 à L900-6)
+ (Articles L900-1 à L900-7)
 
 
 Titre Ier : Des institutions de la formation professionnelle.
