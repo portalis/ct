@@ -1142,7 +1142,7 @@ Sous-section 3 : Dispositions applicables aux travailleurs handicapés employés
 
 
 Sous-section 4 : Travail protégé
- (Articles L323-30 à L323-32)
+ (Articles L323-29 à L323-32)
 
 
 
@@ -2102,11 +2102,22 @@ Chapitre III : Mannequins.
 
 
 
-Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistantes maternelles
+Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistants maternels, éducateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs
 
 
 Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
- (Articles L771-1 à L771-9)
+ (Article L771-1)
+
+
+
+
+
+
+Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistants maternels et assistants familiaux
+
+
+Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
+ (Articles L771-2 à L771-9)
 
 
 
@@ -2117,23 +2128,41 @@ Chapitre II : Employés de maison.
 
 
 
-Chapitre III : Assistantes maternelles
+Chapitre III : Assistants maternels et assistants familiaux employés par des personnes de droit privé
 
 
-Section 1 : Dispositions générales.
- (Articles L773-1 à L773-7)
-
-
-
-
-Section 2 : Dispositions spéciales aux personnes employées par des particuliers.
- (Articles L773-8 à L773-9)
+Section 1 : Dispositions communes.
+ (Articles L773-1 à L773-6)
 
 
 
 
-Section 3 : Dispositions spéciales aux personnes employées par des personnes morales de droit privé.
- (Articles L773-10 à L773-17)
+Section 2 : Dispositions applicables aux assistants maternels.
+ (Articles L773-7 à L773-11)
+
+
+
+
+Section 3 : Dispositions applicables aux assistants maternels employés par des particuliers.
+ (Articles L773-12 à L773-16)
+
+
+
+
+Section 4 : Dispositions applicables aux assistants maternels et aux assistants familiaux employés par des personnes morales de droit privé.
+ (Articles L773-17 à L773-24)
+
+
+
+
+Section 5 : Dispositions applicables aux assistants maternels employés par des personnes morales de droit privé.
+ (Article L773-25)
+
+
+
+
+Section 6 : Dispositions applicables aux assistants familiaux employés par des personnes morales de droit privé.
+ (Articles L773-26 à L773-29)
 
 
 
@@ -3617,7 +3646,7 @@ Sous-section 7 : Dispositions d'urgence
 
 
 Sous-section 8 : Dispositions spécifiques à certains agents chimiques dangereux
- (Articles R231-58 à R231-58-6)
+ (Articles R231-58 à R231-58-7)
 
 
 
