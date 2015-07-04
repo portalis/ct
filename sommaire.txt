@@ -7604,6 +7604,12 @@ Section 2 : Insertion des jeunes dans la vie sociale.
 
 
 
+Section 2 bis : Aides de l'Etat au développement de l'emploi et des compétences.
+ (Articles D322-10-12 à D322-10-13)
+
+
+
+
 Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
  (Articles D322-11 à D322-22)
 
@@ -8216,7 +8222,7 @@ Titre IV : De l'aide de l'Etat.
 
 
 Titre V : De la participation des employeurs au financement de la formation professionnelle continue.
- (Articles D950-1 à D950-6)
+ (Article D950-5)
 
 
 
