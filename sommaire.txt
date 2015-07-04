@@ -186,7 +186,7 @@ Chapitre préliminaire.
 
 
 Chapitre Ier : Dispositions générales.
- (Articles L121-1 à L121-8)
+ (Articles L121-1 à L121-9)
 
 
 
@@ -276,11 +276,11 @@ Section 5-1 : Règles particulières aux salariés victimes d'un accident du tra
 
 
 
-Section 5-2 : Congé pour la création d'entreprise, congé sabbatique
+Section 5-2 : Congé et période de travail à temps partiel pour la création ou la reprise d'entreprise et congé sabbatique
 
 
-Sous-section 1 : Dispositions spécifiques au congé pour la création d'entreprise.
- (Articles L122-32-12 à L122-32-16)
+Sous-section 1 : Dispositions relatives au congé et à la période de travail à temps partiel pour la création ou la reprise d'entreprise.
+ (Articles L122-32-12 à L122-32-16-3)
 
 
 
@@ -1173,6 +1173,12 @@ Section 1 : Fonds national de l'emploi.
 
 Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dans le cadre des accords sur l'emploi.
  (Article L322-7)
+
+
+
+
+Section 2 bis : Soutien à la création ou à la reprise, par contrat d'appui, d'une activité économique.
+ (Article L322-8)
 
 
 
@@ -2311,8 +2317,8 @@ Chapitre II : Gérants non-salariés des succursales de maisons d'alimentation d
 
 
 
-Chapitre III : Halles centrales de Paris.
- (Articles L783-1 à L783-8)
+Chapitre III : Situation des personnes bénéficiaires du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique
+ (Articles L783-1 à L783-2)
 
 
 
