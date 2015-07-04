@@ -6923,10 +6923,10 @@ Titre Ier : Coordination de la politique de formation professionnelle et de prom
 
 
 
-Titre II : Des conventions et des contrats de formation professionnelle
+Titre II : Des droits et des obligations des organismes de formation
 
 
-Chapitre Ier : Déclaration préalable et bilan pédagogique et financier.
+Chapitre Ier : Déclaration d'activité et bilan pédagogique et financier.
  (Articles R921-1 à R921-7)
 
 
@@ -6956,7 +6956,7 @@ Section 3 : Règlement intérieur et représentation des stagiaires
 
 
 Chapitre III : Obligations comptables des dispensateurs de formation de droit privé
- (Articles R923-1 à R923-3)
+ (Articles R923-1 à R923-4)
 
 
 
@@ -7079,12 +7079,6 @@ Section 4 : Déclaration relative à la participation au développement de la fo
 
 Section 5 : Déclaration relative à la participation au développement de la formation professionnelle continue des employeurs occupant moins de dix salariés
  (Articles R950-23 à R950-24)
-
-
-
-
-Section 6 : Des engagements de développement de la formation.
- (Articles R950-25 à R950-32)
 
 
 
@@ -7307,7 +7301,7 @@ Chapitre II : Dispositions particulières aux départements d'outre-mer
 
 
 Section 1 : Application des dispositions des articles L. 930-1 à L. 930-2 et L. 950-1 à L. 950-10.
- (Articles R992-1 à R992-3)
+ (Articles R992-1 à R992-2)
 
 
 
