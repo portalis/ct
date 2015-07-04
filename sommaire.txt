@@ -2859,12 +2859,6 @@ Paragraphe 8 : Du titre de maître d'apprentissage confirmé
 
 
 
-Chapitre VII bis : Du statut de l'apprenti.
- (Articles R117 bis 1 à R117 bis 3)
-
-
-
-
 Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et de l'artisanat et des chambres d'agriculture en matière d'apprentissage
  (Article R118-1)
 
@@ -3491,6 +3485,12 @@ Section 4 : Surveillance médicale des travailleurs de nuit
 
 
 
+Section 5 : Travail de nuit des jeunes travailleurs et apprentis de moins de dix-huit ans
+ (Articles R213-9 à R213-10)
+
+
+
+
 
 
 
@@ -3575,6 +3575,12 @@ Section 4 : Congé de représentation
  (Articles R225-14 à R225-21)
 
 
+
+
+
+
+Chapitre VI : Emploi des apprentis et des jeunes travailleurs les dimanches et jours fériés
+ (Articles R226-1 à R226-2)
 
 
 
@@ -7653,7 +7659,7 @@ Sous-section 1 : Dispositions générales.
 
 
 Sous-section 2 : Réadaptation, rééducation, formation professionnelle et réentraînement au travail.
- (Articles D323-4 à D323-10)
+ (Articles D323-4 à D323-10-1)
 
 
 
