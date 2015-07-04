@@ -5422,12 +5422,13 @@ Section 7 : Rapport annuel d'information du comité d'entreprise dans les entrep
 
 
 Section 8 : Médiateur
- (Articles R432-20 à R432-25)
+ (Articles R432-22 à R432-25)
 
 
 
 
-Section 8 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires
+Section 9 : Prérogatives du comité d'entreprise dans les assemblées générales d'actionnaires
+ (Articles R432-26 à R432-27)
 
 
 
@@ -7514,7 +7515,7 @@ Chapitre Ier : Contrôle de l'emploi.
 
 
 Chapitre II : Fonds national de l'emploi.
- (Articles D322-1 à D322-7)
+ (Articles D322-1 à D322-10-4)
 
 
 Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
