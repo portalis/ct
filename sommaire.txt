@@ -2942,7 +2942,7 @@ Section 3 : Service national.
 
 
 Section 4 : Protection de la maternité et éducation des enfants.
- (Articles R122-9 à R122-11-1)
+ (Articles R122-9 à R122-11-2)
 
 
 
@@ -5096,7 +5096,7 @@ Section 2 ter : Aides de l'Etat au développement de l'emploi et des compétence
 
 
 Section 3 : Dispositions générales.
- (Articles R322-11 à R322-14)
+ (Articles R322-11 à R322-15-2)
 
 
 
@@ -6912,12 +6912,6 @@ Titre préliminaire
 
 
 
-Titre Ier : Coordination de la politique de formation professionnelle et de promotion sociale.
- (Articles R910-1 à R910-15)
-
-
-
-
 Titre II : Des droits et des obligations des organismes de formation
 
 
@@ -7362,7 +7356,7 @@ Section 2 : Résiliation du contrat de travail à durée indéterminée.
 
 
 Section 5 : Protection de la maternité et éducation des enfants
- (Article D122-25)
+ (Articles D122-25 à D122-26)
 
 
 
