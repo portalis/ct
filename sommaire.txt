@@ -3855,7 +3855,7 @@ Sous-section 7 : Règles applicables dans des cas d'exposition professionnelles 
 
 
 
-Chapitre II : Hygiène - aménagement des lieux de travail - prévention des incendies
+Chapitre II : Hygiène - Aménagement des lieux de travail - Prévention des incendies et des explosions
 
 
 Section 1 : Aménagement et hygiène des lieux de travail
@@ -3939,7 +3939,7 @@ Sous-section 2 : Hébergement
 
 
 
-Section 4 : Prévention des incendies - évacuation
+Section 4 : Prévention des incendies et des explosions - Evacuation
 
 
 Sous-section 1 : Dispositions générales
@@ -3968,6 +3968,12 @@ Sous-section 4 : Emploi des matières inflammables
 
 Sous-section 5 : Moyens de prévention et de lutte contre l'incendie
  (Articles R232-12-17 à R232-12-22)
+
+
+
+
+Sous-section 6 : Prévention des explosions
+ (Articles R232-12-23 à R232-12-29)
 
 
 
@@ -4323,7 +4329,7 @@ Section 3 : Règles de sécurité
 
 
 
-Section 4 : Prévention des incendies - évacuation
+Section 4 : Prévention des incendies et des explosions - Evacuation
 
 
 Sous-section 1 : Dispositions générales
@@ -4368,8 +4374,14 @@ Sous-section 7 : Moyens de prévention et de lutte contre l'incendie
 
 
 
-Sous-section 8 : Mesures d'application
+Sous-section 8 : Prévention des explosions
  (Article R235-4-17)
+
+
+
+
+Sous-section 9 : Mesures d'application
+ (Article R235-4-18)
 
 
 
@@ -4591,7 +4603,7 @@ Titre IV : Médecine du travail
 
 
 Chapitre Ier : Dispositions de droit commun.
- (Article R241-1)
+ (Articles R241-1 à R241-1-7)
 
 
 Section 1 : Des services médicaux d'entreprise ou d'établissement et des services médicaux communs aux entreprises constituant une unité économique et sociale
@@ -4603,13 +4615,13 @@ Sous-section 1 : Dispositions générales.
 
 
 
-Sous-section 2 : Services médicaux du travail interétablissements d'entreprise.
+Sous-section 2 : Services de santé au travail interétablissements d'entreprise.
  (Articles R241-4 à R241-5)
 
 
 
 
-Sous-section 3 : Services médicaux du travail communs aux entreprises constituant une unité économique et sociale.
+Sous-section 3 : Services de santé au travail communs aux entreprises constituant une unité économique et sociale.
  (Article R241-6)
 
 
@@ -7590,7 +7602,13 @@ Chapitre Ier : Contrôle de l'emploi.
 
 
 Chapitre II : Fonds national de l'emploi.
- (Articles D322-1 à D322-10-4)
+ (Articles D322-1 à D322-10-8)
+
+
+Section 2 : Insertion des jeunes dans la vie sociale.
+ (Articles D322-10-5 à D322-10-7)
+
+
 
 
 Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
@@ -7793,7 +7811,7 @@ Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 
 Chapitre IV : Statut des conseillers prud'hommes.
- (Articles D514-2 à D514-7)
+ (Articles D514-1 à D514-7)
 
 
 
@@ -7810,12 +7828,6 @@ Titre Ier : Conflits individuels
 
 
 Conseils de prud'hommes
-
-
-Chapitre IV : Statut des conseillers prud'hommes.
- (Article D514-1)
-
-
 
 
 Chapitre VII : COMPETENCE DES CONSEILS DE PRUD'HOMMES
