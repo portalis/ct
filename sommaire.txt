@@ -4876,6 +4876,12 @@ Section 6 : Dispositions diverses.
 
 
 
+Section 7 : Maisons de l'emploi.
+ (Article R311-7-1)
+
+
+
+
 
 
 Chapitre II : Placement privé
@@ -7478,8 +7484,8 @@ Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
 
 
 
-Section 4 : Insertion des bénéficiaires du revenu minimum d'activité.
- (Articles D322-22-1 à D322-22-12)
+Section 4 : Contrats insertion-revenu minimum d'activité.
+ (Articles D322-22-1 à D322-22-11)
 
 
 
