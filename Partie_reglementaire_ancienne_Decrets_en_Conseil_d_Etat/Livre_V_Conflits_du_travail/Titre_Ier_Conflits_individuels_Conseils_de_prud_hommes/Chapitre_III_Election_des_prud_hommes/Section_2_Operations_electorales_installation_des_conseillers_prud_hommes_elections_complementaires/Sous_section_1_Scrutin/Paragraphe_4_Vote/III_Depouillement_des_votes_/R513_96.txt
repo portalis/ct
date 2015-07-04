@@ -11,6 +11,8 @@ publiée ou dont l'irrégularité a été constatée par le juge ;
 - les bulletins trouvés dans l'urne sans enveloppe ou dans des
 enveloppes non réglementaires ;
 
+- les bulletins imprimés sur papier de couleur ;
+
 - les bulletins multiples trouvés dans la même enveloppe et concernant
 des listes différentes ;
 

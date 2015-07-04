@@ -2912,12 +2912,6 @@ Dispositions générales.
 
 
 
-E - Aménagements au bénéfice des personnes handicapées des dispositions relatives à l'apprentissage.
- (Article R119-75)
-
-
-
-
 
 
 
@@ -5139,6 +5133,17 @@ Section 2 : Travail clandestin.
 
 
 
+Chapitre IV : Cumuls d'emploi et travail dissimulé
+
+
+Section 2 : Travail dissimulé.
+ (Article R324-8)
+
+
+
+
+
+
 
 
 Titre III : Conseil supérieur de l'égalité professionnelle entre les femmes et les hommes
@@ -5591,71 +5596,6 @@ Titre VII : Fonds salariaux.
 Livre V : Conflits du travail
 
 
-Titre Ier : Conflits individuels
-
-
-Conseils de prud'hommes
-
-
-Chapitre III : Election des prud'hommes
-
-
-Section 1 : Electorat, éligibilité et établissement des listes électorales
-
-
-Paragraphe 1 : Electorat.
- (Articles R513-9 à R513-10)
-
-
-
-
-Paragraphe 3 : Etablissement des listes électorales.
- (Articles R513-11 à R513-17)
-
-
-
-
-
-
-Section 2 : Opérations électorales, installation des conseillers prud'hommes, élections complémentaires
-
-
-Sous-section 1 : Scrutin
-
-
-Paragraphe 3 : Propagande.
- (Article R513-45)
-
-
-
-
-
-
-Paragraphe 4 : Vote
-
-
-I - Opérations de vote.
- (Articles R513-56 à R513-73)
-
-
-
-
-III - Dépouillement des votes.
- (Article R513-96)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 
@@ -5689,13 +5629,13 @@ Section 1 : Electorat, éligibilité et établissement des listes électorales
 
 
 Paragraphe 1 : Electorat.
- (Articles R513-1 à R513-8)
+ (Articles R513-1 à R513-10)
 
 
 
 
 Paragraphe 3 : Etablissement des listes électorales.
- (Articles R513-12 à R513-30)
+ (Articles R513-11 à R513-30)
 
 
 
@@ -6454,7 +6394,7 @@ Sous-section 2 : Substitution de l'utilisateur à l'agence de mannequins en cas 
 
 
 Section 3 : Règles applicables à la licence d'agence de mannequins
- (Articles R763-23 à R763-32)
+ (Articles R763-23 à R763-29)
 
 
 
@@ -8078,37 +8018,27 @@ Titre 1 : Conflits individuels - Conseils de prud'hommes
 Chapitre 3 : Election des prud'hommes
 
 
-SECTION 1 : ELECTORAT
-
-
-PARAGRAPHE 1 : ELECTORAT
- (Article R513-7 annexe 1)
-
-
-
-
-
-
-
-
-
-
-Titre 1 : Conflits individuels
-
-
-Conseils de prud'hommes
-
-
-Chapitre 3 : Election des prud'hommes
-
-
 Section 1 : Electorat, éligibilité et établissement des listes électorales
 
 
-Paragraphe 1 : Electorat.
- (Article R513-7 annexe 2)
+Paragraphe 1 : Electorat
 
 
+ANNEXE II TABLEAU DES ACTIVITES RELEVANT DE LA SECTION DU COMMERCE ET DES SERVICES COMMERCIAUX (NAF)
+ (Article Annexe 2 à l'article R513-7)
+
+
+
+
+
+
+
+
+SECTION 1 : ELECTORAT
+
+
+PARAGRAPHE 1 : ELECTORAT ANNEXE I TABLEAU DES ACTIVITES RELEVANT DE LA SECTION DE L'INDUSTRIE (NAF)
+ (Article Annexe 1 à l'article R513-7)
 
 
 
