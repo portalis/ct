@@ -805,6 +805,12 @@ Section 6 : Journée de solidarité
 
 
 
+Section 7 : Dispositions particulières relatives à certains salariés du secteur des transports
+ (Articles L212-18 à L212-19)
+
+
+
+
 
 
 Chapitre III : TRAVAIL DE NUIT
@@ -822,6 +828,12 @@ SECTION 2 : DISPOSITIONS RELATIVES AUX JEUNES TRAVAILLEURS .
 
 
 
+Section 3 : Dispositions particulières relatives à certains salariés du secteur des transports
+ (Article L213-11)
+
+
+
+
 
 
 
@@ -830,7 +842,7 @@ Titre II : Repos et congés
 
 
 Chapitre préliminaire : Repos quotidien
- (Articles L220-1 à L220-2)
+ (Articles L220-1 à L220-3)
 
 
 
@@ -2900,7 +2912,7 @@ Chapitre VII bis : Du statut de l'apprenti.
 
 
 
-Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture en matière d'apprentissage
+Chapitre VIII : Des attributions des chambres de commerce et d'industrie, des chambres de métiers et de l'artisanat et des chambres d'agriculture en matière d'apprentissage
  (Article R118-1)
 
 
