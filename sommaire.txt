@@ -7135,8 +7135,30 @@ Sous-section 4 : Participation des agents ayant quitté l'administration à des 
 
 
 
-Titre VIII : Modalités d'application des articles L. 980-1 à L. 980-5.
- (Articles R980-1-1 à R980-8)
+Titre VIII : Des formations professionnelles en alternance
+
+
+Chapitre Ier : Contrats d'insertion en alternance
+
+
+Section 1 : Contrat de qualification
+ (Articles R981-1 à R981-7)
+
+
+
+
+Section 2 : Contrat d'orientation
+ (Articles R981-8 à R981-9)
+
+
+
+
+Section 3 : Dispositions communes aux contrats d'insertion en alternance
+ (Articles R981-10 à R981-11)
+
+
+
+
 
 
 
@@ -8071,14 +8093,8 @@ Section 3 : Contrat d'adaptation
 
 
 
-Section 4 : Dispositions communes au contrat d'orientation et au contrat d'adaptation
- (Articles D981-17 à D981-19)
-
-
-
-
-Section 5 : Dispositions financières
- (Articles D981-20 à D981-21)
+Section 4 : Dispositions financières
+ (Articles D981-17 à D981-18)
 
 
 
