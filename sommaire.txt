@@ -208,10 +208,10 @@ Section 5-1 : Règles particulières aux salariés victimes d'un accident du tra
 
 
 
-Section 5-2 : Congé et période de travail à temps partiel pour la création ou la reprise d'entreprise et congé sabbatique
+Section 5-2 : Congé et période de travail à temps partiel pour la création ou la reprise d'entreprise ou l'exercice de responsabilités de direction au sein d'une entreprise répondant aux critères de jeune entreprise innovante et congé sabbatique
 
 
-Sous-section 1 : Dispositions relatives au congé et à la période de travail à temps partiel pour la création ou la reprise d'entreprise.
+Sous-section 1 : Dispositions relatives au congé et à la période de travail à temps partiel pour la création ou la reprise d'entreprise ou l'exercice de responsabilités de direction au sein d'une entreprise répondant aux critères de jeune entreprise innovante
  (Articles L122-32-12 à L122-32-16-3)
 
 
@@ -223,7 +223,7 @@ Sous-section 2 : Dispositions spécifiques au congé sabbatique.
 
 
 
-Sous-section 3 : Dispositions communes au congé pour la création d'entreprise et au congé sabbatique.
+Sous-section 3 : Dispositions communes au congé pour la création d'entreprise ou l'exercice de responsabilités de direction au sein d'une entreprise répondant aux critères de jeune entreprise innovante et au congé sabbatique
  (Articles L122-32-22 à L122-32-28)
 
 
@@ -2278,6 +2278,12 @@ Chapitre V : Sportifs professionnels
 
 
 
+Chapitre V bis : Enseignants non permanents des établissements d'enseignement supérieur privé
+ (Article L786)
+
+
+
+
 Chapitre VI : Travail à façon
  (Article L786-1)
 
@@ -3070,6 +3076,12 @@ Section 1 : Dispositions générales.
 
 Section 2 : Dispositions particulières aux groupements d'employeurs ayant pour objet principal de mettre des remplaçants à la disposition des chefs d'exploitations ou d'entreprises mentionnées aux 1° à 4° de l'article L. 722-1 du code rural, des chefs d'entreprises artisanales, industrielles ou commerciales ou des personnes physiques exerçant une profession libérale
  (Articles R127-9-1 à R127-9-8)
+
+
+
+
+Section 3 : Dispositions particulières aux groupements d'employeurs composés d'adhérents de droit privé et de collectivités territoriales.
+ (Articles R127-10 à R127-11)
 
 
 
