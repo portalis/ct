@@ -95,7 +95,7 @@ Section 2 : Conditions du contrat.
 
 
 Section 3 : Formation et résolution du contrat.
- (Articles L117-13 à L117-14)
+ (Article L117-14)
 
 
 
@@ -103,7 +103,7 @@ Section 3 : Formation et résolution du contrat.
 
 
 Chapitre VII bis : Du statut de l'apprenti.
- (Articles L117 BIS-2 à L117 BIS-3)
+ (Article L117 BIS-2)
 
 
 
@@ -115,7 +115,7 @@ Chapitre VIII : Dispositions financières.
 
 
 Chapitre IX : Dispositions diverses.
- (Articles L119-1-1 à L119-5)
+ (Articles L119-1-1 à L119-4)
 
 
 
@@ -125,6 +125,12 @@ Chapitre IX : Dispositions diverses.
 
 
 Titre Ier : Contrat d'apprentissage - Dispositions applicables aux contrats conclus à partir du 1er juillet 1972
+
+
+Chapitre V : Généralités.
+ (Article L115-3)
+
+
 
 
 Chapitre VI : Des centres de formation d'apprentis
@@ -169,7 +175,7 @@ Chapitre VIII : Dispositions financières.
 
 
 Chapitre IX : Dispositions diverses.
- (Articles L119-1 à L119-3)
+ (Articles L119-1 à L119-5)
 
 
 
@@ -429,7 +435,7 @@ Section 1 : Dispositions communes.
 
 
 Section 2 : Conventions collectives de branches et accords professionnels et interprofessionnels.
- (Articles L132-11 à L132-17)
+ (Articles L132-11 à L132-17-1)
 
 
 
@@ -452,7 +458,7 @@ Sous-section 2 : Négociation annuelle obligatoire.
 
 
 
-Section 4 : Dispositions particulières aux entreprises de moins de cinquante salariés
+Section 4 : Commissions paritaires
  (Article L132-30)
 
 
@@ -1168,6 +1174,12 @@ Section 2 bis : Soutien à la création ou à la reprise, par contrat d'appui, d
 
 
 
+Section 2 ter : Aides de l'Etat au développement de l'emploi et des compétences
+ (Article L322-9)
+
+
+
+
 Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
  (Article L322-11)
 
@@ -1667,7 +1679,7 @@ Chapitre III : Plans d'épargne d'entreprise.
 
 
 Chapitre IV : Dispositions communes
- (Articles L444-1 à L444-7)
+ (Articles L444-1 à L444-8)
 
 
 
@@ -2524,13 +2536,6 @@ Chapitre III : Dispositions spéciales à la main-d'oeuvre étrangère
 
 
 Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente.
- (Articles L900-1 à L900-7)
-
-
-Titre Ier : Des institutions de la formation professionnelle.
- (Article L910-1)
-
-
 
 
 (en vigueur jusqu'à la date de publication du décret d'application prévu au 4e alinéa de l'art. L910-1)
@@ -2555,6 +2560,18 @@ Chapitre III : De la participation des travailleurs indépendants, des membres d
 
 
 
+
+
+Livre IX : De la formation professionnelle continue dans le cadre de la formation professionnelle tout au long de la vie.
+ (Articles L900-1 à L900-7)
+
+
+Titre Ier : Des institutions de la formation professionnelle
+ (Article L910-1)
+
+
+
+
 Titre II : Des conventions et des contrats de formation professionnelle
 
 
@@ -2573,9 +2590,10 @@ Chapitre II : Des contrats de formation professionnelle.
 
 
 Titre III : Des droits individuels et des droits collectifs des salariés en matière de formation
+ (Article L930-1)
 
 
-Chapitre Ier : De la promotion individuelle et du congé de formation.
+Chapitre Ier : De la promotion individuelle et du congé de formation
 
 
 Section 1 : Congé de formation : dispositions communes
@@ -2585,7 +2603,7 @@ Section 1 : Congé de formation : dispositions communes
 
 
 Section 2 : Congé de formation : dispositions particulières aux personnes qui ont été titulaires de contrats à durée déterminée.
- (Articles L931-13 à L931-20-1)
+ (Articles L931-13 à L931-20-2)
 
 
 
@@ -2605,43 +2623,43 @@ Section 4 : Autres congés
 
 
 Chapitre II : Du plan de formation de l'entreprise
- (Articles L932-1 à L932-3)
+ (Article L932-1)
 
 
 
 
-Chapitre III : Des droits collectifs des salariés.
+Chapitre III : Du droit individuel à la formation
  (Articles L933-1 à L933-6)
 
 
 
 
-Chapitre IV : De la validation des acquis de l'expérience
- (Article L934-1)
+Chapitre IV : Des droits collectifs des salariés.
+ (Articles L934-1 à L934-6)
+
+
+
+
+Chapitre V : De la validation des acquis de l'expérience
+ (Article L935-1)
 
 
 
 
 
 
-Titre IV : De l'aide de l'Etat.
+Titre IV : De l'aide de l'Etat
 
 
-Chapitre Ier : De l'aide de l'Etat aux actions de formation professionnelle.
- (Articles L941-1 à L941-5)
-
-
-
-
-Chapitre II : De l'aide de l'Etat au remplacement de certains salariés en formation.
- (Article L942-1)
+Chapitre Ier : De l'aide de l'Etat aux actions de formation professionnelle
+ (Articles L941 à L941-5)
 
 
 
 
 
 
-Titre V : De la participation des employeurs au développement de la formation professionnelle continue.
+Titre V : De la participation des employeurs au développement de la formation professionnelle continue
  (Article L950-1)
 
 
@@ -2694,18 +2712,47 @@ Titre VII : Dispositions relatives aux agents de l'Etat et aux agents des collec
 
 
 
-Titre VIII : Des formations professionnelles en alternance.
- (Articles L980-1 à L980-2)
+Titre VIII : Des contrats et des périodes de professionnalisation
+ (Article L980-1)
 
 
-Chapitre Ier : Contrats d'insertion en alternance
- (Articles L981-1 à L981-12)
+Chapitre Ier : Contrats de professionnalisation
+ (Articles L981-1 à L981-8)
 
 
 
 
-Chapitre II : Stages de formation professionnelle organisés avec le concours de l'Etat
- (Articles L982-1 à L982-5)
+Chapitre II : Périodes de professionnalisation
+ (Articles L982-1 à L982-4)
+
+
+
+
+Chapitre III : Dispositions financières
+ (Articles L983-1 à L983-4)
+
+
+
+
+
+
+Titre IX : Contrôle de la formation professionnelle continue - Dispositions diverses - Dispositions pénales
+
+
+Chapitre Ier : Du contrôle de la formation professionnelle continue
+ (Articles L991-1 à L991-9)
+
+
+
+
+Chapitre II : Dispositions diverses.
+ (Articles L992-1 à L992-7)
+
+
+
+
+Chapitre III : Dispositions pénales.
+ (Articles L993-1 à L993-5)
 
 
 
@@ -2721,20 +2768,14 @@ Dispositions diverses
 Dispositions pénales
 
 
-Chapitre Ier : Du contrôle de la formation professionnelle continue
- (Articles L991-1 à L991-9)
+Chapitre Ier : Du contrôle de la formation professionnelle continue.
+ (Article L991-5)
 
 
 
 
 Chapitre II : Dispositions diverses.
- (Articles L992-1 à L992-8)
-
-
-
-
-Chapitre III : Dispositions pénales.
- (Articles L993-1 à L993-5)
+ (Articles L992-4 à L992-8)
 
 
 
@@ -3111,6 +3152,12 @@ Section 2 : Dispositions particulières aux groupements d'employeurs ayant pour 
  (Articles R127-9-1 à R127-9-9)
 
 
+
+
+
+
+Chapitre VIII : Associations à but non lucratif
+ (Articles R128-1 à R128-7)
 
 
 
@@ -5043,6 +5090,12 @@ Section 2 : Aides à l'adaptation des salariés aux évolutions de l'emploi, dan
 
 Section 3 : Dispositions générales.
  (Articles R322-11 à R322-14)
+
+
+
+
+Section 4 : Insertion des bénéficiaires du revenu minimum d'activité.
+ (Articles R322-15 à R322-15-3)
 
 
 
@@ -7592,6 +7645,12 @@ Section 2 : Insertion des jeunes dans la vie sociale.
 
 Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
  (Articles D322-11 à D322-22)
+
+
+
+
+Section 4 : Insertion des bénéficiaires du revenu minimum d'activité.
+ (Articles D322-22-1 à D322-22-12)
 
 
 
