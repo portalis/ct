@@ -328,7 +328,13 @@ Chapitre VIII : Associations à but non lucratif
 
 
 Chapitre IX : Services aux personnes (en vigueur jusqu'au 1er janvier 2007 au plus tard).
- (Articles L129-1 à L129-3)
+ (Articles L129-2 à L129-3)
+
+
+
+
+Chapitre IX : Services à la personne
+ (Articles L129-1 à L129-17)
 
 
 
@@ -1519,6 +1525,63 @@ Section 5 : Dispositions communes
 
 
 
+Chapitre XI : Implication des salariés dans la société européenne et comité de la société européenne
+
+
+Section 1 : Champ d'application
+ (Article L439-25)
+
+
+
+
+Section 2 : Groupe spécial de négociation
+
+
+Sous-section 1 : Constitution et fonctionnement du groupe spécial de négociation.
+ (Articles L439-26 à L439-31)
+
+
+
+
+Sous-section 2 : Dispositions relatives à l'accord négocié au sein du groupe spécial de négociation.
+ (Articles L439-32 à L439-33)
+
+
+
+
+
+
+Section 3 : Dispositions relatives à l'implication des salariés en l'absence d'accord
+
+
+Sous-section 1 : Comité de la société européenne.
+ (Articles L439-34 à L439-41)
+
+
+
+
+Sous-section 2 : Dispositions relatives à la participation.
+ (Article L439-42)
+
+
+
+
+
+
+Section 4 : Dispositions communes.
+ (Articles L439-43 à L439-47)
+
+
+
+
+Section 5 : Dispositions applicables postérieurement à l'immatriculation de la société européenne.
+ (Articles L439-48 à L439-50)
+
+
+
+
+
+
 
 
 Titre IV : Intéressement, participation et plans d'épargne salariale
@@ -1560,7 +1623,7 @@ Chapitre III : Plans d'épargne d'entreprise.
 
 
 Chapitre IV : Dispositions communes
- (Articles L444-1 à L444-8)
+ (Articles L444-1 à L444-9)
 
 
 
