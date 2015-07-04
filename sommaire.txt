@@ -3692,7 +3692,7 @@ Sous-section 4 : Règles générales de prévention du risque chimique
 
 
 Sous-section 5 : Contrôles du risque chimique sur les lieux de travail
- (Articles R231-55 à R231-55-3)
+ (Articles R231-55 à R231-55-6)
 
 
 
@@ -3715,8 +3715,26 @@ Sous-section 8 : Dispositions spécifiques à certains agents chimiques dangereu
 
 
 
-Sous-section 9 : Mesures d'application.
- (Articles R231-59 à R231-59-2)
+
+
+Section 5 bis : Mesures particulières de protection contre les risques liés à l'amiante
+ (Article R231-59)
+
+
+Sous-section 1 : Dispositions communes à toutes les activités
+ (Articles R231-59-1 à R231-59-8)
+
+
+
+
+Sous-section 2 : Dispositions spécifiques aux activités de confinement et de retrait de l'amiante.
+ (Articles R231-59-9 à R231-59-13)
+
+
+
+
+Sous-section 3 : Dispositions spécifiques aux activités et interventions sur les matériaux ou appareils susceptibles d'émettre des fibres d'amiante.
+ (Articles R231-59-14 à R231-59-18)
 
 
 
