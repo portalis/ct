@@ -1086,7 +1086,7 @@ Section 2 bis : Soutien à la création ou à la reprise, par contrat d'appui, d
 
 
 Section 2 ter : Aides de l'Etat au développement de l'emploi et des compétences
- (Article L322-9)
+ (Articles L322-9 à L322-10)
 
 
 
@@ -1095,12 +1095,6 @@ Section 3 : Chômage partiel et temps réduit indemnisé de longue durée
  (Article L322-11)
 
 
-
-
-
-
-Chapitre II bis : Dispositions relatives au travail à temps partiel
- (Article L322-12)
 
 
 
@@ -2447,7 +2441,7 @@ Chapitre III : De la participation des travailleurs indépendants, des membres d
 
 
 Livre IX : De la formation professionnelle continue dans le cadre de la formation professionnelle tout au long de la vie.
- (Articles L900-1 à L900-7)
+ (Articles L900-1 à L900-6)
 
 
 Titre Ier : Des institutions de la formation professionnelle
@@ -2456,19 +2450,8 @@ Titre Ier : Des institutions de la formation professionnelle
 
 
 
-Titre II : Des conventions et des contrats de formation professionnelle
-
-
-Chapitre Ier : Des conventions de formation professionnelle.
- (Articles L920-1 à L920-9)
-
-
-
-
-Chapitre II : Des contrats de formation professionnelle.
- (Article L920-13)
-
-
+Titre II : Des droits et des obligations des organismes de formation
+ (Articles L920-1 à L920-13)
 
 
 
