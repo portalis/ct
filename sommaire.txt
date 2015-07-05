@@ -250,6 +250,12 @@ Sous-section 3 : Autres formalités.
 
 
 
+Section 4 : Période d'essai.
+ (Articles L1221-19 à L1221-26)
+
+
+
+
 
 
 Chapitre II : Exécution et modification du contrat de travail
@@ -276,12 +282,6 @@ Section 3 : Modification du contrat de travail en cas d'accord de réduction du 
 
 
 Chapitre III : Formation et exécution de certains types de contrats
-
-
-Section 1 : Contrat de travail nouvelles embauches.
- (Articles L1223-1 à L1223-4)
-
-
 
 
 Section 2 : Contrat de mission à l'exportation.
@@ -432,7 +432,7 @@ Section 2 : Inaptitude consécutive à une maladie ou un accident non profession
 
 
 Sous-section 1 : Inaptitude consécutive à une maladie ou un accident non professionnel.
- (Articles L1226-2 à L1226-4)
+ (Articles L1226-2 à L1226-4-1)
 
 
 
@@ -852,12 +852,6 @@ Sous-section 4 : Sanction des irrégularités.
 Chapitre VI : Rupture de certains types de contrats
 
 
-Section 1 : Contrat de travail nouvelles embauches.
- (Articles L1236-1 à L1236-6)
-
-
-
-
 Section 2 : Contrat de mission à l'exportation.
  (Article L1236-7)
 
@@ -911,6 +905,12 @@ Sous-section 3 : Départ volontaire à la retraite.
  (Articles L1237-9 à L1237-10)
 
 
+
+
+
+
+Section 3 : Rupture conventionnelle.
+ (Articles L1237-11 à L1237-16)
 
 
 
@@ -1204,6 +1204,12 @@ Paragraphe 3 : Statut des salariés permanents et temporaires de l'entreprise de
 
 Section 5 : Actions en justice.
  (Article L1251-59)
+
+
+
+
+Section 7 : Portage salarial.
+ (Article L1251-64)
 
 
 
@@ -8224,12 +8230,6 @@ Sous-section 3 : Allocation temporaire d'attente.
 
 
 
-Sous-section 4 : Allocation forfaitaire du contrat nouvelles embauches.
- (Articles L5423-15 à L5423-17)
-
-
-
-
 Sous-section 5 : Allocation équivalent retraite.
  (Articles L5423-18 à L5423-23)
 
@@ -9196,7 +9196,7 @@ Chapitre III : Droit individuel à la formation
 
 
 Section 1 : Conditions d'ouverture.
- (Articles L6323-1 à L6323-4)
+ (Articles L6323-1 à L6323-3)
 
 
 
