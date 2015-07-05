@@ -5318,7 +5318,7 @@ Chapitre II : Conseil supérieur de l'égalité professionnelle entre les femmes
 
 
 
-Titre IV : Main d'oeuvre étrangère et protection de la main-d'oeuvre nationale
+Titre IV : Main d'oeuvre étrangère et détachement transnational de travailleurs
 
 
 Chapitre Ier : Dispositions spéciales à la main d'oeuvre étrangère
@@ -5420,8 +5420,37 @@ Paragraphe 6 : Inscription du privilège
 
 
 
-Chapitre II : Protection de la main-d'oeuvre nationale.
- (Article R342-1)
+Chapitre II : Détachement transnational de travailleurs
+
+
+Section 1 : Dispositions communes
+ (Articles R342-1 à R342-7)
+
+
+
+
+Section 2 : Déclaration préalable
+ (Article R342-8)
+
+
+
+
+Section 3 : Dispositions spécifiques au travail temporaire
+ (Articles R342-9 à R342-11)
+
+
+
+
+Section 4 : Dispositions spécifiques à certains secteurs d'activité
+ (Article R342-12)
+
+
+
+
+Section 5 : Dispositions relatives à la surveillance et au contrôle du travail détaché et à la compétence des conseils de prud'hommes
+ (Articles R342-13 à R342-14)
+
+
 
 
 
@@ -5522,11 +5551,17 @@ Section 3 : Cumuls d'emploi et travail clandestin.
 
 
 
-Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nationale
+Chapitre IV : Main-d'oeuvre étrangère et détachement transnational de travailleurs
 
 
 Paragraphe 1 : Dispositions spéciales à la main-d'oeuvre étrangère
  (Article R364-1)
+
+
+
+
+Paragraphe 2 : Détachement transnational de travailleurs
+ (Article R364-2)
 
 
 
@@ -7893,7 +7928,7 @@ Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère
 
 
 Section 1 : Travailleurs étrangers.
- (Articles D341-1 à D341-5-15)
+ (Articles D341-1 à D341-3)
 
 
 
