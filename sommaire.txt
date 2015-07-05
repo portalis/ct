@@ -3631,11 +3631,17 @@ Sous-section 2 : Mises en demeure.
 
 
 
-SECTION 3 : ORGANES CONSULTATIFS CENTRAUX
+Section 3 : Organismes consultatifs
 
 
-SOUS-SECTION 1 : CONSEIL SUPERIEUR DE LA PREVENTION DES RISQUES PROFESSIONNELS.
+Sous-section 1 : Conseil supérieur de la prévention des risques professionnels.
  (Articles R231-14 à R231-24-2)
+
+
+
+
+Sous-section 3 : Comités régionaux de la prévention des risques professionnels.
+ (Articles R231-24-3 à R231-24-4)
 
 
 
@@ -5014,19 +5020,7 @@ Livre III : Placement et emploi
 Titre Ier : Placement
 
 
-Chapitre Ier : Service public du placement
-
-
-Section 1 : Organismes qui concourent au service public du placement.
- (Articles R311-1-1 à R311-1-5)
-
-
-
-
-Section 2 : Notification par les employeurs des places vacantes.
- (Article R311-2-1)
-
-
+Chapitre Ier : Service public de l'emploi
 
 
 Section 3 : Tenues de la liste et accompagnement des demandeurs d'emploi
@@ -5058,12 +5052,6 @@ Section 5 : Collectivités territoriales.
 
 
 
-Section 6 : Dispositions diverses.
- (Articles R311-6-1 à R311-6-4)
-
-
-
-
 Section 7 : Maisons de l'emploi.
  (Article R311-7-1)
 
@@ -5073,12 +5061,7 @@ Section 7 : Maisons de l'emploi.
 
 
 Chapitre II : Placement privé
-
-
-Section 2 : Placement payant.
- (Articles R312-12 à R312-13)
-
-
+ (Articles R312-1 à R312-8)
 
 
 
@@ -7523,7 +7506,7 @@ Section 4 : Aide financière.
 
 
 Section 5 : Agréments des associations et entreprises de services à la personne.
- (Articles D129-35 à D129-37)
+ (Articles D129-35 à D129-38)
 
 
 
@@ -7666,7 +7649,7 @@ Chapitre III : Congés annuels.
 
 
 Chapitre V : Congés non rémunérés
- (Articles D225-1 à D225-2)
+ (Articles D225-1 à D225-5)
 
 
 
@@ -7680,6 +7663,17 @@ Chapitre VII : Compte épargne-temps.
 
 
 Titre III : Hygiène et sécurité
+
+
+Chapitre Ier : Dispositions générales
+
+
+Section 1 : Comités régionaux de la prévention des risques professionnels
+ (Articles D231-1 à D231-4)
+
+
+
+
 
 
 Chapitre III : Sécurité.
@@ -7707,6 +7701,12 @@ Chapitre Ier : Service public du placement.
 
 
 Titre II : Emploi
+
+
+Chapitre préliminaire : Gestion de l'emploi et des compétences, prévention des conséquences sociales des mutations économiques.
+ (Articles D320-1 à D320-4)
+
+
 
 
 Chapitre Ier : Contrôle de l'emploi.
