@@ -1,4 +1,5 @@
-Lorsque le service de médecine du travail est commun à plusieurs
+Lorsque le service de santé au travail est commun à plusieurs
 établissements ou syndicats, le montant total des dépenses est
 réparti, en fin d'année, entre les établissements et syndicats
-intéressés au prorata du nombre des agents employés par chacun d'eux.
+intéressés proportionnellement au nombre d'agents employés par chacun
+d'eux.

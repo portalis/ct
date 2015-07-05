@@ -1,3 +1,2 @@
-Les délibérations du conseil d'administration ne sont valables
-[*condition*] que si la moitié au moins des membres en exercice sont
-présents [*quorum*].
+Les délibérations du conseil d'administration ne sont valables que si
+la moitié au moins des membres en exercice sont présents.

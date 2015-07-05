@@ -5,5 +5,7 @@ l'action de formation, qu'elle soit sollicitée, proposée ou
 poursuivie.
 
 Ces informations doivent présenter un lien direct et nécessaire avec
-l'action de formation. Le candidat à un stage ou le stagiaire est tenu
-d'y répondre de bonne foi.
+l'action de formation.
+
+Le candidat à un stage ou le stagiaire est tenu d'y répondre de bonne
+foi.

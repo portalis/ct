@@ -1,2 +1,2 @@
-Il est interdit d'occuper plus de six jours par semaine un même
-salarié.
+Il est interdit de faire travailler un même salarié plus de six jours
+par semaine.

@@ -1,38 +1,41 @@
-Tous les locaux auxquels les travailleurs ont normalement accès
-doivent être desservis par des dégagements dont le nombre et la
-largeur exigibles s'établissent comme suit :
+Les locaux auxquels les travailleurs ont normalement accès sont
+desservis par des dégagements dont le nombre et la largeur exigibles
+s'établissent comme suit :
 
-Moins de 21 personnes
+EFFECTIF
 
-Nombre de dégagements : 1
+NOMBREde dégagements
 
-Largeur totale cumulée : 0,80 m
+LARGUEURtotale cumulée
 
-De 21 à 100 personnes
+Moins de 20 personnes
 
-Nombre de dégagements : 1
+1
 
-Largeur totale cumulée : 1,50 m
+0,80 m
+
+De 20 à 100 personnes
+
+1
+
+1,50 m
 
 De 101 à 300 personnes
 
-Nombre de dégagements : 2
+2
 
-Largeur totale cumulée : 2 mètres
+2 m
 
 De 301 à 500 personnes
 
-Nombre de dégagements : 2
+2
 
-Largeur totale cumulée : 2,5 m
+2,5 m
 
-Au-delà des cinq cents premières personnes :
-
-a) Le nombre minimum des dégagements doit être augmenté d'une unité
-par cinq cents personnes ou fraction de cinq cents personnes ;
-
-b) La largeur totale des dégagements doit être augmentée de 0,50 mètre
-par cent personnes ou fraction de cent personnes.
-
-La largeur de tout dégagement faisant partie des dégagements
-réglementaires ne doit jamais être inférieure à 0,80 mètre.
+Au-delà des cinq cents premières personnes :― le nombre minimum des
+dégagements doit être augmenté d'une unité par cinq cents personnes ou
+fraction de cinq cents personnes ;― la largeur totale des dégagements
+doit être augmentée de 0,50 mètre par cent personnes ou fraction de
+cent personnes.La largeur de tout dégagement faisant partie des
+dégagements réglementaires ne doit jamais être inférieure à 0,80
+mètre.
