@@ -9,4 +9,4 @@ pour plusieurs ports.
 
 Tous les employeurs d'un port où est créée une caisse de compensation
 ou des ports dans lesquels une caisse de compensation commune est
-créée sont tenues [*obligation*] de s'affilier auxdites caisses.
+créée sont tenues de s'affilier auxdites caisses.
