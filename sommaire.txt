@@ -19603,13 +19603,13 @@ Section 1 : Conseil national de l'emploi
 
 
 Sous-section 1 : Missions
- (Articles R5112-1 à R5112-2)
+ (Article R5112-1)
 
 
 
 
 Sous-section 2 : Composition et fonctionnement
- (Articles R5112-3 à R5112-10)
+ (Articles R5112-2 à R5112-10)
 
 
 
@@ -19627,6 +19627,32 @@ Sous-section 1 : Missions
 
 Sous-section 2 : Composition et fonctionnement
  (Articles R5112-14 à R5112-18)
+
+
+
+
+
+
+Section 3 : Conseil régional de l'emploi 
+
+
+
+
+
+Sous-section 1 : Missions 
+
+
+
+ (Article R5112-19)
+
+
+
+
+Sous-section 2 : Composition et fonctionnement 
+
+
+
+ (Articles R5112-20 à R5112-22)
 
 
 
@@ -20746,6 +20772,7 @@ TITRE Ier : LE SERVICE PUBLIC DE L'EMPLOI
 
 
 Chapitre Ier : Missions et composantes du service public de l'emploi
+ (Articles R5311-1 à R5311-3)
 
 
 
@@ -21410,7 +21437,7 @@ TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY,  SAINT-MARTIN ET SAINT-
 Chapitre Ier : Dispositions générales
 
 
- Section unique  FEDOM
+Section 1 : FEDOM
 
 
 Sous-section 1 : Etat annuel
@@ -21423,6 +21450,14 @@ Sous-section 2 : Comité directeur
  (Articles R5521-6 à D5521-10)
 
 
+
+
+
+
+Section 2 : Conseil territorial de l'emploi 
+
+
+ (Articles R5521-11 à R5521-14)
 
 
 
