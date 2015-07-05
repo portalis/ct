@@ -881,6 +881,12 @@ Section 7 : Congé de soutien familial
 
 
 
+Section 8 : Congé pour acquisition de la nationalité.
+ (Article L225-28)
+
+
+
+
 
 
 Chapitre VI : Congés pour événements familiaux.
@@ -3849,7 +3855,7 @@ Sous-section 4 : Mesures de surveillance médicale des travailleurs exposés
 
 
 Sous-section 5 : Règles concernant des situations anormales de travail
- (Articles R231-103 à R231-105)
+ (Articles R231-103 à R231-105-1)
 
 
 
@@ -3861,7 +3867,13 @@ Sous-section 6 : Organisation fonctionnelle de la radioprotection
 
 
 Sous-section 7 : Règles applicables dans des cas d'exposition professionnelles liées à la radioactivité naturelle
- (Articles R231-114 à R231-116)
+ (Articles R231-114 à R231-116-1)
+
+
+
+
+Sous-section 8 : Règles applicables dans des cas d'expositions professionnelles liées aux sources orphelines.
+ (Article R231-116-2)
 
 
 
