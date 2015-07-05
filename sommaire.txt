@@ -2172,7 +2172,7 @@ Chapitre III : Mannequins.
 
 
 
-Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistants maternels, éducateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs
+Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison, assistants maternels et assistants familiaux, éducateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs, permanents des lieux de vie
 
 
 Chapitre Ier : Concierges et employés d'immeubles à usage d'habitation.
@@ -2228,8 +2228,8 @@ Section 6 : Dispositions applicables aux assistants familiaux employés par des 
 
 
 
-Chapitre IV : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs
- (Articles L774-1 à L774-2)
+Chapitre IV : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs, permanents des lieux de vie
+ (Articles L774-1 à L774-3)
 
 
 
