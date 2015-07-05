@@ -12877,6 +12877,13 @@ Chapitre Ier : Critères de représentativité
 Chapitre II : Syndicats représentatifs
 
 
+Section 2 : Recueil des résultats des organisations syndicales aux élections professionnelles 
+
+ (Articles D2122-6 à D2122-7)
+
+
+
+
 
 
 
@@ -14288,19 +14295,19 @@ Sous-section 1 : Travail effectif
 
 
 
-Sous-section 2 : Contingent annuel d'heures supplémentaires  et dérogations
- (Articles D3121-3 à R3121-6)
-
-
-
-
 Sous-section 3 : Contreparties aux heures supplémentaires
 
 
- Paragraphe unique  Repos compensateur obligatoire
+Paragraphe unique : Contrepartie obligatoire en repos
  (Articles D3121-7 à D3121-14)
 
 
+
+
+
+
+Sous-section 4 : Contingent d'heures supplémentaires applicable en l'absence d'accord collectif
+ (Article D3121-14-1)
 
 
 
@@ -14363,6 +14370,13 @@ Sous-section 2 : Horaires individualisés
 
 Sous-section 3 : Récupération des heures perdues
  (Articles R3122-4 à R3122-7)
+
+
+
+
+Sous-section 4 : Répartition de l'horaire sur une période de quatre semaines au plus 
+
+ (Articles D3122-7-1 à D3122-7-3)
 
 
 
