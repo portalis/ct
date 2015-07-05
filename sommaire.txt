@@ -5793,7 +5793,7 @@ Section 2 : Versements.
 
 
 Section 3 : Composition et gestion du plan.
- (Articles L3332-15 à L3332-17)
+ (Articles L3332-15 à L3332-17-1)
 
 
 
@@ -10862,7 +10862,7 @@ Section 2 : Travail dissimulé par dissimulation d'activité.
 
 
 Section 3 : Travail dissimulé par dissimulation d'emploi salarié.
- (Articles L8221-5 à L8221-6)
+ (Articles L8221-5 à L8221-6-1)
 
 
 
