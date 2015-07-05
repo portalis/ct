@@ -3077,6 +3077,12 @@ Section 3 : Dispositions particulières aux groupements d'employeurs composés d
 
 
 
+Section 4 : Dispositions particulières aux groupements d'employeurs constitués au sein d'une coopérative existante.
+ (Articles R127-12 à R127-15)
+
+
+
+
 
 
 Chapitre VIII : Associations à but non lucratif
@@ -3279,7 +3285,7 @@ Titre V : Pénalités
 
 
 Chapitre Ier : Contrat d'apprentissage et statut de l'apprenti.
- (Articles R151-1 à R151-6)
+ (Articles R151-2 à R151-6)
 
 
 
@@ -5503,12 +5509,6 @@ Chapitre IV : Main-d'oeuvre étrangère et protection de la main-d'oeuvre nation
 
 Paragraphe 1 : Dispositions spéciales à la main-d'oeuvre étrangère
  (Article R364-1)
-
-
-
-
-Paragraphe 2 : Protection de la main-d'oeuvre nationale
- (Article R364-2)
 
 
 
