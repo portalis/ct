@@ -16899,18 +16899,6 @@ Chapitre Ier : Mise sur le marché des substances et préparations
  Section 3 : Fabrication, importation et vente
 
 
- Sous-section 1 : Déclaration des substances nouvelles
- (Articles R4411-7 à R4411-36)
-
-
-
-
- Sous-section 2 : Dispenses de déclaration
- (Articles R4411-37 à R4411-41)
-
-
-
-
  Sous-section 3 : Information des autorités pour la prévention des risques
 
 
@@ -16920,14 +16908,14 @@ Chapitre Ier : Mise sur le marché des substances et préparations
 
 
 
- Paragraphe 2  Substances et préparations très toxiques, toxiques ou corrosives
+Paragraphe 2 : Préparations très toxiques, toxiques ou corrosives.
  (Articles R4411-50 à R4411-53)
 
 
 
 
  Paragraphe 3 : Substances mises sur le marché sous un nom commercial et préparations dangereuses autres que très toxiques, toxiques ou corrosives
- (Articles R4411-54 à R4411-55)
+ (Article R4411-54)
 
 
 
@@ -16935,7 +16923,7 @@ Chapitre Ier : Mise sur le marché des substances et préparations
 
 
  Sous-section 4 : Protection des secrets industriels et commerciaux
- (Articles R4411-56 à R4411-68)
+ (Articles R4411-56 à R4411-65)
 
 
 
