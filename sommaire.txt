@@ -5881,7 +5881,7 @@ Section 1 : Organisation et fonctionnement de la juridiction.
 
 
 
-Section 2 : Organisation et fonctionnement du secrétariat-greffe.
+Section 2 : Organisation et fonctionnement du greffe.
  (Articles R512-18 à R512-35)
 
 
@@ -5902,7 +5902,7 @@ Paragraphe 1 : Electorat.
 
 
 Paragraphe 3 : Etablissement des listes électorales.
- (Articles R513-11 à R513-30)
+ (Articles R513-11 à R513-26)
 
 
 
@@ -5943,7 +5943,7 @@ I - Opérations de vote.
 
 
 II - Vote par correspondance.
- (Articles R513-77 à R513-89)
+ (Articles R513-85 à R513-89)
 
 
 
@@ -7994,6 +7994,12 @@ Livre V : Conflits du travail
 Titre Ier : Conflits individuels - Conseils de prud'hommes
 
 
+Chapitre III : Election des conseillers prud'hommes.
+ (Articles D513-1 à D513-14)
+
+
+
+
 Chapitre IV : Statut des conseillers prud'hommes.
  (Articles D514-1 à D514-7)
 
@@ -8496,6 +8502,12 @@ Section 1 : Electorat, éligibilité et établissement des listes électorales
 
 
 Paragraphe 1 : Electorat
+
+
+ANNEXE
+ (Article Annexe à l'article R513-7)
+
+
 
 
 ANNEXE II TABLEAU DES ACTIVITES RELEVANT DE LA SECTION DU COMMERCE ET DES SERVICES COMMERCIAUX (NAF)
