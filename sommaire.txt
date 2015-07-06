@@ -1382,14 +1382,8 @@ Chapitre II : Chèque-emploi associatif.
 
 
 
-Chapitre III : Titre emploi-entreprise.
- (Articles L1273-1 à L1273-6)
-
-
-
-
-Chapitre IV : Chèque-emploi pour les très petites entreprises.
- (Articles L1274-1 à L1274-7)
+Chapitre III : Titre Emploi-Service Entreprise.
+ (Articles L1273-1 à L1273-7)
 
 
 
@@ -12084,14 +12078,8 @@ Chapitre II : Chèque-emploi associatif
 
 
 
-Chapitre III : Titre emploi-entreprise
- (Articles R1273-1 à R1273-6)
-
-
-
-
-Chapitre IV : Chèque-emploi pour les très petites entreprises
- (Articles D1274-1 à D1274-7)
+Chapitre III : Titre emploi-service entreprise
+ (Articles D1273-1 à D1273-8)
 
 
 
@@ -13385,7 +13373,13 @@ Paragraphe 2 : Plan de formation
 
 
 
-Sous-section 3 : Information et consultation périodiques du comité d'entreprise
+Sous-section 3 : Information et consultation   sur les interventions publiques directes.
+ (Article R2323-7-1)
+
+
+
+
+Sous-section 4 : Information et consultation périodiques du comité d'entreprise.
 
 
 Paragraphe 1 : Rapports et information dans les entreprises  de moins de trois cents salariés
@@ -13402,19 +13396,19 @@ Paragraphe 2 : Rapports et information dans les entreprises  de trois cents sala
 
 
 
-Sous-section 4 : Participation aux conseils d'administration  ou de surveillance des sociétés
+Sous-section 5 : Participation aux conseils d'administration  ou de surveillance des sociétés.
  (Articles R2323-13 à R2323-16)
 
 
 
 
-Sous-section 5 : Bilan social
+Sous-section 6 : Bilan social.
  (Article R2323-17)
 
 
 
 
-Sous-section 6 : Droit d'alerte économique
+Sous-section 7 : Droit d'alerte économique.
  (Articles R2323-18 à R2323-19)
 
 
@@ -15206,7 +15200,7 @@ TITRE Ier : INTÉRESSEMENT
 
 
 Chapitre Ier : Champ d'application
- (Articles R3311-1 à R3311-2)
+ (Articles R3311-1 à D3311-4)
 
 
 
@@ -15231,6 +15225,12 @@ Chapitre III : Contenu et régime des accords
 
  Sous-section 2 : Modification et dénonciation.
  (Articles D3313-5 à D3313-7)
+
+
+
+
+Sous-section 3 : Reconduction tacite.
+ (Article D3313-7-1)
 
 
 
@@ -15264,8 +15264,7 @@ TITRE II : PARTICIPATION AUX RÉSULTATS DE L'ENTREPRISE
 
 
 Chapitre Ier : Champ d'application
-
-
+ (Articles R3321-1 à D3321-2)
 
 
 
@@ -15331,8 +15330,8 @@ Chapitre IV : Calcul et gestion de la participation
 
 
 
- Section 4  Indisponibilité des droits des salariés
- (Articles R3324-22 à R3324-24)
+Section 4 : Disponibilité des droits des bénéficiaires.
+ (Articles R3324-21-1 à R3324-24)
 
 
 
@@ -15369,6 +15368,7 @@ TITRE III : PLANS D'ÉPARGNE SALARIALE
 
 
 Chapitre Ier : Champ d'application
+ (Articles R3331-1 à D3331-3)
 
 
 
@@ -15478,6 +15478,7 @@ Chapitre Ier : Représentation et information des salariés
 
 
 Chapitre II : Conditions d'ancienneté
+ (Article D3342-1)
 
 
 
@@ -15502,19 +15503,8 @@ Chapitre V : Dépôt et contrôle de l'autorité administrative
 
 
 
-Chapitre VI : Conseil supérieur de la participation
-
-
- Section 1 : Missions.
- (Articles D3346-1 à D3346-2)
-
-
-
-
- Section 2 : Organisation et fonctionnement.
- (Articles D3346-3 à D3346-9)
-
-
+Chapitre VI : Conseil d'orientation de la participation, de l'intéressement de l'épargne salariale et de l'actionnariat salarié.
+ (Articles D3346-1 à D3346-7)
 
 
 
@@ -20186,7 +20176,7 @@ Paragraphe 3 : Renouvellement, suspension et rupture du contrat
 
 
 Sous-section 4 : Suivi financier et statistique
- (Articles R5134-64 à R5134-73)
+ (Articles R5134-64 à R5134-72)
 
 
 
