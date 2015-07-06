@@ -11395,7 +11395,7 @@ Sous-section 2 : Changements temporaires d'affectation
 
 
 
-Sous-section 3 : Changements temporaires d'affectation
+Sous-section 3 : Autorisations d'absence et congé de maternité.
  (Article D1225-4-1)
 
 
@@ -15588,6 +15588,12 @@ Chapitre III : Salaire et avantages divers
 
 
 
+Section 3 : Dispositions pénales.
+ (Article R3423-11)
+
+
+
+
 
 
 
@@ -17873,7 +17879,7 @@ Chapitre III : Comité d'hygiène, de sécurité  et des conditions de travail
 
 
 Section 1 :  Attributions particulières.
- (Articles R4523-1 à R4523-4)
+ (Articles R4523-1 à R4523-4-1)
 
 
 
@@ -18370,7 +18376,7 @@ Sous-section 3 : Activités de confinement et de retrait d'amiante et activités
 
 
 
-TITRE IV : AUTRES ACTIVITÉS ET MANUTENTION
+TITRE IV : AUTRES ACTIVITÉS ET OPERATIONS.
 
 
 Chapitre Ier : Manutention des charges
@@ -23624,7 +23630,7 @@ Section 3 : Guichet unique pour le spectacle vivant
 
 
 Section 4 : Dispositions pénales
- (Articles R7122-40 à R7122-42)
+ (Articles R7122-40 à R7122-43)
 
 
 
@@ -24053,40 +24059,6 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-Chapitre II : Accès à la profession
-
-
-Section 1 : Délivrance de la carte d'identité professionnelle
- (Articles D7312-1 à D7312-14)
-
-
-
-
-Section 2 : Renouvellement et modification de la carte
-
-
-Sous-section 1 : Renouvellement
- (Articles D7312-15 à D7312-18)
-
-
-
-
-Sous-section 2 : Modifications
- (Articles D7312-19 à D7312-21)
-
-
-
-
-
-
-Section 3 : Restitution, retrait et perte
- (Articles D7312-22 à D7312-25)
-
-
-
-
-
-
 Chapitre III : Contrat de travail
  (Article D7313-1)
 
@@ -24350,7 +24322,7 @@ Section 5 : Prestation de serment
 
 
 Chapitre IV : Dispositions pénales
- (Article R8114-1)
+ (Articles R8114-1 à R8114-2)
 
 
 
@@ -25358,6 +25330,17 @@ Titre IV : Transports et télécommunications
 
 Chapitre Ier : Travailleurs intermittents des transports : congés payés.
  (Articles D741-1 à D741-8)
+
+
+
+
+Chapitre II : Marins
+
+
+Section 2 : Groupements professionnels, participation, intéressement : comités d'entreprise.
+ (Articles D742-3 à D742-11)
+
+
 
 
 
