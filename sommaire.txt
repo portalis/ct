@@ -6562,45 +6562,22 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
-TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTS IONISANTS
+TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTS
 
 
-Chapitre Ier : Principes et dispositions d'application.
+Chapitre Ier : Prévention des risques d'exposition aux rayonnements ionisants.
  (Articles L4451-1 à L4451-2)
 
 
 
 
-Chapitre II : Aménagement technique des locaux de travail.
+Chapitre II : Prévention des risques d'exposition aux rayonnements optiques artificiels.
 Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
 
-Chapitre III : Conditions d'emploi et de suivi des travailleurs exposés.
-
-
-
-
-Chapitre IV : Surveillance médicale.
-Le présent chapitre ne comprend pas de dispositions législatives.
-
-
-
-
-Chapitre V : Situations anormales de travail.
-Le présent chapitre ne comprend pas de dispositions législatives.
-
-
-
-
-Chapitre VI : Organisation de la radioprotection.
-Le présent chapitre ne comprend pas de dispositions législatives.
-
-
-
-
-Chapitre VII : Règles applicables en cas d'exposition professionnelle liée à la radioactivité naturelle.
+Chapitre III : Prévention des risques d'exposition aux champs électromagnétiques.
 Le présent chapitre ne comprend pas de dispositions législatives.
 
 
@@ -6608,25 +6585,10 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
-TITRE VI : PREVENTION DES RISQUES EN MILIEU HYPERBARE
+TITRE VI : AUTRES RISQUES
 
 
-Chapitre Ier :  Dispositions générales 
-
-
-
-
-Chapitre II : Evaluation des risques 
-
-
-
-
-Chapitre III : Mesures et moyens de prévention 
-
-
-
-
-Chapitre IV : Surveillance médicale 
+Chapitre Ier :  Prévention des risques en milieu hyperbare.
 
 
 
@@ -6841,13 +6803,13 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-Chapitre III : Evaluation des risques.
+Chapitre III : Interventions sur les équipements élévateurs et installés à demeure.
 Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
 
-Chapitre IV : Mesures et moyens de prévention.
+Chapitre IV : Opérations sur les installations électriques et dans leur voisinage.
 Le présent chapitre ne comprend pas de dispositions législatives
 
 
@@ -7217,7 +7179,7 @@ Chapitre II : Infractions aux règles de représentation des salariés.
 
 
 Chapitre III : Infractions aux règles concernant le travail des jeunes et des femmes enceintes, venant d'accoucher ou allaitant.
- (Article L4743-1)
+ (Articles L4743-1 à L4743-2)
 
 
 
