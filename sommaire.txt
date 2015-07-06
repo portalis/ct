@@ -7441,7 +7441,13 @@ Sous-section 4 : Associations intermédiaires.
 
 
 Sous-section 5 : Ateliers et chantiers d'insertion.
- (Article L5132-15)
+ (Articles L5132-15 à L5132-15-1)
+
+
+
+
+Sous-section 6 : Groupes économiques solidaires.
+ (Article L5132-15-2)
 
 
 
@@ -7456,8 +7462,21 @@ Section 4 : Dispositions d'application.
 
 
 
-Chapitre III : Prime de retour à l'emploi.
+Chapitre III : Prime de retour à  l'emploi et aide personnalisée de retour à l'emploi .
+
+
+Section 1 : Prime de retour à l'emploi.
  (Articles L5133-1 à L5133-7)
+
+
+
+
+Section 2 : Aide personnalisée de retour à l'emploi 
+
+
+ (Articles L5133-8 à L5133-10)
+
+
 
 
 
@@ -8235,7 +8254,6 @@ Sous-section 3 : Allocation temporaire d'attente.
 
 
 Sous-section 5 : Allocation équivalent retraite.
- (Article L5423-19)
 
 
 
@@ -20046,7 +20064,20 @@ Section 4 : Fonds départemental d'insertion
 
 
 Chapitre III : Prime de retour à l'emploi
+
+
+Section 1 : Prime de retour à l'emploi
  (Articles R5133-1 à R5133-8)
+
+
+
+
+Section 2 : Aide personnalisée de retour à l'emploi 
+
+
+ (Articles R5133-9 à R5133-17)
+
+
 
 
 
