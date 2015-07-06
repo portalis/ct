@@ -2263,7 +2263,7 @@ Sous-section 2 : Entreprises pourvues d'un ou plusieurs délégués syndicaux
 
 
 Paragraphe 1 : Conditions de validité.
- (Articles L2232-12 à L2232-15)
+ (Articles L2232-12 à L2232-14)
 
 
 
@@ -8272,12 +8272,6 @@ Sous-section 1 : Allocation de solidarité spécifique.
 
 
 
-Sous-section 2 : Allocation de fin de formation.
- (Article L5423-7)
-
-
-
-
 Sous-section 3 : Allocation temporaire d'attente.
  (Articles L5423-8 à L5423-14)
 
@@ -8285,7 +8279,7 @@ Sous-section 3 : Allocation temporaire d'attente.
 
 
 Sous-section 5 : Allocation équivalent retraite.
- (Articles L5423-18 à L5423-23)
+ (Article L5423-19)
 
 
 
@@ -11644,7 +11638,7 @@ Chapitre VII : Autres cas de rupture
 
 
 Section 1 : Retraite
- (Articles D1237-1 à D1237-2)
+ (Articles D1237-1 à D1237-2-1)
 
 
 
@@ -15112,49 +15106,20 @@ TITRE VI : AVANTAGES DIVERS
 Chapitre Ier : Frais de transport
 
 
- Section 1  Prise en charge des frais de transports publics  dans la région Ile-de-france
- (Articles R3261-1 à D3261-12)
+Section 1 : Prise en charge des frais de transports publics
+ (Articles R3261-1 à R3261-10)
 
 
 
 
- Section 2  Chèques-transport
-
-
- Sous-section 1 : Conditions de prise en charge
- (Articles D3261-13 à D3261-15)
-
-
-
-
- Sous-section 2 : Modalités d'habilitation et de contrôle des émetteurs
- (Articles D3261-16 à D3261-18)
-
-
-
-
- Sous-section 3 : Conditions de validité des chèques-transport
- (Articles D3261-19 à D3261-21)
-
-
-
-
- Sous-section 4 : Obligations des émetteurs et des accepteurs
- (Articles D3261-22 à D3261-31)
-
-
-
-
- Sous-section 5 : Conditions d'utilisation
- (Articles D3261-32 à D3261-35)
-
-
+Section 2 : Prise en charge des frais de transports personnels
+ (Articles R3261-11 à R3261-15)
 
 
 
 
 Section 3 : Dispositions pénales
- (Article D3261-36)
+ (Article R3261-16)
 
 
 
@@ -20859,32 +20824,34 @@ Chapitre II : Placement et accompagnement  des demandeurs d'emploi.
 
 
  Section 1 : Missions de l'institution de placement et d'accompagnement.
- (Articles R5312-1 à R5312-3)
+ (Articles R5312-1 à R5312-5)
 
 
 
 
- Section 2  Statut, organisation et fonctionnement de l'Agence nationale  pour l'emploi
+Section 2 : Organisation et fonctionnement de l'institution mentionnée à l'article L. 5312-1.
 
 
 Sous-section 1 : Administration.
 
 
 Paragraphe 1 : Conseil d'administration.
- (Articles R5312-6 à R5312-4)
 
 
 Sous-paragraphe 1 : Attributions.
+ (Article R5312-6)
 
 
 
 
 Sous-paragraphe 2 : Composition, nomination et mandat.
+ (Articles R5312-7 à R5312-12)
 
 
 
 
 Sous-paragraphe 3 : Fonctionnement et réunions.
+ (Articles R5312-13 à R5312-17)
 
 
 
@@ -20892,94 +20859,27 @@ Sous-paragraphe 3 : Fonctionnement et réunions.
 
 
 Paragraphe 2 : Directeur général.
-
-
- Sous-paragraphe 1 : Attributions
- (Articles R5312-7 à R5312-9)
-
-
-
-
- Sous-paragraphe 2 : Composition, nomination et mandat
- (Articles R5312-10 à R5312-18)
-
-
-
-
- Sous-paragraphe 3 : Fonctionnement et réunions
- (Articles R5312-19 à R5312-26)
-
-
+ (Articles R5312-18 à R5312-19)
 
 
 
 
 Paragraphe 3 : Dispositions économiques et financières
- (Articles R5312-27 à R5312-28)
+ (Articles R5312-20 à R5312-24)
 
 
 
 
 Paragraphe 4 : Directeur régional.
+ (Articles R5312-25 à R5312-27)
 
 
 
 
 Paragraphe 5 : Instance paritaire régionale.
+ (Articles R5312-28 à R5312-30)
 
 
-
-
-
-
- Sous-section 2  Organisation de l'institution
-
-
- Paragraphe 1 : Organisation générale
- (Articles R5312-29 à R5312-34)
-
-
-
-
- Paragraphe 2 : Directeur régional
- (Articles R5312-35 à R5312-39)
-
-
-
-
- Paragraphe 3 : Comité régional
-
-
- Sous-paragraphe 1 : Attributions
- (Articles R5312-40 à R5312-41)
-
-
-
-
- Sous-paragraphe 2 : Composition, nomination et mandat
- (Articles R5312-42 à R5312-47)
-
-
-
-
- Sous-paragraphe 3 : Fonctionnement
- (Articles R5312-48 à R5312-54)
-
-
-
-
-
-
- Paragraphe 4 : Filiales
- (Articles R5312-55 à R5312-57)
-
-
-
-
-
-
- Sous-section 3 : Budget
- (Articles R5312-58 à R5312-68)
 
 
 
@@ -21165,7 +21065,7 @@ Chapitre Ier : Inscription du demandeur d'emploi  et recherche d'emploi
 
 
  Sous-section 2 : Obligation d'actes positifs de recherche d'emploi.
- (Articles R5411-11 à D5411-13)
+ (Articles R5411-11 à R5411-12)
 
 
 
@@ -21205,7 +21105,7 @@ TITRE II : INDEMNISATION DES TRAVAILLEURS  INVOLONTAIREMENT PRIVÉS D'EMPLOI
 
 
 Chapitre Ier : Dispositions générales
- (Articles R5421-1 à R5421-3)
+ (Articles R5421-2 à R5421-3)
 
 
 
@@ -21237,7 +21137,7 @@ Chapitre II : Régime d'assurance
 
 
  Section 3 : Actions en recouvrement et sanctions.
- (Articles R5422-9 à R5422-15)
+ (Article R5422-9)
 
 
 
@@ -21266,7 +21166,7 @@ Chapitre III : Régime de solidarité
 
 
  Paragraphe 2 : Versement, renouvellement et prolongation.
- (Articles R5423-7 à R5423-14)
+ (Articles R5423-8 à R5423-14)
 
 
 
@@ -21454,7 +21354,7 @@ Chapitre V : Maintien des droits au revenu de remplacement  du demandeur indemni
 
 
  Section 2 : Prime forfaitaire pour reprise d'activité.
- (Articles R5425-14 à R5425-18)
+ (Articles R5425-14 à R5425-17)
 
 
 
@@ -24377,37 +24277,25 @@ TITRE Ier : COMPÉTENCES ET MOYENS D'INTERVENTION
 Chapitre Ier : Répartition des compétences  entre les différents départements ministériels
 
 
-Section 1 : Inspection du travail dans l'industrie, les commerces et les services
+Section 1 : Inspection du travail dans l'industrie, les commerces et les services, les professions agricoles et le secteur des transports.
  (Article R8111-1)
 
 
 
 
-Section 2 : Inspection du travail dans les professions agricoles
- (Articles R8111-2 à R8111-3)
-
-
-
-
-Section 3 : Inspection du travail dans le secteur des transports
- (Articles R8111-4 à R8111-7)
-
-
-
-
-Section 4 : Inspection du travail dans les mines et carrières
+Section 2 : Inspection du travail dans les mines et carrières
  (Articles R8111-8 à R8111-9)
 
 
 
 
-Section 5 : Inspection du travail dans les industries électriques et gazières
+Section 3 : Inspection du travail dans les industries électriques et gazières
  (Articles R8111-10 à R8111-11)
 
 
 
 
-Section 6 : Inspection du travail dans les établissements de la défense
+Section 4 : Inspection du travail dans les établissements de la défense
  (Article R8111-12)
 
 
@@ -24800,7 +24688,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 Chapitre II : Inspection du travail
- (Articles D8322-1 à D8322-2)
+ (Article D8322-1)
 
 
 
@@ -25183,7 +25071,6 @@ Titre IV : Médecine du travail
 
 
 Chapitre Ier : Dispositions de droit commun.
- (Article R241-1-8)
 
 
 
@@ -25351,7 +25238,6 @@ Paragraphe 3 : Arbitrage.
 
 
 Section 5 : Contrôle.
- (Article R742-22)
 
 
 
