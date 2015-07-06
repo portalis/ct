@@ -9944,7 +9944,7 @@ Section 1 : Champ d'application.
 
 
 Section 2 : Définitions.
- (Articles L7111-3 à L7111-5)
+ (Articles L7111-3 à L7111-5-1)
 
 
 
@@ -9981,7 +9981,7 @@ Section 2 : Rupture du contrat.
 
 
 Chapitre III : Rémunération.
- (Articles L7113-1 à L7113-2)
+ (Articles L7113-1 à L7113-4)
 
 
 
