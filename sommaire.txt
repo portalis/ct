@@ -8605,7 +8605,7 @@ Chapitre II : Rôle de l'Etat.
 Chapitre III : Institutions de la formation professionnelle
 
 
-Section unique : Conseil national de la formation professionnelle tout au long de la vie
+Section 1 : Conseil national de la formation professionnelle tout au long de la vie
 
 
 Sous-section 1 : Missions.
@@ -8618,6 +8618,14 @@ Sous-section 2 : Composition.
  (Article L6123-2)
 
 
+
+
+
+
+Section 2 : Délégué à l'information et à l'orientation
+
+
+ (Articles L6123-3 à L6123-5)
 
 
 
@@ -9031,13 +9039,22 @@ Chapitre II : Accès à la formation professionnelle continue.
 
 
 Chapitre III : Catégories d'actions de formation.
- (Articles L6313-1 à L6313-11)
+ (Articles L6313-1 à L6313-12)
 
 
 
 
-Chapitre IV : Droit à la qualification professionnelle.
- (Article L6314-1)
+Chapitre IV : Droit à l'information, à l'orientation et à la qualification professionnelles.
+ (Articles L6314-1 à L6314-2)
+
+
+
+
+Chapitre V : Bilan d'étape professionnel et passeport orientation et formation
+
+
+
+ (Articles L6315-1 à L6315-2)
 
 
 
@@ -9059,14 +9076,8 @@ Section 1 : Obligations de l'employeur et plan de formation.
 Section 2 : Régimes applicables aux heures de formation
 
 
-Sous-section 1 : Actions d'adaptation au poste de travail.
+Sous-section 1 : Actions d'adaptation au poste de travail ou liées à l'évolution ou au maintien dans l'emploi.
  (Article L6321-2)
-
-
-
-
-Sous-section 2 : Actions liées à l'évolution des emplois ou participant au maintien dans l'emploi.
- (Articles L6321-3 à L6321-5)
 
 
 
@@ -9212,6 +9223,13 @@ Sous-section 2 : Congés de formation pour les salariés de vingt-cinq ans et mo
 
 
 
+Section 4 : Formations se déroulant en dehors du temps de travail
+
+ (Article L6322-64)
+
+
+
+
 
 
 Chapitre III : Droit individuel à la formation
@@ -9241,8 +9259,8 @@ Section 4 : Prise en charge des frais de formation.
 
 
 
-Section 5 : Transfert du droit individuel à la formation.
- (Articles L6323-17 à L6323-20)
+Section 5 : Portabilité du droit individuel à la formation.
+ (Articles L6323-17 à L6323-21)
 
 
 
@@ -9307,6 +9325,17 @@ Section 6 : Entreprises de travail temporaire.
 
 
 
+Chapitre VI : Préparation opérationnelle à l'emploi
+
+
+
+
+
+ (Articles L6326-1 à L6326-2)
+
+
+
+
 
 
 TITRE III : FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
@@ -9330,19 +9359,8 @@ Sous-section 1 : Montant et mise en oeuvre de la participation.
 
 
 
-Sous-section 2 : Dépenses libératoires.
- (Articles L6331-4 à L6331-5)
-
-
-
-
 Sous-section 3 : Majoration de la contribution.
  (Article L6331-6)
-
-
-
-
-Sous-section 4 : Déclaration fiscale.
 
 
 
@@ -9463,13 +9481,13 @@ Section 1 : Dispositions générales
 
 
 Sous-section 1 : Agrément.
- (Articles L6332-1 à L6332-2)
+ (Articles L6332-1 à L6332-2-1)
 
 
 
 
 Sous-section 2 : Gestion des fonds.
- (Articles L6332-3 à L6332-5)
+ (Articles L6332-3 à L6332-5-1)
 
 
 
@@ -9511,8 +9529,8 @@ Section 3 : Organismes agréés au titre de la professionnalisation et du droit 
 
 
 
-Section 4 : Fonds national de péréquation.
- (Articles L6332-18 à L6332-22)
+Section 4 : Fonds paritaire de sécurisation des parcours professionnels.
+ (Articles L6332-18 à L6332-22-2)
 
 
 
@@ -9624,7 +9642,19 @@ TITRE V : ORGANISMES DE FORMATION
 
 
 Chapitre Ier : Déclaration d'activité.
+
+
+Section 1 : Principes généraux
+
+ (Article L6351-1 A)
+
+
+
+
+Section 2 : Régime juridique de la déclaration d'activité 
  (Articles L6351-1 à L6351-8)
+
+
 
 
 
@@ -9753,7 +9783,7 @@ Chapitre II : Déroulement des opérations de contrôle
 
 
 Section 1 : Accès aux documents et justifications à apporter.
- (Articles L6362-1 à L6362-7)
+ (Articles L6362-1 à L6362-7-3)
 
 
 
