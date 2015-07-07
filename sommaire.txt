@@ -16362,25 +16362,31 @@ Chapitre Ier : Règles générales
 
 
 
- Sous-section 2 : Équipements de travail visés.
- (Articles R4311-4 à R4311-8)
+Sous-section 2 : Equipements de travail obéissant à des règles pour la mise sur le marché
+
+
+Paragraphe 1 : Machines
+ (Articles R4311-4 à R4311-5)
 
 
 
 
- Sous-section 3 : Moyens de protection visés
-
-
- Paragraphe 1 : Composants de sécurité
- (Articles R4311-9 à R4311-11)
+Paragraphe 2 : Quasi-machines
+ (Article R4311-6)
 
 
 
 
- Paragraphe 2 : Équipements de protection individuelle
- (Articles R4311-12 à R4311-15)
+Paragraphe 3 : Autres équipements de travail auxquels s'appliquent des dispositions pour la mise sur le marché
+ (Article R4311-7)
 
 
+
+
+
+
+Sous-section 3 : Equipements de protection individuelle
+ (Articles R4311-8 à R4311-11)
 
 
 
@@ -16388,7 +16394,7 @@ Chapitre Ier : Règles générales
 
 
  Section 2 : Dispositions d'application
- (Article R4311-16)
+ (Articles R4311-12 à R4311-13)
 
 
 
@@ -16398,28 +16404,17 @@ Chapitre Ier : Règles générales
 Chapitre II : Règles techniques de conception
 
 
- Section 1 : Équipements de travail et composants de sécurité
+Section 1 : Équipements de travail
 
 
- Sous-section 1 : Équipements neufs ou considérés comme neufs
-
-
- Paragraphe 1 : Machines, accessoires de levage, composants d'accessoires de levage,  chaînes, câbles, sangles de levage et composants de sécurité
- (Articles R4312-1 à R4312-2)
-
-
-
-
- Paragraphe 2 :  Cabines de projection par pulvérisation, cabines et enceintes de séchage de peintures liquides, de vernis, de poudres ou de fibres sèches et cabines mixtes
- (Articles R4312-3 à R4312-18)
-
-
+Sous-section 1 : Equipements de travail neufs ou considérés comme neufs
+ (Articles R4312-1 à R4312-1-2)
 
 
 
 
  Sous-section 2 : Équipements d'occasion
- (Articles R4312-19 à R4312-22)
+ (Articles R4312-2 à R4312-5)
 
 
 
@@ -16430,13 +16425,13 @@ Chapitre II : Règles techniques de conception
 
 
  Sous-section 1 : Équipements neufs ou considérés comme neufs
- (Article R4312-23)
+ (Article R4312-6)
 
 
 
 
  Sous-section 2 : Équipements d'occasion
- (Articles R4312-24 à R4312-26)
+ (Articles R4312-7 à R4312-9)
 
 
 
@@ -16448,130 +16443,122 @@ Chapitre II : Règles techniques de conception
 Chapitre III : Procédures de certification  de conformité
 
 
- Section 1 : Typologie des procédures de certification des équipements de travail et moyens de protection neufs ou considérés comme neufs
+Section 1 : Formalités préalables à la mise sur le marché
 
 
- Sous-section 1 : Catégories de certification
- (Article R4313-1)
+Sous-section 1 : Machines, quasi-machines et équipements de protection individuelle neufs ou considérés comme neufs
 
 
+Paragraphe 1 : Machines et équipements de protection individuelle
+ (Articles R4313-1 à R4313-6)
 
 
- Sous-section 2 : Autocertification CE
- (Articles R4313-2 à R4313-4)
 
 
+Paragraphe 2 : Quasi-machines
+ (Articles R4313-7 à R4313-11)
 
 
- Sous-section 3 : Procédure d'examen CE de type
- (Articles R4313-5 à R4313-20)
 
 
+Paragraphe 3 : Dispositions d'application
+ (Articles R4313-12 à R4313-13)
 
 
- Sous-section 4 : Procédure d'examen CE de type simplifiée
- (Articles R4313-21 à R4313-26)
 
 
 
 
- Sous-section 5 : Procédure d'examen CE de type applicable  à certains équipements de protection individuelle
+Sous-section 2 : Equipements de travail et équipements de protection individuelle d'occasion
+ (Articles R4313-14 à R4313-16)
 
 
- Paragraphe 1 : Choix d'un système qualité
- (Article R4313-27)
 
 
+Sous-section 3 : Interdictions
+ (Articles R4313-17 à R4313-18)
 
 
- Paragraphe 2 : Système de garantie de qualité CE
- (Articles R4313-28 à R4313-32)
 
 
 
 
- Paragraphe 3 : Système d'assurance qualité CE de la production avec surveillance
- (Articles R4313-33 à R4313-46)
+Section 2 :  Les procédures d'évaluation de la conformité
 
 
+Sous-section 1 : Dispositions communes
+ (Article R4313-19)
 
 
 
 
- Sous-section 6 : Dispositions communes
- (Article R4313-47)
+Sous-section 2 : Procédures d'évaluation de la conformité applicables aux machines ainsi qu'aux équipements de protection individuelle
 
 
+Paragraphe 1 : Evaluation de la conformité avec contrôle interne de la fabrication dite aussi procédure " d'autocertification CE ”
+ (Articles R4313-20 à R4313-22)
 
 
 
 
- Section 2 :  Procédure de certification applicable à chaque catégorie d'équipement de travail ou de moyen de protection neuf ou considéré comme neuf
+Paragraphe 2 : Examen CE de type
+ (Articles R4313-23 à R4313-42)
 
 
- Sous-section 1 : Machines
- (Articles R4313-48 à R4313-50)
 
 
 
 
- Sous-section 2 : Accessoire de levage et composants d'accessoires de levage
- (Article R4313-51)
+Sous-section 3 : Le système d'assurance qualité complète
+ (Articles R4313-43 à R4313-56)
 
 
 
 
- Sous-section 3 : Composants de sécurité
- (Articles R4313-52 à R4313-53)
+Sous-section 4 : Procédures d'évaluation de la conformité applicables aux équipements de protection individuelle
 
 
+Paragraphe 1 : Le système de garantie de qualité CE
+ (Articles R4313-57 à R4313-61)
 
 
- Sous-section 4 : Équipements de protection individuelle
- (Articles R4313-54 à R4313-56)
 
 
+Paragraphe 2 : Le système d'assurance qualité CE de la production avec surveillance
+ (Articles R4313-62 à R4313-74)
 
 
 
 
- Section 3 : Certification des équipements de travail  et moyens de protection d'occasion
- (Article R4313-57)
 
 
 
 
- Section 4 : Formalités obligatoires préalables à la mise sur le marché
+Section 3 : Les procédures d'évaluation de la conformité applicables à chaque catégorie de machines, équipements de travail ou d'équipements de protection individuelle
 
 
- Sous-section 1 : Equipements de travail et moyens de protection neufs  ou considérés comme neufs
- (Articles R4313-59 à R4313-65)
+Paragraphe 1 : Machines et autres équipements de travail
+ (Articles R4313-75 à R4313-79)
 
 
 
 
- Sous-section 2 : Equipements de travail et moyens de protection d'occasion
- (Articles R4313-66 à R4313-67)
+Paragraphe 2 : Equipements de protection individuelle
+ (Articles R4313-80 à R4313-82)
 
 
 
 
 
 
- Section 5 : Interdictions
- (Articles R4313-68 à R4313-70)
+Section 4 : Organismes notifiés
+ (Articles R4313-83 à R4313-89)
 
 
 
 
- Section 6 : Organismes habilités
- (Articles R4313-71 à R4313-80)
-
-
-
-
- Section 7 : Communications à l'autorité administrative  et mesures de contrôle
- (Articles R4313-81 à R4313-86)
+Section 5 : Communication à l'autorité administrative et mesures de contrôle
+ (Articles R4313-90 à R4313-95)
 
 
 
@@ -16579,7 +16566,24 @@ Chapitre III : Procédures de certification  de conformité
 
 
 Chapitre IV : Procédure de sauvegarde
- (Articles R4314-1 à R4314-5)
+
+
+Section 1 : Procédure de sauvegarde d'initiative nationale
+ (Articles R4314-1 à R4314-4)
+
+
+
+
+Section 2 : Procédure de sauvegarde consécutive à un avis de la Commission européenne
+ (Article R4314-5)
+
+
+
+
+Section 3 : Recours 
+ (Article R4314-6)
+
+
 
 
 
@@ -19386,7 +19390,7 @@ Section 2 : Éclairage des lieux de travail.
 
 
 Section 3 : Équipements de travail et moyens de protection.
- (Articles R4722-5 à R4722-9)
+ (Articles R4722-5 à R4722-8)
 
 
 
@@ -19395,19 +19399,19 @@ Section 4 : Risques chimiques.
 
 
 Sous-section 1 : Analyse de produits.
- (Articles R4722-10 à R4722-12)
+ (Articles R4722-9 à R4722-11)
 
 
 
 
 Sous-section 2 : Contrôle des valeurs limites d'exposition professionnelle.
- (Articles R4722-13 à R4722-14)
+ (Articles R4722-12 à R4722-13)
 
 
 
 
 Sous-section 3 : Amiante.
- (Articles R4722-15 à R4722-16)
+ (Articles R4722-14 à R4722-15)
 
 
 
@@ -19415,31 +19419,31 @@ Sous-section 3 : Amiante.
 
 
 Section 5 : Bruit.
- (Articles R4722-17 à R4722-18)
+ (Articles R4722-16 à R4722-17)
 
 
 
 
 Section 6 : Vibrations mécaniques.
- (Articles R4722-19 à R4722-20)
+ (Articles R4722-18 à R4722-19)
 
 
 
 
 Section 7 : Rayonnements ionisants.
- (Articles R4722-21 à R4722-22)
+ (Articles R4722-20 à R4722-21)
 
 
 
 
 Section 8 : Travaux du bâtiment et du génie civil.
- (Articles R4722-23 à R4722-25)
+ (Articles R4722-22 à R4722-24)
 
 
 
 
 Section 9 : Dispositions communes.
- (Articles R4722-26 à R4722-27)
+ (Articles R4722-25 à R4722-26)
 
 
 
@@ -19468,7 +19472,7 @@ Section 2 : Organismes de vérification en matière d'aération  et d'assainisse
 
 
 Section 3 : Organismes de vérification des équipements de travail.
- (Articles R4724-4 à R4724-5)
+ (Article R4724-4)
 
 
 
