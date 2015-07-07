@@ -2280,19 +2280,19 @@ Sous-section 3 : Modalités de négociation dans les entreprises dépourvues de 
 
 
 Paragraphe 1 : Conclusion par les représentants élus au comité d'entreprise ou les délégués du personnel
- (Articles L2232-21 à L2232-22)
+ (Articles L2232-21 à L2232-23)
 
 
 
 
 Paragraphe 2 : Conclusion par un ou plusieurs salariés mandatés
- (Articles L2232-23 à L2232-24)
+ (Articles L2232-24 à L2232-27)
 
 
 
 
 Paragraphe 3 : Conditions de négociation, de validité, de révision et de dénonciation des accords conclus dans les entreprises dépourvues de délégué syndical
- (Articles L2232-25 à L2232-28)
+ (Articles L2232-27-1 à L2232-29)
 
 
 
@@ -7530,6 +7530,12 @@ Sous-section 4 : Aide financière.
 
 
 
+Section 1-1 : Contrat unique d'insertion.
+ (Articles L5134-19-1 à L5134-19-5)
+
+
+
+
 Section 2 : Contrat d'accompagnement dans l'emploi
 
 
@@ -7540,7 +7546,7 @@ Sous-section 1 : Objet.
 
 
 Sous-section 2 : Convention.
- (Articles L5134-21 à L5134-23)
+ (Articles L5134-21 à L5134-23-2)
 
 
 
@@ -7559,41 +7565,6 @@ Sous-section 4 : Aide financière et exonérations.
 
 Sous-section 5 : Dispositions d'application.
  (Article L5134-34)
-
-
-
-
-
-
-Section 3 : Contrat d'avenir
-
-
-Sous-section 1 : Objet.
- (Article L5134-35)
-
-
-
-
-Sous-section 2 : Conventions.
- (Articles L5134-36 à L5134-40)
-
-
-
-
-Sous-section 3 : Contrat de travail.
- (Articles L5134-41 à L5134-50)
-
-
-
-
-Sous-section 4 : Aide financière et exonérations.
- (Articles L5134-51 à L5134-52)
-
-
-
-
-Sous-section 5 : Dispositions d'application.
- (Article L5134-53)
 
 
 
@@ -7657,48 +7628,13 @@ Sous-section 3 : Contrat de travail.
 
 
 Sous-section 4 : Aide financière.
- (Article L5134-72)
+ (Articles L5134-72 à L5134-72-2)
 
 
 
 
 Sous-section 5 : Dispositions d'application.
  (Article L5134-73)
-
-
-
-
-
-
-Section 6 : Contrat insertion-revenu minimum d'activité
-
-
-Sous-section 1 : Objet.
- (Article L5134-74)
-
-
-
-
-Sous-section 2 : Conventions.
- (Articles L5134-75 à L5134-81)
-
-
-
-
-Sous-section 3 : Contrat de travail.
- (Articles L5134-82 à L5134-94)
-
-
-
-
-Sous-section 4 : Aide financière.
- (Articles L5134-95 à L5134-97)
-
-
-
-
-Sous-section 5 : Dispositions d'application.
- (Articles L5134-98 à L5134-99)
 
 
 
@@ -19725,6 +19661,12 @@ Sous-section 2 : Composition et fonctionnement
 
 
 
+Section 4 : Demandes d'informations relatives à certains dispositifs d'aides à l'emploi
+ (Articles R5112-23 à D5112-24)
+
+
+
+
 
 
 
@@ -20161,190 +20103,80 @@ Sous-section 4 : Aide financière et exonérations
 
 
 
-Section 2 : Contrat d'accompagnement dans l'emploi
+Section 1-1 : Contrat unique d'insertion
 
 
-Sous-section 1 : Convention
- (Articles R5134-14 à R5134-22)
-
-
-
-
-Sous-section 3 : Aide financière et exonérations
-
-
-Paragraphe 1 : Aide financière
- (Articles R5134-29 à R5134-34)
-
-
-
-
-Paragraphe 2 : Exonérations
- (Articles R5134-35 à R5134-37)
-
-
-
-
-
-
-Sous-section 4 : Période d'immersion.
- (Articles D5134-37-1 à D5134-37-7)
-
-
-
-
-
-
-Section 3 : Contrat d'avenir
-
-
-Sous-section 1 : Conventions
- (Articles R5134-38 à R5134-54)
-
-
-
-
-Sous-section 2 : Référent
- (Articles R5134-55 à R5134-57)
-
-
-
-
-Sous-section 3 : Contrat de travail
-
-
-Paragraphe 1 : Conclusion
- (Articles R5134-58 à R5134-59)
-
-
-
-
-Paragraphe 2 : Durée du travail
- (Article R5134-60)
-
-
-
-
-Paragraphe 3 : Renouvellement, suspension et rupture du contrat
- (Articles R5134-61 à R5134-63)
-
-
-
-
-
-
-Sous-section 4 : Suivi financier et statistique
- (Articles R5134-64 à R5134-72)
-
-
-
-
-Sous-section 5 : Aide financière et exonérations
-
-
-Paragraphe 1 : Aide financière
- (Articles R5134-74 à D5134-77)
-
-
-
-
-Paragraphe 2 : Prime de cohésion sociale
- (Articles D5134-78 à D5134-81)
-
-
-
-
-Paragraphe 3 : Exonérations
- (Articles R5134-82 à R5134-83)
-
-
-
-
-Paragraphe 4 : Aide forfaitaire en cas d'embauche  en contrat de travail à durée indéterminée
- (Articles R5134-84 à R5134-86)
-
-
-
-
-
-
-Sous-section 6 : Commission de pilotage
- (Article R5134-87)
-
-
-
-
-Sous-section 7 : Période d'immersion.
- (Articles D5134-87-1 à D5134-87-7)
-
-
-
-
-
-
-Section 4 : Contrat initiative-emploi
-
-
-Sous-section 1 : Convention
- (Articles R5134-88 à R5134-96)
+Sous-section 1 : Dispositions générales
+ (Articles D5134-14 à R5134-17)
 
 
 
 
 Sous-section 2 : Suivi financier et statistique
- (Article R5134-97)
-
-
-
-
-Sous-section 3 : Aide financière
- (Articles R5134-98 à R5134-104)
+ (Articles R5134-18 à D5134-25)
 
 
 
 
 
 
-Section 5 : Contrat insertion-revenu minimum d'activité
+Section 2 : Contrat d'accompagnement dans l'emploi
 
 
-Sous-section 1 : Conventions
- (Articles D5134-105 à D5134-122)
+Sous-section 1 : Convention individuelle
+ (Articles R5134-26 à R5134-35)
 
 
 
 
 Sous-section 2 : Contrat de travail
-
-
-Paragraphe 1 : Conclusion
- (Article D5134-123)
+ (Article R5134-36)
 
 
 
 
-Paragraphe 2 : Renouvellement, suspension et rupture du contrat
- (Articles D5134-124 à D5134-125)
+Sous-section 3 : Accompagnement
+ (Articles R5134-37 à R5134-39)
+
+
+
+
+Sous-section 4 : Aide financière et exonérations
+
+
+Paragraphe 1er : Aide financière
+ (Articles R5134-40 à R5134-47)
+
+
+
+
+Paragraphe 2 : Exonérations
+ (Articles D5134-48 à R5134-50)
 
 
 
 
 
 
-Sous-section 3 : Suivi financier et statistique
- (Articles R5134-126 à R5134-130)
+
+
+Section 3 : Contrat initiative-emploi
+
+
+Sous-section 1 : Convention individuelle
+ (Articles R5134-51 à R5134-59)
 
 
 
 
-Sous-section 4 : Aide financière
- (Articles D5134-131 à R5134-138)
+Sous-section 2 : Accompagnement
+ (Articles R5134-60 à R5134-62)
 
 
 
 
-Sous-section 5 : Dispositions spécifiques au contrat de mission  conclu avec une entreprise de travail temporaire
- (Articles R5134-139 à R5134-144)
+Sous-section 3 : Aide financière
+ (Articles R5134-63 à R5134-70)
 
 
 
@@ -20968,12 +20800,6 @@ Chapitre III : Maisons de l'emploi.
 
 
 
- Section 4 : Commission nationale des maisons de l'emploi.
- (Articles R5313-9 à R5313-12)
-
-
-
-
 
 
 Chapitre IV : Missions locales pour l'insertion professionnelle  et sociale des jeunes
@@ -21404,8 +21230,8 @@ Chapitre V : Maintien des droits au revenu de remplacement  du demandeur indemni
 
 
 
- Sous-section 2 : Bénéficiaire d'un contrat d'avenir  ou du contrat insertion-revenu minimum d'activité.
- (Articles R5425-9 à R5425-13)
+Sous-section 2 : Bénéficiaires d'un contrat d'insertion par l'activité
+ (Articles R5425-9 à R5425-10)
 
 
 
