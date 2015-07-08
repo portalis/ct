@@ -15945,7 +15945,7 @@ Chapitre IV : Sécurité des lieux de travail
 
 
 
- Section 5 : Accessibilité et aménagement des postes de travail  des travailleurs handicapés
+Section 5 : Accessibilité des lieux de travail aux travailleurs handicapés
  (Articles R4214-26 à R4214-28)
 
 
@@ -16161,7 +16161,7 @@ Chapitre V : Aménagement des postes de travail
 
 
  Section 3 : Travailleurs handicapés
- (Articles R4225-6 à R4225-7)
+ (Articles R4225-6 à R4225-8)
 
 
 
@@ -24959,22 +24959,6 @@ Section 3 : Travail de nuit.
 
 
 Livre III : Placement et emploi
-
-
-Titre IV : Main d'oeuvre étrangère et détachement transnational de travailleurs
-
-
-Chapitre II : Détachement transnational de travailleurs
-
-
-Section 4 : Dispositions spécifiques à certains secteurs d'activité
- (Article R342-12)
-
-
-
-
-
-
 
 
 Titre VI : Pénalités
