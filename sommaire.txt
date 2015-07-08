@@ -16717,6 +16717,12 @@ Chapitre III :  Mesures d'organisation et conditions d'utilisation des équipeme
 
 
 
+Section 10 : Dispositions particulières applicables aux ascenseurs et équipements de travail desservant des niveaux définis à l'aide d'un habitacle.
+ (Articles R4323-107 à R4323-109)
+
+
+
+
 
 
 Chapitre IV : Utilisation des équipements de travail non soumis à des règles de conception lors de leur première mise sur le marché
@@ -16782,6 +16788,12 @@ Chapitre IV : Utilisation des équipements de travail non soumis à des règles 
 
  Section 3 : Prescriptions complémentaires  pour les équipements de travail mobiles
  (Articles R4324-30 à R4324-45)
+
+
+
+
+Section 4 : Prescriptions complémentaires pour les équipements de travail desservant des niveaux définis à l'aide d'un habitacle.
+ (Articles R4324-46 à R4324-53)
 
 
 
@@ -18486,6 +18498,70 @@ Section 5 : Information et formation des travailleurs.
 
 Section 6 : Surveillance médicale.
  (Articles R4542-17 à R4542-19)
+
+
+
+
+
+
+Chapitre III : Interventions sur les équipements élévateurs et installés à demeure.
+
+
+Section 1 : Champ d'application.
+ (Article R4543-1)
+
+
+
+
+Section 2 : Etude de sécurité spécifique.
+ (Articles R4543-2 à R4543-11)
+
+
+
+
+Section 3 : Information des travailleurs intervenants. 
+
+
+
+
+
+ (Articles R4543-12 à R4543-13)
+
+
+
+
+Section 4 : Organisation de l'intervention. 
+
+
+
+ (Articles R4543-14 à R4543-18)
+
+
+
+
+Section 5 : Travailleurs isolés. 
+
+
+ (Articles R4543-19 à R4543-21)
+
+
+
+
+Section 6 : Formation des travailleurs. 
+
+
+ (Articles R4543-22 à R4543-24)
+
+
+
+
+Section 7 : Montage et démontage des ascenseurs. 
+
+
+
+
+
+ (Articles R4543-25 à R4543-28)
 
 
 
