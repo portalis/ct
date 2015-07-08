@@ -22770,13 +22770,13 @@ Paragraphe 2 : Disponibilités
 
 
 Paragraphe 3 : Transmission de documents
- (Articles R6332-30 à R6332-35)
+ (Articles R6332-30 à R6332-34)
 
 
 
 
-Paragraphe 4 : Contributions
- (Articles R6332-36 à R6332-37)
+Paragraphe 4 : Frais de gestion et d'information et frais relatifs aux missions des organismes collecteurs paritaires agréés au titre du plan de formation, de la professionnalisation et du droit individuel à la formation
+ (Articles R6332-36 à R6332-37-1)
 
 
 
@@ -22791,39 +22791,30 @@ Paragraphe 5 : Contrôle et comptabilité
 
 
 
-Section 2 : Fonds d'assurance formation
-
-
-Sous-section 1 : Dispositions communes
+Section 2 : Organismes collecteurs paritaires agréés au titre du plan de formation
 
 
 Paragraphe 1 : Constitution et fonctionnement
- (Articles R6332-46 à R6332-48)
+ (Articles R6332-46 à R6332-47)
 
 
 
 
 Paragraphe 2 : Gestion et ressources
- (Articles R6332-49 à R6332-54)
+ (Articles R6332-50 à R6332-54)
 
 
 
 
 Paragraphe 3 : Contrôle
- (Articles R6332-55 à R6332-56)
+ (Articles R6332-55 à R6332-62)
 
 
 
 
 
 
-Sous-section 2 : Fonds d'assurance formation de salariés
- (Articles R6332-57 à R6332-62)
-
-
-
-
-Sous-section 3 : Fonds d'assurance formation de non-salariés
+Section 3 : Fonds d'assurance formation de non-salariés
 
 
 Paragraphe 1 : Constitution
@@ -22846,9 +22837,7 @@ Paragraphe 3 : Contribution et gestion
 
 
 
-
-
-Section 3 : Organismes agréés au titre de la professionnalisation  et du droit individuel à la formation
+Section 4 : Organismes agréés au titre de la professionnalisation  et du droit individuel à la formation
 
 
 Sous-section 1 : Affectation et gestion des fonds
@@ -22865,19 +22854,19 @@ Sous-section 2 : Dépenses de tutorat
 
 
 
-Section 4 : Organismes agréés au titre du congé individuel de formation
+Section 5 : Organismes agréés au titre du congé individuel de formation
  (Articles D6332-93 à D6332-95)
 
 
 
 
-Section 5 : Fonds national de gestion paritaire  de la formation professionnelle continue
+Section 6 : Fonds national de gestion paritaire  de la formation professionnelle continue
  (Articles R6332-96 à R6332-103)
 
 
 
 
-Section 6 : Fonds paritaire de sécurisation des parcours professionnels
+Section 7 : Fonds paritaire de sécurisation des parcours professionnels
 
 
 Sous-section 1 : Création et agrément du fonds
@@ -22900,7 +22889,7 @@ Sous-section 3 : Gestion du fonds par une association
 
 
 
-Section 7 : Information de l'Etat
+Section 8 : Information de l'Etat
  (Article R6332-114)
 
 
@@ -23983,8 +23972,8 @@ Paragraphe 2 : Séances
 
 
 
-Sous-section 3 : Comité des engagements et comité scientifique
- (Articles D7234-20 à D7234-23)
+Sous-section 3 : Bureau exécutif
+ (Articles D7234-20 à D7234-22)
 
 
 
