@@ -24707,7 +24707,6 @@ Paragraphe 2 : Travail à temps partiel.
 
 
 Section 7 : Dispositions particulières relatives à certains salariés du secteur des transports
- (Articles L212-18 à L212-19)
 
 
 
@@ -24718,7 +24717,6 @@ Chapitre III : TRAVAIL DE NUIT
 
 
 Section 3 : Dispositions particulières relatives à certains salariés du secteur des transports
- (Article L213-11)
 
 
 
@@ -24731,7 +24729,6 @@ Titre II : Repos et congés
 
 
 Chapitre préliminaire : Repos quotidien
- (Article L220-3)
 
 
 
@@ -24845,13 +24842,12 @@ Titre IV : Transports et télécommunications
 
 
 Chapitre II : Marins.
- (Articles L742-1 à L742-12)
+ (Articles L742-1-1 à L742-2)
 
 
 
 
 Chapitre III : Personnel des entreprises de manutention des ports.
- (Articles L743-1 à L743-2)
 
 
 
