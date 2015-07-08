@@ -1363,7 +1363,7 @@ Section 1 : Objet et modalités de mise en oeuvre.
 
 
 Section 2 : Dispositions financières.
- (Articles L1271-9 à L1271-15)
+ (Articles L1271-9 à L1271-15-1)
 
 
 
@@ -8023,20 +8023,14 @@ Chapitre II : Rôle des collectivités territoriales.
 
 
 
-Chapitre III : Placement privé.
- (Articles L5323-1 à L5323-3)
+Chapitre III : Contrôle
+ (Article L5323-1)
 
 
 
 
-Chapitre IV : Contrôle.
+Chapitre IV : Dispositions pénales
  (Article L5324-1)
-
-
-
-
-Chapitre V : Dispositions pénales.
- (Article L5325-1)
 
 
 
@@ -10000,34 +9994,28 @@ Section 4 : Rémunération.
 Section 5 : Placement
 
 
-Sous-section 1 : Licence d'agent artistique.
- (Articles L7121-9 à L7121-17)
+Sous-section 1 : Inscription au registre national des agents artistiques
+ (Articles L7121-9 à L7121-12)
 
 
 
 
 Sous-section 2 : Rémunération des services de placement.
- (Article L7121-18)
+ (Article L7121-13)
 
 
 
 
 Sous-section 3 : Agences artistiques.
- (Articles L7121-19 à L7121-21)
+ (Article L7121-14)
 
 
 
 
 
 
-Section 6 : Dispositions d'application.
- (Article L7121-22)
-
-
-
-
-Section 7 : Dispositions pénales
- (Articles L7121-23 à L7121-30)
+Section 6 : Dispositions pénales
+ (Articles L7121-15 à L7121-17)
 
 
 
@@ -10315,10 +10303,10 @@ Chapitre Ier : Champ d'application.
 
 
 
-Chapitre II : Agrément des organismes et mise en oeuvre des activités
+Chapitre II : Déclaration et agrément des organismes et mise en œuvre des activités
 
 
-Section 1 : Agrément des organismes.
+Section 1 : Déclaration et agrément des organismes
  (Articles L7232-1 à L7232-5)
 
 
@@ -10331,7 +10319,7 @@ Section 2 : Mise en oeuvre des activités.
 
 
 Section 3 : Dispositions d'application.
- (Article L7232-7)
+ (Articles L7232-7 à L7232-9)
 
 
 
