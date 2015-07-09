@@ -7481,12 +7481,6 @@ Section 4 : Dispositions d'application.
 Chapitre III : Prime de retour à  l'emploi et aide personnalisée de retour à l'emploi .
 
 
-Section 1 : Prime de retour à l'emploi.
- (Articles L5133-1 à L5133-7)
-
-
-
-
 Section 2 : Aide personnalisée de retour à l'emploi 
 
 
@@ -7695,7 +7689,6 @@ Sous-section 5 : Dispositions d'application.
 
 
 Chapitre V : Dispositions pénales.
- (Article L5135-1)
 
 
 
@@ -8174,7 +8167,7 @@ Section 3 : Obligations d'assurance et de déclaration des rémunérations.
 
 
 Section 4 : Modalités de recouvrement et de contrôle des contributions.
- (Articles L5422-15 à L5422-19)
+ (Articles L5422-15 à L5422-16)
 
 
 
@@ -8392,8 +8385,8 @@ Sous-section 1 : Contrat emploi-jeune.
 
 
 
-Sous-section 2 : Contrat d'avenir.
- (Article L5522-2)
+Sous-section 2 : Contrat unique d'insertion
+ (Articles L5522-2 à L5522-2-3)
 
 
 
@@ -8402,7 +8395,7 @@ Sous-section 4 : Contrats d'accès à l'emploi
 
 
 Paragraphe 1 : Objet.
- (Articles L5522-5 à L5522-6)
+ (Articles L5522-5 à L5522-6-1)
 
 
 
@@ -8467,12 +8460,6 @@ Chapitre III : Dispositions applicables à certaines catégories de travailleurs
 
 
 Chapitre IV : Le demandeur d'emploi
-
-
-Section 1 : Allocation de retour à l'activité.
- (Articles L5524-1 à L5524-9)
-
-
 
 
 Section 2 : Dispositions d'adaptation.
@@ -10345,7 +10332,7 @@ Chapitre III : Dispositions financières
 
 
 Section 1 : Frais de gestion et mesures fiscales et sociales.
- (Articles L7233-1 à L7233-3)
+ (Articles L7233-1 à L7233-2)
 
 
 
@@ -21531,7 +21518,13 @@ Chapitre II : Dispositifs en faveur de l'emploi
 
 
 
- Sous-section 2 : Contrats d'accès à l'emploi.
+Sous-section 2 : Contrat unique d'insertion
+ (Articles R5522-11-1 à R5522-11-2)
+
+
+
+
+Sous-section 3 : Contrats d'accès à l'emploi
 
 
  Paragraphe 1 : Objet.
@@ -21541,7 +21534,7 @@ Chapitre II : Dispositifs en faveur de l'emploi
 
 
  Paragraphe 2 : Convention.
- (Articles R5522-14 à R5522-23)
+ (Articles R5522-14 à R5522-23-3)
 
 
 
@@ -21661,23 +21654,6 @@ Chapitre III : Dispositions applicables  à certaines catégories de travailleur
 
 
 Chapitre IV : Le demandeur d'emploi
-
-
- Section unique : Allocation de retour à l'activité.
-
-
- Sous-section 1 : Demande et gestion de l'allocation.
- (Articles R5524-1 à R5524-6)
-
-
-
-
- Sous-section 2 : Conditions d'attribution et versement.
- (Articles R5524-7 à R5524-12)
-
-
-
-
 
 
 
@@ -24693,6 +24669,18 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 Chapitre II : Inspection du travail
 
 
+Section 1 : Compétences et moyens d'intervention
+ (Article D8322-1)
+
+
+
+
+Section 2 : Systèmes d'inspection du travail
+ (Article R8322-2)
+
+
+
+
 
 
 Chapitre III : Lutte contre le travail illégal
@@ -24861,7 +24849,7 @@ Chapitre Ier : GARANTIES DE RESSOURCES DES TRAVAILLEURS PRIVES D'EMPLOI
 
 
 Section 1 : Régime d'assurance
- (Articles L351-6 à L351-8)
+ (Articles L351-5-1 à L351-8)
 
 
 
