@@ -14575,7 +14575,7 @@ Section 2 : Congés non rémunérés
 
 
 Sous-section 1 : Congé de solidarité familiale
- (Articles D3142-6 à D3142-8)
+ (Articles D3142-6 à D3142-8-1)
 
 
 
@@ -15702,6 +15702,12 @@ Section 3 : Travaux exposant aux rayonnements ionisants
 
  Section 7 : Local dédié à l'allaitement
  (Articles R4152-13 à R4152-28)
+
+
+
+
+Section 8 : Interventions et travaux en milieu hyperbare
+ (Article D4152-29)
 
 
 
@@ -17762,8 +17768,288 @@ Chapitre III : Prévention des risques d'exposition aux champs électromagnétiq
 
 
 
-TITRE VI : PRÉVENTION DES RISQUES EN MILIEU HYPERBARE
-Le présent titre ne comprend pas de dispositions réglementaires.
+TITRE VI : AUTRES RISQUES
+
+
+Chapitre Ier : Prévention des risques en milieu hyperbare 
+
+
+
+
+
+Section 1 : Définitions et dispositions générales 
+
+
+
+
+
+ (Articles R4461-1 à R4461-2)
+
+
+
+
+Section 2 : Evaluation des risques 
+
+
+
+
+
+Sous-section 1 : Document unique 
+
+
+
+ (Article R4461-3)
+
+
+
+
+Sous-section 2 : Conseiller à la prévention hyperbare 
+
+
+
+ (Articles R4461-4 à R4461-5)
+
+
+
+
+
+
+Section 3 : Mesures et moyens de prévention 
+
+
+
+
+
+Sous-section 1 : Organisation du travail en milieu hyperbare 
+
+
+
+
+
+
+
+
+Paragraphe 1 : Procédures et méthodes d'intervention, procédures de secours et manuel de sécurité hyperbare 
+
+
+ (Articles R4461-6 à R4461-11)
+
+
+
+
+Paragraphe 2 : Fiche de sécurité 
+
+
+
+ (Articles R4461-12 à R4461-13)
+
+
+
+
+
+
+Sous-section 2 : Règles techniques 
+
+
+
+
+
+Paragraphe 1 : Gaz et mélanges gazeux respiratoires 
+
+
+
+
+Sous-paragraphe 1 : Principes 
+ (Articles R4461-14 à R4461-16)
+
+
+
+
+Sous-paragraphe 2 : Composition des gaz 
+
+
+
+
+
+ (Articles R4461-17 à R4461-20)
+
+
+
+
+
+
+Paragraphe 2 : Equipements de protection individuelle 
+
+
+
+ (Articles R4461-21 à R4461-22)
+
+
+
+
+Paragraphe 3 : Contrôle des gaz et détendeurs 
+
+
+
+ (Articles R4461-23 à R4461-26)
+
+
+
+
+
+
+
+
+Section 4 : Formation 
+
+
+
+
+
+Sous-section 1 : Certificat d'aptitude à l'hyperbarie et certificat de conseiller à la prévention hyperbare 
+
+
+
+ (Articles R4461-27 à R4461-28)
+
+
+
+
+Sous-section 2 : Organisation de la formation 
+
+
+
+
+
+ (Articles R4461-29 à R4461-31)
+
+
+
+
+Sous-section 3 : Habilitation, accréditation et certification 
+
+
+
+
+Paragraphe 1 : Habilitation 
+
+
+
+
+
+ (Articles R4461-32 à R4461-35)
+
+
+
+
+Paragraphe 2 : Accréditation et certification 
+
+
+
+ (Article R4461-36)
+
+
+
+
+
+
+
+
+Section 5 : Organisation des interventions et travaux en milieu hyperbare 
+
+
+
+
+Sous-section 1 : Dispositions communes 
+
+
+
+
+
+ (Articles R4461-37 à R4461-39)
+
+
+
+
+Sous-section 2 : Dispositions spécifiques aux interventions en milieu hyperbare 
+
+
+
+
+
+
+
+
+Paragraphe 1 : Equipe d'intervention 
+
+
+
+ (Articles R4461-40 à R4461-41)
+
+
+
+
+Paragraphe 2 : Interventions en apnée 
+
+
+
+ (Article R4461-42)
+
+
+
+
+
+
+Sous-section 3 : Dispositions spécifiques aux travaux en milieu hyperbare 
+
+
+
+
+
+ (Articles R4461-43 à R4461-44)
+
+
+Paragraphe 1 : Equipe de travaux 
+
+
+
+ (Articles R4461-45 à R4461-46)
+
+
+
+
+Paragraphe 2 : Equipements de travail 
+
+
+
+ (Article R4461-47)
+
+
+
+
+Paragraphe 3 : Dispositif de certification 
+
+
+
+ (Article R4461-48)
+
+
+
+
+
+
+
+
+Section 6 : Situations exceptionnelles d'interventions et de travaux exécutés en milieu hyperbare 
+
+
+
+
+
+ (Article R4461-49)
+
+
+
 
 
 
@@ -18404,6 +18690,12 @@ Sous-section 3 : Activités de confinement et de retrait d'amiante et activités
  (Article R4535-10)
 
 
+
+
+
+
+Section 4 : Risque hyperbare
+ (Article R4535-11)
 
 
 
