@@ -432,7 +432,7 @@ Section 2 : Inaptitude consécutive à une maladie ou un accident non profession
 
 
 Sous-section 1 : Inaptitude consécutive à une maladie ou un accident non professionnel.
- (Articles L1226-2 à L1226-4-1)
+ (Articles L1226-2 à L1226-4-3)
 
 
 
@@ -7168,13 +7168,13 @@ TITRE IV : DISPOSITIONS PÉNALES
 Chapitre Ier : Infractions aux règles de santé et de sécurité
 
 
-Section 1 : Infractions commises par l'employeur ou son représentant.
+Section 1 : Infractions commises par l'employeur ou son délégataire.
  (Articles L4741-1 à L4741-8)
 
 
 
 
-Section 2 : Infractions commises par une personne autre que l'employeur ou son représentant.
+Section 2 : Infractions commises par une personne autre que l'employeur ou son délégataire.
  (Articles L4741-9 à L4741-10)
 
 
@@ -9982,7 +9982,7 @@ Section 2 : Définitions.
 
 
 Section 3 : Contrat de travail.
- (Articles L7121-3 à L7121-7)
+ (Articles L7121-3 à L7121-7-1)
 
 
 
@@ -25175,7 +25175,6 @@ Titre Ier : Energie - Industries extractives
 
 
 Chapitre III : Industries électriques et gazières
- (Articles L713-1 à L713-2)
 
 
 
