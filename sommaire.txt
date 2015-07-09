@@ -6955,13 +6955,13 @@ Section 1 : Principes.
 
 
 Section 2 : Services de santé au travail interentreprises.
- (Article L4622-7)
+ (Articles L4622-7 à L4622-16)
 
 
 
 
 Section 3 : Dispositions d'application.
- (Article L4622-8)
+ (Article L4622-17)
 
 
 
@@ -6981,7 +6981,7 @@ Sous-section 1 : Recrutement et conditions d'exercice.
 
 
 Sous-section 2 : Protection.
- (Articles L4623-4 à L4623-7)
+ (Articles L4623-4 à L4623-8)
 
 
 
@@ -6990,14 +6990,14 @@ Sous-section 2 : Protection.
 
 
 
-Chapitre IV : Actions du médecin du travail.
- (Article L4624-1)
+Chapitre IV : Actions et moyens des membres des équipes pluridisciplinaires de santé au travail.
+ (Articles L4624-1 à L4624-4)
 
 
 
 
-Chapitre V : Surveillance médicale des salariés temporaires.
-Le présent chapitre ne comprend pas de dispositions législatives
+Chapitre V : Surveillance médicale de catégories particulières de travailleurs.
+ (Articles L4625-1 à L4625-2)
 
 
 
@@ -10260,7 +10260,6 @@ Chapitre III : Congés payés.
 
 
 Chapitre IV : Surveillance médicale.
- (Article L7214-1)
 
 
 
@@ -10556,7 +10555,7 @@ Chapitre III : Règlement des litiges.
 
 
 Chapitre IV : Santé et sécurité au travail.
- (Articles L7424-1 à L7424-4)
+ (Articles L7424-1 à L7424-3)
 
 
 
