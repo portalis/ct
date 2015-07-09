@@ -712,7 +712,7 @@ Sous-section 1 : Plan de sauvegarde de l'emploi.
 
 
 
-Sous-section 2 : Convention de reclassement personnalisé.
+Sous-section 2 : Contrat de sécurisation professionnelle
  (Articles L1233-65 à L1233-70)
 
 
@@ -8628,6 +8628,12 @@ Sous-section 5 : Rupture du contrat.
 
 
 
+Sous-section 6 : Contrat d'apprentissage préparant au baccalauréat professionnel
+ (Article L6222-22-1)
+
+
+
+
 
 
 Section 2 : Conditions de travail de l'apprenti
@@ -8667,6 +8673,12 @@ Sous-section 5 : Dispositions d'application.
 
 Section 3 : Présentation et préparation aux examens.
  (Articles L6222-34 à L6222-36)
+
+
+
+
+Section 3 bis : Carte d'étudiant des métiers
+ (Article L6222-36-1)
 
 
 
@@ -8739,6 +8751,12 @@ Section 3 : Dispositions d'application.
  (Article L6225-8)
 
 
+
+
+
+
+Chapitre VI : Entreprises de travail temporaire
+ (Article L6226-1)
 
 
 
@@ -9221,7 +9239,7 @@ Chapitre V : Contrats de professionnalisation
 
 
 Section 1 : Objet et conditions d'ouverture.
- (Articles L6325-1 à L6325-4)
+ (Articles L6325-1 à L6325-4-1)
 
 
 
@@ -9264,7 +9282,7 @@ Chapitre VI : Préparation opérationnelle à l'emploi
 
 
 
- (Articles L6326-1 à L6326-2)
+ (Articles L6326-1 à L6326-3)
 
 
 
