@@ -12782,6 +12782,206 @@ Section 2 : Recueil des résultats des organisations syndicales aux élections p
 
 
 
+Section 3 : Mesure de l'audience des organisations syndicales concernant les entreprises de moins de onze salariés 
+
+
+
+
+
+
+
+
+Sous-section 1 : Electorat 
+
+
+
+ (Articles R2122-8 à R2122-11)
+
+
+
+
+Sous-section 2 : Etablissement de la liste électorale 
+
+
+
+
+
+
+
+
+Paragraphe 1er : Traitement des données 
+
+
+
+ (Articles R2122-12 à R2122-17)
+
+
+
+
+Paragraphe 2 : Inscription sur la liste 
+
+
+ (Articles R2122-18 à R2122-20)
+
+
+
+
+
+
+Sous-section 3 : Contestations relatives à l'inscription sur les listes électorales 
+
+
+
+
+
+
+
+
+Paragraphe 1er : Recours gracieux 
+
+
+
+ (Articles R2122-21 à R2122-25)
+
+
+
+
+Paragraphe 2 : Recours contentieux 
+
+
+
+ (Articles R2122-26 à R2122-32)
+
+
+
+
+
+
+Sous-section 4 : Candidatures des organisations syndicales de salariés 
+
+
+
+ (Articles R2122-33 à R2122-42)
+
+
+
+
+Sous-section 5 : Scrutin 
+
+
+
+Paragraphe 1er : Commission des opérations de vote 
+
+
+
+ (Articles R2122-43 à R2122-48)
+
+
+
+
+Paragraphe 2 : Documents électoraux 
+
+
+
+ (Articles R2122-49 à R2122-52)
+
+
+
+
+
+
+Sous-section 6 : Modalités de vote 
+
+
+
+
+
+Paragraphe 1er : Dispositions communes 
+
+
+
+ (Articles R2122-53 à R2122-55)
+
+
+
+
+Paragraphe 2 : Bureau de vote 
+
+
+
+ (Articles R2122-56 à R2122-60)
+
+
+
+
+Paragraphe 3 : Vote électronique à distance 
+
+
+
+ (Articles R2122-61 à R2122-71)
+
+
+
+
+ Paragraphe 4 : Vote par correspondance 
+
+
+
+
+
+ (Articles R2122-72 à R2122-77)
+
+
+
+
+
+
+Sous-section 7  : Dépouillement 
+
+
+
+
+Paragraphe 1er : Dépouillement du vote électronique à distance 
+
+
+
+
+
+ (Articles R2122-78 à R2122-79)
+
+
+
+
+Paragraphe 2 : Dépouillement du vote par correspondance 
+
+
+
+ (Articles R2122-80 à R2122-90)
+
+
+
+
+Paragraphe 3 : Centralisation et proclamation des résultats 
+
+
+
+ (Articles R2122-91 à R2122-92)
+
+
+
+
+
+
+Sous-section 8 : Contestations relatives au déroulement des opérations électorales 
+
+
+ (Articles R2122-93 à R2122-98)
+
+
+
+
+
+
 
 
 
@@ -16190,6 +16390,47 @@ Chapitre V : Aménagement des postes de travail
 Chapitre VI : Installations électriques
 
 
+Section 1 : Champ d'application et définitions
+ (Articles R4226-1 à R4226-4)
+
+
+
+
+Section 2 :  Dispositions générales
+ (Articles R4226-5 à R4226-7)
+
+
+
+
+Section 3 :  Dispositions particulières à certains locaux ou emplacements
+ (Articles R4226-8 à R4226-10)
+
+
+
+
+Section 4 :  Autres dispositions particulières
+ (Articles R4226-11 à R4226-13)
+
+
+
+
+Section 5 :  Vérification des installations électriques
+
+
+Sous-section 1 : Vérification des installations électriques permanentes
+ (Articles R4226-14 à R4226-20)
+
+
+
+
+Sous-section 2 :  Vérification des installations électriques temporaires
+ (Article R4226-21)
+
+
+
+
+
+
 
 
 Chapitre VII : Risques d'incendies et d'explosions et évacuation
@@ -16214,7 +16455,7 @@ Chapitre VII : Risques d'incendies et d'explosions et évacuation
 
 
  Section 4 : Emploi et stockage  de matières explosives et inflammables
- (Articles R4227-21 à R4227-27)
+ (Articles R4227-22 à R4227-27)
 
 
 
@@ -18711,6 +18952,23 @@ Section 4 : Risque hyperbare
 
 
 
+Section 4 : Risques électriques
+
+
+Sous-section 1 : Utilisation des installations électriques
+ (Article R4535-11)
+
+
+
+
+Sous-section 2 : Opérations sur ou au voisinage des installations électriques
+ (Article R4535-12)
+
+
+
+
+
+
 
 
 
@@ -18852,6 +19110,35 @@ Section 7 : Montage et démontage des ascenseurs.
 
 
  (Articles R4543-25 à R4543-28)
+
+
+
+
+
+
+Chapitre IV : Opérations sur les installations électriques ou dans leur voisinage
+
+
+Section 1 : Champ d'application et définitions
+ (Articles R4544-1 à R4544-3)
+
+
+
+
+Section 2 : Obligations générales de l'employeur
+ (Article R4544-4)
+
+
+
+
+Section 3 : Prescriptions particulières
+ (Articles R4544-5 à R4544-8)
+
+
+
+
+Section 4 : Travailleurs autorisés à effectuer des opérations sur les installations électriques ou dans leur voisinage
+ (Articles R4544-9 à R4544-10)
 
 
 
@@ -19835,8 +20122,14 @@ Section 8 : Travaux du bâtiment et du génie civil.
 
 
 
-Section 9 : Dispositions communes.
- (Articles R4722-25 à R4722-26)
+Section 9 : Installations électriques
+ (Articles R4722-26 à R4722-28)
+
+
+
+
+Section 10 : Dispositions communes
+ (Articles R4722-29 à R4722-30)
 
 
 
@@ -19901,6 +20194,12 @@ Sous-section 4 : Contrôle des valeurs limites biologiques.
 
 Section 5 : Contrôle des ambiances physiques de travail.
  (Articles R4724-16 à R4724-18)
+
+
+
+
+Section 6 : Vérification des installations électriques
+ (Article R4724-19)
 
 
 
