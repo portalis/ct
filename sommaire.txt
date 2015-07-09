@@ -10816,7 +10816,7 @@ Chapitre III : Actions en justice.
 
 
 Chapitre IV : Dispositions pénales.
- (Articles L8234-1 à L8234-2)
+ (Articles L8234-1 à L8234-3)
 
 
 
@@ -10839,7 +10839,7 @@ Chapitre II : Actions en justice.
 
 
 Chapitre III : Dispositions pénales.
- (Articles L8243-1 à L8243-2)
+ (Articles L8243-1 à L8243-3)
 
 
 
@@ -11219,7 +11219,7 @@ Chapitre Ier : Formation du contrat de travail
 Section 1 : Déclaration préalable à l'embauche
 
 
-Sous-section 1 : Mentions obligatoires
+Sous-section 1 : Mentions obligatoires et portée de la déclaration
  (Articles R1221-1 à R1221-2)
 
 
