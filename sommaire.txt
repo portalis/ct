@@ -7750,7 +7750,7 @@ TITRE Ier : TRAVAILLEURS HANDICAPÉS
 
 
 Chapitre Ier : Objet des politiques en faveur de l'emploi des personnes handicapées.
- (Articles L5211-1 à L5211-4)
+ (Articles L5211-1 à L5211-5)
 
 
 
@@ -7891,8 +7891,20 @@ Section 6 : Dispositions d'application.
 Chapitre IV : Institutions et organismes concourant à l'insertion professionnelle des handicapés
 
 
+Section 1  A : Pilotage des politiques en faveur de l'emploi des personnes handicapées
+ (Articles L5214-1 A à L5214-1 B)
+
+
+
+
 Section 1 : Fonds de développement pour l'insertion professionnelle des handicapés.
  (Articles L5214-1 à L5214-3)
+
+
+
+
+Section 1 bis : Organismes de placement spécialisés dans l'insertion professionnelle des personnes handicapées
+ (Article L5214-3-1)
 
 
 
@@ -8839,7 +8851,7 @@ Chapitre Ier : Taxe d'apprentissage
 
 
 Section 1 : Principes.
- (Articles L6241-1 à L6241-3)
+ (Articles L6241-1 à L6241-2)
 
 
 
@@ -8851,7 +8863,7 @@ Section 2 : Versements libératoires.
 
 
 Section 3 : Affectation des fonds.
- (Articles L6241-9 à L6241-8)
+ (Articles L6241-10 à L6241-11)
 
 
 
@@ -11261,7 +11273,7 @@ Sous-section 4 : Preuve de la déclaration préalable à l'embauche
 
 
 Sous-section 5 : Documents à remettre au salarié
- (Articles R1221-9 à R1221-11)
+ (Article R1221-9)
 
 
 
@@ -11272,21 +11284,21 @@ Sous-section 6 : Contrôle et sanctions administratives
 
 
 
-
-
-Section 2 : Déclaration unique d'embauche
- (Articles R1221-14 à R1221-22)
-
+Sous-section 7 : Obligations de l'organisme destinataire
+ (Articles R1221-14 à R1221-17)
 
 
 
-Section 3 : Registre unique du personnel
+
+
+
+Section 2 : Registre unique du personnel
  (Articles D1221-23 à D1221-27)
 
 
 
 
-Section 4 : Autres formalités
+Section 3 : Autres formalités
 
 
 Sous-section 1 : Relevé mensuel des contrats de travail
@@ -11297,6 +11309,12 @@ Sous-section 1 : Relevé mensuel des contrats de travail
 
 Sous-section 2 : Autres déclarations préalables
  (Articles R1221-32 à R1221-33)
+
+
+
+
+Sous-section 3 : Informations en cas d'expatriation
+ (Articles R1221-34 à R1221-35)
 
 
 
