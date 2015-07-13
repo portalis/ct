@@ -24194,18 +24194,6 @@ Sous-section 1 : Définitions
 Sous-section 2 : Licence d'entrepreneur de spectacles vivants
 
 
-Paragraphe 1 :  Ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat de l'Espace économique européen titulaire d'un titre équivalent
- (Articles R7122-6 à R7122-8)
-
-
-
-
-Paragraphe 2 : Entrepreneur non établi en France et non titulaire d'un titre équivalent
- (Articles R7122-9 à R7122-11)
-
-
-
-
 Paragraphe 1 : Entrepreneur de spectacles vivants établi en France
  (Articles R7122-2 à R7122-5)
 
@@ -24213,6 +24201,24 @@ Paragraphe 1 : Entrepreneur de spectacles vivants établi en France
 
 
 Paragraphe 2 : Entrepreneur de spectacles vivants non établi en France
+
+
+Sous-paragraphe 1 :  Conditions d'établissement en France des ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+ (Articles R7122-6 à R7122-8)
+
+
+
+
+Sous-paragraphe 2 : Conditions de prestation de services en France des entrepreneurs de spectacles vivants établis dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen
+ (Article R7122-9)
+
+
+
+
+Sous-paragraphe 3 : Entrepreneurs non établis dans un Etat membre de l'Union européenne ou de l'Espace économique européen
+ (Articles R7122-10 à R7122-11)
+
+
 
 
 
@@ -24257,7 +24263,7 @@ Section 3 : Guichet unique pour le spectacle vivant
 
 
 
-Section 4 : Dispositions pénales
+Section 4 : Dispositions pénales et sanctions administratives
  (Articles R7122-40 à R7122-43)
 
 
