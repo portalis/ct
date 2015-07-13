@@ -36,7 +36,6 @@ urlCode = "http://www.legifrance.gouv.fr/affichCode.do"+ \
 re1Digit = re.compile('^([1-9] )')
 reSeparator = re.compile('\W+')
 dateUrlFormat = '%Y%m%d'
-#firstDate = date(1978, 1, 20)
 
 
 substitutes = {
@@ -214,6 +213,13 @@ class Article:
         for anchor in self.div.xpath('div[@class="histoArt"]/descendant::a'):
             dates.pickDate(anchor.text_content())
 
+def getUpSpan(span):
+    return span.getparent().getparent().getprevious()
+def getPath(span):
+    path = ''
+    while span.tag == "span":
+        path = os.path.join(pathify(span.text_content()), path)
+        span = getUpSpan(span)
 
 class Toc:
     def __init__(self, url):
@@ -222,13 +228,15 @@ class Toc:
             urllib2.urlopen(
                 urllib2.Request(url, None, header)).read())
 
-    def getSectionUrls(self):
-	return self.tree.xpath('div[@id="titreTexte"]')
+    def getSectionAnchors(self):
+        path = '//div[@id="titreTexte"]/following-sibling::ul[1]/descendant::a'
+        return self.tree.xpath(path)
 
     def getSectionPaths(self):
-        pass
+        return [pathify(a.getparent().getprevious().text_content()) for a in self.getSectionAnchors()]
 
-
+#        return [self.tree.getroottree().getpath(a) for a in
+#                self.getSectionAnchors()]
 
 class Section:
     def __init__(self, url):
@@ -405,6 +413,13 @@ testSectionUrl = ("http://www.legifrance.gouv.fr/affichCode.do?" +
     "idSectionTA=LEGISCTA000006178279&cidTexte=LEGITEXT000006072050&" +
     "dateTexte=20150629")
 class UnitTests(unittest.TestCase):
+    def test_Toc(self):
+        toc = Toc(urlCode + "20110811")
+        self.assertTrue(toc.tree is not None)
+        sectionAnchors = toc.getSectionAnchors()
+        self.assertEqual(1296, len(sectionAnchors))
+        self.assertEqual('', toc.getSectionPaths()[0])
+
     def test_reYear(self):
         self.assertEqual(
             reYear.findall("LOI n°2008-67 du 21 janvier 2008")[-1],
@@ -421,7 +436,7 @@ class UnitTests(unittest.TestCase):
         self.assertEqual("L 8252-4", title)
 
     def test_section(self):
-        self.assertTrue(Section(testSectionUrl).tree)
+        self.assertTrue(Section(testSectionUrl).tree is not None)
 
     def test_pickDateNoDate(self):
         dates = DatePicker()
