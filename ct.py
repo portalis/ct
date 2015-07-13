@@ -215,11 +215,13 @@ class Article:
 
 def getUpSpan(span):
     return span.getparent().getparent().getprevious()
+
 def getPath(span):
     path = ''
     while span.tag == "span":
         path = os.path.join(pathify(span.text_content()), path)
         span = getUpSpan(span)
+    return path
 
 class Toc:
     def __init__(self, url):
@@ -233,10 +235,8 @@ class Toc:
         return self.tree.xpath(path)
 
     def getSectionPaths(self):
-        return [pathify(a.getparent().getprevious().text_content()) for a in self.getSectionAnchors()]
-
-#        return [self.tree.getroottree().getpath(a) for a in
-#                self.getSectionAnchors()]
+        return [getPath(a.getparent().getprevious()) for a in
+                self.getSectionAnchors()]
 
 class Section:
     def __init__(self, url):
@@ -418,7 +418,15 @@ class UnitTests(unittest.TestCase):
         self.assertTrue(toc.tree is not None)
         sectionAnchors = toc.getSectionAnchors()
         self.assertEqual(1296, len(sectionAnchors))
-        self.assertEqual('', toc.getSectionPaths()[0])
+        self.assertEqual(
+            'Partie_legislative_/Chapitre_preliminaire_Dialogue_social_/',
+            toc.getSectionPaths()[0])
+        self.assertEqual(
+            'PREMIERE_PARTIE_LES_RELATIONS_INDIVIDUELLES_DE_TRAVAIL/' +
+            'LIVRE_Ier_DISPOSITIONS_PRELIMINAIRES/' +
+            'TITRE_Ier_CHAMP_D_APPLICATION_ET_CALCUL_DES_SEUILS_D_EFFECTIFS/' +
+            'Chapitre_unique_/',
+            toc.getSectionPaths()[1])
 
     def test_reYear(self):
         self.assertEqual(
