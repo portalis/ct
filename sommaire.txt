@@ -16839,7 +16839,7 @@ Section 3 : Recours
 
 
 Annexes
- (Articles Annexe I à l'article R4312-1 à Annexe II à l'article R4312-23)
+ (Articles Annexe I à l'article R4312-1 à Annexe II à l'article R4312-6)
 
 
 
@@ -24599,7 +24599,7 @@ Chapitre Ier : Champ d'application
 
 
 
-Chapitre II : Agrément des organismes  et mise en œuvre des activités
+Chapitre II : Agrément et déclaration des personnes morales et entrepreneurs individuels
 
 
 Section 1 : Demande d'agrément
@@ -24616,6 +24616,12 @@ Section 2 : Délivrance de l'agrément
 
 Section 3 : Retrait d'agrément
  (Articles R7232-13 à R7232-17)
+
+
+
+
+Section 4  : Déclaration, enregistrement d'activité et retrait de l'enregistrement
+ (Articles R7232-18 à R7232-24)
 
 
 

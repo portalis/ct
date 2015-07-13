@@ -1,25 +1,25 @@
 DÉFINISSANT LES RÈGLES TECHNIQUES DE CONCEPTION ET DE FABRICATION
-PRÉVUES PAR L'ARTICLE R. 4312-23
+PRÉVUES PAR L'ARTICLE R. 4312-6
 
 1. Règles générales applicables à tous les équipements de protection
 individuelle
 
-1. 0. Généralités et champ d'application
+1.0. Généralités et champ d'application
 
 Les présentes règles générales s'appliquent à l'ensemble des
-équipements de protection individuelle neufs mentionnés à l'article R.
-4311-12.
+équipements de protection individuelle neufs mentionnés aux articles
+R. 4311-8 à R. 4311-10.
 
-1. 0. 0. Définition
+1.0.0. Définition
 
 On entend par utilisateur toute personne qui porte ou tient un
-équipement de protection individuelle tel que défini par l'article R.
-4311-12, en vue de se protéger contre un ou plusieurs risques
-susceptibles de menacer son intégrité physique.
+équipement de protection individuelle tel que défini aux articles R.
+4311-8 à R. 4311-10, en vue de se protéger contre un ou plusieurs
+risques susceptibles de menacer son intégrité physique.
 
-1. 1. Principes de protection
+1.1. Principes de protection
 
-1. 1. 1. Ergonomie
+1.1.1. Ergonomie
 
 Les équipements de protection individuelle sont conçus et fabriqués de
 façon telle que, dans les conditions d'emploi prévisibles auxquelles
@@ -27,9 +27,9 @@ ils sont destinés, l'utilisateur puisse déployer normalement
 l'activité l'exposant à des risques, tout en disposant d'une
 protection appropriée d'un niveau aussi élevé que possible.
 
-1. 1. 2. Niveaux et classes de protection
+1.1.2. Niveaux et classes de protection
 
-1. 1. 2. 1. Niveaux de protection aussi élevés que possible
+1.1.2.1. Niveaux de protection aussi élevés que possible
 
 Le niveau de protection qui résulte de la conception de l'équipement
 de protection individuelle est celui au-delà duquel les contraintes
@@ -37,7 +37,7 @@ résultant du port de l'équipement de protection individuelle
 s'opposeraient à son utilisation effective pendant la durée
 d'exposition au risque, ou au déploiement normal de l'activité.
 
-1. 1. 2. 2. Classes de protection appropriées à différents niveaux de
+1.1.2.2. Classes de protection appropriées à différents niveaux de
 risque
 
 Lorsque diverses conditions d'emploi prévisibles conduisent à
@@ -46,22 +46,22 @@ protection individuelle sont conçus et fabriqués en fonction des
 différentes classes de protection appropriées à chaque niveau de
 risque.
 
-1. 2. Innocuité des équipements de protection individuelle
+1.2. Innocuité des équipements de protection individuelle
 
-1. 2. 1. Absence de risques et autres facteurs de nuisance autogènes
+1.2.1. Absence de risques et autres facteurs de nuisance autogènes
 
 Les équipements de protection individuelle sont conçus et fabriqués de
 façon à ne pas engendrer de risques et autres facteurs de nuisance,
 dans les conditions prévisibles d'emploi.
 
-1. 2. 1. 1. Matériaux constitutifs appropriés
+1.2.1.1. Matériaux constitutifs appropriés
 
 Les matériaux constitutifs des équipements de protection individuelle
 et leurs éventuels produits de dégradation ne doivent pas nuire à
 l'hygiène ou à la santé de l'utilisateur.
 
-1. 2. 1. 2. Parties d'un équipement de protection individuelle en
-contact avec l'utilisateur
+1.2.1.2. Parties d'un équipement de protection individuelle en contact
+avec l'utilisateur
 
 Toute partie d'un équipement de protection individuelle en contact ou
 susceptible d'entrer en contact avec l'utilisateur pendant la durée du
@@ -69,16 +69,16 @@ port présente un état de surface adéquat et est notamment dépourvue
 d'aspérités, arêtes vives ou pointes saillantes susceptibles de
 provoquer une irritation excessive ou des blessures.
 
-1. 2. 1. 3. Entraves maximales admissibles pour l'utilisateur
+1.2.1.3. Entraves maximales admissibles pour l'utilisateur
 
 Les équipements de protection individuelle s'opposent le moins
 possible aux gestes à accomplir, aux postures à prendre et à la
 perception sensorielle. Ils ne doivent pas être à l'origine de gestes
 qui mettent l'utilisateur ou d'autres personnes en danger.
 
-1. 3. Facteurs de confort et d'efficacité
+1.3. Facteurs de confort et d'efficacité
 
-1. 3. 1. Adaptation à la morphologie de l'utilisateur
+1.3.1. Adaptation à la morphologie de l'utilisateur
 
 Les équipements de protection individuelle sont conçus et fabriqués de
 façon telle qu'ils puissent être placés aussi aisément que possible
@@ -90,7 +90,7 @@ morphologie de l'utilisateur, par tout moyen approprié, tel que des
 systèmes de réglage et de fixation adéquats, ou une variété suffisante
 de tailles et pointures.
 
-1. 3. 2. Légèreté et solidité de construction
+1.3.2. Légèreté et solidité de construction
 
 Les équipements de protection individuelle sont aussi légers que
 possible, sans préjudice de leur solidité de construction ni de leur
@@ -100,7 +100,7 @@ Les équipements de protection individuelle possèdent une résistance
 suffisante contre les effets des facteurs d'ambiance inhérents aux
 conditions prévisibles d'emploi.
 
-1. 3. 3. Compatibilité des équipements de protection individuelle
+1.3.3. Compatibilité des équipements de protection individuelle
 destinés à être portés simultanément par l'utilisateur
 
 Lorsque, selon les conditions d'emploi définies par la notice
@@ -109,7 +109,7 @@ individuelle de genres ou types différents sont destinés à assurer
 simultanément la protection de parties voisines du corps, ils doivent
 être compatibles entre eux.
 
-1. 4. Notice d'instructions
+1.4. Notice d'instructions
 
 I.-Chaque équipement de protection individuelle est accompagné d'une
 notice d'instructions contenant, outre le nom et l'adresse du
@@ -137,7 +137,7 @@ risques et les limites d'utilisation correspondantes ;
 e) La date ou le délai de péremption des équipements de protection
 individuelle ou de certains de leurs composants dans les conditions
 fixées par les règles définies aux 2 et 3, notamment par le paragraphe
-2. 4 ;
+2.4 ;
 
 f) Le genre d'emballage approprié au transport des équipements de
 protection individuelle ;
@@ -153,15 +153,15 @@ précise et compréhensible.
 2. Règles supplémentaires communes à plusieurs genres ou types
 d'équipements de protection individuelle
 
-2. 0. Application
+2.0. Application
 
 En complément aux autres règles techniques définies par la présente
 annexe, les équipements de protection individuelle présentant les
 caractéristiques communes respectivement prévues par les paragraphes
 ci-après obéissent aux règles techniques qu'ils définissent.
 
-2. 1. Équipements de protection individuelle comportant des systèmes
-de réglage
+2.1. Équipements de protection individuelle comportant des systèmes de
+réglage
 
 Lorsque des équipements de protection individuelle comportent des
 systèmes de réglage, ceux-ci sont conçus et fabriqués de façon telle
@@ -169,16 +169,16 @@ que, après avoir été ajustés, ils ne puissent se dérégler
 indépendamment de la volonté de l'utilisateur dans les conditions
 prévisibles d'emploi.
 
-2. 2. Équipements de protection individuelle enveloppant les parties
-du corps à protéger
+2.2. Équipements de protection individuelle enveloppant les parties du
+corps à protéger
 
 Les équipements de protection individuelle enveloppant les parties du
 corps à protéger sont suffisamment aérés pour limiter la transpiration
 résultant du port. A défaut, ils sont dotés si cela est techniquement
 possible de dispositifs permettant d'absorber la sueur.
 
-2. 3. Équipements de protection individuelle du visage, des yeux ou
-des voies respiratoires
+2.3. Équipements de protection individuelle du visage, des yeux ou des
+voies respiratoires
 
 Les équipements de protection individuelle du visage, des yeux ou des
 voies respiratoires restreignent le moins possible le champ visuel et
@@ -197,8 +197,7 @@ utilisateurs faisant l'objet d'une correction oculaire doivent être
 compatibles avec le port de lunettes ou lentilles de contact
 correctrices.
 
-2. 4. Équipements de protection individuelle sujets à un
-vieillissement
+2.4. Équipements de protection individuelle sujets à un vieillissement
 
 Lorsque les performances des équipements de protection individuelle
 sont susceptibles d'être affectées de façon sensible par un phénomène
@@ -209,7 +208,7 @@ ou composant interchangeable d'équipement de protection individuelle.
 
 A défaut de pouvoir s'engager sur la durée de vie d'un équipement de
 protection individuelle, la notice d'instructions prévue par le
-paragraphe 1. 4 comporte les données permettant de déterminer un délai
+paragraphe 1.4 comporte les données permettant de déterminer un délai
 de péremption raisonnablement praticable, compte tenu du niveau de
 qualité du modèle et des conditions effectives de stockage, d'emploi,
 de nettoyage, de révision et d'entretien.
@@ -222,8 +221,8 @@ nettoyages au-delà duquel il y a lieu de réviser ou de réformer
 l'équipement est apposé sur chaque exemplaire ou, à défaut, mentionné
 dans la notice d'instructions.
 
-2. 5. Équipements de protection individuelle susceptibles d'être
-happés au cours de leur utilisation
+2.5. Équipements de protection individuelle susceptibles d'être happés
+au cours de leur utilisation
 
 Lorsque les conditions prévisibles d'emploi incluent en particulier un
 risque de happement de l'équipement de protection individuelle par un
@@ -232,8 +231,8 @@ l'utilisateur, l'équipement de protection individuelle possède un
 seuil de résistance approprié au-delà duquel la rupture d'un de ses
 éléments constitutifs permet d'éliminer le danger.
 
-2. 6. Équipements de protection individuelle destinés à une
-utilisation en atmosphère explosible
+2.6. Équipements de protection individuelle destinés à une utilisation
+en atmosphère explosible
 
 Les équipements de protection individuelle destinés à une utilisation
 en atmosphère explosible sont conçus et fabriqués de façon telle
@@ -241,7 +240,7 @@ qu'ils ne puissent être le siège d'un arc ou d'une étincelle d'origine
 électrique, électrostatique, ou résultant d'un choc, susceptibles
 d'enflammer un mélange explosible.
 
-2. 7. Équipements de protection individuelle devant être mis en place
+2.7. Équipements de protection individuelle devant être mis en place
 ou ôtés rapidement
 
 Les équipements de protection individuelle destinés à des
@@ -256,7 +255,7 @@ dispositifs permettant de les maintenir en position appropriée sur
 l'utilisateur ou de les ôter, ils sont conçus et fabriqués de manière
 à pouvoir être manœuvrés aisément et rapidement.
 
-2. 8. Équipements de protection individuelle d'intervention dans des
+2.8. Équipements de protection individuelle d'intervention dans des
 situations très dangereuses
 
 La notice d'instructions délivrée avec les équipements de protection
@@ -275,7 +274,7 @@ normalement assuré, celui-ci est conçu et agencé de façon telle que
 l'alarme puisse être perçue par l'utilisateur dans les conditions
 prévisibles d'emploi de l'équipement de protection individuelle.
 
-2. 9. Équipements de protection individuelle comportant des composants
+2.9. Équipements de protection individuelle comportant des composants
 réglables par l'utilisateur ou amovibles
 
 Lorsque des équipements de protection individuelle comportent des
@@ -283,7 +282,7 @@ composants réglables par l'utilisateur ou amovibles à des fins de
 rechange, ceux-ci sont conçus et fabriqués de manière à pouvoir être
 réglés, montés et démontés aisément sans outil.
 
-2. 10. Équipements de protection individuelle raccordables à un autre
+2.10. Équipements de protection individuelle raccordables à un autre
 dispositif complémentaire extérieur
 
 Lorsque des équipements de protection individuelle sont dotés d'un
@@ -291,7 +290,7 @@ système de liaison raccordable à un autre dispositif complémentaire,
 leur organe de raccordement est conçu et fabriqué de manière à ne
 pouvoir être monté que sur un dispositif de type approprié.
 
-2. 11. Équipements de protection individuelle comportant un système à
+2.11. Équipements de protection individuelle comportant un système à
 circulation de fluide
 
 Lorsque des équipements de protection individuelle comportent un
@@ -300,7 +299,7 @@ renouvellement approprié du fluide au voisinage de l'ensemble de la
 partie du corps à protéger, quels que soient les gestes, postures ou
 mouvements de l'utilisateur dans les conditions prévisibles d'emploi.
 
-2. 12. Équipements de protection individuelle portant une ou plusieurs
+2.12. Équipements de protection individuelle portant une ou plusieurs
 marques de repérage ou de signalisation concernant la santé et la
 sécurité
 
@@ -317,10 +316,10 @@ Lorsque les dimensions restreintes d'un équipement de protection
 individuelle ou composant d'équipement de protection individuelle ne
 permettent pas d'y apposer tout ou partie du marquage nécessaire,
 celui-ci est mentionné sur l'emballage et dans la notice d'instruction
-prévue par le paragraphe 1. 4.
+prévue par le paragraphe 1.4.
 
-2. 13. Équipements de protection individuelle vestimentaires
-appropriés à la signalisation visuelle de l'utilisateur
+2.13. Équipements de protection individuelle vestimentaires appropriés
+à la signalisation visuelle de l'utilisateur
 
 Les équipements de protection individuelle vestimentaires destinés à
 des conditions prévisibles d'emploi dans lesquelles il est nécessaire
@@ -330,7 +329,7 @@ judicieusement placés, émetteurs d'un rayonnement visible direct ou
 réfléchi ayant une intensité lumineuse et des propriétés
 photométriques et colorimétriques appropriées.
 
-2. 14. Équipements de protection individuelle destinés à protéger
+2.14. Équipements de protection individuelle destinés à protéger
 contre plusieurs risques encourus simultanément
 
 Tout équipement de protection individuelle destiné à protéger
@@ -341,7 +340,7 @@ prévues par la présente annexe.
 
 3. Règles supplémentaires spécifiques aux risques à prévenir
 
-3. 0. Application
+3.0. Application
 
 En complément aux autres règles techniques définies par la présente
 annexe, les équipements de protection individuelle obéissent aux
@@ -349,9 +348,9 @@ règles techniques définies par les paragraphes ci-après qui leur sont
 respectivement applicables en fonction des risques qu'ils sont
 destinés à prévenir.
 
-3. 1. Protection contre les chocs mécaniques
+3.1. Protection contre les chocs mécaniques
 
-3. 1. 1. Chocs résultant de chutes ou de projections d'objets et
+3.1.1. Chocs résultant de chutes ou de projections d'objets et
 d'impacts d'une partie du corps contre un obstacle
 
 Les équipements de protection individuelle appropriés aux risques de
@@ -364,9 +363,9 @@ dimensions ou la masse excessives du dispositif amortisseur
 s'opposeraient à l'utilisation effective des équipements de protection
 individuelle pendant la durée prévisible du port.
 
-3. 1. 2. Chutes de personnes
+3.1.2. Chutes de personnes
 
-3. 1. 2. 1. Prévention des chutes par glissade
+3.1.2.1. Prévention des chutes par glissade
 
 Les semelles d'usure des articles chaussants destinés à la prévention
 des glissades sont conçues, fabriquées ou dotées de dispositifs
@@ -374,7 +373,7 @@ rapportés appropriés, de façon à assurer une bonne adhérence, par
 engrènement ou par frottement en fonction de la nature ou de l'état du
 sol.
 
-3. 1. 2. 2. Prévention des chutes de hauteur
+3.1.2.2. Prévention des chutes de hauteur
 
 Les équipements de protection individuelle destinés à prévenir les
 chutes de hauteur ou leurs effets comportent un dispositif de
@@ -391,7 +390,7 @@ l'utilisateur.
 Ils assurent en outre, à l'issue du freinage, une position correcte de
 l'utilisateur lui permettant, le cas échéant, d'attendre des secours.
 
-La notice d'instruction prévue par le paragraphe 1. 4 précise :
+La notice d'instruction prévue par le paragraphe 1.4 précise :
 
 -les caractéristiques requises pour le point d'ancrage sûr, ainsi que
 le tirant d'air minimal nécessaire en dessous de l'utilisateur ;
@@ -399,21 +398,21 @@ le tirant d'air minimal nécessaire en dessous de l'utilisateur ;
 -la façon adéquate d'endosser le dispositif de préhension du corps et
 de raccorder son système de liaison au point d'ancrage sûr.
 
-3. 1. 3. Vibrations mécaniques
+3.1.3. Vibrations mécaniques
 
 Les équipements de protection individuelle destinés à prévenir les
 effets des vibrations mécaniques sont conçus et fabriqués de manière à
 pouvoir en atténuer de façon appropriée les composantes vibratoires
 nocives pour la partie du corps à protéger.
 
-3. 2. Protection contre la compression statique d'une partie du corps
+3.2. Protection contre la compression statique d'une partie du corps
 
 Les équipements de protection individuelle destinés à protéger une
 partie du corps contre des contraintes de compression statique sont
 conçus et fabriqués de manière à pouvoir en atténuer les effets de
 façon à éviter des lésions aiguës ou des affections chroniques.
 
-3. 3. Protection contre les agressions physiques telles que
+3.3. Protection contre les agressions physiques telles que
 frottements, piqûres, coupures, morsures
 
 Les matériaux constitutifs et autres composants des équipements de
@@ -424,9 +423,9 @@ frottements, piqûres, coupures ou morsures, sont tels que ces
 l'abrasion, à la perforation et à la coupure par tranchage appropriée
 aux conditions prévisibles d'emploi.
 
-3. 4. Prévention des noyades
+3.4. Prévention des noyades
 
-3. 4. 0. Gilets de sécurité, brassières et combinaisons de sauvetage
+3.4.0. Gilets de sécurité, brassières et combinaisons de sauvetage
 
 Les équipements de protection individuelle destinés à la prévention
 des noyades sont conçus et fabriqués de manière à pouvoir faire
@@ -465,7 +464,7 @@ alinéa sont appropriés à un emploi prolongé pendant toute la durée de
 l'activité exposant l'utilisateur éventuellement habillé à un risque
 de chute ou nécessitant sa plongée dans le milieu liquide.
 
-3. 4. 1. Aides à la flottabilité
+3.4.1. Aides à la flottabilité
 
 Les équipements d'aide à la flottabilité assurent un degré de
 flottabilité efficace en fonction de leur utilisation prévisible, un
@@ -474,7 +473,7 @@ conditions prévisibles d'emploi, ils n'entravent pas la liberté des
 mouvements de l'utilisateur et lui permettent notamment de nager ou
 d'agir pour échapper à un danger ou pour secourir d'autres personnes.
 
-3. 5. Protection contre les effets nuisibles du bruit
+3.5. Protection contre les effets nuisibles du bruit
 
 Les équipements de protection individuelle destinés à la prévention
 des effets nuisibles du bruit sont conçus et fabriqués de manière à
@@ -485,15 +484,15 @@ des effets nuisibles du bruit porte un marquage indiquant le niveau
 d'affaiblissement acoustique et le niveau de confort qu'il procure. En
 cas d'impossibilité, ce marquage est apposé sur l'emballage.
 
-3. 6. Protection contre la chaleur ou le feu
+3.6. Protection contre la chaleur ou le feu
 
 Les équipements de protection individuelle destinés à préserver tout
 ou partie du corps contre les effets de la chaleur ou du feu possèdent
 un pouvoir d'isolation thermique et une résistance mécanique
 appropriés aux conditions prévisibles d'emploi.
 
-3. 6. 1. Matériaux constitutifs et autres composants des équipements
-de protection individuelle contre la chaleur ou le feu
+3.6.1. Matériaux constitutifs et autres composants des équipements de
+protection individuelle contre la chaleur ou le feu
 
 Les matériaux constitutifs et autres composants destinés à la
 protection contre la chaleur rayonnante et convective sont
@@ -520,7 +519,7 @@ Les matériaux et autres composants d'équipements de protection
 individuelle susceptibles de recevoir de grosses projections de
 produits chauds sont conçus et fabriqués de manière à amortir
 suffisamment les chocs mécaniques, dans les conditions précisées par
-le paragraphe 3. 1. 1.
+le paragraphe 3.1.1.
 
 Les matériaux et autres composants d'équipements de protection
 individuelle susceptibles d'être en contact accidentel avec une flamme
@@ -530,8 +529,7 @@ au niveau de risque encouru dans les conditions prévisibles d'emploi.
 Ils ne fondent pas sous l'action de la flamme ni ne contribuent à la
 propagation de celle-ci.
 
-3. 6. 2. Équipements de protection individuelle complets prêts à
-l'usage
+3.6.2. Équipements de protection individuelle complets prêts à l'usage
 
 Dans les conditions prévisibles d'emploi des équipements de protection
 individuelle contre la chaleur ou le feu, complets, prêts à l'usage :
@@ -566,15 +564,15 @@ d'ambiances chaudes comporte les données permettant de déterminer la
 durée d'exposition maximale admissible de l'utilisateur à la chaleur
 transmise par les équipements.
 
-3. 7. Protection contre le froid
+3.7. Protection contre le froid
 
 Les équipements de protection individuelle destinés à préserver tout
 ou partie du corps contre les effets du froid possèdent un pouvoir
 d'isolation thermique et une résistance mécanique appropriés à leurs
 conditions prévisibles d'emploi.
 
-3. 7. 1. Matériaux constitutifs et autres composants des équipements
-de protection individuelle contre le froid
+3.7.1. Matériaux constitutifs et autres composants des équipements de
+protection individuelle contre le froid
 
 Les matériaux constitutifs et autres composants des équipements de
 protection individuelle destinés à la protection contre le froid sont
@@ -588,9 +586,9 @@ gestes à accomplir et aux postures à prendre.
 Les matériaux et autres composants d'équipements de protection
 individuelle susceptibles de recevoir de grosses projections de
 produits froids amortissent suffisamment les chocs mécaniques dans les
-conditions précisées par le paragraphe 3. 1. 1.
+conditions précisées par le paragraphe 3.1.1.
 
-3. 7. 2. Équipements de protection individuelle complets, prêts à
+3.7.2. Équipements de protection individuelle complets, prêts à
 l'usage
 
 Dans les conditions prévisibles d'emploi des équipements de protection
@@ -620,7 +618,7 @@ d'ambiances froides comporte les données permettant de déterminer la
 durée d'exposition maximale admissible de l'utilisateur au froid
 transmis par les équipements.
 
-3. 8. Protection contre les chocs électriques
+3.8. Protection contre les chocs électriques
 
 Les équipements de protection individuelle destinés à protéger tout ou
 partie du corps contre les effets du courant électrique possèdent un
@@ -646,14 +644,14 @@ outre, à l'extérieur de l'enveloppe protectrice, un espace réservé au
 marquage ultérieur de la date de mise en service et des essais ou
 examens à effectuer de façon périodique.
 
-La notice d'instructions prévue par le paragraphe 1. 4 précise l'usage
+La notice d'instructions prévue par le paragraphe 1.4 précise l'usage
 exclusif de ces équipements de protection individuelle, ainsi que la
 nature et la périodicité des essais diélectriques auxquels ceux-ci
 sont assujettis.
 
-3. 9. Protection contre les rayonnements
+3.9. Protection contre les rayonnements
 
-3. 9. 1. Rayonnements non ionisants
+3.9.1. Rayonnements non ionisants
 
 Les équipements de protection individuelle destinés à la prévention
 des effets aigus ou chroniques des sources de rayonnements non
@@ -678,7 +676,7 @@ la distribution spectrale de son facteur de transmission.
 
 Les oculaires destinés à des sources de rayonnement du même genre sont
 classés dans l'ordre croissant de leurs numéros d'échelons de
-protection. La notice d'instructions prévue par le paragraphe 1. 4
+protection. La notice d'instructions prévue par le paragraphe 1.4
 comporte les courbes de transmission permettant de choisir
 l'équipement de protection individuelle le plus approprié, compte tenu
 de facteurs inhérents aux conditions d'emploi effectives, tels que la
@@ -688,9 +686,9 @@ l'énergie rayonnée à cette distance.
 Chaque exemplaire d'oculaire filtrant comporte le numéro d'échelon de
 protection qu'il assure.
 
-3. 9. 2. Rayonnements ionisants
+3.9.2. Rayonnements ionisants
 
-3. 9. 2. 1. Protection contre la contamination radioactive externe
+3.9.2.1. Protection contre la contamination radioactive externe
 
 Les matériaux constitutifs et autres composants des équipements de
 protection individuelle destinés à protéger tout ou partie du corps
@@ -708,7 +706,7 @@ Lorsque des mesures de décontamination sont applicables aux
 l'objet de façon non préjudiciable à leur réemploi dans les conditions
 définies par la notice d'instructions.
 
-3. 9. 2. 2. Protection limitée contre l'irradiation externe
+3.9.2.2. Protection limitée contre l'irradiation externe
 
 Les équipements de protection individuelle destinés à protéger
 l'utilisateur contre l'exposition externe aux rayonnements tels que
@@ -727,10 +725,10 @@ signalisation indiquant la nature ainsi que l'épaisseur du ou des
 matériaux constitutifs correspondant aux conditions prévisibles
 d'emploi.
 
-3. 10. Protection contre les substances ou préparations dangereuses et
+3.10. Protection contre les substances ou préparations dangereuses et
 agents infectieux
 
-3. 10. 1. Protection respiratoire
+3.10.1. Protection respiratoire
 
 Les équipements de protection individuelle destinés à la protection
 des voies respiratoires contre les substances ou préparations
@@ -766,7 +764,7 @@ En outre, dans le cas des appareils filtrants, la notice
 d'instructions indique la date limite de stockage du filtre tel que
 conservé dans son emballage d'origine.
 
-3. 10. 2. Protection contre les contacts cutanés ou oculaires
+3.10.2. Protection contre les contacts cutanés ou oculaires
 
 Les équipements de protection individuelle destinés à éviter les
 contacts superficiels de tout ou partie du corps avec des substances
@@ -791,12 +789,12 @@ efficacité. Les équipements de protection individuelle comportent un
 marquage indiquant notamment les noms ou, à défaut, les codes des
 substances, préparations ou agents utilisés pour les essais ainsi que
 le temps de protection y afférent. En outre, la notice d'instructions
-prévue par le paragraphe 1. 4 indique la signification des codes, la
+prévue par le paragraphe 1.4 indique la signification des codes, la
 description détaillée des essais et les données permettant de
 déterminer la durée maximale admissible du port de l'équipement dans
 les diverses conditions prévisibles d'emploi.
 
-3. 11. Dispositifs de sécurité des équipements de plongée
+3.11. Dispositifs de sécurité des équipements de plongée
 
 1. L'appareil respiratoire des équipements de plongée permet
 d'alimenter l'utilisateur en mélange gazeux respirable, dans les
@@ -808,11 +806,11 @@ profondeur d'immersion maximale.
 
 a) Une combinaison assurant la protection de l'utilisateur contre la
 pression résultant de la profondeur d'immersion ou contre le froid,
-conformément aux paragraphes 3. 2 et 3. 7 à 3. 7. 2 ;
+conformément aux paragraphes 3.2 et 3.7 à 3.7.2 ;
 
 b) Un dispositif d'alarme destiné à prévenir en temps opportun
 l'utilisateur d'un manque d'alimentation ultérieur en mélange gazeux
-respirable, conformément au paragraphe 2. 8 ;
+respirable, conformément au paragraphe 2.8 ;
 
 c) Une combinaison de sauvetage permettant à l'utilisateur de remonter
-à la surface, conformément au paragraphe 3. 4. 1.
+à la surface, conformément au paragraphe 3.4.1.
