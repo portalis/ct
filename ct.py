@@ -124,62 +124,62 @@ class DatePicker(dict):
                     ' : ' +
                     u', '.join(self[k]) + '\n')
 
-def pickDates(article):
-    for anchor in article.xpath('div[@class="histoArt"]/descendant::a'):
-        histLine = anchor.text_content()
-        try:
-            d = parseDate(
-                reDayMonth.findall(histLine)[-1] +
-                ' ' + reYear.findall(histLine)[-1])
-            if u'JORF' not in histLine:
-                d += timedelta(1)
-            #histLine should be on one line. Remove ',' for readDates
-            addDate(d, histLine.replace('\n', '').
-                               replace('\r', '').
-                               replace(',',''))
-        except ValueError as e:
-            print histLine
-            raise e
-        except IndexError as e:
-            print str(e)
-            print histLine
-            #raise e #D513-1 2007-11-01
+#def pickDates(article):
+#    for anchor in article.xpath('div[@class="histoArt"]/descendant::a'):
+#        histLine = anchor.text_content()
+#        try:
+#            d = parseDate(
+#                reDayMonth.findall(histLine)[-1] +
+#                ' ' + reYear.findall(histLine)[-1])
+#            if u'JORF' not in histLine:
+#                d += timedelta(1)
+#            #histLine should be on one line. Remove ',' for readDates
+#            addDate(d, histLine.replace('\n', '').
+#                               replace('\r', '').
+#                               replace(',',''))
+#        except ValueError as e:
+#            print histLine
+#            raise e
+#        except IndexError as e:
+#            print str(e)
+#            print histLine
+#            #raise e #D513-1 2007-11-01
 
-def writeArticle(path, article):
-    strTitle = article.xpath('div[@class="titreArt"]')[0].text_content()
-    try:
-        title = reTitle.search(strTitle).group().strip()
-    except AttributeError as e:
-        print "no Title in " + strTitle
-        print path
-        raise e
-    contentArticle = unicode(
-        article.xpath('div[@class="corpsArt"]')[0].text_content())
-    with io.open(os.path.join(path, pathify(title) + ".txt"), 'w') as f:
-        f.write(contentArticle)
+#def writeArticle(path, article):
+#    strTitle = article.xpath('div[@class="titreArt"]')[0].text_content()
+#    try:
+#        title = reTitle.search(strTitle).group().strip()
+#    except AttributeError as e:
+#        print "no Title in " + strTitle
+#        print path
+#        raise e
+#    contentArticle = unicode(
+#        article.xpath('div[@class="corpsArt"]')[0].text_content())
+#    with io.open(os.path.join(path, pathify(title) + ".txt"), 'w') as f:
+#        f.write(contentArticle)
 
 def pathify(path):
     return reSeparator.sub('_', unidec(path))[:255]
 
-def getPath(treeArticle):
-    path = rootPath
-    dir = treeArticle.xpath(
-        '//div[@id="content_left"]/div[@class="data"]/ul/li')[0]
-    while dir is not None:
-        path = os.path.join(path, pathify(dir.xpath('a')[0].text_content()))
-        dirs = dir.xpath('ul/li') or [None]
-        dir = dirs[0]
-    section = pathify(
-        treeArticle.xpath('//div[@class="titreSection"]')[0].text_content())
-    return os.path.join(path, section)
-
-def writeSection(treeSection):
-    path = getPath(treeSection)
-    if not os.path.isdir(path):
-        os.makedirs(path)
-    for article in treeSection.xpath('//div[@class="article"]'):
-        writeArticle(path, article)
-        pickDates(article)
+#def getPath(treeArticle):
+#    path = rootPath
+#    dir = treeArticle.xpath(
+#        '//div[@id="content_left"]/div[@class="data"]/ul/li')[0]
+#    while dir is not None:
+#        path = os.path.join(path, pathify(dir.xpath('a')[0].text_content()))
+#        dirs = dir.xpath('ul/li') or [None]
+#        dir = dirs[0]
+#    section = pathify(
+#        treeArticle.xpath('//div[@class="titreSection"]')[0].text_content())
+#    return os.path.join(path, section)
+#
+#def writeSection(treeSection):
+#    path = getPath(treeSection)
+#    if not os.path.isdir(path):
+#        os.makedirs(path)
+#    for article in treeSection.xpath('//div[@class="article"]'):
+#        writeArticle(path, article)
+#        pickDates(article)
 
 def formatArticle(ustrArticle):
     lines = [line.strip() for line in  ustrArticle.split(u'\n')]
@@ -213,6 +213,22 @@ class Article:
     def pickDates(self, dates):
         for anchor in self.div.xpath('div[@class="histoArt"]/descendant::a'):
             dates.pickDate(anchor.text_content())
+
+
+class Toc:
+    def __init__(self, url):
+        self.url = url
+        self.tree = lxml.html.document_fromstring(
+            urllib2.urlopen(
+                urllib2.Request(url, None, header)).read())
+
+    def getSectionUrls(self):
+	return self.tree.xpath('div[@id="titreTexte"]')
+
+    def getSectionPaths(self):
+        pass
+
+
 
 class Section:
     def __init__(self, url):
@@ -294,20 +310,11 @@ def emptyRootPath():
             else:
                 os.remove(os.path.join(rootPath, f))
 
-# def writeDates():
-#     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
-#         for k in sorted(dates.keys()):
-#             f.write(unicode(k.strftime('%Y%m%d')) +
-#                     ' : ' +
-#                     u', '.join(dates[k]) + '\n')
 
-# def readDates():
-#     ldates = {}
-#     with io.open(os.path.join(rootPath, "dates.txt"), 'r') as f:
-#         for l in f.readlines():
-#             d = datetime.strptime(l[:8], '%Y%m%d').date()
-#             ldates[d] = set(l[11:].rstrip('\n').split(u', '))
-#     return ldates
+#def writeToc(url):
+#    tocTree = getUrlTree(url)
+#    with io.open(os.path.join(rootPath, "sommaire.txt"), 'w') as f:
+#        f.write(tocTree.xpath('//div[@id="content_left"]')[0].text_content())
 
 def writeToc(tocTree):
     with io.open(os.path.join(rootPath, "sommaire.txt"), 'w') as f:
@@ -322,6 +329,44 @@ def commitCode(curDate, datePicker):
     index.commit(message)
     print message
 
+
+
+def writeSections(section, datePicker, rootPath):
+    while section is not None:
+        try:
+            section.write(rootPath)
+            section.pickDates(datePicker)
+            sys.stdout.write('.')
+            sys.stdout.flush()
+            section = section.getNextSection()
+        except Exception as e :
+            print e
+            print section.url
+            raise e
+    print ("")
+
+
+def resumeCode(curDate, datePicker, rootPath):
+    tocTree = getUrlTree(urlCode + curDate.strftime('%Y%m%d'))
+    writeToc(tocTree)
+    urlSection = tocTree.xpath(
+        '//div[@id="content_left"]/descendant::a')[0].get('href')
+    section = Section(baseUrl + urlSection)
+    print section.getPath(rootPath)
+    while section is not None and  os.path.isdir(section.getPath(rootPath)):
+        try:
+            sys.stdout.write('-')
+            sys.stdout.flush()
+            section = section.getNextSection()
+        except Exception as e :
+            print e
+            print section.url
+            raise e
+    writeSections(section, datePicker, rootPath)
+    with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
+        datePicker.write(f)
+    commitCode(curDate, datePicker)
+
 def writeCode(curDate, datePicker, rootPath):
     emptyRootPath()
     tocTree = getUrlTree(urlCode + curDate.strftime('%Y%m%d'))
@@ -330,21 +375,7 @@ def writeCode(curDate, datePicker, rootPath):
         '//div[@id="content_left"]/descendant::a')[0].get('href')
     section = Section(baseUrl + urlSection)
 #    threads = []
-    while section is not None:
-        # thread = SectionThread(section, rootPath, datePicker)
-        # threads.append(thread)
-        # thread.start()
-        try:
-            section.write(rootPath)
-            section.pickDates(datePicker)
-        except Exception as e :
-            print e
-            print section.url
-            break
-        sys.stdout.write('.')
-        sys.stdout.flush()
-        section = section.getNextSection()
-    print("")
+    writeSections(section, datePicker, rootPath)
 #    for thread in threads:
 #        thread.join()
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
@@ -420,13 +451,16 @@ class UnitTests(unittest.TestCase):
         dates.read(f)
         self.assertEqual(
             2, len(dates.keys()))
-
+    def test_nextSection(self):
+        section = Section("http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018534838&cidTexte=LEGITEXT000006072050&dateTexte=20110811")
+        section2 = section.getNextSection()
 
 parser = argparse.ArgumentParser()
 parser.add_argument('path')
 parser.add_argument('times', type = int)
 parser.add_argument('--recover', action = 'store_true')
 parser.add_argument('--test', action = 'store_true')
+parser.add_argument('--resume', action = 'store_true')
 args = parser.parse_args()
 rootPath = args.path
 times = args.times
@@ -443,11 +477,17 @@ else:
         curDate = datetime.strptime(repo.head.commit.message[:10],
                                 '%Y-%m-%d').date()
         print curDate
-        for i in range(times):
+        if not args.resume:
+            for i in range(times):
+                curDate = datePicker.getNextDate(curDate)
+                print curDate
+                print datePicker[curDate]
+                writeCode(curDate, datePicker, rootPath)
+        else:
             curDate = datePicker.getNextDate(curDate)
             print curDate
             print datePicker[curDate]
-            writeCode(curDate, datePicker, rootPath)
+            resumeCode(curDate, datePicker, rootPath)
     else:
         recoverBranch = repo.create_head(
             'recover_' +
