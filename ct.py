@@ -71,7 +71,6 @@ def addDate(d, str):
 
 sreDayMonth = u' [0-3]?[0-9][eE]?[rR]?  ?[jJfFmMaAsSoOnNdD][a-zA-Zôûé]{2,9}'
 sreYear = u'((19|20)[0-9]{2})'
-reDate = re.compile(sreDayMonth + u' ' + sreYear)
 reDayMonth = re.compile(sreDayMonth)
 reYear = re.compile(sreYear)
 
@@ -123,62 +122,8 @@ class DatePicker(dict):
                     ' : ' +
                     u', '.join(self[k]) + '\n')
 
-#def pickDates(article):
-#    for anchor in article.xpath('div[@class="histoArt"]/descendant::a'):
-#        histLine = anchor.text_content()
-#        try:
-#            d = parseDate(
-#                reDayMonth.findall(histLine)[-1] +
-#                ' ' + reYear.findall(histLine)[-1])
-#            if u'JORF' not in histLine:
-#                d += timedelta(1)
-#            #histLine should be on one line. Remove ',' for readDates
-#            addDate(d, histLine.replace('\n', '').
-#                               replace('\r', '').
-#                               replace(',',''))
-#        except ValueError as e:
-#            print histLine
-#            raise e
-#        except IndexError as e:
-#            print str(e)
-#            print histLine
-#            #raise e #D513-1 2007-11-01
-
-#def writeArticle(path, article):
-#    strTitle = article.xpath('div[@class="titreArt"]')[0].text_content()
-#    try:
-#        title = reTitle.search(strTitle).group().strip()
-#    except AttributeError as e:
-#        print "no Title in " + strTitle
-#        print path
-#        raise e
-#    contentArticle = unicode(
-#        article.xpath('div[@class="corpsArt"]')[0].text_content())
-#    with io.open(os.path.join(path, pathify(title) + ".txt"), 'w') as f:
-#        f.write(contentArticle)
-
 def pathify(path):
     return reSeparator.sub('_', unidec(path))[:255]
-
-#def getPath(treeArticle):
-#    path = rootPath
-#    dir = treeArticle.xpath(
-#        '//div[@id="content_left"]/div[@class="data"]/ul/li')[0]
-#    while dir is not None:
-#        path = os.path.join(path, pathify(dir.xpath('a')[0].text_content()))
-#        dirs = dir.xpath('ul/li') or [None]
-#        dir = dirs[0]
-#    section = pathify(
-#        treeArticle.xpath('//div[@class="titreSection"]')[0].text_content())
-#    return os.path.join(path, section)
-#
-#def writeSection(treeSection):
-#    path = getPath(treeSection)
-#    if not os.path.isdir(path):
-#        os.makedirs(path)
-#    for article in treeSection.xpath('//div[@class="article"]'):
-#        writeArticle(path, article)
-#        pickDates(article)
 
 def formatArticle(ustrArticle):
     lines = [line.strip() for line in  ustrArticle.split(u'\n')]
@@ -355,21 +300,12 @@ def writeSections(section, datePicker, rootPath):
 
 
 def resumeCode(curDate, datePicker, rootPath):
-    tocTree = getUrlTree(urlCode + curDate.strftime('%Y%m%d'))
-    writeToc(tocTree)
-    urlSection = tocTree.xpath(
-        '//div[@id="content_left"]/descendant::a')[0].get('href')
-    section = Section(baseUrl + urlSection)
-    print section.getPath(rootPath)
-    while section is not None and  os.path.isdir(section.getPath(rootPath)):
-        try:
-            sys.stdout.write('-')
-            sys.stdout.flush()
-            section = section.getNextSection()
-        except Exception as e :
-            print e
-            print section.url
-            raise e
+    toc = Toc(urlCode + curDate.strftime('%Y%m%d'))
+    sectionPaths = toc.getSectionPaths()
+    iSection = 0
+    while os.path.isdir(os.path.join(rootPath, sectionPaths[iSection])):
+        iSection = iSection + 1
+    section = Section(baseUrl + toc.getSectionAnchors[iSection].get('href'))
     writeSections(section, datePicker, rootPath)
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
         datePicker.write(f)
