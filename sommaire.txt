@@ -6352,7 +6352,7 @@ LIVRE IV : PRÉVENTION DE CERTAINS RISQUES D'EXPOSITION
 TITRE Ier : RISQUES CHIMIQUES
 
 
-Chapitre Ier : Mise sur le marché des substances et préparations
+Chapitre Ier : Mise sur le marché des substances et mélanges
 
 
 Section 1 : Mesures générales et dispositions d'application.
@@ -22539,7 +22539,7 @@ Sous-section 2 : Salaire
 
 
 Sous-section 3 : Santé et sécurité
- (Articles R6222-36 à R6222-40)
+ (Articles R6222-36 à R6222-40-1)
 
 
 
@@ -22650,7 +22650,7 @@ Chapitre IV : Enregistrement du contrat
 
 
 Section 1 : Demande d'enregistrement
- (Articles R6224-1 à R6224-3)
+ (Article R6224-1)
 
 
 
@@ -22662,7 +22662,6 @@ Section 2 : Décision d'enregistrement
 
 
 Section 3 : Décision d'opposition à l'enregistrement
- (Articles R6224-7 à R6224-9)
 
 
 
