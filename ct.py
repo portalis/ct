@@ -305,8 +305,8 @@ def resumeCode(curDate, datePicker, rootPath):
     iSection = 0
     while os.path.isdir(os.path.join(rootPath, sectionPaths[iSection])):
         iSection = iSection + 1
-    print i
-    print sectionPaths[i]
+    print iSection
+    print sectionPaths[iSection]
     section = Section(baseUrl + toc.getSectionAnchors()[iSection].get('href'))
     writeSections(section, datePicker, rootPath)
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
@@ -359,7 +359,8 @@ class UnitTests(unittest.TestCase):
         self.assertEqual(
             'Partie_legislative_/Chapitre_preliminaire_Dialogue_social_/',
             toc.getSectionPaths()[0])
-        self.assertEqual(
+        self.assertTrue(os.path.isdir(os.path.join(rootPath, toc.getSectionPaths()[0])))
+        self.assertEqual('Partie_legislative_/' +
             'PREMIERE_PARTIE_LES_RELATIONS_INDIVIDUELLES_DE_TRAVAIL/' +
             'LIVRE_Ier_DISPOSITIONS_PRELIMINAIRES/' +
             'TITRE_Ier_CHAMP_D_APPLICATION_ET_CALCUL_DES_SEUILS_D_EFFECTIFS/' +
