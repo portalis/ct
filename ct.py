@@ -303,7 +303,8 @@ def resumeCode(curDate, datePicker, rootPath):
     toc = Toc(urlCode + curDate.strftime('%Y%m%d'))
     sectionPaths = toc.getSectionPaths()
     iSection = 0
-    while os.path.isdir(os.path.join(rootPath, sectionPaths[iSection])):
+    while (iSection < len(sectionPaths) and
+           os.path.isdir(os.path.join(rootPath, sectionPaths[iSection]))):
         iSection = iSection + 1
     print iSection
     if iSection < len(sectionPaths):

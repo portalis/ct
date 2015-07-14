@@ -231,7 +231,7 @@ Section 3 : Formalités à l'embauche et à l'emploi
 
 
 Sous-section 1 : Déclaration préalable à l'embauche.
- (Articles L1221-10 à L1221-12)
+ (Articles L1221-10 à L1221-12-1)
 
 
 
@@ -8104,7 +8104,7 @@ Section 1 : Inscription sur la liste des demandeurs d'emploi.
 
 
 Section 2 : Recherche d'emploi.
- (Articles L5411-6 à L5411-8)
+ (Articles L5411-6 à L5411-7)
 
 
 
@@ -13283,7 +13283,18 @@ Sous-section 4 : Formation professionnelle et apprentissage
 
 
 Chapitre II : Négociation obligatoire en entreprise
+
+
+Section 1 : Dispositions communes
  (Article R2242-1)
+
+
+
+
+Section 2 : Egalité professionnelle entre les femmes et les hommes
+ (Articles R2242-2 à R2242-8)
+
+
 
 
 
@@ -13574,13 +13585,13 @@ Sous-section 4 : Information et consultation périodiques du comité d'entrepris
 
 
 Paragraphe 1 : Rapports et information dans les entreprises  de moins de trois cents salariés
- (Articles R2323-8 à R2323-9)
+ (Articles R2323-8 à D2323-9-1)
 
 
 
 
 Paragraphe 2 : Rapports et information dans les entreprises  de trois cents salariés et plus
- (Articles R2323-10 à D2323-12)
+ (Articles R2323-10 à D2323-12-1)
 
 
 
@@ -20232,7 +20243,7 @@ Sous-section 3 : Contrôle de la concentration en fibres d'amiante.
 
 
 Sous-section 4 : Contrôle des valeurs limites biologiques.
- (Article R4724-15)
+ (Articles R4724-15 à R4724-15-2)
 
 
 
@@ -21581,6 +21592,12 @@ Sous-section 2 : Dénomination.
 
 
 
+Section 3 : Transmissions à Pôle emploi d'une liste nominative des bénéficiaires du revenu de solidarité active et de l'allocation aux adultes handicapés
+ (Articles R5312-32 à R5312-37)
+
+
+
+
 
 
 Chapitre III : Maisons de l'emploi.
@@ -22385,7 +22402,7 @@ Section 1 : Conseil national de la formation professionnelle  tout au long de la
 
 
 Sous-section 1 : Missions
- (Article D6123-1)
+ (Articles R6123-1 à R6123-1-4)
 
 
 
