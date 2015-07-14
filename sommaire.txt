@@ -8315,7 +8315,13 @@ Section 3 : Pénalité administrative.
 
 
 
-Section 4 : Dispositions d'application.
+Section 4 : Répétition des prestations indues.
+ (Articles L5426-8-1 à L5426-8-3)
+
+
+
+
+Section 5 : Dispositions d'application.
  (Article L5426-9)
 
 
@@ -22552,7 +22558,7 @@ Section 3 : Présentation et préparation aux examens
 
 
 
-Section 4 : Carte d'apprenti
+Section 4 : Carte d'étudiant des métiers
  (Articles D6222-42 à D6222-44)
 
 
@@ -23358,6 +23364,12 @@ Section 5 : Exonérations de cotisations sociales
 
 Section 6 : Dispositions applicables aux groupements d'employeurs
  (Articles D6325-22 à D6325-28)
+
+
+
+
+Section 7 : Carte d'étudiant des métiers
+ (Article D6325-29)
 
 
 
