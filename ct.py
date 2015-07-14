@@ -159,7 +159,7 @@ class Article:
             dates.pickDate(anchor.text_content())
 
 def getUpSpan(span):
-    return span.getparent().getparent().getprevious()
+    return next(span.getparent().getparent().getparent().iterchildren())
 
 def getPath(span):
     path = ''
@@ -359,13 +359,22 @@ class UnitTests(unittest.TestCase):
         self.assertEqual(
             'Partie_legislative_/Chapitre_preliminaire_Dialogue_social_/',
             toc.getSectionPaths()[0])
-        self.assertTrue(os.path.isdir(os.path.join(rootPath, toc.getSectionPaths()[0])))
-        self.assertEqual('Partie_legislative_/' +
+#        self.assertTrue(os.path.isdir(os.path.join(rootPath,
+#                                                   toc.getSectionPaths()[0])))
+        self.assertEqual(
+            'Partie_legislative_/' +
             'PREMIERE_PARTIE_LES_RELATIONS_INDIVIDUELLES_DE_TRAVAIL/' +
             'LIVRE_Ier_DISPOSITIONS_PRELIMINAIRES/' +
             'TITRE_Ier_CHAMP_D_APPLICATION_ET_CALCUL_DES_SEUILS_D_EFFECTIFS/' +
             'Chapitre_unique_/',
             toc.getSectionPaths()[1])
+        self.assertEqual(
+            'Partie_legislative_/' +
+            'PREMIERE_PARTIE_LES_RELATIONS_INDIVIDUELLES_DE_TRAVAIL/' +
+            'LIVRE_Ier_DISPOSITIONS_PRELIMINAIRES/' +
+            'TITRE_II_DROITS_ET_LIBERTES_DANS_L_ENTREPRISE/' +
+            'Chapitre_unique_/',
+            toc.getSectionPaths()[2])
 
     def test_reYear(self):
         self.assertEqual(
