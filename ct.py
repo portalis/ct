@@ -305,7 +305,9 @@ def resumeCode(curDate, datePicker, rootPath):
     iSection = 0
     while os.path.isdir(os.path.join(rootPath, sectionPaths[iSection])):
         iSection = iSection + 1
-    section = Section(baseUrl + toc.getSectionAnchors[iSection].get('href'))
+    print i
+    print sectionPaths[i]
+    section = Section(baseUrl + toc.getSectionAnchors()[iSection].get('href'))
     writeSections(section, datePicker, rootPath)
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
         datePicker.write(f)
