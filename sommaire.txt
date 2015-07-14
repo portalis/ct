@@ -15845,7 +15845,7 @@ Section 1 : Document unique d'évaluation des risques
 
 
 Section 2 : Pénibilité
- (Article D4121-5)
+ (Articles D4121-5 à D4121-9)
 
 
 
@@ -17261,12 +17261,6 @@ Chapitre II : Mesures de prévention des risques chimiques
  Sous-section 8 : Suivi des travailleurs et surveillance médicale
 
 
- Paragraphe 1 : Liste et fiche d'exposition
- (Articles R4412-40 à R4412-43)
-
-
-
-
  Paragraphe 2 : Surveillance médicale
 
 
@@ -17278,12 +17272,6 @@ Chapitre II : Mesures de prévention des risques chimiques
 
  Sous-paragraphe 2 : Dossier médical
  (Articles R4412-54 à R4412-57)
-
-
-
-
- Sous-paragraphe 3 : Attestation d'exposition
- (Article R4412-58)
 
 
 
@@ -19230,7 +19218,7 @@ Chapitre II : Attributions
 
 
 Section 1 : Missions.
- (Articles R4612-1 à R4612-2)
+ (Articles R4612-1 à R4612-2-1)
 
 
 
@@ -19487,7 +19475,7 @@ Paragraphe 2 : Rapports annuels.
 
 
 
-Section 4 : Commission médico-technique.
+Section 4 : Dispositions communes.
  (Articles D4622-74 à D4622-76)
 
 
@@ -19543,7 +19531,7 @@ Paragraphe 5 : Conditions d'exercice.
 
 
 Sous-section 3 : Participation aux organes de surveillance  et de consultation.
- (Articles R4623-18 à R4623-19)
+ (Articles R4623-16 à R4623-19)
 
 
 
@@ -23872,7 +23860,7 @@ Chapitre Ier : Objet du contrôle et fonctionnaires de contrôle
 
 
 Chapitre II : Déroulement des opérations de contrôle
- (Articles R6362-1 à R6362-8)
+ (Articles R6362-1 à R6362-9)
 
 
 
