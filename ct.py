@@ -21,7 +21,7 @@ import unittest
 import sys
 import textwrap
 import threading
-
+import recipe_576515_1
 
 locale.setlocale(locale.LC_ALL, ('fr_FR', 'UTF-8'))
 print locale.getlocale()
@@ -257,7 +257,7 @@ def getUrlTree(url):
 
 def emptyRootPath():
     for f in os.listdir(rootPath):
-        if f != ".git" and f != "dates.txt" and f != "ct.py":
+        if f != ".git" and f != "dates.txt" and not f.endswith(".py"):
             if os.path.isdir(os.path.join(rootPath, f)):
                 shutil.rmtree(os.path.join(rootPath, f))
             else:
@@ -442,6 +442,7 @@ times = args.times
 if args.test:
     unittest.main(argv = [sys.argv[0]])
 else:
+    recipe_576515_1.listen()
     repo = git.Repo(rootPath)
     configRepo(repo)
     datePicker = DatePicker()
