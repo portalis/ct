@@ -17125,7 +17125,7 @@ LIVRE IV : PRÉVENTION DE CERTAINS RISQUES  D'EXPOSITION
 TITRE Ier : RISQUES CHIMIQUES
 
 
-Chapitre Ier : Mise sur le marché des substances et préparations
+Chapitre Ier : Mise sur le marché des substances et mélanges
 
 
  Section 1 : Dispositions générales
@@ -17199,6 +17199,12 @@ Paragraphe 2 : Préparations très toxiques, toxiques ou corrosives.
  (Articles R4411-83 à R4411-84)
 
 
+
+
+
+
+Section 5 : Exemptions pour les intérêts de la défense
+ (Article R4411-86)
 
 
 
@@ -17501,19 +17507,7 @@ Chapitre II : Mesures de prévention des risques chimiques
 
 
  Sous-section 4 : Plomb et ses composés
- (Articles R4412-156 à R4412-161)
-
-
-
-
- Sous-section 5 : Benzène
- (Article R4412-162)
-
-
-
-
- Sous-section 6 : Chrome et ses composés
- (Articles R4412-163 à R4412-164)
+ (Articles R4412-156 à R4412-160)
 
 
 
@@ -21667,19 +21661,13 @@ Chapitre II : Rôle des collectivités territoriales
 Chapitre III : Placement privé.
 
 
- Section 1 : Déclaration préalable.
- (Articles R5323-1 à R5323-6)
-
-
-
-
- Section 2 : Transmission d'informations.
+Section 1 : Transmission d'informations.
  (Articles R5323-7 à R5323-11)
 
 
 
 
- Section 3 : Contrats de prestations.
+Section 2 : Contrats de prestations.
  (Articles R5323-12 à R5323-14)
 
 
@@ -23469,6 +23457,12 @@ Sous-section 1 : Employeurs du bâtiment et des travaux publics
 
 Sous-section 2 : Travailleurs indépendants,  membres des professions libérales et professions non salariées
  (Articles R6331-47 à R6331-54)
+
+
+
+
+Sous-section 3 : Travailleurs indépendants du secteur artisanal
+ (Articles R6331-55 à R5331-63)
 
 
 
