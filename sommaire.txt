@@ -279,6 +279,12 @@ Section 3 : Modification du contrat de travail en cas d'accord de réduction du 
 
 
 
+Section 4 : Télétravail
+ (Articles L1222-9 à L1222-11)
+
+
+
+
 
 
 Chapitre III : Formation et exécution de certains types de contrats
@@ -2345,7 +2351,7 @@ Chapitre Ier : Négociation de branche et professionnelle
 
 
 Section 1 : Négociation annuelle.
- (Articles L2241-1 à L2241-2)
+ (Articles L2241-1 à L2241-2-1)
 
 
 
@@ -4491,7 +4497,7 @@ Chapitre II : Répartition et aménagement des horaires
 
 
 Section 1 : Répartition des horaires sur une période supérieure à la semaine et au plus égale à l'année
- (Articles L3122-1 à L3122-5)
+ (Articles L3122-1 à L3122-6)
 
 
 
