@@ -7567,7 +7567,7 @@ Sous-section 1 : Objet.
 
 
 
-Sous-section 2 : Convention.
+Sous-section 2 : Décision d'attribution de l'aide à l'insertion professionnelle.
  (Articles L5134-21 à L5134-23-2)
 
 
@@ -7637,7 +7637,7 @@ Sous-section 1 : Objet.
 
 
 
-Sous-section 2 : Convention.
+Sous-section 2 : Décision d'attribution de l'aide à l'insertion professionnelle.
  (Articles L5134-66 à L5134-68)
 
 
@@ -7692,6 +7692,102 @@ Sous-section 4 : Aide financière.
 
 Sous-section 5 : Dispositions d'application.
  (Article L5134-109)
+
+
+
+
+
+
+Section 8 : Emploi d'avenir 
+
+
+
+
+Sous-section 1 : Dispositions générales 
+
+ (Articles L5134-110 à L5134-112)
+
+
+
+
+Sous-section 2 : Aide à l'insertion professionnelle 
+
+
+ (Articles L5134-113 à L5134-114)
+
+
+
+
+Sous-section 3 : Contrat de travail 
+
+
+
+
+
+ (Articles L5134-115 à L5134-116)
+
+
+
+
+Sous-section 4 : Reconnaissance des compétences acquises 
+
+
+ (Article L5134-117)
+
+
+
+
+Sous-section 5 : Dispositions d'application 
+
+
+ (Articles L5134-118 à L5134-119)
+
+
+
+
+
+
+Section 9 : Emploi d'avenir professeur 
+
+
+
+Sous-section 1 : Dispositions générales 
+
+
+ (Articles L5134-120 à L5134-121)
+
+
+
+
+Sous-section 2 : Aide à la formation et à l'insertion professionnelle 
+
+
+
+ (Articles L5134-122 à L5134-124)
+
+
+
+
+Sous-section 3 : Contrat de travail 
+
+ (Articles L5134-125 à L5134-127)
+
+
+
+
+Sous-section 4 : Dispositions applicables aux établissements d'enseignement privés ayant passé un contrat avec l'Etat 
+
+
+
+ (Article L5134-128)
+
+
+
+
+Sous-section 5 : Dispositions d'application 
+
+
+ (Article L5134-129)
 
 
 
@@ -8430,7 +8526,7 @@ Paragraphe 1 : Objet.
 
 
 
-Paragraphe 2 : Convention.
+Paragraphe 2 : Décision d'attribution de l'aide à l'insertion professionnelle.
  (Articles L5522-7 à L5522-11)
 
 
@@ -20947,7 +21043,7 @@ Sous-section 2 : Suivi financier et statistique
 Section 2 : Contrat d'accompagnement dans l'emploi
 
 
-Sous-section 1 : Convention individuelle
+Sous-section 1 : Aide à l'insertion professionnelle
  (Articles R5134-26 à R5134-35)
 
 
@@ -20993,7 +21089,7 @@ Sous-section 5 : Périodes d'immersion
 Section 3 : Contrat initiative-emploi
 
 
-Sous-section 1 : Convention individuelle
+Sous-section 1 : Aide à l'insertion professionnelle
  (Articles R5134-51 à R5134-59)
 
 
@@ -21036,6 +21132,34 @@ Sous-section 3 : Contrat de travail
 
 Sous-section 4 : Aide financière
  (Articles D5134-157 à D5134-160)
+
+
+
+
+
+
+Section 7 : Emploi d'avenir 
+
+
+
+
+
+Sous-section 1 : Dispositions générales 
+
+
+
+
+
+ (Articles R5134-161 à R5134-165)
+
+
+
+
+Sous-section 2 : Aide à l'insertion professionnelle 
+
+
+
+ (Articles R5134-166 à R5134-168)
 
 
 
@@ -22198,7 +22322,7 @@ Chapitre II : Dispositifs en faveur de l'emploi
 
 
 Sous-section 2 : Contrat unique d'insertion
- (Articles R5522-11-1 à R5522-11-2)
+ (Article R5522-11-1)
 
 
 
@@ -22212,7 +22336,7 @@ Sous-section 3 : Contrats d'accès à l'emploi
 
 
 
- Paragraphe 2 : Convention.
+Paragraphe 2 : Aide à l'insertion professionnelle
  (Articles R5522-14 à R5522-23-3)
 
 
