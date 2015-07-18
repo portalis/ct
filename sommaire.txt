@@ -7305,7 +7305,7 @@ Section unique : Conseil national de l'emploi.
 TITRE II : AIDES AU MAINTIEN ET À LA SAUVEGARDE DE L'EMPLOI
 
 
-Chapitre Ier : Aides à l'adaptation des salariés aux évolutions de l'emploi et des compétences
+Chapitre Ier : Aides à l'adaptation des salariés aux évolutions de l'emploi et des compétences et à la gestion des âges
 
 
 Section 1 : Aide au développement de l'emploi et des compétences.
@@ -7326,14 +7326,34 @@ Section 3 : Aide aux actions de formation pour l'adaptation des salariés.
 
 
 
-Section 4 : Aide au remplacement des salariés en formation.
+Section 4 : Contrat de génération
  (Article L5121-6)
+
+
+Sous-section 1 : Modalités de mise en œuvre
+ (Articles L5121-7 à L5121-9)
+
+
+
+
+Sous-section 2 : Accords collectifs et plans d'action 
+
+
+ (Articles L5121-10 à L5121-16)
+
+
+
+
+Sous-section 3 : Modalités de l'aide
+ (Articles L5121-17 à L5121-21)
+
+
 
 
 
 
 Section 5 : Dispositions d'application.
- (Article L5121-7)
+ (Article L5121-22)
 
 
 
@@ -7497,12 +7517,6 @@ Section 2 : Aide personnalisée de retour à l'emploi
 
 
  (Articles L5133-8 à L5133-10)
-
-
-
-
-Section 3 : Aide à l'embauche des seniors
- (Article L5133-11)
 
 
 
