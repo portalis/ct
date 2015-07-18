@@ -624,8 +624,14 @@ Section 4 : Licenciement de dix salariés ou plus dans une même période de tre
 Sous-section 1 : Dispositions générales
 
 
-Paragraphe 1 : Modalités spécifiques résultant d'un accord.
- (Articles L1233-21 à L1233-24)
+Paragraphe 1 : Possibilité d'un accord et modalités spécifiques en résultant.
+ (Articles L1233-21 à L1233-24-3)
+
+
+
+
+Paragraphe 1 bis : Document unilatéral de l'employeur
+ (Article L1233-24-4)
 
 
 
@@ -688,6 +694,12 @@ Paragraphe 3 : Priorité de réembauche.
 
 
 
+Paragraphe 4 : Mesures de reclassement interne.
+ (Article L1233-45-1)
+
+
+
+
 
 
 Sous-section 4 : Information et intervention de l'autorité administrative
@@ -699,8 +711,14 @@ Paragraphe 1 : Information de l'autorité administrative.
 
 
 
-Paragraphe 2 : Intervention de l'autorité administrative.
- (Articles L1233-52 à L1233-57)
+Paragraphe 2 : Intervention de l'autorité administrative concernant les entreprises non soumises à l'obligation d'établir un plan de sauvegarde de l'emploi.
+ (Articles L1233-53 à L1233-56)
+
+
+
+
+Paragraphe 3 : Intervention de l'autorité administrative concernant les entreprises soumises à l'obligation d'établir un plan de sauvegarde de l'emploi. 
+ (Articles L1233-57 à L1233-57-8)
 
 
 
@@ -709,7 +727,7 @@ Paragraphe 2 : Intervention de l'autorité administrative.
 
 
 
-Section 5 : Licenciement économique dans le cadre d'un redressement ou d'une liquidation judiciaire.
+Section 5 : Licenciement économique dans le cadre d'une sauvegarde, d'un redressement ou d'une liquidation judiciaire.
  (Articles L1233-58 à L1233-60)
 
 
@@ -742,8 +760,8 @@ Sous-section 4 : Congé de mobilité.
 
 
 
-Sous-section 5 : Revitalisation des bassins d'emploi.
- (Articles L1233-84 à L1233-90)
+Sous-section 5 : Reprise de site et revitalisation des bassins d'emploi.
+ (Articles L1233-84 à L1233-90-1)
 
 
 
@@ -833,8 +851,8 @@ Section 1 : Dispositions communes.
 Section 2 : Licenciement pour motif économique
 
 
-Sous-section 1 : Délais de contestation.
- (Article L1235-7)
+Sous-section 1 : Délais de contestation et voies de recours.
+ (Articles L1235-7 à L1235-7-1)
 
 
 
@@ -11637,7 +11655,7 @@ Chapitre III : Licenciement pour motif économique
 
 
 Section 1 : Dispositions communes
- (Articles R1233-1 à R1233-2)
+ (Article R1233-1)
 
 
 
@@ -11651,22 +11669,38 @@ Section 2 : Licenciement de moins de dix salariés  dans une même période de t
 Section 3 : Licenciement de dix salariés ou plus  dans une même période de trente jours
 
 
-Sous-section 1 : Information de l'autorité administrative
+Sous-section 1 : Information-consultation
+
+
+ (Article R1233-3-1)
+
+
+
+
+Sous-section 2 : Autorité administrative compétente
+
+
+ (Articles R*1233-3-4 à R1233-3-5)
+
+
+
+
+Sous-section 3 : Information de l'autorité administrative
  (Articles D1233-4 à D1233-10)
 
 
 
 
-Sous-section 2 : Intervention de l'autorité administrative
- (Articles D1233-11 à D1233-14)
+Sous-section 4 : Intervention de l'autorité administrative
+ (Articles D1233-11 à D1233-12)
 
 
 
 
+Sous-section 5 : Procédure de validation ou d'homologation du plan de sauvegarde de l'emploi
+ (Articles D1233-14 à D1233-14-4)
 
 
-Section 4 : Licenciement économique dans le cadre d'un redressement  ou d'une liquidation judiciaire
- (Articles R1233-15 à R1233-16)
 
 
 
@@ -17535,7 +17569,7 @@ Paragraphe 2 : Valeur limite d'exposition professionnelle
 
 
 Paragraphe 3 : Conditions de mesurage des empoussièrements et de contrôle de la valeur limite d'exposition professionnelle
- (Articles R4412-104 à R4412-106)
+ (Articles R4412-103 à R4412-106)
 
 
 
@@ -19499,6 +19533,26 @@ Section 5 : Formation.
 
 
 
+Chapitre VI : Instance de coordination des comités d'hygiène, de sécurité et des conditions de travail
+
+
+
+Section 1 : Composition et désignation 
+
+ (Articles R4616-1 à R4616-3)
+
+
+
+
+Section 2 : Fonctionnement 
+
+ (Articles R4616-4 à R4616-10)
+
+
+
+
+
+
 
 
 TITRE II : SERVICES DE SANTÉ AU TRAVAIL
@@ -20716,98 +20770,8 @@ Sous-section 4 : Modalités de l'aide
 
 
 
-Chapitre II : Aides aux salariés en chômage partiel
-
-
-Section 1 : Allocation spécifique de chômage partiel
-
-
-Sous-section 1 : Conditions d'attribution
- (Articles R5122-1 à R5122-10)
-
-
-
-
-Sous-section 2 : Calcul et versement de l'allocation
- (Articles R5122-11 à R5122-17)
-
-
-
-
-Sous-section 3 : Dispositions particulières
-
-
-Paragraphe 1 : Entreprises appliquant des équivalences
- (Articles R5122-18 à R5122-19)
-
-
-
-
-Paragraphe 2 : Entreprises appliquant des conventions de forfait
- (Articles R5122-20 à R5122-22)
-
-
-
-
-Paragraphe 3 : Entreprises accordant des jours de repos  sur quatre semaines ou dans le cadre de l'année
- (Articles R5122-23 à R5122-25)
-
-
-
-
-Paragraphe 4 : Entreprises appliquant un accord de modulation
- (Articles R5122-26 à R5122-29)
-
-
-
-
-
-
-
-
-Section 2 : Allocations complémentaires de chômage partiel
-
-
-Sous-section 1 : Dispositions communes
- (Article D5122-30)
-
-
-
-
-Sous-section 2 : Indemnisation complémentaire de chômage partiel
-
-
-Paragraphe 1 : Convention
- (Articles D5122-32 à D5122-37)
-
-
-
-
-Paragraphe 2 : Indemnisations
- (Articles D5122-38 à D5122-42)
-
-
-
-
-
-
-Sous-section 3 : Versement d'allocations en cas de réduction d'activité de longue durée
-
-
-Paragraphe 1 : Convention
- (Articles D5122-43 à D5122-45)
-
-
-
-
-Paragraphe 2 : Indemnisation
- (Articles D5122-46 à D5122-51)
-
-
-
-
-
-
+Chapitre II : Aide aux salariés placés en activité partielle
+ (Articles R5122-1 à R5122-19)
 
 
 
