@@ -23599,7 +23599,7 @@ Sous-section 2 : Déclaration à l'autorité administrative
 
 
 
-Section 4 : Dispositions applicables à certaines catégories d'employeurs
+Section 4 : Dispositions applicables à certaines catégories d'employeurs et de travailleurs indépendants
 
 
 Sous-section 1 : Employeurs du bâtiment et des travaux publics
@@ -23616,6 +23616,12 @@ Sous-section 2 : Travailleurs indépendants,  membres des professions libérales
 
 Sous-section 3 : Travailleurs indépendants du secteur artisanal
  (Articles R6331-55 à R5331-63)
+
+
+
+
+Sous-section 4 : Artistes auteurs
+ (Articles R6331-64 à R6331-66)
 
 
 
