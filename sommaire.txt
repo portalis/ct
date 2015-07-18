@@ -285,6 +285,12 @@ Section 4 : Télétravail
 
 
 
+Section 5 :  Mobilité volontaire sécurisée
+ (Articles L1222-12 à L1222-16)
+
+
+
+
 
 
 Chapitre III : Formation et exécution de certains types de contrats
@@ -1806,6 +1812,17 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
+TITRE VII : PRESCRIPTION DES ACTIONS EN JUSTICE
+
+
+Chapitre unique
+ (Article L1471-1)
+
+
+
+
+
+
 
 
 LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
@@ -2408,6 +2425,12 @@ Section 4 : Dispositions communes à la négociation annuelle et à la négociat
 
 
 
+Section 5 : Temps partiel
+ (Article L2241-13)
+
+
+
+
 
 
 Chapitre II : Négociation obligatoire en entreprise
@@ -2457,8 +2480,14 @@ Sous-section 5 : Travailleurs handicapés.
 Section 3 : Négociation triennale
 
 
-Sous-section unique : Gestion prévisionnelle des emplois et prévention des conséquences des mutations économiques.
+Sous-section 1 : Gestion prévisionnelle des emplois et prévention des conséquences des mutations économiques.
  (Articles L2242-15 à L2242-20)
+
+
+
+
+Sous-Section 2 : Mobilité interne
+ (Articles L2242-21 à L2242-23)
 
 
 
@@ -2833,7 +2862,7 @@ Sous-section 2 : Information et consultation sur l'organisation et la marche de 
 
 
 Paragraphe 1 : Marche générale de l'entreprise.
- (Articles L2323-6 à L2323-7)
+ (Articles L2323-6 à L2323-7-2)
 
 
 
@@ -2876,6 +2905,12 @@ Paragraphe 7 : Modification dans l'organisation économique ou juridique de l'en
 
 Paragraphe 8 : Offre publique d'acquisition.
  (Articles L2323-21 à L2323-26)
+
+
+
+
+Paragraphe 9 : Crédit d'impôt compétitivité emploi
+ (Articles L2323-26-1 à L2323-26-3)
 
 
 
@@ -3178,6 +3213,12 @@ Sous-section 2 : Experts rémunérés par le comité d'entreprise.
 
 Sous-section 3 : Obligation de secret et de discrétion des experts.
  (Article L2325-42)
+
+
+
+
+Sous-Section 4 :  Délai de l'expertise
+ (Article L2325-42-1)
 
 
 
@@ -3900,7 +3941,7 @@ Sous-section 1 : Représentant des salariés en cas de sauvegarde, de redresseme
 
 
 
-Sous-section 2 : Représentant des salariés au conseil d'administration ou de surveillance des entreprises du secteur public.
+Sous-section 2 : Représentant des salariés au conseil d'administration ou de surveillance des entreprises.
  (Article L2411-17)
 
 
@@ -4058,7 +4099,7 @@ Sous-section 2 : Délégué du personnel, membre de comité d'entreprise et memb
 
 
 
-Sous-section 3 : Représentant des salariés au conseil d'administration ou de surveillance des entreprises du secteur public.
+Sous-section 3 : Représentant des salariés au conseil d'administration ou de surveillance des entreprises.
  (Article L2421-5)
 
 
@@ -4138,7 +4179,7 @@ Chapitre IV : Membre du groupe spécial de négociation, du comité d'entreprise
 
 
 
-Chapitre V : Salarié membre du conseil d'administration ou de surveillance d'une entreprise du secteur public.
+Chapitre V : Salarié membre du conseil d'administration ou de surveillance d'une entreprise.
  (Article L2435-1)
 
 
@@ -4612,6 +4653,12 @@ Sous-section 6 : Heures complémentaires.
 
 Sous-section 7 : Modification de la répartition de la durée du travail.
  (Articles L3123-21 à L3123-24)
+
+
+
+
+Sous-section 8 : Compléments d'heures par avenant
+ (Article L3123-25)
 
 
 
@@ -5280,12 +5327,6 @@ Section 2 : Modalités de fixation.
 
 Section 3 : Allocation complémentaire.
  (Articles L3232-5 à L3232-7)
-
-
-
-
-Section 4 : Remboursement par l'Etat.
- (Article L3232-8)
 
 
 
@@ -6946,6 +6987,12 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
+Chapitre VI : Instance de coordination des comités d'hygiène,  de sécurité et des conditions de travail
+ (Articles L4616-1 à L4616-5)
+
+
+
+
 
 
 TITRE II : SERVICES DE SANTÉ AU TRAVAIL
@@ -7308,7 +7355,7 @@ Section unique : Conseil national de l'emploi.
 
 
 
-TITRE II : AIDES AU MAINTIEN ET À LA SAUVEGARDE DE L'EMPLOI
+TITRE II : MAINTIEN ET SAUVEGARDE DE L'EMPLOI
 
 
 Chapitre Ier : Aides à l'adaptation des salariés aux évolutions de l'emploi et des compétences et à la gestion des âges
@@ -7366,31 +7413,8 @@ Section 5 : Dispositions d'application.
 
 
 
-Chapitre II : Aides aux salariés en chômage partiel
-
-
-Section 1 : Allocation spécifique de chômage partiel.
- (Article L5122-1)
-
-
-
-
-Section 2 : Allocations complémentaires de chômage partiel.
- (Articles L5122-2 à L5122-3)
-
-
-
-
-Section 3 : Régime social et fiscal des allocations.
- (Article L5122-4)
-
-
-
-
-Section 4 : Dispositions d'application.
- (Article L5122-5)
-
-
+Chapitre II : Aide aux salariés placés en activité partielle
+ (Articles L5122-1 à L5122-5)
 
 
 
@@ -7403,6 +7427,12 @@ Chapitre III : Aides aux actions de reclassement et de reconversion professionne
 
 Chapitre IV : Dispositions pénales.
  (Article L5124-1)
+
+
+
+
+Chapitre V : Accords de maintien de l'emploi
+ (Articles L5125-1 à L5125-7)
 
 
 
@@ -8281,7 +8311,7 @@ Section 1 : Conditions et modalités d'attribution de l'allocation d'assurance
 
 
 Sous-section 1 : Conditions d'attribution.
- (Articles L5422-1 à L5422-2)
+ (Articles L5422-1 à L5422-2-1)
 
 
 
@@ -9142,7 +9172,7 @@ Chapitre III : Catégories d'actions de formation.
 
 
 Chapitre IV : Droit à l'information, à l'orientation et à la qualification professionnelles.
- (Articles L6314-1 à L6314-2)
+ (Articles L6314-1 à L6314-3)
 
 
 
