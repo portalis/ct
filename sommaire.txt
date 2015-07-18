@@ -20602,7 +20602,7 @@ Section 4 : Demandes d'informations relatives à certains dispositifs d'aides à
 TITRE II : AIDES AU MAINTIEN ET À LA SAUVEGARDE  DE L'EMPLOI
 
 
-Chapitre Ier : Aides à l'adaptation des salariés aux évolutions  de l'emploi et des compétences
+Chapitre Ier : Aides à l'adaptation des salariés aux évolutions  de l'emploi et des compétences et à la gestion des âges
 
 
 Section 1 : Aide au développement de l'emploi et des compétences
@@ -20639,6 +20639,39 @@ Paragraphe 2 : Entreprises dépourvues de représentants syndicaux
 
 Sous-section 2 : Calcul de l'aide
  (Articles R5121-23 à R5121-25)
+
+
+
+
+
+
+Section 4 : Contrat de génération
+
+
+Sous-section 1 : Dispositions générales 
+
+
+ (Article R5121-26)
+
+
+
+
+Sous-section 2 : Accords collectifs et plans d'actions
+ (Articles D5121-27 à R5121-32)
+
+
+
+
+Sous-section 3 : Pénalités
+
+ (Articles R5121-33 à D5121-39)
+
+
+
+
+Sous-section 4 : Modalités de l'aide
+
+ (Articles R5121-40 à R5121-49)
 
 
 
@@ -25918,12 +25951,6 @@ Titre II : Repos et congés
 
 
 Chapitre Ier : Repos hebdomadaire
-
-
-Section 3 : Régime particulier du personnel des entreprises de navigation intérieure.
- (Articles R221-18 à R221-22)
-
-
 
 
 Section 4 : Régime particulier du personnel des entreprises assurant dans les trains la restauration ou l'exploitation des places couchées.
