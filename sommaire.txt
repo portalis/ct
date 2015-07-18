@@ -17736,7 +17736,7 @@ Chapitre IV : Mesures et moyens de prévention
 
 
  Section 2 : Dispositions particulières à certaines activités
- (Articles R4424-7 à R4424-10)
+ (Articles R4424-7 à R4424-11)
 
 
 
@@ -19185,12 +19185,6 @@ Sous-section 3 : Activités de confinement et de retrait d'amiante et activités
 
 
 
-Section 4 : Risque hyperbare
- (Article R4535-11)
-
-
-
-
 Section 4 : Risques électriques
 
 
@@ -19204,6 +19198,12 @@ Sous-section 2 : Opérations sur ou au voisinage des installations électriques
  (Article R4535-12)
 
 
+
+
+
+
+Section 5 : Risque hyperbare
+ (Article R4535-13)
 
 
 
