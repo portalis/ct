@@ -7510,7 +7510,7 @@ Section 1 : Objet.
 
 
 Section 2 : Conventions.
- (Articles L5132-2 à L5132-3)
+ (Articles L5132-2 à L5132-3-1)
 
 
 
@@ -9039,7 +9039,7 @@ Section 1 : Principes.
 
 
 Section 2 : Versements libératoires.
- (Articles L6241-4 à L6241-7)
+ (Articles L6241-4 à L6241-9)
 
 
 
@@ -9067,7 +9067,7 @@ Chapitre II : Organismes collecteurs de la taxe d'apprentissage.
 Chapitre III : Aides à l'apprentissage
 
 
-Section 1 : Indemnité compensatrice forfaitaire.
+Section 1 : Prime à l'apprentissage.
  (Article L6243-1)
 
 
@@ -13768,13 +13768,43 @@ Chapitre III : Attributions
 Section 1 : Attributions économiques
 
 
-Sous-section 1 : Information et consultation sur les conditions de travail
- (Article R2323-1)
+Sous-section 1 : Délais de consultation
+ (Articles R2323-1 à R2323-1-1)
 
 
 
 
-Sous-section 2 : Information et consultation en matière  de formation professionnelle et d'apprentissage
+Sous-section 2 : Base de données
+ (Article R2323-1-2)
+
+
+Paragraphe 1 : L'organisation et le contenu de la base de données
+ (Articles R2323-1-3 à R2323-1-5)
+
+
+
+
+Paragraphe 2 : La mise en place et le fonctionnement de la base de données
+ (Articles R2323-1-6 à R2323-1-9)
+
+
+
+
+Paragraphe 3 : La base de données au niveau du groupe
+ (Article R2323-1-10)
+
+
+
+
+
+
+Sous-section 3 : Information et consultation sur les conditions de travail
+ (Article R2323-1-11)
+
+
+
+
+Sous-section 4 : Information et consultation en matière  de formation professionnelle et d'apprentissage
 
 
 Paragraphe 1 : Orientation de la formation professionnelle
@@ -13791,13 +13821,13 @@ Paragraphe 2 : Plan de formation
 
 
 
-Sous-section 3 : Information et consultation   sur les interventions publiques directes.
+Sous-section 5 : Information et consultation   sur les interventions publiques directes
  (Article R2323-7-1)
 
 
 
 
-Sous-section 4 : Information et consultation périodiques du comité d'entreprise.
+Sous-section 6 : Information et consultation périodiques du comité d'entreprise
 
 
 Paragraphe 1 : Rapports et information dans les entreprises  de moins de trois cents salariés
@@ -13814,19 +13844,19 @@ Paragraphe 2 : Rapports et information dans les entreprises  de trois cents sala
 
 
 
-Sous-section 5 : Participation aux conseils d'administration  ou de surveillance des sociétés.
+Sous-section 7 : Participation aux conseils d'administration  ou de surveillance des sociétés
  (Articles R2323-13 à R2323-16)
 
 
 
 
-Sous-section 6 : Bilan social.
+Sous-section 8 : Bilan social
  (Article R2323-17)
 
 
 
 
-Sous-section 7 : Droit d'alerte économique.
+Sous-section 9 : Droit d'alerte économique
  (Articles R2323-18 à R2323-19)
 
 
@@ -13977,7 +14007,24 @@ Section 3 : Commissions
 
 
 Section 4 : Recours à un expert
+
+
+Sous-section 1 : Délais d'expertise comptable
+ (Articles R2325-6-1 à R2325-6-2)
+
+
+
+
+Sous-section 2 : Délai d'expertise technique
+ (Article R2325-6-3)
+
+
+
+
+Sous-section 3 : Recours et contestations
  (Article R2325-7)
+
+
 
 
 
@@ -23144,7 +23191,7 @@ Section 3 : Versements libératoires
 
 
 Section 4 : Affectation des fonds
- (Articles R6241-20 à R6241-26)
+ (Articles R6241-20 à R6241-28)
 
 
 
