@@ -17416,36 +17416,8 @@ Chapitre Ier : Mise sur le marché des substances et mélanges
 
 
 
- Section 3 : Fabrication, importation et vente
-
-
- Sous-section 3 : Information des autorités pour la prévention des risques
-
-
- Paragraphe 1 : Dispositions communes
- (Articles R4411-42 à R4411-49)
-
-
-
-
-Paragraphe 2 : Préparations très toxiques, toxiques ou corrosives.
- (Articles R4411-50 à R4411-53)
-
-
-
-
- Paragraphe 3 : Substances mises sur le marché sous un nom commercial et préparations dangereuses autres que très toxiques, toxiques ou corrosives
- (Article R4411-54)
-
-
-
-
-
-
- Sous-section 4 : Protection des secrets industriels et commerciaux
- (Articles R4411-56 à R4411-65)
-
-
+Section 3 : Information des autorités pour la prévention des risques
+ (Articles R4411-42 à R4411-46)
 
 
 
