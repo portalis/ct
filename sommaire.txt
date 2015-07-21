@@ -378,7 +378,7 @@ Section 2 : Congé de paternité et d'accueil de l'enfant.
 
 
 Section 3 : Congés d'adoption.
- (Articles L1225-37 à L1225-46)
+ (Articles L1225-37 à L1225-46-1)
 
 
 
@@ -2026,6 +2026,12 @@ Section 2 : Mise à disposition des salariés auprès des organisations syndical
 
 
 
+Section 3 : Financement mutualisé des organisations syndicales de salariés et des organisations professionnelles d'employeurs
+ (Articles L2135-9 à L2135-18)
+
+
+
+
 
 
 Chapitre VI : Dispositions pénales.
@@ -2186,6 +2192,64 @@ Chapitre V : Formation économique, sociale et syndicale des salariés appelés 
 
 Chapitre VI : Dispositions pénales.
  (Articles L2146-1 à L2146-2)
+
+
+
+
+
+
+TITRE V : REPRÉSENTATIVITÉ PATRONALE 
+
+
+
+
+Chapitre Ier : Critères de représentativité 
+
+ (Article L2151-1)
+
+
+
+
+Chapitre II : Organisations professionnelles d'employeurs représentatives
+
+
+
+
+
+Section 1 : Représentativité patronale
+au niveau de la branche professionnelle
+
+ (Article L2152-1)
+
+
+
+
+Section 2 : Représentativité au niveau national
+et multi-professionnel
+
+ (Articles L2152-2 à L2152-3)
+
+
+
+
+Section 3 : Représentativité patronale au niveau national et interprofessionnel
+ (Article L2152-4)
+
+
+
+
+Section 4 : Déclaration de candidature
+
+ (Article L2152-5)
+
+
+
+
+Section 5 : Dispositions d'application
+
+ (Articles L2152-6 à L2152-7)
+
+
 
 
 
@@ -2635,6 +2699,12 @@ Sous-section 3 : Procédures d'extension et d'élargissement.
  (Articles L2261-24 à L2261-31)
 
 
+
+
+
+
+Section 8 : Restructuration des branches professionnelles
+ (Article L2261-32)
 
 
 
@@ -7361,12 +7431,7 @@ Chapitre Ier : Objet.
 
 
 Chapitre II : Instances concourant à la politique de l'emploi
-
-
-Section unique : Conseil national de l'emploi.
- (Articles L5112-1 à L5112-2)
-
-
+ (Articles L5112-1-1 à L5112-2)
 
 
 
@@ -7864,7 +7929,13 @@ Sous-section 5 : Dispositions d'application
 
 
 
-Chapitre V : Dispositions pénales.
+Chapitre V : Périodes de mise en situation en milieu professionnel.
+ (Articles L5135-1 à L5135-8)
+
+
+
+
+Chapitre VI : Dispositions pénales.
 
 
 
@@ -8729,30 +8800,35 @@ Chapitre II : Rôle de l'Etat.
 
 
 
-Chapitre III : Institutions de la formation professionnelle
+Chapitre III : Coordination des politiques de l'emploi, de l'orientation et de la formation professionnelles
 
 
-Section 1 : Conseil national de la formation professionnelle tout au long de la vie
-
-
-Sous-section 1 : Missions.
- (Article L6123-1)
+Section 1 : Conseil national de l'emploi, de la formation et de l'orientation professionnelles
+ (Articles L6123-1 à L6123-2)
 
 
 
 
-Sous-section 2 : Composition.
- (Article L6123-2)
+Section 2 : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
+ (Articles L6123-3 à L6123-4)
 
 
 
 
+Section 3 : Comité paritaire interprofessionnel national pour l'emploi et la formation
+ (Article L6123-5)
 
 
-Section 2 : Délégué à l'information et à l'orientation
 
 
- (Articles L6123-3 à L6123-5)
+Section 4 : Comité paritaire interprofessionnel régional pour l'emploi et la formation
+ (Article L6123-6)
+
+
+
+
+Section 5 : Dispositions d'application
+ (Article L6123-7)
 
 
 
@@ -8781,7 +8857,7 @@ TITRE II : CONTRAT D'APPRENTISSAGE
 
 
 Chapitre Ier : Définition et régime juridique.
- (Article L6221-1)
+ (Articles L6221-1 à L6221-2)
 
 
 
@@ -9033,7 +9109,7 @@ Chapitre Ier : Taxe d'apprentissage
 
 
 Section 1 : Principes.
- (Articles L6241-1 à L6241-2)
+ (Articles L6241-1 à L6241-3)
 
 
 
@@ -9056,10 +9132,16 @@ Section 4 : Dispositions d'application.
 
 
 
+Section 5 : Dispositions applicables aux employeurs occupant des salariés intermittents du spectacle
+ (Article L6241-13)
+
+
+
+
 
 
 Chapitre II : Organismes collecteurs de la taxe d'apprentissage.
- (Articles L6242-1 à L6242-6)
+ (Articles L6242-1 à L6242-10)
 
 
 
@@ -9184,7 +9266,7 @@ Chapitre II : Accès à la formation professionnelle continue.
 
 
 Chapitre III : Catégories d'actions de formation.
- (Articles L6313-1 à L6313-12)
+ (Articles L6313-1 à L6313-14)
 
 
 
@@ -9195,11 +9277,14 @@ Chapitre IV : Droit à l'information, à l'orientation et à la qualification pr
 
 
 
-Chapitre V : Bilan d'étape professionnel et passeport orientation et formation
+Chapitre V : Entretien professionnel
+ (Article L6315-1)
 
 
 
- (Articles L6315-1 à L6315-2)
+
+Chapitre VI : Qualité des actions       de la formation professionnelle continue
+ (Article L6316-1)
 
 
 
@@ -9476,7 +9561,7 @@ Chapitre VI : Préparation opérationnelle à l'emploi
 
 
 
- (Articles L6326-1 à L6326-3)
+ (Articles L6326-1 à L6326-4)
 
 
 
@@ -9993,7 +10078,7 @@ Chapitre Ier : Objet de la validation des acquis de l'expérience.
 
 
 Chapitre II : Régime juridique.
- (Article L6412-1)
+ (Articles L6412-1 à L6412-2)
 
 
 
@@ -10034,6 +10119,12 @@ Section 4 : Dispositions d'application.
  (Article L6422-10)
 
 
+
+
+
+
+Chapitre III : Accompagnement à la validation       des acquis de l'expérience
+ (Articles L6423-1 à L6423-2)
 
 
 
@@ -10088,6 +10179,18 @@ Section 2 : Parrainage.
 
 Section 3 : Stagiaire de la formation professionnelle.
  (Article L6523-6)
+
+
+
+
+Section 3 bis : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
+ (Article L6523-6-1)
+
+
+
+
+Section 3 ter : Comité paritaire interprofessionnel régional pour l'emploi et la formation
+ (Article L6523-6-2)
 
 
 
