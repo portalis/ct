@@ -727,6 +727,63 @@ Paragraphe 3 : Intervention de l'autorité administrative concernant les entrepr
 
 
 
+Section 4 bis : Obligation de rechercher un repreneur
+en cas de projet de fermeture d'un établissement
+
+
+
+
+Sous-section 1 : Information des salariés et de l'autorité administrative de l'intention de fermer un établissement
+
+
+Paragraphe 1 : Information des salariés
+ (Articles L1233-57-9 à L1233-57-11)
+
+
+
+
+Paragraphe 2 : Information de l'autorité administrative
+et des collectivités territoriales
+ (Articles L1233-57-12 à L1233-57-13)
+
+
+
+
+
+
+ Sous-section 2 : Recherche d'un repreneur
+
+
+Paragraphe 1 : Obligations à la charge de l'employeur
+
+
+ (Article L1233-57-14)
+
+
+
+
+Paragraphe 2 : Rôle du comité d'entreprise
+ (Articles L1233-57-15 à L1233-57-18)
+
+
+
+
+Paragraphe 3 : Clôture de la période de recherche
+ (Articles L1233-57-19 à L1233-57-21)
+
+
+
+
+
+
+ Sous-section 3 : Dispositions d'application
+ (Article L1233-57-22)
+
+
+
+
+
+
 Section 5 : Licenciement économique dans le cadre d'une sauvegarde, d'un redressement ou d'une liquidation judiciaire.
  (Articles L1233-58 à L1233-60)
 
@@ -760,8 +817,8 @@ Sous-section 4 : Congé de mobilité.
 
 
 
-Sous-section 5 : Reprise de site et revitalisation des bassins d'emploi.
- (Articles L1233-84 à L1233-90-1)
+Sous-section 5 : Revitalisation des bassins d'emploi.
+ (Articles L1233-84 à L1233-90)
 
 
 
@@ -2992,7 +3049,7 @@ Paragraphe 7 : Modification dans l'organisation économique ou juridique de l'en
 
 
 Paragraphe 8 : Offre publique d'acquisition.
- (Articles L2323-21 à L2323-26)
+ (Articles L2323-21 à L2323-26-1 B)
 
 
 
@@ -16233,6 +16290,12 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 Chapitre II : Conditions d'exercice  des droits d'alerte et de retrait
  (Articles D4132-1 à D4132-2)
+
+
+
+
+Chapitre III -  Droit d'alerte en matière de santé publique et d'environnement
+ (Articles D4133-1 à D4133-3)
 
 
 
