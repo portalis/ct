@@ -21987,34 +21987,31 @@ Chapitre Ier : Missions et composantes du service public de l'emploi
 Chapitre II : Placement et accompagnement  des demandeurs d'emploi.
 
 
- Section 1 : Missions de l'institution de placement et d'accompagnement.
+Section 1 : Statut et missions de Pôle emploi
  (Articles R5312-1 à R5312-5)
 
 
 
 
-Section 2 : Organisation et fonctionnement de l'institution mentionnée à l'article L. 5312-1.
+Section 2 : Organisation et fonctionnement de Pôle emploi
 
 
-Sous-section 1 : Administration.
+Sous-section 1 : Conseil d'administration.
 
 
-Paragraphe 1 : Conseil d'administration.
-
-
-Sous-paragraphe 1 : Attributions.
+Paragraphe 1 : Attributions.
  (Article R5312-6)
 
 
 
 
-Sous-paragraphe 2 : Composition, nomination et mandat.
+Paragraphe 2 : Composition, nomination et mandat.
  (Articles R5312-7 à R5312-12)
 
 
 
 
-Sous-paragraphe 3 : Fonctionnement et réunions.
+Paragraphe 3 : Fonctionnement et réunions.
  (Articles R5312-13 à R5312-17)
 
 
@@ -22022,34 +22019,26 @@ Sous-paragraphe 3 : Fonctionnement et réunions.
 
 
 
-Paragraphe 2 : Directeur général.
+Sous-section 2 : Directeur général.
  (Articles R5312-18 à R5312-19)
 
 
 
 
-Paragraphe 3 : Dispositions économiques et financières
+Sous-section 3 : Dispositions économiques et financières
  (Articles R5312-20 à R5312-24)
 
 
 
 
-Paragraphe 4 : Directeur régional.
+Sous-section 4 : Directeur régional ou d'établissement
  (Articles R5312-25 à R5312-27)
 
 
 
 
-Paragraphe 5 : Instance paritaire régionale.
+Sous-section 5 : Instance paritaire régionale.
  (Articles R5312-28 à R5312-30)
-
-
-
-
-
-
-Sous-section 2 : Dénomination.
- (Article R5312-31)
 
 
 
@@ -26322,7 +26311,6 @@ Section 2 : Durée du travail
 
 
 Section 3 : Travail de nuit.
- (Article R261-7)
 
 
 
@@ -26533,7 +26521,6 @@ Chapitre II : DUREE DU TRAVAIL
 
 
 Section 4 : Durée quotidienne du travail.
- (Article D212-12)
 
 
 
@@ -26552,7 +26539,6 @@ Titre II : Repos et congés
 
 
 Chapitre préliminaire : Repos quotidien
- (Article D220-4)
 
 
 
@@ -26565,12 +26551,6 @@ Livre VII : Dispositions particulières à certaines professions
 
 
 Titre IV : Transports et télécommunications
-
-
-Chapitre Ier : Travailleurs intermittents des transports : congés payés.
- (Articles D741-1 à D741-8)
-
-
 
 
 Chapitre II : Marins
