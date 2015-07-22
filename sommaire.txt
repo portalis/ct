@@ -392,7 +392,7 @@ Sous-section 1 : Congé parental d'éducation et passage à temps partiel.
 
 
 
-Sous-section 2 : Congé pour enfant malade et congé de présence parentale
+Sous-section 2 : Congés pour maladie d'un enfant
 
 
 Paragraphe 1 : Congé pour enfant malade.
@@ -403,6 +403,12 @@ Paragraphe 1 : Congé pour enfant malade.
 
 Paragraphe 2 : Congé de présence parentale.
  (Articles L1225-62 à L1225-65)
+
+
+
+
+Paragraphe 3 : Don de jours de repos à un parent d'enfant gravement malade
+ (Articles L1225-65-1 à L1225-65-2)
 
 
 
