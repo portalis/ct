@@ -791,7 +791,7 @@ Paragraphe 3 : Clôture de la période de recherche
 
 
 Section 5 : Licenciement économique dans le cadre d'une sauvegarde, d'un redressement ou d'une liquidation judiciaire.
- (Articles L1233-58 à L1233-60)
+ (Articles L1233-58 à L1233-60-1)
 
 
 
@@ -2602,7 +2602,7 @@ Sous-section 2 : Salaires et durée du travail.
 
 
 
-Sous-section 3 : Régime de prévoyance maladie.
+Sous-section 3 : Protection sociale complémentaire des salariés.
  (Article L2242-11)
 
 
@@ -18767,6 +18767,81 @@ Section 6 : Situations exceptionnelles d'interventions et de travaux exécutés 
 
 
 
+Chapitre II : Prévention du risque pyrotechnique
+
+
+Section 1 : Champ d'application et définitions
+ (Articles R4462-1 à R4462-2)
+
+
+
+
+Section 2 : L'étude de sécurité
+ (Articles R4462-3 à R4462-5)
+
+
+
+
+Section 3 : Mesures générales de sécurité
+ (Articles R4462-6 à R4462-9)
+
+
+
+
+Section 4 : Implantation des installations et transports internes
+
+
+Sous-section 1 : Implantation des installations et des postes de travail
+ (Articles R4462-10 à R4462-13)
+
+
+
+
+Sous-section 2 : Transports de substances ou d'objets explosifs internes au site
+ (Articles R4462-14 à R4462-15)
+
+
+
+
+
+
+Section 5 : Exigences de sécurité concernant les installations
+
+
+Sous-section 1 : Caractéristiques générales
+ (Articles R4462-16 à R4462-17)
+
+
+
+
+Sous-section 2 : Issues et dégagements
+ (Articles R4462-18 à R4462-22)
+
+
+
+
+Sous-section 3 : Installations électriques et précaution contre l'électricité statique
+ (Articles R4462-23 à R4462-25)
+
+
+
+
+
+
+Section 6 : Encadrement et formation
+ (Articles R4462-26 à R4462-28)
+
+
+
+
+Section 7 : Dispositions administratives
+ (Articles R4462-29 à R4462-36)
+
+
+
+
+
+
 
 
 
@@ -21263,13 +21338,13 @@ Section 3 : Ateliers et chantiers d'insertion
 
 
 Sous-section 1 : Conventions
- (Articles D5132-27 à R5132-33)
+ (Articles R5132-27 à R5132-32)
 
 
 
 
 Sous-section 2 : Mise en œuvre des actions
- (Articles D5132-34 à R5132-36)
+ (Articles D5132-34 à R5132-35)
 
 
 
