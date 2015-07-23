@@ -237,7 +237,7 @@ Sous-section 1 : Déclaration préalable à l'embauche.
 
 
 Sous-section 2 : Registre unique du personnel.
- (Articles L1221-13 à L1221-15)
+ (Articles L1221-13 à L1221-15-1)
 
 
 
@@ -1435,8 +1435,14 @@ Chapitre III : Contrôle.
 
 
 
-Chapitre IV : Dispositions pénales.
-Le présent chapitre ne comprend pas de dispositions législatives
+Chapitre IV : Amendes administratives.
+ (Articles L1264-1 à L1264-3)
+
+
+
+
+Chapitre V : Actions en justice
+ (Article L1265-1)
 
 
 
@@ -1844,6 +1850,12 @@ Section 1 : Mise en état de l'affaire.
 
 Section 2 : Départage.
  (Articles L1454-2 à L1454-4)
+
+
+
+
+Section 3 : Demande de requalification en contrat de travail d'une convention de stage
+ (Article L1454-5)
 
 
 
@@ -5531,6 +5543,12 @@ Chapitre V : Action en paiement et prescription.
 
 
 
+Chapitre V bis : Obligations et responsabilité financière du donneur d'ordre.
+ (Article L3245-2)
+
+
+
+
 Chapitre VI : Dispositions pénales.
 Le présent chapitre ne comprend pas de dispositions législatives
 
@@ -6457,6 +6475,17 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 Chapitre VIII : Installations sanitaires, restauration et hébergement. 
 Le présent chapitre ne comprend pas de dispositions législatives 
+
+
+
+
+
+
+Titre III  : VIGILANCE DU DONNEUR D'ORDRE EN MATIÈRE D'HÉBERGEMENT.
+
+
+Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
+ (Article L4231-1)
 
 
 
@@ -11163,8 +11192,19 @@ Chapitre II : Obligations et solidarité financière des donneurs d'ordre et des
 
 
 
-Chapitre III : Droits des salariés.
+Chapitre III : Droits des salariés et actions en justice.
+
+
+Section 1 : Droits des salariés.
  (Articles L8223-1 à L8223-3)
+
+
+
+
+Section 2 : Actions en justice.
+ (Article L8223-4)
+
+
 
 
 
@@ -11343,13 +11383,24 @@ Section 6 : Dispositions d'application.
 
 
 Chapitre II : Sanctions administratives.
- (Articles L8272-1 à L8272-4)
+ (Articles L8272-1 à L8272-5)
 
 
 
 
 Chapitre III : Coordination interministérielle de la lutte contre le travail illégal.
 Le présent chapitre ne comprend pas de dispositions législatives 
+
+
+
+
+
+
+Titre VIII : VIGILANCE DU DONNEUR D'ORDRE EN MATIÈRE D'APPLICATION DE LA LÉGISLATION DU TRAVAIL.
+
+
+Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
+ (Article L8281-1)
 
 
 
