@@ -16421,7 +16421,7 @@ Chapitre II : Femmes enceintes, venant d'accoucher ou allaitant
 
 
 Section 1 : Dispositions générales
- (Articles R4152-1 à R4152-2)
+ (Article R4152-2)
 
 
 
@@ -20077,7 +20077,7 @@ Sous-section 4 : Procédure d'autorisation applicable à la rupture ou au transf
 
 
 Section 2 : Collaborateur médecin.
- (Article R4623-25)
+ (Articles R4623-25 à R4623-25-2)
 
 
 
@@ -20088,7 +20088,13 @@ Section 3 : Interne en médecine du travail.
 
 
 
-Section 4 : Personnel infirmier.
+Section 4 : Médecin candidat à l'autorisation d'exercice.
+ (Articles R4623-25-3 à R4623-25-5)
+
+
+
+
+Section 5 : Personnel infirmier.
 
 
 Sous-section 1 : Dispositions communes.
@@ -20111,13 +20117,13 @@ Sous-section 3 : Le personnel infirmier au sein des services de santé au travai
 
 
 
-Section 5 : Intervenant en prévention des risques professionnels des services de santé au travail interentreprises.
+Section 6 : Intervenant en prévention des risques professionnels des services de santé au travail interentreprises.
  (Articles R4623-37 à R4623-39)
 
 
 
 
-Section 6 : Assistant de service de santé au travail.
+Section 7 : Assistant de service de santé au travail.
  (Article R4623-40)
 
 
@@ -20191,19 +20197,19 @@ Section 3 : Documents et rapports.
 
 
 Sous-section 1 : Fiche d'entreprise.
- (Articles D4624-37 à D4624-41)
+ (Articles R4624-37 à R4624-41)
 
 
 
 
 Sous-section 2 : Rapport annuel d'activité.
- (Articles D4624-42 à D4624-45)
+ (Articles R4624-42 à R4624-45)
 
 
 
 
 Sous-section 3 : Dossier médical en santé au travail et fiches médicales d'aptitude.
- (Articles D4624-46 à R4624-49)
+ (Articles R4624-46 à R4624-49)
 
 
 
@@ -20211,7 +20217,7 @@ Sous-section 3 : Dossier médical en santé au travail et fiches médicales d'ap
 
 
 Section 4 : Recherches, études et enquêtes.
- (Article D4624-50)
+ (Article R4624-50)
 
 
 
@@ -20939,7 +20945,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 Chapitre V : Infractions aux règles relatives  à la médecine du travail
- (Articles R4745-1 à R4745-4)
+ (Articles R4745-1 à R4745-6)
 
 
 
