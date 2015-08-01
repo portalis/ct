@@ -21045,23 +21045,6 @@ Chapitre Ier : Objet
 Chapitre II : Instances concourant à la politique  de l'emploi
 
 
-Section 1 : Conseil national de l'emploi
-
-
-Sous-section 1 : Missions
- (Article R5112-1)
-
-
-
-
-Sous-section 2 : Composition et fonctionnement
- (Articles R5112-2 à R5112-5)
-
-
-
-
-
-
 Section 2 : Commissions départementales
 
 
@@ -23016,26 +22999,26 @@ Section 2 : Convention de formation professionnelle continue
 
 
 
-Chapitre III : Institutions de la formation professionnelle
+Chapitre III : Coordination des politiques de l'emploi, de l'orientation et de la formation professionnelles
 
 
-Section 1 : Conseil national de la formation professionnelle  tout au long de la vie
+Section 1 : Conseil national de l'emploi, de la formation et de l'orientation professionnelles
 
 
 Sous-section 1 : Missions
- (Articles R6123-1 à R6123-1-4)
+ (Articles R6123-1 à R6123-1-7)
 
 
 
 
 Sous-section 2 : Composition
- (Articles D6123-2 à D6123-8)
+ (Articles R6123-1-8 à R6123-1-11)
 
 
 
 
 Sous-section 3 : Organisation et fonctionnement
- (Articles D6123-9 à D6123-17)
+ (Articles R6123-2 à R6123-2-6)
 
 
 
@@ -23061,6 +23044,12 @@ Sous-section 3 : Organisation et fonctionnement
  (Articles D6123-25 à Annexe)
 
 
+
+
+
+
+Section 3 : Comité paritaire interprofessionnel national pour l'emploi et la formation
+ (Article R6123-5)
 
 
 
@@ -23971,7 +23960,7 @@ Chapitre IV : Périodes de professionnalisation
 
 
 Section 1 : Objet et conditions d'ouverture
- (Articles D6324-1 à D6324-1-1)
+ (Article D6324-1)
 
 
 
