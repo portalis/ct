@@ -23070,7 +23070,7 @@ TITRE Ier : DISPOSITIONS GÉNÉRALES
 
 
 Section 1 : Contrat d'objectifs et de moyens
- (Articles D6211-1 à D6211-2)
+ (Article D6211-2)
 
 
 
@@ -23108,7 +23108,7 @@ Section 1 : Formation, exécution et rupture du contrat de travail
 
 
 Sous-section 1 : Conditions d'âge
- (Article D6222-1)
+ (Articles D6222-1 à R6222-1-1)
 
 
 
@@ -23388,7 +23388,7 @@ Sous-section 1 : Demande de convention
 
 
 Sous-section 2 : Contenu et conclusion de la convention
- (Articles R6232-3 à R6232-12)
+ (Articles R6232-4 à R6232-11)
 
 
 
@@ -23591,7 +23591,7 @@ Section 4 : Règles comptables
 Chapitre III : Aides à l'apprentissage
 
 
-Section 1 : Indemnité compensatrice forfaitaire
+Section 1 : Prime à l'apprentissage
  (Articles R6243-1 à R6243-6)
 
 
