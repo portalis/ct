@@ -432,7 +432,6 @@ class UnitTests(unittest.TestCase):
 parser = argparse.ArgumentParser()
 parser.add_argument('path')
 parser.add_argument('times', type = int)
-parser.add_argument('--recover', action = 'store_true')
 parser.add_argument('--test', action = 'store_true')
 parser.add_argument('--resume', action = 'store_true')
 args = parser.parse_args()
@@ -447,39 +446,18 @@ else:
     configRepo(repo)
     datePicker = DatePicker()
     with io.open(os.path.join(rootPath, "dates.txt"), 'r') as f:
-         datePicker.read(f)
-    if not args.recover:
-        curDate = datetime.strptime(repo.head.commit.message[:10],
-                                '%Y-%m-%d').date()
-        print curDate
-        if not args.resume:
-            for i in range(times):
-                curDate = datePicker.getNextDate(curDate)
-                print curDate
-                print datePicker[curDate]
-                writeCode(curDate, datePicker, rootPath)
-        else:
+        datePicker.read(f)
+    curDate = datetime.strptime(repo.head.commit.message[:10],
+                            '%Y-%m-%d').date()
+    print curDate
+    if not args.resume:
+        for i in range(times):
             curDate = datePicker.getNextDate(curDate)
             print curDate
             print datePicker[curDate]
-            resumeCode(curDate, datePicker, rootPath)
+            writeCode(curDate, datePicker, rootPath)
     else:
-        recoverBranch = repo.create_head(
-            'recover_' +
-            datetime.utcnow().strftime('%Y-%m-%dT%H%M%s'))
-        commitDates = {}
-        for commit in repo.iter_commits('master'):
-            commitDates[
-                datetime.strptime(commit.message[:10], '%Y-%m-%d').date()
-            ] = commit
-            curDate = next(
-                d for d in sorted(dates.keys()) if d not in commitDates)
-            print curDate
-            prevCommitDate = next(
-                d for d in sorted(
-                    commitDates.keys(), reverse = True)
-                if d < curDates)
-            print commitDates[prevCommitDate].message
-            recoverBranch.set_commit(commitDates[prevCommitDate])
-            recoverBranch.checkout()
-            writeCode(curDate)
+        curDate = datePicker.getNextDate(curDate)
+        print curDate
+        print datePicker[curDate]
+        resumeCode(curDate, datePicker, rootPath)
