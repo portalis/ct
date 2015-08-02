@@ -11729,6 +11729,12 @@ Sous-section 7 : Obligations de l'organisme destinataire
 
 
 
+ Sous-section 8 : Obligation de dématérialisation 
+ (Articles D1221-18 à D1221-19)
+
+
+
+
 
 
 Section 2 : Registre unique du personnel
@@ -21068,24 +21074,6 @@ Section 3 : Conseil régional de l'emploi
 
 
 
-Sous-section 1 : Missions 
-
-
-
- (Article R5112-19)
-
-
-
-
-Sous-section 2 : Composition et fonctionnement 
-
-
-
- (Articles R5112-20 à R5112-22)
-
-
-
-
 
 
 Section 4 : Demandes d'informations relatives à certains dispositifs d'aides à l'emploi
@@ -22768,14 +22756,6 @@ Sous-section 2 : Comité directeur
 
 
 
-Section 2 : Conseil territorial de l'emploi 
-
-
- (Articles R5521-11 à R5521-14)
-
-
-
-
 
 
 Chapitre II : Dispositifs en faveur de l'emploi
@@ -22956,14 +22936,6 @@ LIVRE Ier :  PRINCIPES GÉNÉRAUX ET ORGANISATION INSTITUTIONNELLE DE LA FORMATI
 TITRE Ier : PRINCIPES GÉNÉRAUX
 
 
-Chapitre Ier : Objectifs et contenu de la formation professionnelle
-Le présent chapitre ne comprend pas de dispositions réglementaires.
-
- (Articles R6111-1 à R6111-5)
-
-
-
-
 Chapitre II : Égalité d'accès à la formation
  (Article D6112-1)
 
@@ -23025,23 +22997,23 @@ Sous-section 3 : Organisation et fonctionnement
 
 
 
-Section 2 : Comité de coordination régional de l'emploi  et de la formation professionnelle
+Section 2 : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
 
 
 Sous-section 1 : Missions
- (Articles D6123-18 à D6123-20)
+ (Articles R6123-3 à R6123-3-2)
 
 
 
 
 Sous-section 2 : Composition
- (Articles D6123-21 à D6123-24)
+ (Articles R6123-3-3 à R6123-3-7)
 
 
 
 
 Sous-section 3 : Organisation et fonctionnement
- (Articles D6123-25 à Annexe)
+ (Articles R6123-3-8 à Annexe)
 
 
 
@@ -24591,62 +24563,6 @@ Le présent titre ne comprend pas de dispositions réglementaires.
 TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
 
 
-Chapitre Ier : Dispositions générales
-
-
-Section 1 : Régions d'outre-mer
-
-
-Sous-section 1 : Comité de coordination régional de l'emploi  et de la formation professionnelle
-
-
-Paragraphe 1 : Missions
- (Articles R6521-1 à D6521-2)
-
-
-
-
-Paragraphe 2 : Composition
- (Articles D6521-3 à D6521-8)
-
-
-
-
-Paragraphe 3 : Organisation et fonctionnement
-
-
-Sous-paragraphe 1 : Commission emploi
- (Articles D6521-9 à D6521-11)
-
-
-
-
-Sous-paragraphe 2 : Autres commissions
- (Articles D6521-12 à D6521-13)
-
-
-
-
-
-
-
-
-Sous-section 2 : Conventions tripartites
- (Article D6521-14)
-
-
-
-
-
-
-Section 2 : Saint-Barthélemy, Saint-Martin  et Saint-Pierre-et-Miquelon
- (Articles D6521-15 à D6521-17)
-
-
-
-
-
-
 Chapitre II : Apprentissage
  (Articles D6522-1 à D6522-3)
 
@@ -24676,6 +24592,29 @@ Section 3 : Parrainage
 
 Section 4 : Remboursement des frais de transport exposés par les stagiaires
  (Articles R6523-10 à R6523-14)
+
+
+
+
+Section 5 : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
+
+
+Sous-section 1 : Guadeloupe, Guyane, Martinique, La Réunion
+ (Articles R6523-15 à R6523-21)
+
+
+
+
+Sous-section 2 : Saint-Barthélemy et Saint-Martin
+ (Articles R6523-22 à R6523-23)
+
+
+
+
+Sous-section 3 : Saint-Pierre-et-Miquelon
+ (Articles R6523-24 à R6523-26)
+
+
 
 
 
