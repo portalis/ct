@@ -44,13 +44,13 @@ Chapitre préliminaire : Dialogue social.
 
 
 
-PREMIÈRE PARTIE : LES RELATIONS INDIVIDUELLES DE TRAVAIL
+Première partie : Les relations individuelles de travail
 
 
-LIVRE Ier : DISPOSITIONS PRÉLIMINAIRES
+Livre Ier : Dispositions préliminaires
 
 
-TITRE Ier : CHAMP D'APPLICATION ET CALCUL DES SEUILS D'EFFECTIFS
+Titre Ier : Champ d'application et calcul des seuils d'effectifs 
 
 
 Chapitre unique.
@@ -61,7 +61,7 @@ Chapitre unique.
 
 
 
-TITRE II : DROITS ET LIBERTÉS DANS L'ENTREPRISE
+Titre II : Droits et libertés dans l'entreprise
 
 
 Chapitre unique.
@@ -72,7 +72,7 @@ Chapitre unique.
 
 
 
-TITRE III : DISCRIMINATIONS
+Titre III : Discriminations
 
 
 Chapitre Ier : Champ d'application.
@@ -101,7 +101,7 @@ Chapitre IV : Actions en justice.
 
 
 
-TITRE IV : ÉGALITÉ PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES
+Titre IV : Egalité professionnelle entre les femmes et les hommes
 
 
 Chapitre Ier : Champ d'application.
@@ -147,7 +147,7 @@ Chapitre VI : Dispositions pénales.
 
 
 
-TITRE V : HARCÈLEMENTS
+Titre V : Harcèlements 
 
 
 Chapitre Ier : Champ d'application.
@@ -182,7 +182,7 @@ Chapitre V : Dispositions pénales.
 
 
 
-TITRE VI : CORRUPTION
+Titre VI : Corruption
 
 
 Chapitre unique
@@ -195,10 +195,10 @@ Chapitre unique
 
 
 
-LIVRE II : LE CONTRAT DE TRAVAIL
+Livre II : Le contrat de travail
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application
 
 
 Chapitre unique.
@@ -209,7 +209,7 @@ Chapitre unique.
 
 
 
-TITRE II : FORMATION ET EXÉCUTION DU CONTRAT DE TRAVAIL
+Titre II : Formation et exécution du contrat de travail
 
 
 Chapitre Ier : Formation du contrat de travail
@@ -514,7 +514,7 @@ Chapitre VII : Dispositions pénales.
 
 
 
-TITRE III : RUPTURE DU CONTRAT DE TRAVAIL À DURÉE INDÉTERMINÉE
+Titre III : Rupture du contrat de travail à durée indéterminée
 
 
 Chapitre Ier : Dispositions générales.
@@ -1018,7 +1018,7 @@ Chapitre VIII : Dispositions pénales.
 
 
 
-TITRE IV : CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
+Titre IV : Contrat de travail à durée déterminée
 
 
 Chapitre Ier : Champ d'application.
@@ -1403,7 +1403,7 @@ Section 2 : Groupements d'employeurs.
 
 
 
-TITRE VI : SALARIÉS DÉTACHÉS TEMPORAIREMENT PAR UNE ENTREPRISE NON ÉTABLIE EN FRANCE
+Titre VI : Salariés détachés temporairement par une entreprise non établie en France
 
 
 Chapitre Ier : Dispositions générales.
@@ -1449,7 +1449,7 @@ Chapitre V : Actions en justice
 
 
 
-TITRE VII : CHÈQUES ET TITRES SIMPLIFIÉS DE TRAVAIL
+Titre VII : Chèques et titres simplifiés de travail
 
 
 Chapitre Ier : Chèque emploi-service universel
@@ -1497,10 +1497,10 @@ Chapitre III : Titre Emploi-Service Entreprise.
 
 
 
-LIVRE III : LE RÈGLEMENT INTÉRIEUR ET LE DROIT DISCIPLINAIRE
+Livre III : Le règlement intérieur et le droit disciplinaire
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application 
 
 
 Chapitre unique.
@@ -1511,7 +1511,7 @@ Chapitre unique.
 
 
 
-TITRE II : RÈGLEMENT INTÉRIEUR
+Titre II : Règlement intérieur
 
 
 Chapitre Ier : Contenu et conditions de validité.
@@ -1545,7 +1545,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE III : DROIT DISCIPLINAIRE
+Titre III : Droit disciplinaire
 
 
 Chapitre Ier : Sanction disciplinaire.
@@ -1587,10 +1587,10 @@ Chapitre IV : Dispositions pénales.
 
 
 
-LIVRE IV : LA RÉSOLUTION DES LITIGES - LE CONSEIL DE PRUD'HOMMES
+Livre IV : La résolution des litiges - Le conseil de prud'hommes
 
 
-TITRE Ier : ATTRIBUTIONS DU CONSEIL DE PRUD'HOMMES
+Titre Ier : Attributions du conseil de prud'hommes 
 
 
 Chapitre Ier : Compétence en raison de la matière.
@@ -1607,7 +1607,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE II : INSTITUTION, ORGANISATION ET FONCTIONNEMENT
+Titre II : Institution, organisation et fonctionnement
 
 
 Chapitre Ier : Dispositions générales.
@@ -1665,7 +1665,7 @@ Section 6 : Dispositions d'application.
 
 
 
-TITRE III : CONSEIL SUPÉRIEUR DE LA PRUD'HOMIE
+Titre III : Conseil supérieur de la prud'homie
 
 
 Chapitre unique.
@@ -1676,7 +1676,7 @@ Chapitre unique.
 
 
 
-TITRE IV : CONSEILLERS PRUD'HOMMES
+Titre IV : Conseillers prud'hommes
 
 
 Chapitre Ier : Élection
@@ -1818,7 +1818,7 @@ Chapitre III : Dispositions pénales.
 
 
 
-TITRE V : PROCÉDURE DEVANT LE CONSEIL DE PRUD'HOMMES
+Titre V : Procédure devant le conseil de prud'hommes 
 
 
 Chapitre Ier : Dispositions générales.
@@ -1882,7 +1882,7 @@ Chapitre VII : Récusation.
 
 
 
-TITRE VI : VOIES DE RECOURS
+Titre VI : Voies de recours
 
 
 Chapitre Ier : Appel.
@@ -1905,7 +1905,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE VII : PRESCRIPTION DES ACTIONS EN JUSTICE
+Titre VII : Prescription des actions en justice
 
 
 Chapitre unique
@@ -1918,10 +1918,10 @@ Chapitre unique
 
 
 
-LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre V : Dispositions relatives à l'outre-mer
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales
 
 
 Chapitre unique.
@@ -1932,7 +1932,7 @@ Chapitre unique.
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHELEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales.
@@ -1966,7 +1966,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA ET TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises  
 
 
 Chapitre Ier : Formation et exécution du contrat de travail.
@@ -1987,13 +1987,13 @@ Chapitre II : Rupture du contrat de travail à durée indéterminée.
 
 
 
-DEUXIÈME PARTIE : LES RELATIONS COLLECTIVES DE TRAVAIL
+Deuxième partie : Les relations collectives de travail  
 
 
-LIVRE Ier : LES SYNDICATS PROFESSIONNELS
+Livre Ier : Les syndicats professionnels
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application 
 
 
 Chapitre unique.
@@ -2004,7 +2004,7 @@ Chapitre unique.
 
 
 
-TITRE II : REPRÉSENTATIVITÉ SYNDICALE
+Titre II : Représentativité syndicale  
 
 
 Chapitre Ier : Critères de représentativité.
@@ -2059,7 +2059,7 @@ Section 5 : Dispositions d'application
 
 
 
-TITRE III : STATUT JURIDIQUE, RESSOURCES ET MOYENS
+Titre III : Statut juridique, ressources et moyens
 
 
 Chapitre Ier : Objet et constitution.
@@ -2117,7 +2117,7 @@ Chapitre VI : Dispositions pénales.
 
 
 
-TITRE IV : EXERCICE DU DROIT SYNDICAL
+Titre IV : Exercice du droit syndical
 
 
 Chapitre Ier : Principes.
@@ -2273,7 +2273,7 @@ Chapitre VI : Dispositions pénales.
 
 
 
-TITRE V : REPRÉSENTATIVITÉ PATRONALE 
+Titre V : Représentativité patronale
 
 
 
@@ -2333,10 +2333,10 @@ Section 5 : Dispositions d'application
 
 
 
-LIVRE II : LA NÉGOCIATION COLLECTIVE - LES CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL
+Livre II : La négociation collective - Les conventions et accords collectifs de travail
 
 
-TITRE Ier : DISPOSITIONS PRÉLIMINAIRES
+Titre Ier : Dispositions préliminaires 
 
 
 Chapitre Ier : Dialogue social.
@@ -2352,7 +2352,7 @@ Chapitre unique : Champ d'application.
 
 
 
-TITRE II : OBJET ET CONTENU DES CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL
+Titre II : Objet et contenu des conventions et accords collectifs de travail
 
 
 Chapitre Ier : Objet des conventions et accords.
@@ -2392,7 +2392,7 @@ Section 4 : Détermination des modalités de renouvellement, révision et dénon
 
 
 
-TITRE III : CONDITIONS DE NÉGOCIATION ET DE CONCLUSION DES CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL
+Titre III :  Conditions de négociation et de conclusion des conventions et accords collectifs de travail
 
 
 Chapitre Ier : Conditions de validité
@@ -2518,7 +2518,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE IV : DOMAINES ET PÉRIODICITÉ DE LA NÉGOCIATION OBLIGATOIRE
+Titre IV : Domaines et périodicité de la négociation obligatoire
 
 
 Chapitre Ier : Négociation de branche et professionnelle
@@ -2603,13 +2603,13 @@ Section 2 : Négociation annuelle
 
 
 Sous-section 1 : Egalité professionnelle entre les femmes et les hommes.
- (Articles L2242-5 à L2242-7)
+ (Articles L2242-5-1 à L2242-7)
 
 
 
 
 Sous-section 2 : Salaires et durée du travail.
- (Articles L2242-8 à L2242-10)
+ (Articles L2242-9-1 à L2242-10)
 
 
 
@@ -2661,7 +2661,7 @@ Chapitre III : Dispositions pénales.
 
 
 
-TITRE V : ARTICULATION DES CONVENTIONS ET ACCORDS
+Titre V : Articulation des conventions et accords
 
 
 Chapitre Ier : Rapports entre conventions ou accords et lois et règlements.
@@ -2690,7 +2690,7 @@ Chapitre IV : Rapports entre conventions et accords collectifs de travail et con
 
 
 
-TITRE VI : APPLICATION DES CONVENTIONS ET ACCORDS COLLECTIFS
+Titre VI : Application des conventions et accords collectifs 
 
 
 Chapitre Ier : Conditions d'applicabilité des conventions et accords
@@ -2817,7 +2817,7 @@ Chapitre III : Dispositions pénales.
 
 
 
-TITRE VII : COMMISSION NATIONALE DE LA NÉGOCIATION COLLECTIVE
+Titre VII : Commission nationale de la négociation collective
 
 
 Chapitre Ier : Missions.
@@ -2834,7 +2834,7 @@ Chapitre II : Organisation et fonctionnement.
 
 
 
-TITRE VIII : DROIT D'EXPRESSION DIRECTE ET COLLECTIVE DES SALARIÉS
+Titre VIII : Droit d'expression directe et collective des salariés  
 
 
 Chapitre Ier : Dispositions communes.
@@ -2859,10 +2859,10 @@ Chapitre III : Dispositions pénales.
 
 
 
-LIVRE III : LES INSTITUTIONS REPRÉSENTATIVES DU PERSONNEL
+Livre III : Les institutions représentatives du personnel
 
 
-TITRE Ier : DÉLÉGUÉ DU PERSONNEL
+Titre Ier : Délégué du personnel
 
 
 Chapitre Ier : Champ d'application.
@@ -2983,7 +2983,7 @@ Chapitre VI : Dispositions pénales.
 
 
 
-TITRE II : COMITÉ D'ENTREPRISE
+Titre II : Comité d'entreprise
 
 
 Chapitre Ier : Champ d'application.
@@ -3067,13 +3067,13 @@ Paragraphe 7 : Modification dans l'organisation économique ou juridique de l'en
 
 
 Paragraphe 8 : Offre publique d'acquisition.
- (Articles L2323-21 à L2323-26-1 B)
+ (Articles L2323-21-1 à L2323-26)
 
 
 
 
 Paragraphe 9 : Crédit d'impôt compétitivité emploi
- (Articles L2323-26-1 à L2323-26-3)
+ (Articles L2323-26-2 à L2323-26-1)
 
 
 
@@ -3513,7 +3513,7 @@ Chapitre VIII : Dispositions pénales.
 
 
 
-TITRE III : COMITÉ DE GROUPE
+Titre III : Comité de groupe
 
 
 Chapitre Ier : Mise en place.
@@ -3548,7 +3548,7 @@ Chapitre V : Dispositions pénales.
 
 
 
-TITRE IV : COMITÉ D'ENTREPRISE EUROPÉEN OU PROCÉDURE D'INFORMATION ET DE CONSULTATION DANS LES ENTREPRISES DE DIMENSION COMMUNAUTAIRE
+Titre IV : Comité d'entreprise européen ou procédure d'information et de consultation dans les entreprises de dimension communautaire
 
 
 Chapitre Ier : Champ d'application et mise en place.
@@ -3640,7 +3640,7 @@ Chapitre VI : Dispositions pénales.
 
 
 
-TITRE V : IMPLICATION DES SALARIÉS DANS LA SOCIÉTÉ EUROPÉENNE ET COMITÉ DE LA SOCIÉTÉ EUROPÉENNE
+Titre V : Implication des salariés dans la société européenne et comité de la société européenne   
 
 
 Chapitre Ier : Dispositions générales.
@@ -3739,7 +3739,7 @@ Chapitre V : Dispositions pénales
 
 
 
-TITRE VI : IMPLICATION DES SALARIÉS DANS LA SOCIÉTÉ COOPÉRATIVE EUROPÉENNE ET COMITÉ DE LA SOCIÉTÉ COOPÉRATIVE EUROPÉENNE
+Titre VI : Implication des salariés dans la société coopérative européenne et comité de la société coopérative européenne  
 
 
 Chapitre Ier : Dispositions générales
@@ -3882,7 +3882,7 @@ Chapitre V : Dispositions pénales
 
 
 
-TITRE VII : PARTICIPATION DES SALARIÉS DANS LES SOCIÉTÉS ISSUES DE FUSIONS TRANSFRONTALIÈRES.
+Titre VII : Participation des salariés dans les sociétés issues de fusions transfrontalières 
 
 
 Chapitre Ier : Dispositions générales.
@@ -3974,7 +3974,7 @@ Chapitre V : Dispositions pénales.
 
 
 
-TITRE VIII : COMITÉ D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
+Titre VIII : Comité d'hygiène, de sécurité et des conditions de travail 
 
 
 Chapitre unique.
@@ -3987,10 +3987,10 @@ Chapitre unique.
 
 
 
-LIVRE IV : LES SALARIÉS PROTÉGÉS
+Livre IV : Les salariés protégés
 
 
-TITRE Ier : CAS, DURÉES ET PÉRIODES DE PROTECTION
+Titre Ier : Cas, durées et périodes de protection
 
 
 Chapitre Ier : Protection en cas de licenciement
@@ -4241,7 +4241,7 @@ Chapitre IV : Protection en cas de transfert partiel d'entreprise ou d'établiss
 
 
 
-TITRE II : PROCÉDURES D'AUTORISATION APPLICABLES À LA RUPTURE OU AU TRANSFERT DU CONTRAT
+Titre II : Procédures d'autorisation applicables à la rupture ou au transfert du contrat
 
 
 Chapitre Ier : Demande d'autorisation et instruction de la demande
@@ -4315,7 +4315,7 @@ Section 2 : Indemnisation du préjudice.
 
 
 
-TITRE III : DISPOSITIONS PÉNALES
+Titre III : Dispositions pénales
 
 
 Chapitre Ier : Délégué syndical.
@@ -4364,10 +4364,10 @@ Chapitre VII : Conseiller prud'homme.
 
 
 
-LIVRE V : LES CONFLITS COLLECTIFS
+Livre V : Les conflits collectifs 
 
 
-TITRE Ier : EXERCICE DU DROIT DE GRÈVE
+Titre Ier : Exercice du droit de grève 
 
 
 Chapitre Ier : Dispositions générales.
@@ -4384,7 +4384,7 @@ Chapitre II : Dispositions particulières dans les services publics.
 
 
 
-TITRE II : PROCÉDURE DE RÈGLEMENT DES CONFLITS COLLECTIFS
+Titre II : Procédure de règlement des conflits collectifs 
 
 
 Chapitre Ier : Dispositions générales
@@ -4489,10 +4489,10 @@ Chapitre V : Dispositions pénales.
 
 
 
-LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre VI : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre unique.
@@ -4503,7 +4503,8 @@ Chapitre unique.
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHELEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
+
 
 
 Chapitre Ier : Dispositions générales.
@@ -4526,7 +4527,7 @@ Chapitre III : Les conflits collectifs.
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA ET TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 
 
 Chapitre Ier : Négociation collective - Conventions et accords collectifs de travail.
@@ -4558,13 +4559,13 @@ Section 2 : Comité de groupe.
 
 
 
-TROISIÈME PARTIE : DURÉE DU TRAVAIL, SALAIRE, INTÉRESSEMENT, PARTICIPATION ET ÉPARGNE SALARIALE
+Troisième partie : Durée du travail, salaire, intéressement, participation et épargne salariale    
 
 
-LIVRE Ier : DURÉE DU TRAVAIL, REPOS ET CONGÉS
+Livre Ier : Durée du travail, repos et congés
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application 
 
 
 Chapitre unique.
@@ -4575,7 +4576,7 @@ Chapitre unique.
 
 
 
-TITRE II : DURÉE DU TRAVAIL, RÉPARTITION ET AMÉNAGEMENT DES HORAIRES
+Titre II : Durée du travail, répartition et aménagement des horaires
 
 
 Chapitre Ier : Durée du travail
@@ -4856,7 +4857,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE III : REPOS ET JOURS FÉRIÉS
+Titre III : Repos et jours fériés
 
 
 Chapitre Ier : Repos quotidien.
@@ -5034,7 +5035,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE IV : CONGÉS PAYÉS ET AUTRES CONGÉS
+Titre IV : Congés payés et autres congés
 
 
 Chapitre Ier : Congés payés
@@ -5258,7 +5259,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE V : COMPTE ÉPARGNE-TEMPS
+Titre V : Compte épargne-temps 
 
 
 Chapitre Ier : Objet
@@ -5287,7 +5288,7 @@ Chapitre IV : Garantie et liquidation des droits
 
 
 
-TITRE VI : DISPOSITIONS PARTICULIÈRES AUX JEUNES TRAVAILLEURS
+Titre VI : Dispositions particulières aux jeunes travailleurs  
 
 
 Chapitre Ier : Définitions.
@@ -5345,7 +5346,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE VII : CONTRÔLE DE LA DURÉE DU TRAVAIL ET DES REPOS
+Titre VII : Contrôle de la durée du travail et des repos
 
 
 Chapitre Ier : Contrôle de la durée du travail
@@ -5393,10 +5394,10 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-LIVRE II : SALAIRE ET AVANTAGES DIVERS
+Livre II : Salaire et avantages divers
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application 
 
 
 Chapitre unique.
@@ -5407,7 +5408,7 @@ Chapitre unique.
 
 
 
-TITRE II : ÉGALITÉ DE RÉMUNÉRATION ENTRE LES FEMMES ET LES HOMMES
+Titre II : Egalité de rémunération entre les femmes et les hommes
 
 
 Chapitre Ier : Principes.
@@ -5424,7 +5425,7 @@ Chapitre II : Dispositions pénales.
 
 
 
-TITRE III : DÉTERMINATION DU SALAIRE
+Titre III : Détermination du salaire
 
 
 Chapitre Ier : Salaire minimum interprofessionnel de croissance
@@ -5510,7 +5511,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE IV : PAIEMENT DU SALAIRE
+Titre IV : Paiement du salaire  
 
 
 Chapitre Ier : Dispositions générales.
@@ -5557,7 +5558,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE V : PROTECTION DU SALAIRE
+Titre V : Protection du salaire
 
 
 Chapitre Ier : Retenues.
@@ -5656,7 +5657,7 @@ Chapitre V : Dispositions pénales.
 
 
 
-TITRE VI : AVANTAGES DIVERS
+Titre VI : Avantages divers
 
 
 Chapitre Ier : Frais de transport
@@ -5727,10 +5728,10 @@ Chapitre III : Chèques-vacances.
 
 
 
-LIVRE III : DIVIDENDE DU TRAVAIL : INTÉRESSEMENT, PARTICIPATION ET ÉPARGNE. SALARIALE
+Livre III : Dividende du travail : intéressement, participation et épargne salariale 
 
 
-TITRE Ier : INTÉRESSEMENT
+Titre Ier : Intéressement
 
 
 Chapitre Ier : Champ d'application.
@@ -5804,7 +5805,7 @@ Chapitre V : Régime social et fiscal de l'intéressement.
 
 
 
-TITRE II : PARTICIPATION AUX RÉSULTATS DE L'ENTREPRISE
+Titre II : Participation aux résultats de l'entreprise
 
 
 Chapitre Ier : Champ d'application.
@@ -5931,7 +5932,7 @@ Chapitre VI : Contestations et sanctions.
 
 
 
-TITRE III : PLANS D'ÉPARGNE SALARIALE
+Titre III : Plans d'épargne salariale 
 
 
 Chapitre Ier : Champ d'application.
@@ -6059,7 +6060,7 @@ Chapitre V : Transferts
 
 
 
-TITRE IV : DISPOSITIONS COMMUNES
+Titre IV : Dispositions communes 
 
 
 Chapitre Ier : Représentation et information des salariés
@@ -6147,10 +6148,11 @@ Chapitre VI : Conseil d'orientation de la participation, de l'intéressement, de
 
 
 
-LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre IV : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+Titre Ier : Dispositions générales 
 
 
 Chapitre unique
@@ -6161,7 +6163,7 @@ Chapitre unique
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHELEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales.
@@ -6212,7 +6214,7 @@ Sous-section 3 : Allocation complémentaire.
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA ET TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 
 
 Chapitre unique : Intéressement, participation et épargne salariale.
@@ -6227,13 +6229,13 @@ Chapitre unique : Intéressement, participation et épargne salariale.
 
 
 
-QUATRIÈME PARTIE : SANTÉ ET SÉCURITÉ AU TRAVAIL
+Quatrième partie : Santé et sécurité au travail
 
 
-LIVRE Ier : DISPOSITIONS GÉNÉRALES
+Livre Ier : Dispositions générales 
 
 
-TITRE Ier : CHAMP ET DISPOSITIONS D'APPLICATION
+Titre Ier : Champ et dispositions d'application 
 
 
 Chapitre unique
@@ -6255,7 +6257,7 @@ Section 2 : Dispositions d'application.
 
 
 
-TITRE II : PRINCIPES GÉNÉRAUX DE PRÉVENTION
+Titre II : Principes généraux de prévention
 
 
 Chapitre Ier : Obligations de l'employeur.
@@ -6272,7 +6274,7 @@ Chapitre II : Obligations des travailleurs.
 
 
 
-TITRE III : DROITS D'ALERTE ET DE RETRAIT
+Titre III : Droits d'alerte et de retrait
 
 
 Chapitre Ier : Principes.
@@ -6295,7 +6297,7 @@ Chapitre III : Droit d'alerte en matière  de santé publique et d'environnement
 
 
 
-TITRE IV : INFORMATION ET FORMATION DES TRAVAILLEURS
+Titre IV : Information et formation des travailleurs
 
 
 Chapitre Ier : Obligation générale d'information et de formation.
@@ -6318,7 +6320,7 @@ Chapitre III : Consultation des représentants du personnel.
 
 
 
-TITRE V : DISPOSITIONS PARTICULIÈRES À CERTAINES CATÉGORIES DE TRAVAILLEURS
+Titre V : Dispositions particulières à certaines catégories de travailleurs
 
 
 Chapitre Ier : Champ d'application.
@@ -6377,10 +6379,10 @@ Section 2 : Obligations particulières d'information et de formation.
 
 
 
-LIVRE II : DISPOSITIONS APPLICABLES AUX LIEUX DE TRAVAIL
+Livre II : Dispositions applicables aux lieux de travail
 
 
-TITRE Ier : OBLIGATIONS DU MAÎTRE D'OUVRAGE POUR LA CONCEPTION DES LIEUX DE TRAVAIL
+Titre Ier : Obligations du maître d'ouvrage pour la conception des lieux de travail  
 
 
 Chapitre Ier : Principes généraux.
@@ -6428,7 +6430,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE II : OBLIGATIONS DE L'EMPLOYEUR POUR L'UTILISATION DES LIEUX DE TRAVAIL
+Titre II : Obligations de l'employeur pour l'utilisation des lieux de travail
 
 
 Chapitre Ier : Principes généraux.
@@ -6481,7 +6483,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-Titre III  : VIGILANCE DU DONNEUR D'ORDRE EN MATIÈRE D'HÉBERGEMENT.
+Titre III  : Vigilance du donneur d'ordre en matière d'hébergement   
 
 
 Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
@@ -6494,10 +6496,10 @@ Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
 
 
 
-LIVRE III : ÉQUIPEMENTS DE TRAVAIL ET MOYENS DE PROTECTION
+Livre III : Equipements de travail et moyens de protection   
 
 
-TITRE Ier : CONCEPTION ET MISE SUR LE MARCHÉ DES ÉQUIPEMENTS DE TRAVAIL ET DES MOYENS DE PROTECTION
+Titre Ier : Conception et mise sur le marché des équipements de travail et des moyens de protection  
 
 
 Chapitre Ier : Règles générales
@@ -6537,7 +6539,7 @@ Chapitre IV : Procédure de sauvegarde.
 
 
 
-TITRE II : UTILISATION DES ÉQUIPEMENTS DE TRAVAIL ET DES MOYENS DE PROTECTION
+Titre II : Utilisation des équipements de travail et des moyens de protection  
 
 
 Chapitre Ier : Règles générales
@@ -6579,10 +6581,10 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-LIVRE IV : PRÉVENTION DE CERTAINS RISQUES D'EXPOSITION
+Livre IV : Prévention de certains risques d'exposition
 
 
-TITRE Ier : RISQUES CHIMIQUES
+Titre Ier : Risques chimiques
 
 
 Chapitre Ier : Mise sur le marché des substances et mélanges
@@ -6669,7 +6671,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE II : PREVENTION DES RISQUES BIOLOGIQUES
+Titre II : Prévention des risques biologiques 
 
 
 Chapitre Ier : Dispositions générales.
@@ -6716,7 +6718,7 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
-TITRE III : PRÉVENTION DES RISQUES D'EXPOSITION AU BRUIT
+Titre III : Prévention des risques d'exposition au bruit 
 
 
 Chapitre Ier : Dispositions générales.
@@ -6763,7 +6765,7 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
-TITRE IV : PRÉVENTION DES RISQUES D'EXPOSITION AUX VIBRATIONS MÉCANIQUES
+Titre IV : Prévention des risques d'exposition aux vibrations mécaniques   
 
 
 Chapitre Ier : Dispositions générales.
@@ -6810,7 +6812,7 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
-TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION AUX RAYONNEMENTS
+Titre V : Prévention des risques d'exposition aux rayonnements  
 
 
 Chapitre Ier : Prévention des risques d'exposition aux rayonnements ionisants.
@@ -6834,7 +6836,7 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
-TITRE VI : AUTRES RISQUES
+Titre VI : Autres risques  
 
 
 Chapitre Ier :  Prévention des risques en milieu hyperbare.
@@ -6846,10 +6848,10 @@ Chapitre Ier :  Prévention des risques en milieu hyperbare.
 
 
 
-LIVRE V : PRÉVENTION DES RISQUES LIÉS À CERTAINES ACTIVITÉS OU OPÉRATIONS
+Livre V : Prévention des risques liés à certaines activités ou opérations
 
 
-TITRE Ier : TRAVAUX RÉALISÉS DANS UN ÉTABLISSEMENT PAR UNE ENTREPRISE EXTÉRIEURE
+Titre Ier : Travaux réalisés dans un établissement par une entreprise extérieure
 
 
 Chapitre Ier : Dispositions générales.
@@ -6884,7 +6886,7 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 
-TITRE II : INSTALLATIONS NUCLÉAIRES DE BASE ET INSTALLATIONS SUSCEPTIBLES DE DONNER LIEU À DES SERVITUDES D'UTILITÉ PUBLIQUE
+Titre II : Installations nucléaires de base et installations susceptibles de donner lieu à des servitudes d'utilité publique   
 
 
 Chapitre Ier : Champ d'application.
@@ -6954,7 +6956,7 @@ Chapitre VI : Dispositions particulières en cas de danger grave et imminent et 
 
 
 
-TITRE III : BÂTIMENT ET GÉNIE CIVIL
+Titre III : Bâtiment et génie civil  
 
 
 Chapitre Ier : Principes de prévention.
@@ -7037,7 +7039,7 @@ Chapitre V : Dispositions applicables aux travailleurs indépendants.
 
 
 
-TITRE IV : AUTRES ACTIVITES ET OPERATIONS
+Titre IV : Autres activités et opérations
 
 
 Chapitre Ier : Manutention des charges.
@@ -7074,10 +7076,10 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-LIVRE VI : INSTITUTIONS ET ORGANISMES DE PRÉVENTION
+Livre VI : Institutions et organismes de prévention
 
 
-TITRE Ier : COMITÉ D'HYGIÈNE, DE SÉCURITÉ ET DES CONDITIONS DE TRAVAIL
+Titre Ier : Comité d'hygiène, de sécurité et des conditions de travail 
 
 
 Chapitre Ier : Règles générales
@@ -7175,7 +7177,7 @@ Chapitre VI : Instance de coordination des comités d'hygiène,  de sécurité e
 
 
 
-TITRE II : SERVICES DE SANTÉ AU TRAVAIL
+Titre II : Services de santé au travail
 
 
 Chapitre Ier : Champ d'application.
@@ -7249,7 +7251,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE III : SERVICE SOCIAL DU TRAVAIL
+Titre III : Service social du travail 
 
 
 Chapitre Ier : Mise en place et missions.
@@ -7266,7 +7268,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE IV : INSTITUTIONS ET PERSONNES CONCOURANT À L'ORGANISATION DE LA PRÉVENTION
+Titre IV : Institutions et personnes concourant à l'organisation de la prévention 
 
 
 Chapitre Ier : Conseil supérieur et comités régionaux de la prévention des risques professionnels.
@@ -7325,10 +7327,10 @@ Chapitre IV : Aide à l'employeur pour la gestion de la santé et de la sécurit
 
 
 
-LIVRE VII : CONTRÔLE
+Livre VII : Contrôle
 
 
-TITRE Ier : DOCUMENTS ET AFFICHAGES OBLIGATOIRES
+Titre Ier : Documents et affichages obligatoires 
 
 
 Chapitre unique.
@@ -7339,7 +7341,7 @@ Chapitre unique.
 
 
 
-TITRE II : MISES EN DEMEURE ET DEMANDES DE VÉRIFICATIONS
+Titre II : Mises en demeure et demandes de vérifications  
 
 
 Chapitre Ier : Mises en demeure
@@ -7390,7 +7392,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE III : MESURES ET PROCÉDURES D'URGENCE
+Titre III : Mesures et procédures d'urgence  
 
 
 Chapitre Ier : Arrêts temporaires de travaux ou d'activité.
@@ -7407,7 +7409,7 @@ Chapitre II : Procédures de référé.
 
 
 
-TITRE IV : DISPOSITIONS PÉNALES
+Titre IV : Dispositions pénales 
 
 
 Chapitre Ier : Infractions aux règles de santé et de sécurité
@@ -7461,10 +7463,10 @@ Chapitre V : Infractions aux règles relatives à la médecine du travail.
 
 
 
-LIVRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre VIII : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre unique.
@@ -7475,7 +7477,7 @@ Chapitre unique.
 
 
 
-TITRE II : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHELEMY, SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON
+Titre II : Dispositions particulières aux départements d'outre-mer, Saint-Barthélemy, Saint-Martin et à Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales.
@@ -7492,7 +7494,7 @@ Chapitre II : Services de santé au travail.
 
 
 
-TITRE III : DISPOSITIONS RELATIVES À MAYOTTE, À WALLIS ET FUTUNA ET AUX TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
+Titre III :  Dispositions relatives à Mayotte, à Wallis et Futuna et aux Terres australes et antarctiques françaises   
 
 
 Chapitre unique.
@@ -7507,13 +7509,13 @@ Chapitre unique.
 
 
 
-CINQUIÈME PARTIE : L'EMPLOI
+Cinquième partie : L'emploi
 
 
-LIVRE Ier : LES DISPOSITIFS EN FAVEUR DE L'EMPLOI
+Livre Ier : Les dispositifs en faveur de l'emploi
 
 
-TITRE Ier : POLITIQUE DE L'EMPLOI
+Titre Ier : Politique de l'emploi 
 
 
 Chapitre Ier : Objet.
@@ -7530,7 +7532,7 @@ Chapitre II : Instances concourant à la politique de l'emploi
 
 
 
-TITRE II : MAINTIEN ET SAUVEGARDE DE L'EMPLOI
+Titre II : Maintien et sauvegarde de l'emploi
 
 
 Chapitre Ier : Aides à l'adaptation des salariés aux évolutions de l'emploi et des compétences et à la gestion des âges
@@ -7614,7 +7616,7 @@ Chapitre V : Accords de maintien de l'emploi
 
 
 
-TITRE III : AIDES À L'INSERTION, À L'ACCÈS ET AU RETOUR À L'EMPLOI
+Titre III : Aides à l'insertion, à l'accès et au retour à l'emploi 
 
 
 Chapitre Ier : Accompagnement personnalisé pour l'accès à l'emploi
@@ -8034,7 +8036,7 @@ Chapitre VI : Dispositions pénales.
 
 
 
-TITRE IV : AIDES À LA CRÉATION D'ENTREPRISE
+Titre IV : Aides à la création d'entreprise 
 
 
 Chapitre Ier : Aides à la création ou à la reprise d'entreprise
@@ -8082,10 +8084,10 @@ Chapitre II : Contrat d'appui au projet d'entreprise.
 
 
 
-LIVRE II : DISPOSITIONS APPLICABLES À CERTAINES CATÉGORIES DE TRAVAILLEURS
+Livre II : Dispositions applicables à certaines catégories de travailleurs 
 
 
-TITRE Ier : TRAVAILLEURS HANDICAPÉS
+Titre Ier : Travailleurs handicapés 
 
 
 Chapitre Ier : Objet des politiques en faveur de l'emploi des personnes handicapées.
@@ -8270,7 +8272,7 @@ Chapitre V : Dispositions pénales.
 
 
 
-TITRE II : TRAVAILLEURS ÉTRANGERS
+Titre II : Travailleurs étrangers 
 
 
 Chapitre Ier : Emploi d'un salarié étranger
@@ -8335,10 +8337,10 @@ Chapitre IV : Dispositions pénales.
 
 
 
-LIVRE III : SERVICE PUBLIC DE L'EMPLOI ET PLACEMENT
+Livre III : Service public de l'emploi et placement
 
 
-TITRE Ier : LE SERVICE PUBLIC DE L'EMPLOI
+Titre Ier : Le service public de l'emploi 
 
 
 Chapitre Ier : Missions et composantes du service public de l'emploi.
@@ -8367,7 +8369,7 @@ Chapitre IV : Missions locales pour l'insertion professionnelle et sociale des j
 
 
 
-TITRE II : PLACEMENT
+Titre II : Placement 
 
 
 Chapitre Ier : Principes.
@@ -8396,7 +8398,7 @@ Chapitre IV : Dispositions pénales
 
 
 
-TITRE III : DIFFUSION ET PUBLICITÉ DES OFFRES ET DEMANDES D'EMPLOI
+Titre III : Diffusion et publicité des offres et demandes d'emploi  
 
 
 Chapitre Ier : Interdictions.
@@ -8427,10 +8429,10 @@ Chapitre IV : Dispositions pénales.
 
 
 
-LIVRE IV : LE DEMANDEUR D'EMPLOI
+Livre IV : Le demandeur d'emploi 
 
 
-TITRE Ier : DROITS ET OBLIGATIONS DU DEMANDEUR D'EMPLOI
+Titre Ier : Droits et obligations du demandeur d'emploi 
 
 
 Chapitre Ier : Inscription du demandeur d'emploi et recherche d'emploi
@@ -8476,7 +8478,7 @@ Chapitre III : Dispositions pénales.
 
 
 
-TITRE II : INDEMNISATION DES TRAVAILLEURS INVOLONTAIREMENT PRIVÉS D'EMPLOI
+Titre II : Indemnisation des travailleurs involontairement privés d'emploi  
 
 
 Chapitre Ier : Dispositions générales.
@@ -8707,10 +8709,10 @@ Chapitre IX : Dispositions pénales.
 
 
 
-LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre V : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre unique.
@@ -8721,7 +8723,7 @@ Chapitre unique.
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHELEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales.
@@ -8829,7 +8831,7 @@ Section 2 : Dispositions d'adaptation.
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA ET TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 
 
 Chapitre unique.
@@ -8844,13 +8846,13 @@ Chapitre unique.
 
 
 
-SIXIÈME PARTIE : LA FORMATION PROFESSIONNELLE TOUT AU LONG DE LA VIE
+Sixième partie : La formation professionnelle tout au long de la vie 
 
 
 LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION INSTITUTIONNELLE DE LA FORMATION PROFESSIONNELLE
 
 
-TITRE Ier : PRINCIPES GÉNÉRAUX
+Titre Ier : Principes généraux 
 
 
 Chapitre Ier : Objectifs et contenu de la formation professionnelle.
@@ -8877,7 +8879,7 @@ Section 2 : Egalité d'accès des personnes handicapées et assimilées.
 
 
 
-TITRE II : RÔLE DES RÉGIONS, DE L'ÉTAT ET DES INSTITUTIONS DE LA FORMATION PROFESSIONNELLE
+Titre II : Rôle des régions, de l'Etat et des institutions de la formation professionnelle  
 
 
 Chapitre Ier : Rôle des régions.
@@ -8931,10 +8933,10 @@ Section 5 : Dispositions d'application
 
 
 
-LIVRE II : L'APPRENTISSAGE
+Livre II : L'apprentissage
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre unique.
@@ -8945,7 +8947,7 @@ Chapitre unique.
 
 
 
-TITRE II : CONTRAT D'APPRENTISSAGE
+Titre II : Contrat d'apprentissage 
 
 
 Chapitre Ier : Définition et régime juridique.
@@ -9125,7 +9127,7 @@ Chapitre VI : Entreprises de travail temporaire
 
 
 
-TITRE III : CENTRES DE FORMATION D'APPRENTIS ET SECTIONS D'APPRENTISSAGE
+Titre III : Centres de formation d'apprentis et sections d'apprentissage 
 
 
 Chapitre Ier : Missions des centres de formation d'apprentis.
@@ -9194,7 +9196,7 @@ Chapitre IV : Dispositions pénales.
 
 
 
-TITRE IV : FINANCEMENT DE L'APPRENTISSAGE
+Titre IV : Financement de l'apprentissage 
 
 
 Chapitre Ier : Taxe d'apprentissage
@@ -9269,7 +9271,7 @@ Chapitre IV : Dispositions pénales.
 
 
 
-TITRE V : INSPECTION ET CONTRÔLE DE L'APPRENTISSAGE
+Titre V : Inspection et contrôle de l'apprentissage
 
 
 Chapitre Ier : Inspection de l'apprentissage.
@@ -9326,7 +9328,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE VI : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN
+Titre VI : Dispositions particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin
 
 
 Chapitre unique.
@@ -9339,10 +9341,10 @@ Chapitre unique.
 
 
 
-LIVRE III : LA FORMATION PROFESSIONNELLE CONTINUE
+Livre III : La formation professionnelle continue 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre Ier : Objet de la formation professionnelle continue.
@@ -9383,7 +9385,7 @@ Chapitre VI : Qualité des actions       de la formation professionnelle continu
 
 
 
-TITRE II : DISPOSITIFS DE FORMATION PROFESSIONNELLE CONTINUE
+Titre II : Dispositifs de formation professionnelle continue  
 
 
 Chapitre Ier : Formations à l'initiative de l'employeur et plan de formation
@@ -9660,7 +9662,7 @@ Chapitre VI : Préparation opérationnelle à l'emploi
 
 
 
-TITRE III : FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
+Titre III : Financement de la formation professionnelle continue   
 
 
 Chapitre Ier : Participation des employeurs au développement de la formation professionnelle continue
@@ -9879,7 +9881,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE IV : STAGIAIRE DE LA FORMATION PROFESSIONNELLE
+Titre IV : Stagiaire de la formation professionnelle
 
 
 Chapitre Ier : Rémunération du stagiaire
@@ -9966,7 +9968,7 @@ Chapitre III : Conditions de travail du stagiaire.
 
 
 
-TITRE V : ORGANISMES DE FORMATION
+Titre V : Organismes de formation
 
 
 Chapitre Ier : Déclaration d'activité.
@@ -10070,7 +10072,7 @@ Chapitre V : Dispositions pénales.
 
 
 
-TITRE VI : CONTRÔLE DE LA FORMATION PROFESSIONNELLE CONTINUE
+Titre VI : Contrôle de la formation professionnelle continue  
 
 
 Chapitre Ier : Objet du contrôle et fonctionnaires de contrôle
@@ -10157,10 +10159,10 @@ Section 2 : Dispositions pénales.
 
 
 
-LIVRE IV : VALIDATION DES ACQUIS DE L'EXPÉRIENCE
+Livre IV : Validation des acquis de l'expérience 
 
 
-TITRE Ier : OBJET DE LA VALIDATION DES ACQUIS DE L'EXPÉRIENCE ET RÉGIME JURIDIQUE
+Titre Ier : Objet de la validation des acquis de l'expérience et régime juridique 
 
 
 Chapitre Ier : Objet de la validation des acquis de l'expérience.
@@ -10177,7 +10179,7 @@ Chapitre II : Régime juridique.
 
 
 
-TITRE II : MISE EN OEUVRE DE LA VALIDATION DES ACQUIS DE L'EXPÉRIENCE
+Titre II : Mise en oeuvre de la validation des acquis de l'expérience  
 
 
 Chapitre Ier : Garanties.
@@ -10225,10 +10227,10 @@ Chapitre III : Accompagnement à la validation       des acquis de l'expérience
 
 
 
-LIVRE V DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre V : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre unique.
@@ -10239,7 +10241,7 @@ Chapitre unique.
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHELEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales.
@@ -10307,13 +10309,13 @@ Chapitre IV : Validation des acquis de l'expérience.
 
 
 
-SEPTIÈME PARTIE : DISPOSITIONS PARTICULIÈRES À CERTAINES PROFESSIONS ET ACTIVITÉS
+Septième partie : Dispositions particulières à certaines professions et activités 
 
 
-LIVRE Ier : JOURNALISTES PROFESSIONNELS PROFESSIONS DU SPECTACLE, DE LA PUBLICITÉ ET DE LA MODE
+Livre Ier : Journalistes professionnels professions du spectacle, de la publicité et de la mode   
 
 
-TITRE Ier : JOURNALISTES PROFESSIONNELS
+Titre Ier : Journalistes professionnels 
 
 
 Chapitre Ier : Champ d'application et définitions
@@ -10376,7 +10378,7 @@ Chapitre IV : Dispositions pénales.
 
 
 
-TITRE II : PROFESSIONS DU SPECTACLE, DE LA PUBLICITÉ ET DE LA MODE
+Titre II : Professions du spectacle, de la publicité et de la mode 
 
 
 Chapitre Ier : Artistes du spectacle
@@ -10637,10 +10639,10 @@ Section 6 : Dispositions pénales.
 
 
 
-LIVRE II : CONCIERGES ET EMPLOYÉS D'IMMEUBLES À USAGE D'HABITATION, EMPLOYÉS DE MAISON ET SERVICES À LA PERSONNE
+Livre II : Concierges et employés d'immeubles à usage d'habitation, employés de maison et services à la personne  
 
 
-TITRE Ier : CONCIERGES ET EMPLOYÉS D'IMMEUBLES À USAGE D'HABITATION
+Titre Ier : Concierges et employés d'immeubles à usage d'habitation
 
 
 Chapitre Ier : Dispositions générales
@@ -10691,7 +10693,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE II : EMPLOYÉS DE MAISON
+Titre II : Employés de maison 
 
 
 Chapitre Ier : Dispositions générales.
@@ -10708,7 +10710,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE III : ACTIVITÉS DE SERVICES À LA PERSONNE
+Titre III : Activités de services à la personne 
 
 
 Chapitre Ier : Champ d'application.
@@ -10767,10 +10769,10 @@ Chapitre IV : Agence nationale des services à la personne.
 
 
 
-LIVRE III : VOYAGEURS, REPRÉSENTANTS OU PLACIERS, GÉRANTS DE SUCCURSALES ET ENTREPRENEURS SALARIÉS ASSOCIÉS D'UNE COOPÉRATIVE D'ACTIVITÉ ET D'EMPLOI
+Livre III : Voyageurs, représentants ou placiers, gérants de succursales et entrepreneurs salariés associés d'une coopérative d'activité et d'emploi   
 
 
-TITRE Ier : VOYAGEURS, REPRÉSENTANTS ET PLACIERS
+Titre Ier : Voyageurs, représentants et placiers
 
 
 Chapitre Ier : Champ d'application et définitions
@@ -10873,7 +10875,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE II : GÉRANTS DE SUCCURSALES
+Titre II : Gérants de succursales 
 
 
 Chapitre Ier : Dispositions générales.
@@ -10890,7 +10892,7 @@ Chapitre II : Gérants non salariés des succursales de commerce de détail alim
 
 
 
-TITRE III : ENTREPRENEURS SALARIÉS ASSOCIÉS D'UNE COOPÉRATIVE D'ACTIVITÉ ET D'EMPLOI
+Titre III : Entrepreneurs salariés associés d'une coopérative d'activité et d'emploi 
 
 
 Chapitre Ier : Dispositions générales 
@@ -10926,10 +10928,10 @@ Chapitre II : Mise en œuvre
 
 
 
-LIVRE IV : TRAVAILLEURS À DOMICILE
+Livre IV : Travailleurs à domicile
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre Ier : Champ d'application et dispositions d'application.
@@ -10952,7 +10954,7 @@ Chapitre III : Mise en oeuvre.
 
 
 
-TITRE II : RÉMUNÉRATION ET CONDITIONS DE TRAVAIL
+Titre II : Rémunération et conditions de travail  
 
 
 Chapitre Ier : Fourniture et livraison des travaux.
@@ -11011,10 +11013,10 @@ Chapitre IV : Santé et sécurité au travail.
 
 
 
-LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre V : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre unique.
@@ -11025,7 +11027,7 @@ Chapitre unique.
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHELEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales.
@@ -11040,13 +11042,13 @@ Chapitre Ier : Dispositions générales.
 
 
 
-HUITIÈME PARTIE : CONTRÔLE DE L'APPLICATION DE LA LÈGISLATION DU TRAVAIL
+Huitième partie : Contrôle de l'application de la législation du travail 
 
 
-LIVRE Ier : INSPECTION DU TRAVAIL.
+Livre Ier : Inspection du travail
 
 
-TITRE Ier : COMPÉTENCES ET MOYENS D'INTERVENTION
+Titre Ier : Compétences et moyens d'intervention  
 
 
 Chapitre Ier : Répartition des compétences entre les différents départements ministériels.
@@ -11126,7 +11128,7 @@ Chapitre IV : Dispositions pénales.
 
 
 
-TITRE II : SYSTÈME D'INSPECTION DU TRAVAIL
+Titre II : Système d'inspection du travail
 
 
 Chapitre Ier : Echelon central.
@@ -11168,10 +11170,10 @@ Section 3 : Missions spéciales temporaires confiées à des médecins et ingén
 
 
 
-LIVRE II : LUTTE CONTRE LE TRAVAIL ILLÉGAL
+Livre II : Lutte contre le travail illégal
 
 
-TITRE Ier : DÉFINITION
+Titre Ier : Définition
 
 
 Chapitre unique.
@@ -11182,7 +11184,7 @@ Chapitre unique.
 
 
 
-TITRE II : TRAVAIL DISSIMULÉ
+Titre II : Travail dissimulé 
 
 
 Chapitre Ier : Interdictions
@@ -11251,7 +11253,7 @@ Chapitre IV : Dispositions pénales.
 
 
 
-TITRE III : MARCHANDAGE
+Titre III : Marchandage
 
 
 Chapitre Ier : Interdiction.
@@ -11280,7 +11282,7 @@ Chapitre IV : Dispositions pénales.
 
 
 
-TITRE IV : PRÊT ILLICITE DE MAIN-D'OEUVRE
+Titre IV : Prêt illicite de main-d'œuvre 
 
 
 Chapitre Ier : Interdiction.
@@ -11303,7 +11305,7 @@ Chapitre III : Dispositions pénales.
 
 
 
-TITRE V : EMPLOI D'ÉTRANGERS SANS TITRE DE TRAVAIL
+Titre V : Emploi d'étrangers sans titre de travail
 
 
 Chapitre Ier : Interdictions.
@@ -11344,7 +11346,7 @@ Chapitre VI : Dispositions pénales.
 
 
 
-TITRE VI : CUMULS IRRÉGULIERS D'EMPLOIS
+Titre VI : Cumuls irréguliers d'emplois
 
 
 Chapitre Ier : Interdictions et dérogations
@@ -11372,7 +11374,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-TITRE VII : CONTRÔLE DU TRAVAIL ILLÉGAL
+Titre VII : Contrôle du travail illégal 
 
 
 Chapitre Ier : Compétence des agents
@@ -11430,7 +11432,7 @@ Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
-Titre VIII : VIGILANCE DU DONNEUR D'ORDRE EN MATIÈRE D'APPLICATION DE LA LÉGISLATION DU TRAVAIL.
+Titre VIII : Vigilance du donneur d'ordre en matière d'application de la législation du travail  
 
 
 Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
@@ -11443,10 +11445,10 @@ Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
 
 
 
-LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre III : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre unique.
@@ -11457,7 +11459,7 @@ Chapitre unique.
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHELEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales.
@@ -11502,7 +11504,7 @@ Sous-section 2 : Dispositions pénales.
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA ET TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 
 
 Chapitre unique.
@@ -11521,13 +11523,13 @@ Chapitre unique.
 Partie réglementaire  
 
 
-PREMIÈRE PARTIE : LES RELATIONS INDIVIDUELLES DE TRAVAIL
+Première partie : Les relations individuelles de travail 
 
 
-LIVRE Ier : DISPOSITIONS PRÉLIMINAIRES
+Livre Ier : Dispositions préliminaires 
 
 
-TITRE Ier : CHAMP D'APPLICATION ET CALCUL  DES SEUILS D'EFFECTIFS
+Titre Ier : Champ d'application et calcul des seuils d'effectifs
 
 
  Chapitre unique
@@ -11538,21 +11540,21 @@ TITRE Ier : CHAMP D'APPLICATION ET CALCUL  DES SEUILS D'EFFECTIFS
 
 
 
-TITRE II : DROITS ET LIBERTÉS DANS L'ENTREPRISE
+Titre II : Droits et libertés dans l'entreprise 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE III : DISCRIMINATIONS
+Titre III : Discriminations 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE IV : ÉGALITÉ PROFESSIONNELLE  ENTRE LES FEMMES ET LES HOMMES
+Titre IV : Egalité professionnelle entre les femmes et les hommes 
 
 
 Chapitre Ier : Champ d'application
@@ -11652,14 +11654,14 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE V : HARCÈLEMENTS
+Titre V : Harcèlements 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE VI : CORRUPTION
+Titre VI : Corruption 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
@@ -11668,17 +11670,17 @@ Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
-LIVRE II : LE CONTRAT DE TRAVAIL
+Livre II : Le contrat de travail 
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : FORMATION ET EXÉCUTION  DU CONTRAT DE TRAVAIL
+Titre II : Formation et exécution du contrat de travail 
 
 
 Chapitre Ier : Formation du contrat de travail
@@ -11882,7 +11884,7 @@ Chapitre VII : Dispositions pénales
 
 
 
-TITRE III : RUPTURE DU CONTRAT DE TRAVAIL  À DURÉE INDÉTERMINÉE
+Titre III : Rupture du contrat de travail à durée indéterminée 
 
 
 Chapitre Ier : Dispositions générales
@@ -12092,7 +12094,7 @@ Chapitre VIII : Dispositions pénales
 
 
 
-TITRE IV : CONTRAT DE TRAVAIL À DURÉE DÉTERMINÉE
+Titre IV : Contrat de travail à durée déterminée 
 
 
 Chapitre Ier : Champ d'application
@@ -12176,7 +12178,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE V : CONTRATS DE TRAVAIL TEMPORAIRE  ET AUTRES CONTRATS DE MISE À DISPOSITION
+Titre V : Contrats de travail temporaire et autres contrats de mise à disposition 
 
 
 Chapitre Ier : Contrat de travail conclu  avec une entreprise de travail temporaire
@@ -12387,7 +12389,7 @@ Section 2 : Groupements d'employeurs
 
 
 
-TITRE VI : SALARIÉS DÉTACHÉS TEMPORAIREMENT  PAR UNE ENTREPRISE NON ÉTABLIE EN FRANCE
+Titre VI : Salariés détachés temporairement par une entreprise non établie en France 
 
 
 Chapitre Ier : Dispositions générales
@@ -12474,7 +12476,7 @@ Chapitre IV : Dispositions pénales
 
 
 
-TITRE VII : CHÈQUES ET TITRES SIMPLIFIÉS DE TRAVAIL
+Titre VII : Chèques et titres simplifiés de travail 
 
 
 Chapitre Ier : Chèque emploi-service universel
@@ -12533,17 +12535,17 @@ Chapitre IV : Employeurs non établis en France
 
 
 
-LIVRE III : LE RÈGLEMENT INTÉRIEUR  ET LE DROIT DISCIPLINAIRE
+Livre III : Le règlement intérieur et le droit disciplinaire 
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : RÈGLEMENT INTÉRIEUR
+Titre II : Règlement intérieur 
 
 
 Chapitre Ier : Contenu et conditions de validité
@@ -12566,7 +12568,7 @@ Chapitre III : Dispositions pénales
 
 
 
-TITRE III : DROIT DISCIPLINAIRE
+Titre III : Droit disciplinaire
 
 
 Chapitre Ier : Sanction disciplinaire
@@ -12611,10 +12613,10 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-LIVRE IV : LA RÉSOLUTION DES LITIGES  LE CONSEIL DE PRUD'HOMMES
+Livre IV : La résolution des litiges - Le conseil de prud'hommes 
 
 
-TITRE Ier : ATTRIBUTIONS DU CONSEIL DE PRUD'HOMMES
+Titre Ier : Attributions du conseil de prud'hommes 
 
 
 Chapitre Ier : Compétence en raison de la matière
@@ -12632,7 +12634,7 @@ Chapitre II : Compétence territoriale
 
 
 
-TITRE II : INSTITUTION, ORGANISATION ET FONCTIONNEMENT
+Titre II : Institution, organisation et fonctionnement 
 
 
 Chapitre Ier : Dispositions générales
@@ -12766,7 +12768,7 @@ Sous-section 5 : Présidents et vice-présidents
 
 
 
-TITRE III : CONSEIL SUPÉRIEUR DE LA PRUD'HOMIE
+Titre III : Conseil supérieur de la prud'homie 
 
 
  Chapitre unique
@@ -12794,7 +12796,7 @@ Section 3 : Organisation et fonctionnement
 
 
 
-TITRE IV : CONSEILLERS PRUD'HOMMES
+Titre IV : Conseillers prud'hommes 
 
 
 Chapitre Ier : Election
@@ -13084,7 +13086,7 @@ Chapitre III : Dispositions pénales
 
 
 
-TITRE V : PROCÉDURE DEVANT LE CONSEIL DE PRUD'HOMMES
+Titre V : Procédure devant le conseil de prud'hommes 
 
 
 Chapitre Ier : Dispositions générales
@@ -13182,7 +13184,7 @@ Chapitre VII : Récusation
 
 
 
-TITRE VI : VOIES DE RECOURS
+Titre VI : Voies de recours 
 
 
 Chapitre Ier : Appel
@@ -13205,7 +13207,7 @@ Chapitre III : Opposition
 
 
 
-TITRE VII : MÉDIATION
+Titre VII : Médiation
  (Articles R1471-1 à R1471-2)
 
 
@@ -13213,17 +13215,17 @@ TITRE VII : MÉDIATION
 
 
 
-LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre V : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales
@@ -13247,7 +13249,7 @@ Chapitre III : Le conseil de prud'hommes
 
 
 
-TITRE III : MAYOTTE, WALLIS-ET-FUTUNA  ET TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
@@ -13258,20 +13260,22 @@ Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
-DEUXIÈME PARTIE : LES RELATIONS COLLECTIVES DE TRAVAIL
+Deuxième partie : Les relations collectives de travail 
 
 
-LIVRE Ier : LES SYNDICATS PROFESSIONNELS
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Livre Ier : Les syndicats professionnels 
+
+
+Titre Ier : Champ d'application 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : REPRÉSENTATIVITÉ SYNDICALE
+Titre II : Représentativité syndicale 
 
 
 Chapitre Ier : Critères de représentativité
@@ -13506,7 +13510,7 @@ Section 4 : Voies de recours
 
 
 
-TITRE III : STATUT JURIDIQUE
+Titre III : Statut juridique
 
 
 Chapitre Ier : Objet et constitution
@@ -13550,7 +13554,7 @@ Le présent chapitre ne comporte pas de dispositions règlementaires
 
 
 
-TITRE IV : EXERCICE DU DROIT SYNDICAL
+Titre IV : Exercice du droit syndical 
 
 
 Chapitre Ier : Principes
@@ -13624,24 +13628,24 @@ Chapitre VI : Dispositions pénales
 
 
 
-LIVRE II :  LA NÉGOCIATION COLLECTIVE. ― LES CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL
+Livre II : La négociation collective - Les conventions et accords collectifs de travail 
 
 
-TITRE Ier : DISPOSITIONS PRÉLIMINAIRES
+Titre Ier : Dispositions préliminaires 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : OBJET ET CONTENU DES CONVENTIONS  ET ACCORDS COLLECTIFS DE TRAVAIL
+Titre II : Objet et contenu des conventions et accords collectifs de travail 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE III : CONDITIONS DE NÉGOCIATION ET DE CONCLUSION DES CONVENTIONS ET ACCORDS COLLECTIFS DE TRAVAIL
+Titre III : Conditions de négociation et de conclusion des conventions et accords collectifs de travail 
 
 
 Chapitre Ier : Conditions de validité
@@ -13712,7 +13716,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE IV : DOMAINES ET PÉRIODICITÉ  DE LA NÉGOCIATION OBLIGATOIRE
+Titre IV : Domaines et périodicité de la négociation obligatoire 
 
 
 Chapitre premier : Négociation de branche et professionnelle
@@ -13781,14 +13785,14 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE V : ARTICULATION DES CONVENTIONS ET ACCORDS
+Titre V : Articulation des conventions et accords 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE VI : APPLICATION DES CONVENTIONS  ET ACCORDS COLLECTIFS
+Titre VI : Application des conventions et accords collectifs 
 
 
 Chapitre Ier : Conditions d'applicabilité des conventions et accords
@@ -13839,7 +13843,7 @@ Chapitre III : Dispositions pénales
 
 
 
-TITRE VII : COMMISSION NATIONALE DE LA NÉGOCIATION  COLLECTIVE
+Titre VII : Commission nationale de la négociation collective 
 
 
 Chapitre Ier : Missions
@@ -13867,7 +13871,7 @@ Section 2 : Sous-commissions
 
 
 
-TITRE VIII : DROIT D'EXPRESSION DIRECTE ET COLLECTIVE  DES SALARIÉS
+Titre VIII : Droit d'expression directe et collective des salariés 
 
 
 Chapitre Ier : Dispositions communes
@@ -13894,10 +13898,10 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-LIVRE III : LES INSTITUTIONS REPRÉSENTATIVES  DU PERSONNEL
+Livre III : Les institutions représentatives du personnel 
 
 
-TITRE Ier : DÉLÉGUÉ DU PERSONNEL
+Titre Ier : Délégué du personnel 
 
 
 Chapitre Ier : Champ d'application
@@ -14003,7 +14007,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE II : COMITÉ D'ENTREPRISE
+Titre II : Comité d'entreprise 
 
 
 Chapitre Ier : Champ d'application
@@ -14326,7 +14330,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE III : COMITÉ DE GROUPE
+Titre III : Comité de groupe 
 
 
 Chapitre Ier : Mise en place
@@ -14356,7 +14360,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE IV : COMITÉ D'ENTREPRISE EUROPÉEN OU PROCÉDURE D'INFORMATION ET DE CONSULTATION DANS LES ENTREPRISES DE DIMENSION COMMUNAUTAIRE
+Titre IV : Comité d'entreprise européen ou procédure d'information et de consultation dans les entreprises de dimension communautaire 
 
 
 Chapitre Ier : Champ d'application et mise en place
@@ -14411,7 +14415,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE V : IMPLICATION DES SALARIÉS DANS LA SOCIÉTÉ EUROPÉENNE ET COMITÉ DE LA SOCIÉTÉ EUROPÉENNE
+Titre V : Implication des salariés dans la société européenne et comité de la société européenne 
 
 
 Chapitre Ier : Dispositions générales
@@ -14491,7 +14495,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE VI : IMPLICATION DES SALARIÉS DANS LA SOCIÉTÉ COOPÉRATIVE EUROPÉENNE ET COMITÉ DE LA SOCIÉTÉ COOPÉRATIVE EUROPÉENNE
+Titre VI : Implication des salariés dans la société coopérative européenne et comité de la société coopérative européenne 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
@@ -14571,7 +14575,7 @@ Chapitre V : Dispositions pénales.
 
 
 
-TITRE VII : PARTICIPATION DES SALARIÉS DANS LES SOCIÉTÉS ISSUES DE FUSIONS TRANSFRONTALIÈRES
+Titre VII : Participation des salariés dans les sociétés issues de fusions transfrontalières 
 
 
 
@@ -14663,7 +14667,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE VIII : COMITÉ D'HYGIÈNE, DE SÉCURITÉ  ET DES CONDITIONS DE TRAVAIL
+Titre VIII : Comité d'hygiène, de sécurité et des conditions de travail 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
@@ -14671,10 +14675,10 @@ Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
-LIVRE IV : LES SALARIÉS PROTÉGÉS
+Livre IV : Les salariés protégés 
 
 
-TITRE Ier : CAS, DURÉES ET PÉRIODES DE PROTECTION
+Titre Ier : Cas, durées et périodes de protection 
 
 
 Chapitre Ier : Protection en cas de licenciement
@@ -14706,7 +14710,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE II : PROCÉDURES D'AUTORISATION APPLICABLES  À LA RUPTURE OU AU TRANSFERT DU CONTRAT
+Titre II : Procédures d'autorisation applicables à la rupture ou au transfert du contrat 
 
 
 Chapitre Ier : Demande d'autorisation et instruction de la demande
@@ -14745,7 +14749,7 @@ Chapitre II : Contestation de la décision administrative
 
 
 
-TITRE III : DISPOSITIONS PÉNALES
+Titre III : Dispositions pénales 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
@@ -14754,17 +14758,17 @@ Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
-LIVRE V : LES CONFLITS COLLECTIFS
+Livre V : Les conflits collectifs 
 
 
-TITRE Ier : EXERCICE DU DROIT DE GRÈVE
+Titre Ier : Exercice du droit de grève 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : PROCÉDURE DE RÈGLEMENT  DES CONFLITS COLLECTIFS
+Titre II : Procédure de règlement des conflits collectifs 
 
 
 Chapitre Ier : Dispositions générales
@@ -14879,17 +14883,17 @@ Chapitre V : Dispositions pénales
 
 
 
-LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre VI : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT BARTHÉLEMY,  SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales
@@ -14934,7 +14938,7 @@ Sous-section 3 : Fonctionnement
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA ET TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
@@ -14945,20 +14949,20 @@ Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
-TROISIÈME PARTIE : DURÉE DU TRAVAIL, SALAIRE, INTÉRESSEMENT,  PARTICIPATION ET ÉPARGNE SALARIALE
+Troisième partie : Durée du travail, salaire, intéressement, participation et épargne salariale 
 
 
-LIVRE Ier : DURÉE DU TRAVAIL, REPOS ET CONGÉS
+Livre Ier : Durée du travail, repos et congés 
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DURÉE DU TRAVAIL, RÉPARTITION  ET AMÉNAGEMENT DES HORAIRES
+Titre II : Durée du travail, répartition et aménagement des horaires 
 
 
 Chapitre Ier : Durée du travail
@@ -15144,7 +15148,7 @@ Chapitre IV : Dispositions pénales
 
 
 
-TITRE III : REPOS ET JOURS FÉRIÉS
+Titre III : Repos et jours fériés 
 
 
 Chapitre Ier : Repos quotidien
@@ -15269,7 +15273,7 @@ Chapitre V : Dispositions pénales
 
 
 
-TITRE IV : CONGÉS PAYÉS ET AUTRES CONGÉS
+Titre IV : Congés payés et autres congés 
 
 
 Chapitre Ier : Congés payés
@@ -15446,7 +15450,7 @@ Chapitre III : Dispositions pénales
 
 
 
-TITRE V : COMPTE ÉPARGNE-TEMPS
+Titre V : Compte épargne-temps 
 
 
 Chapitre Ier : Objet et mise en place
@@ -15478,7 +15482,7 @@ Chapitre IV : Gestion et liquidation
 
 
 
-TITRE VI : DISPOSITIONS PARTICULIÈRES  AUX JEUNES TRAVAILLEURS
+Titre VI : Dispositions particulières aux jeunes travailleurs 
 
 
 Chapitre Ier : Définitions
@@ -15532,7 +15536,7 @@ Chapitre V : Dispositions pénales
 
 
 
-TITRE VII : CONTRÔLE DE LA DURÉE  DU TRAVAIL ET DES REPOS
+Titre VII : Contrôle de la durée du travail et des repos 
 
 
 Chapitre Ier : Contrôle de la durée du travail
@@ -15591,10 +15595,10 @@ Chapitre III : Dispositions pénales
 
 
 
-LIVRE II : SALAIRE ET AVANTAGES DIVERS
+Livre II : Salaire et avantages divers 
 
 
-TITRE Ier : CHAMP D'APPLICATION
+Titre Ier : Champ d'application 
 
 
  Chapitre unique
@@ -15605,7 +15609,7 @@ TITRE Ier : CHAMP D'APPLICATION
 
 
 
-TITRE II : ÉGALITÉ DE RÉMUNÉRATION  ENTRE LES FEMMES ET LES HOMMES
+Titre II : Egalité de rémunération entre les femmes et les hommes 
 
 
 Chapitre Ier : Principes
@@ -15622,7 +15626,7 @@ Chapitre II : Dispositions pénales
 
 
 
-TITRE III : DÉTERMINATION DU SALAIRE
+Titre III : Détermination du salaire 
 
 
 Chapitre Ier : Salaire minimum  interprofessionnel de croissance
@@ -15696,7 +15700,8 @@ Chapitre III : Dispositions pénales
 
 
 
-TITRE IV : PAIEMENT DU SALAIRE
+Titre IV : Paiement du salaire 
+
 
 
 Chapitre Ier : Dispositions générales
@@ -15739,7 +15744,7 @@ Chapitre VI : Dispositions pénales
 
 
 
-TITRE V : PROTECTION DU SALAIRE
+Titre V : Protection du salaire 
 
 
 Chapitre Ier : Retenues
@@ -15828,7 +15833,7 @@ Chapitre V : Dispositions pénales
 
 
 
-TITRE VI : AVANTAGES DIVERS
+Titre VI : Avantages divers 
 
 
 Chapitre Ier : Frais de transport
@@ -15927,10 +15932,10 @@ Section 6 : Dispositions pénales
 
 
 
-LIVRE III : INTÉRESSEMENT, PARTICIPATION  ET ÉPARGNE SALARIALE
+Livre III : Dividende du travail : intéressement, participation et épargne salariale 
 
 
-TITRE Ier : INTÉRESSEMENT
+Titre Ier : Intéressement 
 
 
 Chapitre Ier : Champ d'application
@@ -15994,7 +15999,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE II : PARTICIPATION AUX RÉSULTATS DE L'ENTREPRISE
+Titre II : Participation aux résultats de l'entreprise 
 
 
 Chapitre Ier : Champ d'application
@@ -16098,7 +16103,7 @@ Chapitre VI : Contestations et sanctions
 
 
 
-TITRE III : PLANS D'ÉPARGNE SALARIALE
+Titre III : Plans d'épargne salariale
 
 
 Chapitre Ier : Champ d'application
@@ -16185,7 +16190,7 @@ Chapitre V : Transferts
 
 
 
-TITRE IV : DISPOSITIONS COMMUNES
+Titre IV : Dispositions communes 
 
 
 Chapitre Ier : Représentation et information des salariés
@@ -16247,17 +16252,17 @@ Chapitre VI : Conseil d'orientation de la participation, de l'intéressement de 
 
 
 
-LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre IV : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY,  SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales
@@ -16323,7 +16328,7 @@ Section 3 : Dispositions pénales.
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA  ET TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
@@ -16334,20 +16339,20 @@ Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
-QUATRIÈME PARTIE : SANTÉ ET SÉCURITÉ AU TRAVAIL
+Quatrième partie : Santé et sécurité au travail 
 
 
-LIVRE Ier : DISPOSITIONS GÉNÉRALES
+Livre Ier : Dispositions générales 
 
 
-TITRE Ier : CHAMP ET DISPOSITIONS D'APPLICATION
+Titre Ier : Champ et dispositions d'application 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : PRINCIPES GÉNÉRAUX DE PRÉVENTION
+Titre II : Principes généraux de prévention 
 
 
 Chapitre Ier : Obligations de l'employeur
@@ -16376,7 +16381,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE III : DROITS D'ALERTE ET DE RETRAIT
+Titre III : Droits d'alerte et de retrait 
 
 
 Chapitre Ier : Principes
@@ -16400,7 +16405,7 @@ Chapitre III -  Droit d'alerte en matière de santé publique et d'environnement
 
 
 
-TITRE IV : INFORMATION ET FORMATION DES TRAVAILLEURS
+Titre IV : Information et formation des travailleurs 
 
 
 Chapitre Ier : Obligation générale d'information et de formation
@@ -16447,7 +16452,7 @@ Chapitre III : Consultation des représentants du personnel
 
 
 
-TITRE V : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE TRAVAILLEURS
+Titre V : Dispositions particulières à certaines catégories de travailleurs 
 
 
 Chapitre Ier : Champ d'application
@@ -16682,7 +16687,7 @@ Chapitre IV : Salariés titulaires d'un contrat de travail  à durée détermin�
 
 
 
-TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINS FACTEURS DE RISQUES PROFESSIONNELS ET À LA PÉNIBILITÉ
+Titre VI : Dispositions particulières à certains facteurs de risques professionnels et à la pénibilité 
 
 
 Chapitre Ier : Fiche de prévention des expositions 
@@ -16699,10 +16704,10 @@ Chapitre III : Accords en faveur de la prévention de la pénibilité
 
 
 
-LIVRE II : DISPOSITIONS APPLICABLES  AUX LIEUX DE TRAVAIL
+Livre II : Dispositions applicables aux lieux de travail 
 
 
-TITRE Ier : OBLIGATIONS DU MAÎTRE D'OUVRAGE  POUR LA CONCEPTION DES LIEUX DE TRAVAIL
+Titre Ier : Obligations du maître d'ouvrage pour la conception des lieux de travail 
 
 
 Chapitre Ier : Principes généraux
@@ -16870,7 +16875,7 @@ Chapitre VII : Installations sanitaires, restauration
 
 
 
-TITRE II : OBLIGATIONS DE L'EMPLOYEUR POUR L'UTILISATION  DES LIEUX DE TRAVAIL
+Titre II : Obligations de l'employeur pour l'utilisation des lieux de travail 
 
 
 Chapitre Ier : Dispositions générales
@@ -17178,10 +17183,10 @@ Chapitre VIII : Installations sanitaires,  restauration et hébergement
 
 
 
-LIVRE III : ÉQUIPEMENTS DE TRAVAIL  ET MOYENS DE PROTECTION
+Livre III : Equipements de travail et moyens de protection 
 
 
-TITRE Ier : CONCEPTION ET MISE SUR LE MARCHÉ DES ÉQUIPEMENTS DE TRAVAIL ET DES MOYENS DE PROTECTION
+Titre Ier : Conception et mise sur le marché des équipements de travail et des moyens de protection 
 
 
 Chapitre Ier : Règles générales
@@ -17430,7 +17435,7 @@ Annexes
 
 
 
-TITRE II : UTILISATION DES ÉQUIPEMENTS DE TRAVAIL  ET DES MOYENS DE PROTECTION
+Titre II : Utilisation des équipements de travail et des moyens de protection 
 
 
 Chapitre Ier : Règles générales
@@ -17674,10 +17679,10 @@ Section 4 : Prescriptions complémentaires pour les équipements de travail dess
 
 
 
-LIVRE IV : PRÉVENTION DE CERTAINS RISQUES  D'EXPOSITION
+Livre IV : Prévention de certains risques d'exposition 
 
 
-TITRE Ier : RISQUES CHIMIQUES
+Titre Ier : Risques chimiques 
 
 
 Chapitre Ier : Mise sur le marché des substances et mélanges
@@ -18034,7 +18039,7 @@ Sous-section 4 : Dispositions particulières aux interventions sur des matériau
 
 
 
-TITRE II : PRÉVENTION DES RISQUES BIOLOGIQUES
+Titre II : Prévention des risques biologiques 
 
 
 Chapitre Ier : Dispositions générales
@@ -18126,7 +18131,7 @@ Chapitre VII : Déclaration administrative
 
 
 
-TITRE III : PRÉVENTION DES RISQUES D'EXPOSITION AU BRUIT
+Titre III : Prévention des risques d'exposition au bruit 
 
 
 Chapitre Ier : Dispositions générales
@@ -18195,7 +18200,7 @@ Chapitre VII : Dispositions dérogatoires
 
 
 
-TITRE IV : PRÉVENTION DES RISQUES D'EXPOSITION  AUX VIBRATIONS MÉCANIQUES
+Titre IV : Prévention des risques d'exposition aux vibrations mécaniques
 
 
 Chapitre Ier : Dispositions générales
@@ -18242,7 +18247,7 @@ Chapitre VII : Information et formation des travailleurs
 
 
 
-TITRE V : PRÉVENTION DES RISQUES D'EXPOSITION  AUX RAYONNEMENTS
+Titre V : Prévention des risques d'exposition aux rayonnements 
 
 
 Chapitre Ier : Prévention des risques d'exposition aux rayonnements ionisants
@@ -18588,7 +18593,7 @@ Chapitre III : Prévention des risques d'exposition aux champs électromagnétiq
 
 
 
-TITRE VI : AUTRES RISQUES
+Titre VI : Autres risques 
 
 
 Chapitre Ier : Prévention des risques en milieu hyperbare 
@@ -18952,10 +18957,10 @@ Section 7 : Dispositions administratives
 
 
 
-LIVRE V : PRÉVENTION DES RISQUES LIÉS  À CERTAINES ACTIVITÉS OU OPÉRATIONS
+Livre V : Prévention des risques liés à certaines activités ou opérations 
 
 
-TITRE Ier : TRAVAUX RÉALISÉS DANS UN ÉTABLISSEMENT  PAR UNE ENTREPRISE EXTÉRIEURE
+Titre Ier : Travaux réalisés dans un établissement par une entreprise extérieure 
 
 
 Chapitre Ier : Dispositions générales
@@ -19075,7 +19080,7 @@ Chapitre V : Opérations de chargement et de déchargement
 
 
 
-TITRE II : INSTALLATIONS NUCLÉAIRES DE BASE ET INSTALLATIONS SUSCEPTIBLES DE DONNER LIEU À DES SERVITUDES D'UTILITÉ PUBLIQUE
+Titre II : Installations nucléaires de base et installations susceptibles de donner lieu à des servitudes d'utilité publique 
 
 
 Chapitre Ier : Champ d'application
@@ -19176,7 +19181,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE III : BÂTIMENT ET GÉNIE CIVIL
+Titre III : Bâtiment et génie civil 
 
 
 Chapitre Ier : Principes de prévention
@@ -19616,7 +19621,7 @@ Section 5 : Risque hyperbare
 
 
 
-TITRE IV : AUTRES ACTIVITÉS ET OPERATIONS.
+Titre IV : Autres activités et opérations 
 
 
 Chapitre Ier : Manutention des charges
@@ -19791,10 +19796,10 @@ Section 4 : Travailleurs autorisés à effectuer des opérations sur les install
 
 
 
-LIVRE VI : INSTITUTIONS ET ORGANISMES  DE PRÉVENTION
+Livre VI : Institutions et organismes de prévention 
 
 
-TITRE Ier : COMITÉ D'HYGIÈNE, DE SÉCURITÉ  ET DES CONDITIONS DE TRAVAIL
+Titre Ier : Comité d'hygiène, de sécurité et des conditions de travail 
 
 
 Chapitre Ier : Règles générales
@@ -19959,7 +19964,7 @@ Section 2 : Fonctionnement
 
 
 
-TITRE II : SERVICES DE SANTÉ AU TRAVAIL
+Titre II : Services de santé au travail 
 
 
 Chapitre Ier : Champ d'application
@@ -20495,7 +20500,7 @@ Sous-section 2 : Dossier médical et fiche médicale d'aptitude.
 
 
 
-TITRE III : SERVICE SOCIAL DU TRAVAIL
+Titre III : Service social du travail 
 
 
 Chapitre Ier : Mise en place et missions
@@ -20512,7 +20517,7 @@ Chapitre II : Organisation et fonctionnement
 
 
 
-TITRE IV : INSTITUTIONS CONCOURANT  À L'ORGANISATION DE LA PRÉVENTION
+Titre IV : Institutions concourant à l'organisation de la prévention 
 
 
 Chapitre Ier : Conseil d'orientation sur les conditions de travail et comités régionaux de la prévention des risques professionnels.
@@ -20719,10 +20724,10 @@ Section 2 : Enregistrement.
 
 
 
-LIVRE VII : CONTRÔLE
+Livre VII : Contrôle 
 
 
-TITRE Ier : DOCUMENTS ET AFFICHAGES OBLIGATOIRES
+Titre Ier : Documents et affichages obligatoires 
 
 
  Chapitre unique
@@ -20733,7 +20738,7 @@ TITRE Ier : DOCUMENTS ET AFFICHAGES OBLIGATOIRES
 
 
 
-TITRE II : MISES EN DEMEURE  ET DEMANDES DE VÉRIFICATION
+Titre II : Mises en demeure et demandes de vérification
 
 
 Chapitre Ier : Mises en demeure
@@ -20924,7 +20929,7 @@ Section 6 : Vérification des installations électriques
 
 
 
-TITRE III : MESURES ET PROCÉDURES D'URGENCE
+Titre III : Mesures et procédures d'urgence 
 
 
 Chapitre Ier : Arrêts temporaires de travaux ou d'activité
@@ -20953,7 +20958,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE IV : DISPOSITIONS PÉNALES
+Titre IV : Dispositions pénales 
 
 
 Chapitre Ier : Infractions aux règles de santé et de sécurité
@@ -21009,17 +21014,17 @@ Chapitre V : Infractions aux règles relatives  à la médecine du travail
 
 
 
-LIVRE VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre VIII : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY,  SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales
@@ -21037,7 +21042,7 @@ Chapitre II : Services de santé au travail
 
 
 
-TITRE III : DISPOSITIONS RELATIVES À MAYOTTE, À WALLIS-ET-FUTUNA ET AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES
+Titre III : Dispositions relatives à Mayotte, à Wallis et Futuna et aux Terres australes et antarctiques françaises 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
@@ -21048,13 +21053,13 @@ Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
-CINQUIÈME PARTIE : L'EMPLOI
+Cinquième partie : L'emploi 
 
 
-LIVRE Ier : LES DISPOSITIFS EN FAVEUR DE L'EMPLOI
+Livre Ier : Les dispositifs en faveur de l'emploi 
 
 
-TITRE Ier : POLITIQUE DE L'EMPLOI
+Titre Ier : Politique de l'emploi 
 
 
 Chapitre Ier : Objet
@@ -21101,7 +21106,7 @@ Section 4 : Demandes d'informations relatives à certains dispositifs d'aides à
 
 
 
-TITRE II : AIDES AU MAINTIEN ET À LA SAUVEGARDE  DE L'EMPLOI
+Titre II : Aides au maintien et à la sauvegarde de l'emploi 
 
 
 Chapitre Ier : Aides à l'adaptation des salariés aux évolutions  de l'emploi et des compétences et à la gestion des âges
@@ -21267,7 +21272,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE III : AIDES À L'INSERTION, À L'ACCÈS  ET AU RETOUR À L'EMPLOI
+Titre III : Aides à l'insertion, à l'accès et au retour à l'emploi 
 
 
 Chapitre Ier : Accompagnement personnalisé  pour l'accès à l'emploi
@@ -21351,8 +21356,8 @@ Sous-section 2 : Aide financière
 
 
 
-Sous-section 3 : Période d'immersion.
- (Articles D5132-10-1 à D5132-10-5)
+Sous-section 3 : Périodes de mise en situation en milieu professionnel.
+ (Articles D5132-10-1 à D5132-10-4)
 
 
 
@@ -21397,8 +21402,8 @@ Sous-section 3 : Aide financière
 
 
 
-Sous-section 4 : Période d'immersion.
- (Articles D5132-26-1 à D5132-26-5)
+Sous-section 4 : Périodes de mise en situation en milieu professionnel.
+ (Articles D5132-26-1 à D5132-26-4)
 
 
 
@@ -21432,8 +21437,8 @@ Sous-section 3 : Aide financière
 
 
 
-Sous-section 4 : Période d'immersion.
- (Articles D5132-43-1 à D5132-43-5)
+Sous-section 4 : Périodes de mise en situation en milieu professionnel.
+ (Articles D5132-43-1 à D5132-43-4)
 
 
 
@@ -21554,8 +21559,8 @@ Paragraphe 2 : Exonérations
 
 
 
-Sous-section 5 : Périodes d'immersion
- (Articles D5134-50-1 à D5134-50-8)
+Sous-section 5 : Périodes de mise en situation en milieu professionnel
+ (Articles D5134-50-1 à D5134-50-3)
 
 
 
@@ -21579,6 +21584,12 @@ Sous-section 2 : Accompagnement
 
 Sous-section 3 : Aide financière
  (Articles R5134-63 à R5134-70)
+
+
+
+
+Sous-section 4 : Périodes de mise en situation en milieu professionnel
+ (Articles D5134-71-1 à D5134-71-3)
 
 
 
@@ -21650,16 +21661,15 @@ Section 8 : Emploi d'avenir professeur
 
 
 
-Chapitre V : Dispositions pénales
-Le présent chapitre ne comprend pas de dispositions réglementaires.
+Chapitre V : Périodes de mise en situation en milieu professionnel
+ (Articles D5135-1 à D5135-8)
 
 
 
 
 
 
-
-TITRE IV : AIDES À LA CRÉATION D'ENTREPRISE
+Titre IV : Aides à la création d'entreprise 
 
 
 Chapitre Ier : Aides à la création ou à la reprise d'entreprise
@@ -21740,10 +21750,10 @@ Chapitre II : Contrat d'appui au projet d'entreprise
 
 
 
-LIVRE II : DISPOSITIONS APPLICABLES  À CERTAINES CATÉGORIES DE TRAVAILLEURS
+Livre II : Dispositions applicables à certaines catégories de travailleurs 
 
 
-TITRE Ier : TRAVAILLEURS HANDICAPÉS
+Titre Ier : Travailleurs handicapés 
 
 
 Chapitre Ier : Objet des politiques en faveur  de l'emploi des personnes handicapées
@@ -21968,7 +21978,7 @@ Chapitre V : Dispositions pénales
 
 
 
-TITRE II : TRAVAILLEURS ÉTRANGERS
+Titre II : Travailleurs étrangers 
 
 
 Chapitre Ier : Emploi d'un salarié étranger
@@ -22125,10 +22135,10 @@ Chapitre IV : Dispositions pénales
 
 
 
-LIVRE III : SERVICE PUBLIC DE L'EMPLOI ET PLACEMENT
+Livre III : Service public de l'emploi et placement 
 
 
-TITRE Ier : LE SERVICE PUBLIC DE L'EMPLOI
+Titre Ier : Le service public de l'emploi 
 
 
 Chapitre Ier : Missions et composantes du service public de l'emploi
@@ -22260,7 +22270,7 @@ Chapitre IV : Missions locales pour l'insertion professionnelle  et sociale des 
 
 
 
-TITRE II : PLACEMENT
+Titre II : Placement 
 
 
 Chapitre Ier : Principes
@@ -22341,10 +22351,10 @@ Chapitre IV : Dispositions pénales
 
 
 
-LIVRE IV : LE DEMANDEUR D'EMPLOI
+Livre IV : Le demandeur d'emploi 
 
 
-TITRE Ier : DROITS ET OBLIGATIONS DU DEMANDEUR D'EMPLOI
+Titre Ier : Droits et obligations du demandeur d'emploi 
 
 
 Chapitre Ier : Inscription du demandeur d'emploi  et recherche d'emploi
@@ -22408,7 +22418,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE II : INDEMNISATION DES TRAVAILLEURS  INVOLONTAIREMENT PRIVÉS D'EMPLOI
+Titre II : Indemnisation des travailleurs involontairement privés d'emploi 
 
 
 Chapitre Ier : Dispositions générales
@@ -22737,17 +22747,17 @@ Chapitre IX : Dispositions pénales
 
 
 
-LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre V : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY,  SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales
@@ -22927,7 +22937,7 @@ Chapitre IV : Le demandeur d'emploi
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA  ET TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 
 
  Chapitre unique
@@ -22942,13 +22952,13 @@ TITRE III : MAYOTTE, WALLIS ET FUTUNA  ET TERRES AUSTRALES ET ANTARCTIQUES FRAN�
 
 
 
-SIXIÈME PARTIE : LA FORMATION PROFESSIONNELLE  TOUT AU LONG DE LA VIE
+Sixième partie : La formation professionnelle tout au long de la vie 
 
 
-LIVRE Ier :  PRINCIPES GÉNÉRAUX ET ORGANISATION INSTITUTIONNELLE DE LA FORMATION PROFESSIONNELLE
+Livre Ier : Principes généraux et organisation institutionnelle de la formation professionnelle 
 
 
-TITRE Ier : PRINCIPES GÉNÉRAUX
+Titre Ier : Principes généraux 
 
 
 Chapitre II : Égalité d'accès à la formation
@@ -22959,7 +22969,7 @@ Chapitre II : Égalité d'accès à la formation
 
 
 
-TITRE II : RÔLE DES RÉGIONS, DE L'ÉTAT ET DES INSTITUTIONS  DE LA FORMATION PROFESSIONNELLE
+Titre II : Rôle des régions, de l'Etat et des institutions de la formation professionnelle 
 
 
 Chapitre Ier : Rôle des régions
@@ -23053,10 +23063,10 @@ Section 4 : Comité paritaire interprofessionnel régional pour l'emploi et la f
 
 
 
-LIVRE II : L'APPRENTISSAGE
+Livre II : L'apprentissage 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
  Chapitre unique
@@ -23084,7 +23094,7 @@ Section 3 : Rôle des instances consultatives
 
 
 
-TITRE II : CONTRAT D'APPRENTISSAGE
+Titre II : Contrat d'apprentissage
 
 
 Chapitre Ier : Définition et régime juridique
@@ -23359,7 +23369,7 @@ Chapitre VII : Dispositions pénales
 
 
 
-TITRE III : CENTRES DE FORMATION D'APPRENTIS  ET SECTIONS D'APPRENTISSAGE
+Titre III : Centres de formation d'apprentis et sections d'apprentissage 
 
 
 Chapitre Ier : Missions des centres de formation d'apprentis
@@ -23503,7 +23513,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE IV : FINANCEMENT DE L'APPRENTISSAGE
+Titre IV : Financement de l'apprentissage 
 
 
 Chapitre Ier : Taxe d'apprentissage
@@ -23600,7 +23610,7 @@ Section 2 : Exonération de charges salariales
 
 
 
-TITRE V : INSPECTION ET CONTRÔLE DE L'APPRENTISSAGE
+Titre V : Inspection et contrôle de l'apprentissage 
 
 
 Chapitre Ier : Inspection de l'apprentissage
@@ -23670,7 +23680,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE VI : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS  DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN
+Titre VI : Dispositions particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin 
 
 
 Chapitre Ier
@@ -23718,10 +23728,10 @@ Section 6 : Inspection de l'apprentissage
 
 
 
-LIVRE III : LA FORMATION PROFESSIONNELLE CONTINUE
+Livre III : La formation professionnelle continue 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre Ier : Objet de la formation professionnelle continue
@@ -23752,7 +23762,7 @@ Chapitre IV : Droit à la qualification professionnelle
 
 
 
-TITRE II : DISPOSITIFS DE FORMATION  PROFESSIONNELLE CONTINUE
+Titre II : Dispositifs de formation professionnelle continue 
 
 
 Chapitre Ier : Formations à l'initiative de l'employeur  et plan de formation
@@ -24021,7 +24031,7 @@ Section 7 : Carte d'étudiant des métiers
 
 
 
-TITRE III : FINANCEMENT DE LA FORMATION PROFESSIONNELLE CONTINUE
+Titre III : Financement de la formation professionnelle continue 
 
 
 Chapitre Ier : Participation des employeurs au développement  de la formation professionnelle continue
@@ -24285,7 +24295,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE IV : STAGIAIRE DE LA FORMATION PROFESSIONNELLE
+Titre IV : Stagiaire de la formation professionnelle 
 
 
 Chapitre Ier : Rémunération du stagiaire
@@ -24383,7 +24393,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE V : ORGANISMES DE FORMATION
+Titre V : Organismes de formation 
 
 
 Chapitre Ier : Déclaration d'activité
@@ -24494,7 +24504,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE VI : CONTRÔLE  DE LA FORMATION PROFESSIONNELLE CONTINUE
+Titre VI : Contrôle de la formation professionnelle continue 
 
 
 Chapitre Ier : Objet du contrôle et fonctionnaires de contrôle
@@ -24519,10 +24529,10 @@ Chapitre III : Constatation des infractions  et dispositions pénales
 
 
 
-LIVRE IV : VALIDATION DES ACQUIS DE L'EXPÉRIENCE
+Livre IV : Validation des acquis de l'expérience 
 
 
-TITRE Ier : OBJET DE LA VALIDATION DES ACQUIS  DE L'EXPÉRIENCE ET RÉGIME JURIDIQUE
+Titre Ier : Objet de la validation des acquis de l'expérience et régime juridique 
 
 
 Chapitre Ier : Objet de la validation  des acquis de l'expérience
@@ -24540,7 +24550,7 @@ Chapitre II : Régime juridique
 
 
 
-TITRE II : MISE EN ŒUVRE DE LA VALIDATION  DES ACQUIS DE L'EXPÉRIENCE
+Titre II : Mise en oeuvre de la validation des acquis de l'expérience 
 
 
 Chapitre Ier : Garanties
@@ -24554,7 +24564,18 @@ Chapitre II : Congé pour validation des acquis de l'expérience
 
 
 Section 1 : Conditions d'ouverture et autorisation d'absence
+
+
+Sous-section 1 : Demande de congé
  (Articles R6422-1 à R6422-7)
+
+
+
+
+Sous-section 2 : Dispositions propres aux salariés titulaires d'un contrat à durée déterminée
+ (Articles R6422-7-1 à R6422-7-2)
+
+
 
 
 
@@ -24573,21 +24594,53 @@ Section 3 : Convention
 
 
 
+Chapitre III : Accompagnement des candidats à la validation des acquis de l'expérience 
 
 
 
 
-LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Section 1 : Dispositions générales 
+ (Article R6423-1)
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+
+Section 2 : Contenu et déroulement 
+ (Articles R6423-2 à R6423-3)
+
+
+
+
+Section 3 : Information des candidats 
+
+ (Article R6423-4)
+
+
+
+
+Section 4 : Suivi statistique des parcours de validation des acquis de l'expérience 
+ (Article R6423-5)
+
+
+
+
+
+
+
+
+
+
+Livre V : Dispositions relatives à l'outre-mer
+
+
+Titre Ier : Dispositions générales 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre II : Apprentissage
@@ -24667,13 +24720,13 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-SEPTIÈME PARTIE : DISPOSITIONS PARTICULIÈRES  À CERTAINES PROFESSIONS ET ACTIVITÉS
+Septième partie : Dispositions particulières à certaines professions et activités 
 
 
-LIVRE Ier :  JOURNALISTES PROFESSIONNELS, PROFESSIONS DU SPECTACLE, DE LA PUBLICITÉ ET DE LA MODE
+Livre Ier : Journalistes professionnels, professions du spectacle, de la publicité et de la mode 
 
 
-TITRE Ier : JOURNALISTES PROFESSIONNELS
+Titre Ier : Journalistes professionnels 
 
 
 Chapitre Ier : Champ d'application et définitions
@@ -24755,7 +24808,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE II : PROFESSIONS DU SPECTACLE,  DE LA PUBLICITÉ ET DE LA MODE
+Titre II : Professions du spectacle, de la publicité et de la mode 
 
 
 Chapitre Ier : Artistes du spectacle
@@ -25093,10 +25146,10 @@ Section 5 : Contrôle
 
 
 
-LIVRE II  : CONCIERGES ET EMPLOYÉS D'IMMEUBLES À USAGE D'HABITATION, EMPLOYÉS DE MAISON ET SERVICES À LA PERSONNE
+Livre II : Concierges et employés d'immeubles à usage d'habitation, employés de maison et services à la personne 
 
 
-TITRE Ier : CONCIERGES ET EMPLOYÉS D'IMMEUBLES  À USAGE D'HABITATION
+Titre Ier : Concierges et employés d'immeubles à usage d'habitation 
 
 
 Chapitre Ier : Dispositions générales
@@ -25212,7 +25265,7 @@ Chapitre VI : Dispositions pénales
 
 
 
-TITRE II : EMPLOYÉS DE MAISON
+Titre II : Employés de maison 
 
 
 Chapitre Ier : Dispositions générales
@@ -25229,7 +25282,7 @@ Chapitre II : Dispositions pénales
 
 
 
-TITRE III : ACTIVITÉS DE SERVICES À LA PERSONNE
+Titre III : Activités de services à la personne
 
 
 Chapitre Ier : Champ d'application
@@ -25294,10 +25347,10 @@ Section 3 : Aide financière en faveur des salariés,  du chef d'entreprise ou d
 
 
 
-LIVRE III :  VOYAGEURS, REPRÉSENTANTS OU PLACIERS, GÉRANTS DE SUCCURSALES ET CONJOINTS SALARIÉS DU CHEF D'ENTREPRISE
+Livre III : Voyageurs, représentants ou placiers, gérants de succursales et conjoints salariés du chef d'entreprise
 
 
-TITRE Ier : VOYAGEURS, REPRÉSENTANTS ET PLACIERS
+Titre Ier : Voyageurs, représentants et placiers 
 
 
 Chapitre Ier : Champ d'application et définitions
@@ -25322,7 +25375,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE II : GÉRANTS DE SUCCURSALES
+Titre II : Gérants de succursales 
 
 
 Chapitre Ier : Dispositions générales
@@ -25342,10 +25395,10 @@ Chapitre II : Gérants non salariés des succursales de commerce  de détail ali
 
 
 
-LIVRE IV : TRAVAILLEURS À DOMICILE
+Livre IV : Travailleurs à domicile 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 
 
 Chapitre Ier : Champ d'application et dispositions d'application
@@ -25387,7 +25440,7 @@ Section 3 : Dispositions pénales
 
 
 
-TITRE II : RÉMUNÉRATION ET CONDITIONS DE TRAVAIL
+Titre II : Rémunération et conditions de travail 
 
 
 Chapitre Ier : Fourniture et livraison des travaux
@@ -25458,17 +25511,17 @@ Chapitre IV : Santé et sécurité au travail
 
 
 
-LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre V : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY,  SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon
 
 
 Chapitre Ier : Dispositions générales
@@ -25490,13 +25543,13 @@ Chapitre II : Journalistes professionnels
 
 
 
-HUITIÈME PARTIE : CONTRÔLE DE L'APPLICATION  DE LA LÉGISLATION DU TRAVAIL
+Huitième partie : Contrôle de l'application de la législation du travail 
 
 
-LIVRE Ier : INSPECTION DU TRAVAIL
+Livre Ier : Inspection du travail 
 
 
-TITRE Ier : COMPÉTENCES ET MOYENS D'INTERVENTION
+Titre Ier : Compétences et moyens d'intervention 
 
 
 Chapitre Ier : Répartition des compétences  entre les différents départements ministériels
@@ -25577,7 +25630,7 @@ Chapitre IV : Dispositions pénales
 
 
 
-TITRE II : SYSTÈME D'INSPECTION DU TRAVAIL
+Titre II : Système d'inspection du travail 
 
 
 Chapitre Ier : Échelon central
@@ -25641,17 +25694,17 @@ Section 2 : Missions spéciales temporaires confiées à des médecins  et ingé
 
 
 
-LIVRE II : LUTTE CONTRE LE TRAVAIL ILLÉGAL
+Livre II : Lutte contre le travail illégal 
 
 
-TITRE Ier : DÉFINITION
+Titre Ier : Définition 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : TRAVAIL DISSIMULÉ
+Titre II : Travail dissimulé 
 
 
 Chapitre Ier : Interdictions
@@ -25714,7 +25767,7 @@ Chapitre IV : Dispositions pénales
 
 
 
-TITRE III : MARCHANDAGE
+Titre III : Marchandage 
 
 
 Chapitre Ier : Interdiction
@@ -25744,7 +25797,7 @@ Chapitre IV : Dispositions pénales
 
 
 
-TITRE IV : PRÊT ILLICITE DE MAIN-D'ŒUVRE
+Titre IV : Prêt illicite de main-d'œuvre 
 
 
 Chapitre Ier : Interdiction
@@ -25769,7 +25822,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
-TITRE V : EMPLOI D'ÉTRANGERS SANS TITRE DE TRAVAIL
+Titre V : Emploi d'étrangers sans titre de travail 
 
 
 Chapitre Ier : Interdictions
@@ -25876,7 +25929,7 @@ Chapitre VI : Dispositions pénales
 
 
 
-TITRE VI : CUMULS IRRÉGULIERS D'EMPLOIS
+Titre VI : Cumuls irréguliers d'emplois 
 
 
 Chapitre Ier : Interdictions et dérogations
@@ -25893,7 +25946,7 @@ Chapitre II : Dispositions pénales
 
 
 
-TITRE VII : CONTRÔLE DU TRAVAIL ILLÉGAL
+Titre VII : Contrôle du travail illégal 
 
 
 Chapitre Ier : Compétence des agents
@@ -25967,17 +26020,17 @@ Chapitre III : Coordination interministérielle  de la lutte contre le travail i
 
 
 
-LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER
+Livre III : Dispositions relatives à l'outre-mer 
 
 
-TITRE Ier : DISPOSITIONS GÉNÉRALES
+Titre Ier : Dispositions générales 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
 
 
 
-TITRE II : DÉPARTEMENTS D'OUTRE-MER, SAINT-BARTHÉLEMY,  SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
+Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon 
 
 
 Chapitre Ier : Dispositions générales
@@ -26012,7 +26065,7 @@ Chapitre III : Lutte contre le travail illégal
 
 
 
-TITRE III : MAYOTTE, WALLIS ET FUTUNA ET TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES
+Titre III : Mayotte, Wallis et Futuna et Terres australes et antarctiques françaises 
 Le présent titre ne comprend pas de dispositions réglementaires.
 
 
