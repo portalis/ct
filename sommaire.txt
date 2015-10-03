@@ -2017,7 +2017,7 @@ Chapitre II : Syndicats représentatifs.
 
 
 Section 1 : Représentativité syndicale au niveau de l'entreprise et de l'établissement
- (Articles L2122-1 à L2122-3)
+ (Articles L2122-1 à L2122-3-1)
 
 
 
@@ -3340,6 +3340,12 @@ Sous-section 5 : Commission de l'égalité professionnelle.
 
 
 
+Sous-section 6 : Commission des marchés
+ (Articles L2325-34-1 à L2325-34-4)
+
+
+
+
 
 
 Section 7 : Recours à un expert
@@ -3396,6 +3402,12 @@ Section 8 : Subvention de fonctionnement.
 
 Section 9 : Formation des membres du comité d'entreprise.
  (Article L2325-44)
+
+
+
+
+Section 10 : Etablissement et contrôle des comptes du comité d'entreprise
+ (Articles L2325-45 à L2325-58)
 
 
 
@@ -3473,7 +3485,7 @@ Paragraphe 4 : Circonstances susceptibles d'affecter le mandat.
 
 
 Sous-section 3 : Fonctionnement.
- (Articles L2327-12 à L2327-14)
+ (Articles L2327-12 à L2327-14-1)
 
 
 
@@ -4142,6 +4154,12 @@ Section 12 : Licenciement du conseiller prud'homme.
 
 
 
+Section 13 : Licenciement d'un assesseur maritime.
+ (Article L2411-23)
+
+
+
+
 
 
 Chapitre II : Protection en cas de rupture d'un contrat de travail à durée déterminée
@@ -4221,6 +4239,12 @@ Section 12 : Représentant des salariés dans une chambre d'agriculture.
 
 Section 13 : Conseiller prud'homme.
  (Article L2412-13)
+
+
+
+
+Section 14 : Assesseur maritime
+ (Article L2412-14)
 
 
 
@@ -4356,6 +4380,12 @@ Chapitre VI : Conseiller du salarié.
 
 Chapitre VII : Conseiller prud'homme.
  (Article L2437-1)
+
+
+
+
+Chapitre VIII : Assesseur maritime
+ (Article L2438-1)
 
 
 
@@ -6371,6 +6401,88 @@ Section 2 : Obligations particulières d'information et de formation.
  (Articles L4154-2 à L4154-4)
 
 
+
+
+
+
+
+
+Titre VI : Dispositions particulières à certains facteurs de risques professionnels et à la pénibilité   
+
+
+Chapitre Ier : Fiche de prévention des expositions
+ (Articles L4161-1 à L4161-2)
+
+
+
+
+Chapitre II : Compte personnel de prévention de la pénibilité
+
+
+Section 1 : Ouverture et abondement du compte personnel de prévention de la pénibilité
+
+
+
+
+
+ (Articles L4162-1 à L4162-3)
+
+
+
+
+Section 2 : Utilisations du compte personnel
+de prévention de la pénibilité
+ (Article L4162-4)
+
+
+Sous-section 1 : Utilisation du compte pour la formation professionnelle
+
+
+ (Article L4162-5)
+
+
+
+
+Sous-section 2 : Utilisation du compte pour le passage à temps partiel
+
+
+ (Articles L4162-6 à L4162-9)
+
+
+
+
+Sous-section 3 : Utilisation du compte pour la retraite
+ (Article L4162-10)
+
+
+
+
+
+
+Section 3 : Gestion des comptes, contrôle et réclamations
+
+
+ (Articles L4162-11 à L4162-16)
+
+
+
+
+Section 4 : Financement
+ (Articles L4162-17 à L4162-21)
+
+
+
+
+Section 5 : Dispositions d'application
+ (Article L4162-22)
+
+
+
+
+
+
+Chapitre III : Accords en faveur de la prévention de la pénibilité
+ (Articles L4163-1 à L4163-4)
 
 
 
@@ -8855,13 +8967,45 @@ Chapitre unique.
 Sixième partie : La formation professionnelle tout au long de la vie 
 
 
-LIVRE Ier : PRINCIPES GÉNÉRAUX ET ORGANISATION INSTITUTIONNELLE DE LA FORMATION PROFESSIONNELLE
+Livre Ier : Principes généraux et organisation institutionnelle de la formation et de l'orientation professionnelles 
 
 
 Titre Ier : Principes généraux 
 
 
-Chapitre Ier : Objectifs et contenu de la formation professionnelle.
+Chapitre Ier : Objectifs et contenu de la formation et de l'orientation professionnelles.
+
+
+Section 1 : La formation professionnelle tout au long de la vie
+ (Articles L6111-1 à L6111-2)
+
+
+
+
+Section 2 : L'orientation professionnelle tout au long de la vie
+ (Articles L6111-3 à L6111-5)
+
+
+
+
+Section 3 : Le conseil en évolution professionnelle
+
+
+
+
+
+ (Article L6111-6)
+
+
+
+
+ Section 4 : Supports d'information
+
+
+
+ (Article L6111-7)
+
+
 
 
 
@@ -8889,7 +9033,18 @@ Titre II : Rôle des régions, de l'Etat et des institutions de la formation pro
 
 
 Chapitre Ier : Rôle des régions.
- (Articles L6121-1 à L6121-3)
+
+
+Section 1 :  Compétences des régions
+ (Articles L6121-1 à L6121-2-1)
+
+
+
+
+Section 2 : Coordination avec les branches professionnelles, le service public de l'emploi et le service public de l'orientation
+ (Articles L6121-3 à L6121-7)
+
+
 
 
 
@@ -9371,8 +9526,8 @@ Chapitre III : Catégories d'actions de formation.
 
 
 
-Chapitre IV : Droit à l'information, à l'orientation et à la qualification professionnelles.
- (Articles L6314-1 à L6314-3)
+Chapitre IV : Droit à la qualification professionnelle.
+ (Articles L6314-1 à L6314-2)
 
 
 
@@ -9562,35 +9717,67 @@ Section 4 : Formations se déroulant en dehors du temps de travail
 
 
 
-Chapitre III : Droit individuel à la formation
+Chapitre III : Compte personnel de formation
 
 
-Section 1 : Conditions d'ouverture.
- (Articles L6323-1 à L6323-3)
-
-
-
-
-Section 2 : Modalités de mise en oeuvre.
- (Articles L6323-5 à L6323-12)
+Section 1 :  Principes communs
+ (Articles L6323-1 à L6323-9)
 
 
 
 
-Section 3 : Rémunération et protection sociale.
- (Articles L6323-13 à L6323-15)
+Section 2 : Mise en œuvre du compte personnel de formation pour les salariés
+
+
+Sous-section 1 : Alimentation et abondement du compte
+ (Articles L6323-10 à L6323-15)
+
+
+
+
+Sous-section 2 : Formations éligibles et mobilisation du compte
+ (Articles L6323-16 à L6323-17)
+
+
+
+
+Sous-section 3 : Rémunération et protection sociale
+ (Articles L6323-18 à L6323-19)
+
+
+
+
+Sous-section 4 : Prise en charge des frais de formation
+ (Article L6323-20)
+
+
+
+
+
+
+Section 3 : Mise en œuvre du compte personnel de formation pour les demandeurs d'emploi
+
+
+Sous-section 1 : Formations éligibles et mobilisation du compte
+ (Articles L6323-21 à L6323-22)
+
+
+
+
+Sous-section 2 : Prise en charge des frais de formation
+ (Article L6323-23)
+
+
 
 
 
 
 Section 4 : Prise en charge des frais de formation.
- (Article L6323-16)
 
 
 
 
 Section 5 : Portabilité du droit individuel à la formation.
- (Articles L6323-17 à L6323-21)
 
 
 
@@ -9684,7 +9871,7 @@ Section 2 : Employeurs de moins de dix salariés
 
 
 Sous-section 1 : Montant et mise en oeuvre de la participation.
- (Articles L6331-2 à L6331-3)
+ (Article L6331-2)
 
 
 
@@ -9710,31 +9897,19 @@ Sous-section 1 : Montant et mise en oeuvre de la participation
 
 
 Paragraphe 1 : Dispositions générales.
- (Articles L6331-9 à L6331-14)
+ (Articles L6331-9 à L6331-12)
 
 
 
 
 Paragraphe 2 : Prise en compte d'un accroissement d'effectif.
- (Articles L6331-15 à L6331-18)
+ (Articles L6331-15 à L6331-17)
 
 
 
 
-Paragraphe 3 : Dépenses libératoires.
- (Articles L6331-19 à L6331-27)
-
-
-
-
-Paragraphe 4 : Versement au Trésor public.
+Paragraphe 3 : Versement au Trésor public.
  (Article L6331-28)
-
-
-
-
-Paragraphe 5 : Report d'excédent.
- (Article L6331-29)
 
 
 
@@ -9742,7 +9917,7 @@ Paragraphe 5 : Report d'excédent.
 
 
 Sous-section 2 : Majoration de la contribution.
- (Articles L6331-30 à L6331-31)
+ (Article L6331-30)
 
 
 
@@ -9859,7 +10034,7 @@ Sous-section 3 : Dispositions d'application.
 
 
 
-Section 3 : Organismes agréés au titre de la professionnalisation et du droit individuel à la formation.
+Section 3 : Organismes collecteurs paritaires agréés pour la prise en charge de la professionnalisation et du compte personnel de formation
  (Articles L6332-14 à L6332-17)
 
 
@@ -9879,8 +10054,16 @@ Section 5 : Information de l'Etat.
 
 
 
-Chapitre III : Dispositions pénales.
-Le présent chapitre ne comprend pas de dispositions législatives 
+Chapitre III : Organismes paritaires agréés pour la prise en charge du congé individuel de formation
+
+
+ (Articles L6333-1 à L6333-8)
+
+
+
+
+Chapitre IV : Dispositions pénales.
+Le présent chapitre ne comprend pas de dispositions législatives
 
 
 
@@ -10251,7 +10434,7 @@ Titre II : Départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Saint-P
 
 
 Chapitre Ier : Dispositions générales.
- (Article L6521-1)
+ (Articles L6521-1 à L6521-2)
 
 
 
@@ -11393,7 +11576,7 @@ Section 1 : Dispositions communes.
 
 
 Section 2 : Travail dissimulé.
- (Articles L8271-7 à L8271-13)
+ (Articles L8271-7 à L8271-12)
 
 
 
@@ -13547,7 +13730,7 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 Chapitre V : Ressources et moyens
- (Articles D2135-1 à D2135-9)
+ (Articles D2135-1 à D2135-34)
 
 
 
@@ -14167,7 +14350,7 @@ Paragraphe 1 : Ressources et dépenses du comité d'entreprise
 
 
 Paragraphe 2 : Ressources et dépenses du comité interentreprises
- (Articles R2323-40 à R2323-41)
+ (Articles R2323-40 à R2323-41-4)
 
 
 
@@ -14302,6 +14485,12 @@ Section 5 : Formation des membres du comité d'entreprise
 
 
 
+Section 6 : Etablissement et contrôle des comptes du comité d'entreprise
+ (Articles D2325-9 à D2325-14)
+
+
+
+
 
 
 Chapitre VI : Délégation unique du personnel
@@ -14314,7 +14503,7 @@ Chapitre VII : Comité central d'entreprise et comités d'établissements
 
 
 Section 1 : Composition et fonctionnement du comité central d'entreprise
- (Articles D2327-1 à R2327-4)
+ (Articles D2327-1 à D2327-4-3)
 
 
 
@@ -16371,7 +16560,6 @@ Section 1 : Document unique d'évaluation des risques
 
 
 Section 2 : Pénibilité
- (Articles D4121-5 à D4121-9)
 
 
 
@@ -16697,11 +16885,113 @@ Titre VI : Dispositions particulières à certains facteurs de risques professio
 
 
 Chapitre Ier : Fiche de prévention des expositions 
+ (Articles D4161-1 à D4161-4)
+
+
+
+
+Chapitre II : Compte personnel de prévention de la pénibilité
+
+
+ Section 1 : Ouverture et abondement du compte personnel de prévention de la pénibilité
+
+ (Articles R4162-1 à R4162-3)
+
+
+
+
+Section 2 : Utilisations du compte personnel de prévention de la pénibilité
+
+
+
+Sous-section 1 : Conditions d'utilisation du compte
+
+ (Articles R4162-4 à R4162-10)
+
+
+
+
+Sous-section 2 : Utilisation du compte pour la formation professionnelle
+
+ (Articles R4162-11 à R4162-17)
+
+
+
+
+Sous-section 3 : Utilisation du compte pour le passage à temps partiel
+
+
+ (Articles D4162-18 à D4162-22)
+
+
+
+
+Sous-section 4 : Utilisation du compte pour la retraite
+
+ (Article R4162-23)
+
+
+
+
+
+
+Section 3 : Gestion des comptes, contrôles et réclamations
+ (Articles D4162-24 à D4162-38)
+
+
+
+
+Section 4 : Fonds chargé du financement des droits liés au compte personnel de prévention de la pénibilité
+
+
+Sous-section 1 : Organisation et fonctionnement du fonds 
+ (Articles D4162-39 à D4162-44)
+
+
+
+
+Sous-section 2 : Gestion administrative, financière et comptable du fonds 
+ (Articles D4162-45 à D4162-50)
+
+
+
+
+Sous-section 3 : Dépenses du fonds 
+
+ (Articles D4162-51 à D4162-53)
+
+
+
+
+Sous-section 4 : Recettes du fonds
+ (Articles D4162-54 à R4162-57)
+
+
+
+
 
 
 
 
 Chapitre III : Accords en faveur de la prévention de la pénibilité 
+
+
+Section 1 : Dispositions générales 
+ (Articles D4163-1 à D4163-3)
+
+
+
+
+Section 2 : Procédure 
+ (Articles R4163-4 à R4163-6)
+
+
+
+
+Section 3 : Pénalité 
+ (Articles R4163-7 à R4163-8)
+
+
 
 
 
@@ -22983,6 +23273,12 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
+Section 1 : Procédure d'habilitation des organismes chargés d'actions d'insertion et de formation professionnelle
+ (Articles R6121-1 à R6121-8)
+
+
+
+
 
 
 Chapitre II : Rôle de l'État
@@ -23959,12 +24255,42 @@ Section 4 : Formations se déroulant en dehors du temps de travail
 
 
 
-Chapitre III : Droit individuel à la formation
- (Articles D6323-1 à D6323-3)
+Chapitre III : Le compte personnel de formation
+
+
+Section 1 : Alimentation du compte
+ (Articles R6323-1 à R6323-3)
+
+
+
+
+Section 2 : Mobilisation du compte
+ (Article R6323-4)
+
+
+
+
+Section 3 : Prise en charge des frais de formation au titre du compte personnel de formation
+ (Articles R6323-5 à R6323-6)
+
+
+
+
+Section 4 : Mobilisation du droit individuel à la formation dans le cadre du compte personnel de formation
+ (Article R6323-7)
+
+
 
 
 Section 5 : Formations éligibles au compte personnel de formation
  (Articles R6323-8 à R6323-11)
+
+
+
+
+Section 6 : Système d'information du compte personnel de formation
+
+ (Articles R6323-12 à R6323-21)
 
 
 
@@ -24062,19 +24388,19 @@ Sous-section 1 : Montant et mise en œuvre de la participation
 
 
 Paragraphe 1 : Dispositions générales
- (Articles R6331-9 à D6331-10)
+ (Article R6331-9)
 
 
 
 
 Paragraphe 2 : Prise en compte d'un accroissement d'effectif
- (Articles R6331-11 à R6331-12)
+ (Article R6331-12)
 
 
 
 
-Paragraphe 3 : Dépenses libératoires
- (Articles R6331-13 à R6331-28)
+Paragraphe 3 : Dépenses éligibles au financement par l'employeur du compte personnel de formation
+ (Articles R6331-13 à R6331-16)
 
 
 
@@ -24152,32 +24478,38 @@ Sous-section 2 : Constitution et fonctionnement des organismes
 Sous-section 3 : Gestion des fonds
 
 
-Paragraphe 1 : Prise en charge des demandes des employeurs
+Paragraphe 1 : Sections financières et répartition des sommes perçues par l'organisme collecteur paritaire
+ (Articles R6332-22-1 à R6332-22-7)
+
+
+
+
+Paragraphe 2 : Prise en charge des demandes des employeurs
  (Articles R6332-23 à R6332-27)
 
 
 
 
-Paragraphe 2 : Disponibilités
+Paragraphe 3 : Disponibilités
  (Articles R6332-28 à R6332-29)
 
 
 
 
-Paragraphe 3 : Transmission de documents
+Paragraphe 4 : Transmission de documents
  (Articles R6332-30 à R6332-34)
 
 
 
 
-Paragraphe 4 : Frais de gestion et d'information et frais relatifs aux missions des organismes collecteurs paritaires agréés au titre du plan de formation, de la professionnalisation et du droit individuel à la formation
- (Articles R6332-36 à R6332-37-1)
+Paragraphe 5 :  Frais de gestion et d'information et frais relatifs aux missions des organismes collecteurs paritaires agréés
+ (Articles R6332-36 à R6332-37-4)
 
 
 
 
-Paragraphe 5 : Contrôle et comptabilité
- (Articles R6332-38 à R6332-44)
+Paragraphe 6 : Contrôle et comptabilité
+ (Articles R6332-38 à R6332-42)
 
 
 
@@ -24186,23 +24518,23 @@ Paragraphe 5 : Contrôle et comptabilité
 
 
 
-Section 2 : Organismes collecteurs paritaires agréés au titre du plan de formation
+Section 2 : Prise en charge par l'organisme collecteur paritaire agréé des formations relevant du plan de formation
 
 
-Paragraphe 1 : Constitution et fonctionnement
- (Articles R6332-46 à R6332-47)
+Paragraphe 1 : Sections financières et répartition des sommes perçues par l'organisme collecteur paritaire
+ (Article R6332-43)
 
 
 
 
-Paragraphe 2 : Gestion et ressources
- (Articles R6332-50 à R6332-54)
+Paragraphe 2 : Gestion des ressources
+ (Article R6332-44)
 
 
 
 
 Paragraphe 3 : Contrôle
- (Articles R6332-55 à R6332-62)
+ (Article R6332-4)
 
 
 
@@ -24225,14 +24557,14 @@ Paragraphe 2 : Habilitation
 
 
 Paragraphe 3 : Contribution et gestion
- (Articles R6332-72 à R6332-77)
+ (Articles R6332-72 à R6332-77-1)
 
 
 
 
 
 
-Section 4 : Organismes agréés au titre de la professionnalisation  et du droit individuel à la formation
+Section 4 : Prise en charge par l'organisme collecteur paritaire agréé des actions de professionnalisation mentionnées aux articles L. 6332-14 à L. 6332-16-1
 
 
 Sous-section 1 : Affectation et gestion des fonds
@@ -24241,7 +24573,7 @@ Sous-section 1 : Affectation et gestion des fonds
 
 
 
-Sous-section 2 : Dépenses de tutorat
+Sous-section 2 : Dépenses de tutorat et de formation pédagogique des maîtres d'apprentissage
  (Articles D6332-90 à D6332-92)
 
 
@@ -24249,19 +24581,30 @@ Sous-section 2 : Dépenses de tutorat
 
 
 
-Section 5 : Organismes agréés au titre du congé individuel de formation
- (Articles D6332-93 à D6332-95)
+Section 5 : Prise en charge par l'organisme collecteur paritaire agréé des formations organisées au titre du compte personnel de formation
+
+
+Paragraphe 1 : Sommes perçues par l'organisme collecteur paritaire agréé
+ (Article R6332-93)
 
 
 
 
-Section 6 : Fonds national de gestion paritaire  de la formation professionnelle continue
- (Articles R6332-96 à R6332-103)
+Paragraphe 2 : Gestion des ressources
+ (Article R6332-94)
 
 
 
 
-Section 7 : Fonds paritaire de sécurisation des parcours professionnels
+Paragraphe 3 : Contrôle
+ (Article R6332-95)
+
+
+
+
+
+
+Section 6 : Fonds paritaire de sécurisation des parcours professionnels
 
 
 Sous-section 1 : Création et agrément du fonds
@@ -24284,7 +24627,7 @@ Sous-section 3 : Gestion du fonds par une association
 
 
 
-Section 8 : Information de l'Etat
+Section 7 : Information de l'Etat
  (Article R6332-114)
 
 
@@ -24292,8 +24635,42 @@ Section 8 : Information de l'Etat
 
 
 
-Chapitre III : Dispositions pénales
-Le présent chapitre ne comprend pas de dispositions réglementaires.
+Chapitre III : Organismes paritaires agréés pour la prise en charge du congé individuel de formation
+
+
+Section 1 : Agrément
+ (Articles R6333-1 à R6333-4)
+
+
+
+
+Section 2 : Constitution et fonctionnement des organismes
+ (Articles R6333-5 à R6333-10)
+
+
+
+
+Section 3 : Disponibilités
+ (Article R6333-11)
+
+
+
+
+Section 4 : Transmission de documents
+ (Article R6333-12)
+
+
+
+
+Section 5 : Frais de gestion et d'information et frais relatifs aux missions des organismes agréés pour la prise en charge du congé individuel de formation
+ (Articles R6333-13 à R6333-14)
+
+
+
+
+Section 6 :  Contrôle
+ (Article R6333-15)
+
 
 
 
@@ -24665,7 +25042,7 @@ Section 1 : Dispositions générales
 
 
 Section 2 : Financement de la formation professionnelle continue
- (Article R6523-2)
+ (Articles R6523-2 à D6523-2-4)
 
 
 
@@ -25671,10 +26048,16 @@ Section 2 : Direction générale du travail
 
 
 
+Section 3 : Groupe national de veille, d'appui et de contrôle
+ (Article R8121-15)
+
+
+
+
 
 
 Chapitre II : Services déconcentrés
- (Articles R8122-1 à R8122-5)
+ (Articles R8122-1 à R8122-11)
 
 
 
@@ -26597,28 +26980,6 @@ Section 7 : Contrôle de l'embauche des marins
 
 
 
-Chapitre III : Personnels des entreprises de manutention des ports
-
-
-Section 2 : Participation des salariés des entreprises de manutention des ports maritimes aux fruits de l'expansion.
- (Articles R743-2 à R743-5)
-
-
-
-
-Section 3 : Amélioration des conditions de travail
-
-
-Paragraphe 1 : Commission paritaire spéciale.
- (Articles R743-6 à R743-12)
-
-
-
-
-
-
-
-
 
 
 
@@ -26697,12 +27058,6 @@ Section 2 : Groupements professionnels, participation, intéressement : comités
  (Articles D742-3 à D742-11)
 
 
-
-
-
-
-Chapitre III : Personnels des entreprises de manutention des ports : congés payés.
- (Articles D743-1 à D743-8)
 
 
 
