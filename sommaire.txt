@@ -12609,7 +12609,7 @@ Section 3 : Durée du travail, repos et congés
 
 
 Section 4 : Salaire
- (Articles R1262-7 à R1262-8)
+ (Articles R1262-7 à R1262-8-1)
 
 
 
@@ -12626,13 +12626,19 @@ Section 6 : Travail temporaire
 
 
 
+Section 8 : Dispositions diverses
+ (Article R1262-19)
+
+
+
+
 
 
 Chapitre III : Contrôle
 
 
 Section 1 : Dispositions communes
- (Articles R1263-1 à R1263-2)
+ (Articles R1263-1 à R1263-2-1)
 
 
 
@@ -12655,10 +12661,22 @@ Section 4 : Surveillance et contrôle du travail détaché
 
 
 
+Section 5 : Obligation de vigilance des maîtres d'ouvrage et des donneurs d'ordre
+ (Article R1263-12)
+
+
+
+
 
 
 Chapitre IV : Dispositions pénales
- (Articles R1264-1 à R1264-3)
+ (Articles R1264-2 à R1264-3)
+
+
+
+
+Chapitre V : Actions en justice
+ (Article D1265-1)
 
 
 
@@ -15995,6 +16013,12 @@ Le présent chapitre ne comprend pas de dispositions réglementaires.
 
 
 
+Chapitre V bis : Obligations et responsabilité financière des maîtres d'ouvrage et des donneurs d'ordre
+ (Articles R3245-1 à R3245-4)
+
+
+
+
 Chapitre VI : Dispositions pénales
  (Articles R3246-1 à R3246-4)
 
@@ -17535,6 +17559,17 @@ Chapitre VIII : Installations sanitaires,  restauration et hébergement
  (Articles R4228-26 à R4228-37)
 
 
+
+
+
+
+
+
+Titre III  : Obligation de vigilance et responsabilité des maîtres d'ouvrage et des donneurs d'ordre en matière d'hébergement
+
+
+Chapitre unique 
+ (Articles R4231-1 à R4231-4)
 
 
 
@@ -26087,6 +26122,32 @@ Chapitre IV : Dispositions pénales
 
 
 
+Chapitre V : Sanctions administratives 
+
+
+
+Section 1 : Dispositions générales 
+
+
+ (Articles R8115-1 à R8115-4)
+
+
+
+
+Section 2 : Dispositions particulières
+
+
+Sous-section 1 : Déclaration préalable de détachement
+
+ (Article R8115-5)
+
+
+
+
+
+
+
+
 
 
 Titre II : Système d'inspection du travail 
@@ -26218,8 +26279,8 @@ Section 3 : Cocontractant établi à l'étranger
 
 
 
-Chapitre III : Droits des salariés
- (Articles D8223-1 à D8223-3)
+Chapitre III : Droits des salariés et actions en justice
+ (Articles D8223-1 à D8223-4)
 
 
 
@@ -26380,8 +26441,7 @@ Section 2 : Méconnaissance de l'obligation
 
 
 Chapitre V : Actions en justice
-Le présent chapitre ne comprend pas de dispositions réglementaires.
-
+ (Article D8255-1)
 
 
 
@@ -26477,6 +26537,26 @@ Sous-section 3 : Exclusion des contrats administratifs
 
 
 Chapitre III : Coordination interministérielle  de la lutte contre le travail illégal
+
+
+
+
+
+
+Titre VIII : Obligation du donneur d'ordre en matière d'application de la législation du travail 
+
+
+
+Chapitre Ier : Obligation de vigilance et responsabilité du donneur d'ordre 
+
+ (Articles R8281-1 à R8281-4)
+
+
+
+
+Chapitre II : Dispositions pénales
+
+ (Article R8282-1)
 
 
 
