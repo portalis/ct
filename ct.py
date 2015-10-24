@@ -130,7 +130,7 @@ def formatArticle(ustrArticle):
 
 
 reTitle = re.compile('(?<=Article ).*(?= En savoir)')
-reTitleSeparator = re.compile(' |\*')
+reTitleSeparator = re.compile(' |\*|\'')
 #reTitle = re.compile(
 #    'Annexe( Tableau)?|[LRD]\*? ?[0-9]+( BIS)?(\-[0-9]+)*( [AB])? ')
 # http://www.legifrance.gouv.fr/affichCode.do;jsessionid=E5D655F41BEB219AB1E1CD5C5038A743.tpdila23v_2?idSectionTA=LEGISCTA000006198573&cidTexte=LEGITEXT000006072050&dateTexte=20150418
