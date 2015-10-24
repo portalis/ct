@@ -1145,7 +1145,7 @@ Chapitre VIII : Dispositions pénales.
 
 
 
-TITRE V : CONTRAT DE TRAVAIL TEMPORAIRE ET AUTRES CONTRATS DE MISE À DISPOSITION
+Titre V : Contrat de travail temporaire, autres contrats de mise à disposition et portage salarial 
 
 
 Chapitre Ier : Contrat de travail conclu avec une entreprise de travail temporaire
@@ -1307,12 +1307,6 @@ Section 6 : Dispositions applicables aux employeurs publics
 
 
 
-Section 7 : Portage salarial.
- (Article L1251-64)
-
-
-
-
 
 
 Chapitre II : Contrat conclu avec une entreprise de travail à temps partagé
@@ -1384,19 +1378,88 @@ Section 3 : Groupement d'employeurs composé d'adhérents de droit privé et de 
 
 
 
-Chapitre IV : Dispositions pénales
+Chapitre IV : Portage salarial
 
 
-Section 1 : Travail temporaire.
- (Articles L1254-1 à L1254-10)
+Section 1 : Définition et champ d'application
+ (Articles L1254-1 à L1254-2)
 
 
 
 
-Section 2 : Groupements d'employeurs.
- (Article L1254-13)
+Section 2 : Conditions et interdictions de recours au portage salarial
+ (Articles L1254-3 à L1254-6)
 
 
+
+
+Section 3 : Contrat de travail
+
+
+Sous-section 1 : Dispositions communes
+ (Articles L1254-7 à L1254-9)
+
+
+
+
+Sous-section 2 : Le contrat de travail à durée déterminée
+ (Article L1254-10)
+
+
+Paragraphe 1 : Fixation du terme et durée du contrat
+ (Articles L1254-11 à L1254-13)
+
+
+
+
+Paragraphe 2 : Forme, contenu et transmission du contrat
+ (Articles L1254-14 à L1254-16)
+
+
+
+
+Paragraphe 3 : Renouvellement du contrat 
+ (Article L1254-17)
+
+
+
+
+Paragraphe 4 : Dispositions finales
+ (Article L1254-18)
+
+
+
+
+
+
+Sous-section 3 : Le contrat de travail à durée indéterminée 
+
+
+ (Articles L1254-19 à L1254-21)
+
+
+
+
+
+
+Section 4 : Le contrat commercial de prestation de portage salarial 
+
+
+ (Articles L1254-22 à L1254-23)
+
+
+
+
+Section 5 : L'entreprise de portage salarial
+ (Articles L1254-24 à L1254-31)
+
+
+
+
+
+
+Chapitre  V : Dispositions pénales
+ (Articles L1255-1 à L1255-13)
 
 
 
@@ -3048,7 +3111,7 @@ Paragraphe 4 : Projets de restructuration et de compression des effectifs.
 
 
 
-Paragraphe 5 : Recours aux contrats de travail à durée déterminée et au travail temporaire.
+Paragraphe 5 : Recours aux contrats de travail à durée déterminée, au travail temporaire et aux contrats conclus avec une entreprise de portage salarial
  (Article L2323-17)
 
 

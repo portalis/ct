@@ -29,8 +29,7 @@ header = {
     'User-Agent':
     'Mozilla/5.0 (Windows NT 5.1; rv:35.0) Gecko/20100101 Firefox/35.0'}
 baseUrl = "http://www.legifrance.gouv.fr/"
-urlCode = "http://www.legifrance.gouv.fr/affichCode.do"+ \
-          "?cidTexte=LEGITEXT000006072050&dateTexte="
+urlCode = "http://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050&dateTexte="
 #handle case when "août" is misspelled
 
 re1Digit = re.compile('^([1-9] )')
@@ -129,8 +128,13 @@ def formatArticle(ustrArticle):
     lines = [line.strip() for line in  ustrArticle.split(u'\n')]
     return u"\n\n".join([textwrap.fill(line) for line in lines if line])
 
-reTitle = re.compile('Annexe( Tableau)?|[LRD]\*? ?[0-9]+( BIS)?(\-[0-9]+)* ')
 
+reTitle = re.compile('(?<=Article ).*(?= En savoir)')
+reTitleSeparator = re.compile(' |\*')
+#reTitle = re.compile(
+#    'Annexe( Tableau)?|[LRD]\*? ?[0-9]+( BIS)?(\-[0-9]+)*( [AB])? ')
+# http://www.legifrance.gouv.fr/affichCode.do;jsessionid=E5D655F41BEB219AB1E1CD5C5038A743.tpdila23v_2?idSectionTA=LEGISCTA000006198573&cidTexte=LEGITEXT000006072050&dateTexte=20150418
+# L2323-26-1 A, L2323-26-1 B
 class Article:
     def __init__(self, parent, div):
         self.parent = parent
@@ -145,14 +149,24 @@ class Article:
             print self.parent
             raise e
 
+
     def getContent(self):
         return unicode(
             self.div.xpath('div[@class="corpsArt"]')[0].text_content())
 
     def write(self, path):
-        with io.open(os.path.join(path, pathify(self.getTitle()) + ".txt"),
-                     'w') as f:
+        # avoid ' ' in file paths, but don't use pathify which transforms
+        # '-' into '_'
+        title = reTitleSeparator.sub('_', unidec(self.getTitle()))
+        fullPath = os.path.join(path, pathify(title) + ".txt")
+        with io.open(fullPath, 'w') as f:
              f.write(formatArticle(self.getContent()))
+        try:
+            os.symlink(fullPath, os.path.join(rootPath, title))
+        except OSError as e:
+            print e.strerror
+            print title
+            os.remove(os.path.join(rootPath, title))
 
     def pickDates(self, dates):
         for anchor in self.div.xpath('div[@class="histoArt"]/descendant::a'):
@@ -176,7 +190,7 @@ class Toc:
                 urllib2.Request(url, None, header)).read())
 
     def getSectionAnchors(self):
-        path = '//div[@id="titreTexte"]/following-sibling::ul[1]/descendant::a'
+        path = '//div[@id="content_left"]/descendant::a'
         return self.tree.xpath(path)
 
     def getSectionPaths(self):
@@ -302,10 +316,13 @@ def writeSections(section, datePicker, rootPath):
 def resumeCode(curDate, datePicker, rootPath):
     toc = Toc(urlCode + curDate.strftime('%Y%m%d'))
     sectionPaths = toc.getSectionPaths()
+    print "total: ", len(sectionPaths), " sections\n"
     iSection = 0
     while (iSection < len(sectionPaths) and
            os.path.isdir(os.path.join(rootPath, sectionPaths[iSection]))):
         iSection = iSection + 1
+        sys.stdout.write('-')
+        sys.stdout.flush()
     print iSection
     if iSection < len(sectionPaths):
         print sectionPaths[iSection]
@@ -353,31 +370,55 @@ def configRepo(repo):
 testSectionUrl = ("http://www.legifrance.gouv.fr/affichCode.do?" +
     "idSectionTA=LEGISCTA000006178279&cidTexte=LEGITEXT000006072050&" +
     "dateTexte=20150629")
+testSectionUrls = [
+    "http://www.legifrance.gouv.fr/affichCode.do?" +
+    "idSectionTA=LEGISCTA000006198573&cidTexte=LEGITEXT000006072050&" +
+    "dateTexte=20150418",
+    "http://www.legifrance.gouv.fr//affichCode.do?" +
+    "idSectionTA=LEGISCTA000024800129&cidTexte=LEGITEXT000006072050&" +
+    "dateTexte=20150418",
+    ]
 class UnitTests(unittest.TestCase):
     def test_Toc(self):
         toc = Toc(urlCode + "20110811")
         self.assertTrue(toc.tree is not None)
-        sectionAnchors = toc.getSectionAnchors()
-        self.assertEqual(1296, len(sectionAnchors))
+        sectionPaths = toc.getSectionPaths()
+        self.assertEqual(2920, len(sectionPaths))
+        
         self.assertEqual(
             'Partie_legislative_/Chapitre_preliminaire_Dialogue_social_/',
-            toc.getSectionPaths()[0])
+            sectionPaths[0])
 #        self.assertTrue(os.path.isdir(os.path.join(rootPath,
 #                                                   toc.getSectionPaths()[0])))
         self.assertEqual(
             'Partie_legislative_/' +
-            'PREMIERE_PARTIE_LES_RELATIONS_INDIVIDUELLES_DE_TRAVAIL/' +
-            'LIVRE_Ier_DISPOSITIONS_PRELIMINAIRES/' +
-            'TITRE_Ier_CHAMP_D_APPLICATION_ET_CALCUL_DES_SEUILS_D_EFFECTIFS/' +
+            'Premiere_partie_Les_relations_individuelles_de_travail/' +
+            'Livre_Ier_Dispositions_preliminaires/' +
+            'Titre_Ier_Champ_d_application_et_calcul_des_seuils_d_effectifs_/' +
             'Chapitre_unique_/',
-            toc.getSectionPaths()[1])
+            sectionPaths[1])
         self.assertEqual(
             'Partie_legislative_/' +
-            'PREMIERE_PARTIE_LES_RELATIONS_INDIVIDUELLES_DE_TRAVAIL/' +
-            'LIVRE_Ier_DISPOSITIONS_PRELIMINAIRES/' +
-            'TITRE_II_DROITS_ET_LIBERTES_DANS_L_ENTREPRISE/' +
+            'Premiere_partie_Les_relations_individuelles_de_travail/' +
+            'Livre_Ier_Dispositions_preliminaires/' +
+            'Titre_II_Droits_et_libertes_dans_l_entreprise/' +
             'Chapitre_unique_/',
-            toc.getSectionPaths()[2])
+            sectionPaths[2])
+        self.assertEqual(
+            'Partie_reglementaire_ancienne_Decrets_simples/' +
+            'Livre_IX_De_la_formation_professionnelle_continue_' +
+            'dans_le_cadre_de_l_education_permanente/' +
+            'Titre_VIII_Des_contrats_et_des_periodes_de_professionnalisation/' +
+            'Chapitre_Ier_Contrats_d_insertion_en_alternance/' +
+            'Section_2_Contrat_d_orientation/',
+            sectionPaths[2919])
+
+        toc = Toc(urlCode + "20150417")
+        sectionPaths = toc.getSectionPaths()
+        self.assertEqual(
+            585, len([path for path in sectionPaths
+                    if u"Partie_reglementaire_/Quatrieme" in path]))
+
 
     def test_reYear(self):
         self.assertEqual(
@@ -385,14 +426,32 @@ class UnitTests(unittest.TestCase):
             ("2008", "20"))
 
     def test_reTitle(self):
-        title = Section(testSectionUrl).getArticles()[0].getTitle()
-        self.assertEqual("L8252-1", title)
-        title = Section(testSectionUrl).getArticles()[1].getTitle()
-        self.assertEqual("L8252-2", title)
-        title = Section(testSectionUrl).getArticles()[2].getTitle()
-        self.assertEqual("L8252-3", title)
-        title = Section(testSectionUrl).getArticles()[3].getTitle()
-        self.assertEqual("L 8252-4", title)
+        articles = Section(testSectionUrl).getArticles()
+        titles = [article.getTitle() for article in articles]
+        self.assertEqual(["L8252-1","L8252-2","L8252-3","L 8252-4"], titles)
+
+        articles = Section(testSectionUrls[0]).getArticles()
+        titles = [article.getTitle() for article in articles]
+        self.assertEqual(
+            ['L2323-21-1',
+             'L2323-22-1',
+             'L2323-23-1',
+             'L2323-26-1 A',
+             'L2323-26-1 B',
+             'L2323-21',
+             'L2323-22',
+             'L2323-23',
+             'L2323-24',
+             'L2323-25',
+             'L2323-26'],
+            titles)
+
+        articles = Section(testSectionUrls[1]).getArticles()
+        titles = [article.getTitle() for article in articles]
+        self.assertEqual(
+            [u"Annexe I à l'article R4312-1",
+             u"Annexe II à l'article R4312-6"],
+            titles)
 
     def test_section(self):
         self.assertTrue(Section(testSectionUrl).tree is not None)
