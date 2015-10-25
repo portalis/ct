@@ -15,3 +15,6 @@ La saisine de l'autorité administrative mentionnée au deuxième alinéa
 suspend le processus électoral jusqu'à la décision administrative et
 entraîne la prorogation des mandats des élus en cours jusqu'à la
 proclamation des résultats du scrutin.
+
+En cas de contestation, le recours à l'encontre de la décision de
+l'autorité administrative relève de la compétence du juge judiciaire.
