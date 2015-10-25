@@ -21108,10 +21108,10 @@ Sous-section 4 : Commissions spécialisées
 
 
 
-Chapitre II : Agence nationale pour l'amélioration  des conditions de travail
+Chapitre II : Agence nationale pour l'amélioration des conditions de travail
 
 
-Section 1 : Missions.
+Section 1 : Missions de l'agence et de son réseau
  (Articles R4642-1 à R4642-3)
 
 
@@ -21121,33 +21121,27 @@ Section 2 : Organisation et fonctionnement.
 
 
 Sous-section 1 : Conseil d'administration.
- (Articles R4642-4 à R4642-17)
+ (Articles R4642-4 à R4642-5)
 
 
 
 
-Sous-section 2 : Directeur de l'Agence.
- (Articles R4642-18 à R4642-19)
+Sous-section 2 : Directeur général et personnels de l'agence
+ (Articles R4642-6 à R4642-7)
 
 
 
 
-Sous-section 3 : Comité scientifique.
- (Articles R4642-20 à R4642-22)
-
-
-
-
-Sous-section 4 : Concours des associations régionales.
- (Articles R4642-23 à R4642-25)
+Sous-section 3 : Conseil scientifique
+ (Article R4642-8)
 
 
 
 
 
 
-Section 3 : Ressources de l'Agence.
- (Articles R4642-26 à R4642-28)
+Section 3 : Régime financier et comptable
+ (Articles R4642-9 à R4642-10)
 
 
 
@@ -22745,7 +22739,7 @@ Chapitre IV : Missions locales pour l'insertion professionnelle  et sociale des 
  (Article D5314-0)
 
 
- Section unique : Conseil national des missions locales.
+Section unique : Conseil national des missions locales
 
 
  Sous-section 1 :  Missions.
