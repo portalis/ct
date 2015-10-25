@@ -1,10 +1,11 @@
 En cas de litige, lors de la conciliation prévue à l'article L.
 1411-1, l'employeur et le salarié peuvent convenir ou le bureau de
-conciliation proposer d'y mettre un terme par accord. Cet accord
-prévoit le versement par l'employeur au salarié d'une indemnité
-forfaitaire dont le montant est déterminé, sans préjudice des
-indemnités légales, conventionnelles ou contractuelles, en référence à
-un barème fixé par décret en fonction de l'ancienneté du salarié.
+conciliation et d'orientation proposer d'y mettre un terme par accord.
+Cet accord prévoit le versement par l'employeur au salarié d'une
+indemnité forfaitaire dont le montant est déterminé, sans préjudice
+des indemnités légales, conventionnelles ou contractuelles, en
+référence à un barème fixé par décret en fonction de l'ancienneté du
+salarié.
 
 Le procès-verbal constatant l'accord vaut renonciation des parties à
 toutes réclamations et indemnités relatives à la rupture du contrat de
@@ -18,5 +19,17 @@ toutes les mesures d'instruction qu'il estime utiles.
 
 Il justifie dans le jugement qu'il prononce le montant des indemnités
 qu'il octroie.
+
+Le juge peut prendre en compte un référentiel indicatif établi, après
+avis du Conseil supérieur de la prud'homie, selon les modalités
+prévues par décret en Conseil d'Etat.
+
+Ce référentiel fixe le montant de l'indemnité susceptible d'être
+allouée, en fonction notamment de l'ancienneté, de l'âge et de la
+situation du demandeur par rapport à l'emploi, sans préjudice des
+indemnités légales, conventionnelles ou contractuelles.
+
+Si les parties en font conjointement la demande, l'indemnité est fixée
+par la seule application de ce référentiel.
 
 Si un doute subsiste, il profite au salarié.
