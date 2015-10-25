@@ -17,3 +17,7 @@ Le numéro d'inscription au répertoire national d'identification des
 personnes physiques est la référence pour la tenue du livret du
 salarié. Il peut figurer sur les relevés de compte individuels et
 l'état récapitulatif.
+
+Lors du départ de l'entreprise, cet état récapitulatif informe le
+bénéficiaire que les frais de tenue de compte-conservation sont pris
+en charge soit par l'entreprise, soit par prélèvements sur les avoirs.

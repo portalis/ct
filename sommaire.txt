@@ -1493,7 +1493,7 @@ Section 2 : Réglementation applicable.
 
 
 Chapitre III : Contrôle.
- (Articles L1263-1 à L1263-2)
+ (Articles L1263-1 à L1263-7)
 
 
 
@@ -1905,8 +1905,8 @@ Chapitre III : Assistance et représentation des parties.
 Chapitre IV : Conciliation et jugement
 
 
-Section 1 : Mise en état de l'affaire.
- (Article L1454-1)
+Section 1 : Conciliation, orientation et mise en état de l'affaire.
+ (Articles L1454-1 à L1454-1-3)
 
 
 
@@ -5050,19 +5050,31 @@ Sous-paragraphe 2 : Equipe de suppléance.
 
 
 
-Paragraphe 3 : Dérogations temporaires au repos dominical
+Paragraphe 3 : Autres dérogations au repos dominical
 
 
 Sous-paragraphe 1 : Dérogations accordées par le préfet.
- (Articles L3132-20 à L3132-25-6)
+ (Articles L3132-20 à L3132-23)
 
 
 
 
-Sous-paragraphe 2 : Dérogations accordées par le maire.
- (Articles L3132-26 à L3132-27)
+Sous-paragraphe 2 : Dérogations sur un fondement géographique
+ (Articles L3132-24 à L3132-25-6)
 
 
+
+
+Sous-paragraphe 3 : Dérogations accordées par le maire.
+ (Articles L3132-26 à L3132-27-1)
+
+
+
+
+
+
+Paragraphe 4 : Concertation locale
+ (Article L3132-27-2)
 
 
 
@@ -5834,7 +5846,7 @@ Chapitre Ier : Champ d'application.
 
 
 Chapitre II : Mise en place de l'intéressement.
- (Articles L3312-1 à L3312-8)
+ (Articles L3312-1 à L3312-9)
 
 
 
@@ -7914,46 +7926,6 @@ Section 2 : Aide personnalisée de retour à l'emploi
 Chapitre IV : Contrats de travail aidés
 
 
-Section 1 : Contrat emploi-jeune
-
-
-Sous-section 1 : Objet.
- (Articles L5134-1 à L5134-2)
-
-
-
-
-Sous-section 2 : Convention.
- (Articles L5134-3 à L5134-8)
-
-
-
-
-Sous-section 3 : Contrat de travail
-
-
-Paragraphe 1 : Dispositions communes.
- (Articles L5134-9 à L5134-13)
-
-
-
-
-Paragraphe 2 : Dispositions particulières au contrat emploi-jeune à durée déterminée.
- (Articles L5134-14 à L5134-18)
-
-
-
-
-
-
-Sous-section 4 : Aide financière.
- (Article L5134-19)
-
-
-
-
-
-
 Section 1-1 : Contrat unique d'insertion.
  (Articles L5134-19-1 à L5134-19-5)
 
@@ -8290,7 +8262,7 @@ Section 3 : Modalités de mise en oeuvre de l'obligation
 
 
 Sous-section 1 : Mise en oeuvre partielle.
- (Articles L5212-6 à L5212-7)
+ (Articles L5212-6 à L5212-7-1)
 
 
 
@@ -8917,12 +8889,6 @@ Chapitre II : Dispositifs en faveur de l'emploi
 
 
 Section 1 : Aides à l'insertion, à l'accès et au retour à l'emploi
-
-
-Sous-section 1 : Contrat emploi-jeune.
- (Article L5522-1)
-
-
 
 
 Sous-section 2 : Contrat unique d'insertion
@@ -11329,8 +11295,8 @@ Section 2 : Contrôleurs du travail.
 Chapitre III : Prérogatives et moyens d'intervention
 
 
-Section 1 : Droit d'entrée dans les établissements.
- (Articles L8113-1 à L8113-2)
+Section 1 : Droit d'entrée dans les établissements et dans les locaux affectés à l'hébergement.
+ (Articles L8113-1 à L8113-2-1)
 
 
 
@@ -11689,6 +11655,18 @@ Titre VIII : Vigilance du donneur d'ordre en matière d'application de la légis
 
 Chapitre unique : Obligation de vigilance et responsabilité du donneur d'ordre.
  (Article L8281-1)
+
+
+
+
+
+
+Titre IX : Déclaration et carte d'identification professionnelle des salariés du bâtiment et des travaux publics  
+
+
+
+Chapitre unique
+ (Articles L8291-1 à L8291-2)
 
 
 

@@ -40,6 +40,15 @@ liquidateur, est homologué dans les conditions fixées aux articles L.
 1233-57-1 à L. 1233-57-3, aux deuxième et troisième alinéas de
 l'article L. 1233-57-4 et à l'article L. 1233-57-7.
 
+Par dérogation au 1° de l'article L. 1233-57-3, sans préjudice de la
+recherche, selon le cas, par l'administrateur, le liquidateur ou
+l'employeur, en cas de redressement ou de liquidation judiciaire, des
+moyens du groupe auquel l'employeur appartient pour l'établissement du
+plan de sauvegarde de l'emploi, l'autorité administrative homologue le
+plan de sauvegarde de l'emploi après s'être assurée du respect par
+celui-ci des articles L. 1233-61 à L. 1233-63 au regard des moyens
+dont dispose l'entreprise.
+
 A titre exceptionnel, au vu des circonstances et des motifs justifiant
 le défaut d'établissement du procès-verbal de carence mentionné à
 l'article L. 2324-8, l'autorité administrative peut prendre une
@@ -53,7 +62,7 @@ de liquidation judiciaire.
 L'employeur, l'administrateur ou le liquidateur ne peut procéder, sous
 peine d'irrégularité, à la rupture des contrats de travail avant la
 notification de la décision favorable de validation ou d'homologation,
-ou l'expiration des délais mentionnés au deuxième alinéa du présent
+ou l'expiration des délais mentionnés au quatrième alinéa du présent
 II.
 
 En cas de décision défavorable de validation ou d'homologation,
@@ -69,6 +78,22 @@ d'une décision ayant procédé à la validation ou à l'homologation, le
 juge octroie au salarié une indemnité à la charge de l'employeur qui
 ne peut être inférieure aux salaires des six derniers mois. L'article
 L. 1235-16 ne s'applique pas.
+
+En cas d'annulation d'une décision de validation mentionnée à
+l'article L. 1233-57-2 ou d'homologation mentionnée à l'article L.
+1233-57-3 en raison d'une insuffisance de motivation, l'autorité
+administrative prend une nouvelle décision suffisamment motivée, dans
+un délai de quinze jours à compter de la notification du jugement à
+l'administration. Cette décision est portée par l'employeur à la
+connaissance des salariés licenciés à la suite de la première décision
+de validation ou d'homologation, par tout moyen permettant de conférer
+une date certaine à cette information.
+
+Dès lors que l'autorité administrative a édicté cette nouvelle
+décision, l'annulation pour le seul motif d'insuffisance de motivation
+de la première décision de l'autorité administrative est sans
+incidence sur la validité du licenciement et ne donne pas lieu au
+versement d'une indemnité à la charge de l'employeur.
 
 III.-En cas de licenciement d'au moins dix salariés dans une
 entreprise d'au moins cinquante salariés prévu par le plan de
