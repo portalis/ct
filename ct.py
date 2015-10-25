@@ -495,7 +495,7 @@ else:
     if args.today:
         curDate = datetime.today()
         print curDate
-        writeCode(curDate, curDate, datePicker, rootPath)
+        writeCode(curDate, str(curDate), datePicker, rootPath)
     else:
         with io.open(os.path.join(rootPath, "dates.txt"), 'r') as f:
             datePicker.read(f)
