@@ -1,8 +1,7 @@
 Pour l'application du présent chapitre, un agent chimique dangereux
 est :
 
-1° Tout agent chimique qui satisfait aux critères de classement
-définis à l'article R. 4411-6 ou par le règlement (CE) n° 1272/2008 ;
+1° Tout agent chimique mentionné à l'article R. 4411-6 ;
 
 2° Tout agent chimique qui, bien que ne satisfaisant pas aux critères
 de classement, en l'état ou au sein d'un mélange, peut présenter un
