@@ -8,7 +8,9 @@ conclues en vertu de l'article L. 5135-4 peuvent prévoir une période
 de mise en situation en milieu professionnel auprès d'un autre
 employeur dans les conditions prévues au chapitre V du présent titre.
 
-La durée de ces contrats ne peut être inférieure à quatre mois.
+La durée de ces contrats ne peut être inférieure à quatre mois, sauf
+pour les personnes ayant fait l'objet d'une condamnation et
+bénéficiant d'un aménagement de peine.
 
 Ces contrats peuvent être renouvelés dans la limite d'une durée totale
 de vingt-quatre mois.
@@ -59,3 +61,9 @@ sans préavis.
 Un décret définit les conditions dans lesquelles la dérogation à la
 durée hebdomadaire de travail minimale prévue au septième alinéa peut
 être accordée.
+
+Par dérogation aux dispositions relatives à la rupture avant terme du
+contrat de travail à durée déterminée prévues à l'article L. 1243-2,
+le contrat peut être rompu avant son terme, à l'initiative du salarié,
+lorsque la rupture a pour objet de lui permettre de suivre une
+formation conduisant à une qualification prévue à l'article L. 6314-1.

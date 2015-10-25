@@ -9,4 +9,8 @@ applicables, compte tenu des situations particulières d'exposition ;
 
 3° Les éventuelles restrictions ou interdictions concernant les
 activités, procédés, dispositifs ou substances dangereux pour les
-travailleurs.
+travailleurs ;
+
+4° Les modalités de suivi médical spécifiques et adaptées pour les
+travailleurs exposés à des rayonnements ionisants, en particulier pour
+les travailleurs mentionnés à l'article L. 4511-1.

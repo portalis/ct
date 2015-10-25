@@ -1,5 +1,7 @@
 Le contrat d'apprentissage peut être rompu par l'une ou l'autre des
-parties durant les deux premiers mois de l'apprentissage.
+parties        jusqu'à l'échéance des quarante-cinq premiers jours,
+consécutifs ou non, de formation pratique en entreprise effectuée par
+l'apprenti.
 
 Passé ce délai, la rupture du contrat, pendant le cycle de formation,
 ne peut intervenir que sur accord écrit signé des deux parties. A
