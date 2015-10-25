@@ -18147,13 +18147,13 @@ Chapitre Ier : Mise sur le marché des substances et mélanges
 
 
  Section 1 : Dispositions générales
- (Articles R4411-1 à R4411-2)
+ (Articles R4411-1 à R4411-1-1)
 
 
 
 
  Section 2 : Définitions et principes de classement
- (Articles R4411-3 à R4411-6)
+ (Article R4411-6)
 
 
 
@@ -18167,20 +18167,8 @@ Section 3 : Information des autorités pour la prévention des risques
  Section 4 : Protection des utilisateurs et acheteurs
 
 
- Sous-section 1 : Étiquetage et emballage
- (Articles R4411-69 à R4411-72)
-
-
-
-
  Sous-section 2 : Fiche de données de sécurité
  (Article R4411-73)
-
-
-
-
- Sous-section 3 : Utilisation de dénominations de remplacement
- (Articles R4411-74 à R4411-82)
 
 
 
@@ -18255,7 +18243,7 @@ Chapitre II : Mesures de prévention des risques chimiques
 
 
  Sous-section 7 : Information et formation des travailleurs
- (Articles R4412-38 à R4412-39)
+ (Articles R4412-38 à R4412-39-1)
 
 
 
@@ -24564,12 +24552,6 @@ Paragraphe 3 : Dépenses éligibles au financement par l'employeur du compte per
  (Articles R6331-13 à R6331-16)
 
 
-
-
-
-
-Sous-section 2 : Déclaration à l'autorité administrative
- (Articles R6331-29 à R6331-35)
 
 
 
