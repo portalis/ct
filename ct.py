@@ -202,7 +202,6 @@ class Section:
             urllib2.urlopen(
                 urllib2.Request(url, None, header)).read())
 
-
     def __string__(self):
         return self.url
 
@@ -275,22 +274,15 @@ def emptyRootPath():
             else:
                 os.remove(os.path.join(rootPath, f))
 
-
-#def writeToc(url):
-#    tocTree = getUrlTree(url)
-#    with io.open(os.path.join(rootPath, "sommaire.txt"), 'w') as f:
-#        f.write(tocTree.xpath('//div[@id="content_left"]')[0].text_content())
-
 def writeToc(tocTree):
     with io.open(os.path.join(rootPath, "sommaire.txt"), 'w') as f:
         f.write(tocTree.xpath('//div[@id="content_left"]')[0].text_content())
 
-def commitCode(curDate, datePicker):
+def commitCode(curDate, message):
     index = repo.index
     index.add(['*'])
     for f in index.diff(None, diff_filter = 'D'):
         index.remove([f.a_blob], workingTree = False)
-    message = datePicker.getCommitMsg(curDate)
     index.commit(message)
     print message
 
@@ -329,22 +321,20 @@ def resumeCode(curDate, datePicker, rootPath):
         writeSections(section, datePicker, rootPath)
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
         datePicker.write(f)
-    commitCode(curDate, datePicker)
+    message = datePicker.getCommitMsg(curDate)
+    commitCode(curDate, message)
 
-def writeCode(curDate, datePicker, rootPath):
+def writeCode(curDate, message, datePicker, rootPath):
     emptyRootPath()
     tocTree = getUrlTree(urlCode + curDate.strftime('%Y%m%d'))
     writeToc(tocTree)
     urlSection = tocTree.xpath(
         '//div[@id="content_left"]/descendant::a')[0].get('href')
     section = Section(baseUrl + urlSection)
-#    threads = []
     writeSections(section, datePicker, rootPath)
-#    for thread in threads:
-#        thread.join()
     with io.open(os.path.join(rootPath, "dates.txt"), 'w') as f:
         datePicker.write(f)
-    commitCode(curDate, datePicker)
+    commitCode(curDate, message)
 
 
 # def getCommitMsg(d):
@@ -382,12 +372,11 @@ class UnitTests(unittest.TestCase):
         self.assertTrue(toc.tree is not None)
         sectionPaths = toc.getSectionPaths()
         self.assertEqual(2920, len(sectionPaths))
-        
+
         self.assertEqual(
             'Partie_legislative_/Chapitre_preliminaire_Dialogue_social_/',
             sectionPaths[0])
-#        self.assertTrue(os.path.isdir(os.path.join(rootPath,
-#                                                   toc.getSectionPaths()[0])))
+
         self.assertEqual(
             'Partie_legislative_/' +
             'Premiere_partie_Les_relations_individuelles_de_travail/' +
@@ -491,6 +480,7 @@ parser.add_argument('path')
 parser.add_argument('times', type = int)
 parser.add_argument('--test', action = 'store_true')
 parser.add_argument('--resume', action = 'store_true')
+parser.add_argument('--today', action = 'store_true')
 args = parser.parse_args()
 rootPath = args.path
 times = args.times
@@ -502,19 +492,26 @@ else:
     repo = git.Repo(rootPath)
     configRepo(repo)
     datePicker = DatePicker()
-    with io.open(os.path.join(rootPath, "dates.txt"), 'r') as f:
-        datePicker.read(f)
-    curDate = datetime.strptime(repo.head.commit.message[:10],
-                            '%Y-%m-%d').date()
-    print curDate
-    if not args.resume:
-        for i in range(times):
+    if args.today:
+        curDate = datetime.today()
+        print curDate
+        writeCode(curDate, curDate, datePicker, rootPath)
+    else:
+        with io.open(os.path.join(rootPath, "dates.txt"), 'r') as f:
+            datePicker.read(f)
+        curDate = datetime.strptime(repo.head.commit.message[:10],
+                                        '%Y-%m-%d').date()
+        if not args.resume:
+            for i in range(times):
+                print curDate
+                curDate = datePicker.getNextDate(curDate)
+                print curDate
+                print datePicker[curDate]
+                message = datePicker.getCommitMsg(curDate)
+                writeCode(curDate, message, datePicker, rootPath)
+        else:
             curDate = datePicker.getNextDate(curDate)
             print curDate
             print datePicker[curDate]
-            writeCode(curDate, datePicker, rootPath)
-    else:
-        curDate = datePicker.getNextDate(curDate)
-        print curDate
-        print datePicker[curDate]
-        resumeCode(curDate, datePicker, rootPath)
+            resumeCode(curDate, datePicker, rootPath)
+
