@@ -15,8 +15,9 @@ communiquer toute information utile. Le cas échéant, ils notifient à
 l'employeur et au salarié les modifications qu'ils souhaitent apporter
 aux éléments ayant conduit à la détermination du nombre de points
 inscrits sur le compte du salarié. Ce redressement ne peut intervenir
-qu'au cours des cinq années civiles suivant la fin de l'année au titre
-de laquelle des points ont été ou auraient dû être inscrits au compte.
+qu'au cours des trois années civiles suivant la fin de l'année au
+titre de laquelle des points ont été ou auraient dû être inscrits au
+compte.
 
 En cas de déclaration inexacte, le montant des cotisations mentionnées
 à l'article L. 4162-20 et le nombre de points sont régularisés.

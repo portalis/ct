@@ -2184,7 +2184,7 @@ Titre IV : Exercice du droit syndical
 
 
 Chapitre Ier : Principes.
- (Articles L2141-1 à L2141-12)
+ (Articles L2141-1 à L2141-13)
 
 
 
@@ -2532,7 +2532,7 @@ Sous-section 3 : Modalités de négociation dans les entreprises dépourvues de 
 
 
 Paragraphe 1 : Conclusion par les représentants élus au comité d'entreprise ou les délégués du personnel
- (Articles L2232-21 à L2232-23)
+ (Articles L2232-21 à L2232-23-1)
 
 
 
@@ -3318,7 +3318,7 @@ Chapitre V : Fonctionnement
 
 
 Section 1 : Dispositions générales.
- (Articles L2325-1 à L2325-5)
+ (Articles L2325-1 à L2325-5-1)
 
 
 
@@ -3345,7 +3345,7 @@ Section 5 : Réunions
 
 
 Sous-section 1 : Périodicité.
- (Article L2325-14)
+ (Articles L2325-14 à L2325-14-1)
 
 
 
@@ -3487,13 +3487,19 @@ Section 1 : Mise en place.
 
 
 Section 2 : Composition et élection.
- (Article L2326-2)
+ (Articles L2326-2 à L2326-2-1)
 
 
 
 
 Section 3 : Attributions et fonctionnement.
- (Article L2326-3)
+ (Articles L2326-3 à L2326-6)
+
+
+
+
+Section 4 : Conditions de suppression
+ (Articles L2326-7 à L2326-9)
 
 
 
@@ -3627,7 +3633,7 @@ Titre IV : Comité d'entreprise européen ou procédure d'information et de cons
 
 
 Chapitre Ier : Champ d'application et mise en place.
- (Articles L2341-1 à L2341-11)
+ (Articles L2341-1 à L2341-12)
 
 
 
@@ -3783,7 +3789,7 @@ Sous-section 3 : Composition.
 
 
 Sous-section 4 : Fonctionnement.
- (Articles L2353-13 à L2353-27)
+ (Articles L2353-13 à L2353-27-1)
 
 
 
@@ -4054,6 +4060,46 @@ Titre VIII : Comité d'hygiène, de sécurité et des conditions de travail
 
 Chapitre unique.
  (Articles L2381-1 à L2381-2)
+
+
+
+
+
+
+Titre IX : Regroupement par accord des institutions représentatives du personnel
+
+
+Chapitre Ier : Mise en place et attributions
+ (Articles L2391-1 à L2391-4)
+
+
+
+
+Chapitre II : Composition et élection
+ (Articles L2392-1 à L2392-3)
+
+
+
+
+Chapitre III : Fonctionnement
+ (Articles L2393-1 à L2393-3)
+
+
+
+
+Chapitre IV : Suppression
+ (Article L2394-1)
+
+
+
+
+
+
+Titre X : Réunions communes des institutions représentatives du personnel 
+
+
+Chapitre unique : Dispositions générales
+ (Articles L23-101-1 à L23-101-2)
 
 
 
@@ -4364,7 +4410,7 @@ Sous-section 4 : Représentant des salariés lors d'une procédure de sauvegarde
 
 
 Section 2 : Procédure applicable au salarié titulaire d'un contrat de travail à durée déterminée.
- (Articles L2421-7 à L2421-8)
+ (Articles L2421-7 à L2421-8-1)
 
 
 
@@ -6485,8 +6531,8 @@ Section 2 : Obligations particulières d'information et de formation.
 Titre VI : Dispositions particulières à certains facteurs de risques professionnels et à la pénibilité   
 
 
-Chapitre Ier : Fiche de prévention des expositions
- (Articles L4161-1 à L4161-2)
+Chapitre Ier : Déclaration des expositions
+ (Articles L4161-1 à L4161-3)
 
 
 
@@ -7331,7 +7377,7 @@ Section 2 : Heures de délégation.
 
 
 Section 3 : Réunions.
- (Articles L4614-7 à L4614-11)
+ (Articles L4614-7 à L4614-11-1)
 
 
 
@@ -7357,7 +7403,7 @@ Le présent chapitre ne comprend pas de dispositions législatives.
 
 
 Chapitre VI : Instance de coordination des comités d'hygiène,  de sécurité et des conditions de travail
- (Articles L4616-1 à L4616-5)
+ (Articles L4616-1 à L4616-6)
 
 
 
@@ -7419,7 +7465,7 @@ Sous-section 2 : Protection.
 
 
 Chapitre IV : Actions et moyens des membres des équipes pluridisciplinaires de santé au travail.
- (Articles L4624-1 à L4624-4)
+ (Articles L4624-1 à L4624-5)
 
 
 
@@ -7458,8 +7504,19 @@ Le présent chapitre ne comprend pas de dispositions législatives
 Titre IV : Institutions et personnes concourant à l'organisation de la prévention 
 
 
-Chapitre Ier : Conseil supérieur et comités régionaux de la prévention des risques professionnels.
-Le présent chapitre ne comprend pas de dispositions législatives.
+Chapitre Ier : Conseil d'orientation des conditions de travail et comités régionaux d'orientation des conditions de travail
+
+
+Section 1 : Conseil d'orientation des conditions de travail
+ (Articles L4641-1 à L4641-3)
+
+
+
+
+Section 2 : Comités régionaux d'orientation des conditions de travail
+ (Article L4641-4)
+
+
 
 
 
@@ -8514,6 +8571,12 @@ Chapitre IV : Missions locales pour l'insertion professionnelle et sociale des j
 
 
 
+Chapitre V : Association nationale pour la formation professionnelle des adultes
+ (Article L5315-1)
+
+
+
+
 
 
 Titre II : Placement 
@@ -8752,7 +8815,18 @@ Section 2 : Entreprises du bâtiment et des travaux publics privées d'emploi pa
 
 
 Section 3 : Professions de la production cinématographique, de l'audiovisuel ou du spectacle.
+
+
+Sous-section 1 : Contributions et allocations
  (Articles L5424-20 à L5424-21)
+
+
+
+
+Sous-section 2 : Règles spécifiques en matière de négociation des accords relatifs à l'assurance chômage
+ (Articles L5424-22 à L5424-23)
+
+
 
 
 
@@ -9050,6 +9124,12 @@ Section 1 : Egalité d'accès entre les femmes et les hommes.
 
 Section 2 : Egalité d'accès des personnes handicapées et assimilées.
  (Article L6112-3)
+
+
+
+
+Section 3 : Egalité d'accès des représentants du personnel et des délégués syndicaux
+ (Article L6112-4)
 
 
 
@@ -9550,7 +9630,7 @@ Chapitre II : Accès à la formation professionnelle continue.
 
 
 Chapitre III : Catégories d'actions de formation.
- (Articles L6313-1 à L6313-14)
+ (Articles L6313-1 à L6313-15)
 
 
 
