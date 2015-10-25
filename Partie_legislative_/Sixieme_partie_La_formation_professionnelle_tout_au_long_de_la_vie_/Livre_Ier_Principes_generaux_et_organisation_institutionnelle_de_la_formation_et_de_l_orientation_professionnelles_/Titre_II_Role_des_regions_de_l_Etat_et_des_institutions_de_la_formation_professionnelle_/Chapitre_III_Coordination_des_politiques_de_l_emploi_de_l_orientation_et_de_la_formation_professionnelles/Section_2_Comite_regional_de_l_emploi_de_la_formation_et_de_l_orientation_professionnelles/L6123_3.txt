@@ -1,7 +1,9 @@
 Le comité régional de l'emploi, de la formation et de l'orientation
 professionnelles a pour mission d'assurer la coordination entre les
 acteurs des politiques d'orientation, de formation professionnelle et
-d'emploi et la cohérence des programmes de formation dans la région.
+d'emploi et la cohérence des programmes de formation dans la région. A
+ce titre, il organise la concertation sur la stratégie prévue à
+l'article L. 6123-4-1 et en assure le suivi.
 
 Il comprend le président du conseil régional, des représentants de la
 région, des représentants de l'Etat dans la région et des
@@ -25,6 +27,12 @@ Il est doté d'un bureau, composé de représentants de l'Etat, de la
 région, de représentants régionaux des organisations syndicales de
 salariés et des organisations professionnelles d'employeurs
 représentatives au niveau national et interprofessionnel.
+
+Il est doté également d'une commission chargée de la concertation
+relative aux politiques de l'emploi sur le territoire, qui assure la
+coordination des acteurs du service public de l'emploi défini à
+l'article L. 5311-1 en fonction de la stratégie prévue à l'article L.
+6123-4-1.
 
 Le bureau est notamment le lieu de la concertation sur la désignation
 des opérateurs régionaux mentionnés à l'article L. 6111-6, sur la
