@@ -155,18 +155,16 @@ class Article:
             self.div.xpath('div[@class="corpsArt"]')[0].text_content())
 
     def write(self, path):
-        # avoid ' ' in file paths, but don't use pathify which transforms
-        # '-' into '_'
-        title = reTitleSeparator.sub('_', unidec(self.getTitle()))
-        fullPath = os.path.join(path, pathify(title) + ".txt")
+        filename = pathify(self.getTitle()) + ".txt"
+        fullPath = os.path.join(path, filename)
         with io.open(fullPath, 'w') as f:
              f.write(formatArticle(self.getContent()))
         try:
-            os.symlink(fullPath, os.path.join(rootPath, title))
+            os.symlink(fullPath, os.path.join(rootPath, filename))
         except OSError as e:
             print e.strerror
-            print title
-            os.remove(os.path.join(rootPath, title))
+            print filename
+            os.remove(os.path.join(rootPath, filename))
 
     def pickDates(self, dates):
         for anchor in self.div.xpath('div[@class="histoArt"]/descendant::a'):
