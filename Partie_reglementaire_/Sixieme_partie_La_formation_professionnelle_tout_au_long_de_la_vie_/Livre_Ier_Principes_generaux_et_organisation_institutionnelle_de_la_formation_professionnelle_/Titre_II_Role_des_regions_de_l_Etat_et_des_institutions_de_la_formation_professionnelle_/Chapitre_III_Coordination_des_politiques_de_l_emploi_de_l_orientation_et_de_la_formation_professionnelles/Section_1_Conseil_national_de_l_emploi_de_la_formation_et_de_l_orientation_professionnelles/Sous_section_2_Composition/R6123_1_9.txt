@@ -1,9 +1,8 @@
 Les représentants des directions des opérateurs du champ de l'emploi,
 de la formation et de l'orientation professionnelles mentionnés au 11°
 de l'article R. 6123-1-8 sont nommés sur proposition de leur
-organisation respective à raison de :
-
-1° Un représentant de Pôle emploi ;
+organisation respective à raison de : 1° Un représentant de Pôle
+emploi ;
 
 2° Un représentant de l'association pour l'emploi des cadres ;
 
@@ -34,11 +33,14 @@ enseignements et des professions ;
 11° Un représentant de la Conférence des présidents d'université ;
 
 12° Un représentant de l'Association nationale des collectivités
-territoriales pour la formation, l'insertion et l'emploi, dénommée “
-Alliance Ville Emploi ” ;
+territoriales pour la formation, l'insertion et l'emploi, dénommée
+"Alliance Ville Emploi" ;
 
 13° Un représentant de l'association du réseau des centres animation
 réseaux d'information (CARIF) et des observatoires régionaux emploi-
 formation (OREF) ;
 
-14° Un représentant de la Fédération de la formation professionnelle.
+14° Un représentant de la Fédération de la formation professionnelle ;
+
+15° Un représentant de l'Association nationale pour la formation
+professionnelle des adultes.
