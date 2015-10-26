@@ -22614,7 +22614,7 @@ Section 6 : Contrôle des autorisations de travail
 
 
 Section 7 : Inscription sur la liste des demandeurs d'emploi
- (Articles R5221-47 à R5221-50)
+ (Articles R5221-47 à R5221-48)
 
 
 
@@ -22921,7 +22921,7 @@ Chapitre Ier : Inscription du demandeur d'emploi  et recherche d'emploi
 
 
  Section 1 : Inscription sur la liste des demandeurs d'emploi.
- (Articles R5411-1 à R5411-5)
+ (Articles R5411-1 à R5411-4)
 
 
 

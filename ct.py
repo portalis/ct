@@ -160,11 +160,11 @@ class Article:
         with io.open(fullPath, 'w') as f:
              f.write(formatArticle(self.getContent()))
         try:
-            os.symlink(fullPath, os.path.join(rootPath, filename))
+            os.symlink(fullPath, os.path.join(ln, filename))
         except OSError as e:
             print e.strerror
             print filename
-            os.remove(os.path.join(rootPath, filename))
+            os.remove(os.path.join(ln, filename))
 
     def pickDates(self, dates):
         for anchor in self.div.xpath('div[@class="histoArt"]/descendant::a'):
@@ -289,6 +289,9 @@ def commitCode(curDate, message):
 
 
 def writeSections(section, datePicker, rootPath):
+    ln = os.path.join(rootPath, 'ln')
+    if not os.path.isdir(ln):
+        os.makedirs(ln)
     while section is not None:
         try:
             section.write(rootPath)
@@ -483,6 +486,7 @@ parser.add_argument('--resume', action = 'store_true')
 parser.add_argument('--today', action = 'store_true')
 args = parser.parse_args()
 rootPath = args.path
+ln = os.path.join(rootPath, 'ln')
 times = args.times
 
 if args.test:
