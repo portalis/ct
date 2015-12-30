@@ -1,1 +1,1 @@
-Le service social du travail dispose d'un bureau au moins.
+Le service social dispose d'un bureau au moins [*nombre minimum*].

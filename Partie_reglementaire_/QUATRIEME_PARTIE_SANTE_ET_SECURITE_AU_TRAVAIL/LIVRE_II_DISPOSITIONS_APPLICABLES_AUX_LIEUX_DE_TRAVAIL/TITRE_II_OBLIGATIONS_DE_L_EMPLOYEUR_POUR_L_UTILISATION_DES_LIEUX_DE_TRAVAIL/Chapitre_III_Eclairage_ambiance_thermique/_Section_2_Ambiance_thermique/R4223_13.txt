@@ -1,3 +1,5 @@
-Les locaux fermés affectés au travail sont chauffés pendant la saison
-froide. Le chauffage fonctionne de manière à maintenir une température
-convenable et à ne donner lieu à aucune émanation délétère.
+Les locaux fermés affectés au travail doivent [*obligation*] être
+chauffés pendant la saison froide.
+
+Le chauffage doit être assuré de telle façon qu'il maintienne une
+température convenable et ne donne lieu à aucune émanation délétère.
